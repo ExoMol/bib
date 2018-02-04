@@ -1,0 +1,3529 @@
+#---------------------------------------------------------------------
+#                database bibliografico per LaTeX2e
+#---------------------------------------------------------------------
+
+#----- MACRO per nomi riviste -----
+
+@string{PRC = {Phys. Rev. C}}
+@string{UCL = {University College London}}
+@string{PRA = {Phys. Rev. A}}
+@string{PRL = {Phys. Rev. Lett.}}
+@string{PR = {Phys. Rev.}}
+@string{NP = {Nucl. Phys.}}
+@string{PL = {Phys. Lett.}}
+#@string{JCM = {J. Chem. Phys.}}
+@string{JCP = {J. Chem. Phys.}}
+@string{JMS = {J. Mol. Spectrosc.}}
+@string{NP = {Nucl. Phys.}}
+@string{MP  = {Mol. Phys.}}
+@string{CPL = {Chem. Phys. Lett.}}
+@string{AA = {Astro. Astrophys.}}
+
+#-----------ARTICOLI--------------
+
+
+
+
+
+
+
+@Article{rc80,
+  author = 	 {R. J. {Le Roy} and J. S. Carley},
+  title = 	 {},
+  journal = 	 {Adv. Chem. Phys.},
+  year = 	 {1980},
+  OPTkey = 	 {},
+  volume = 	 {42},
+  OPTnumber = 	 {},
+  pages = 	 {353},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Article{sl87,
+  author = 	 {C. Schwartz and R. J. {Le Roy}},
+  title = 	 {},
+  journal = 	 JMS,
+  year = 	 {1987},
+  OPTkey = 	 {},
+  volume = 	 {121},
+  OPTnumber = 	 {},
+  pages = 	 {420-439},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+@Article{lukka,
+  author = 	 {T. J. Lukka},
+  title = 	 {A simple method for the derivation of exact quantum-mechanical vibration-rotation Hamiltonians in terms of internal coordinates},
+  journal = 	 JCM,
+  year = 	 {1995},
+  OPTkey = 	 {},
+  volume = 	 {102},
+  OPTnumber = 	 {},
+  pages = 	 {3945},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{wc00,
+  author = 	 {X. Wang and T. {Carrington Jr}},
+  title = 	 {A simple method for deriving kinetic energy operators},
+  journal = 	 JCM,
+  year = 	 {2000},
+  OPTkey = 	 {},
+  volume = 	 {113},
+  OPTnumber = 	 {},
+  pages = 	 {7097},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+
+@Article{vt00,
+  author = 	 {M. Vidler and J. Tennyson},
+  title = 	 {Accurate partition function and thermodynamic data for water},
+  journal = 	 JCM,
+  year = 	 {2000},
+  OPTkey = 	 {},
+  volume = 	 {113},
+  OPTnumber = 	 {},
+  pages = 	 {9766},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{p01,
+  author = 	 {J. Pesonen},
+  title = 	 {Vibration-rotation kinetic energy operators: A geometric algebra approach},
+  journal = 	 JCM,
+  year = 	 {2001},
+  OPTkey = 	 {},
+  volume = 	 {114},
+  OPTnumber = 	 {},
+  pages = 	 {10598},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{gmi01,
+  author = 	 {F. Gatti and C. Mu\~noz nad C. Iung},
+  title = 	 {A general expression of the exact kinetic energy operator in polyspherical coordinates},
+  journal = 	 JCM,
+  year = 	 {2001},
+  OPTkey = 	 {},
+  volume = 	 {114},
+  OPTnumber = 	 {},
+  pages = 	 {8275},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{jr95,
+  author = 	 {R. Jacquet and R. R\"ohse},
+  title = 	 {Rovibrational energy levels and transitions for H$_3^+$ computed from a new highly accurate potential energy surface},
+  journal = 	 {Molec. Phys.},
+  year = 	 {1995},
+  OPTkey = 	 {},
+  volume = 	 {84},
+  OPTnumber = 	 {},
+  pages = 	 {291},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{bw78,
+  author = 	 {R.D. Bardo and M. Wolfsberg},
+  title = 	 {The adiabatic correction for nonlinear triatomic molecules: Tecniques and calcultions},
+  journal = 	 JCM,
+  year = 	 {1978},
+  OPTkey = 	 {},
+  volume = 	 {68},
+  OPTnumber = 	 {},
+  pages = 	 {2686},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{t82,
+  author = 	 {J. Tennyson},
+  title = 	 {Why calculate the spectra of small molecules?},
+  journal = 	 {J. Chem. Soc. Faraday Trans.},
+  year = 	 {1992},
+  OPTkey = 	 {},
+  volume = 	 {88},
+  OPTnumber = 	 {},
+  pages = 	 {3271},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{p78,
+  author = 	 {P. Pyykk\"o},
+  title = 	 {},
+  journal = 	 {Adv. Quantum Chem.},
+  year = 	 {1978},
+  OPTkey = 	 {},
+  volume = 	 {11},
+  OPTnumber = 	 {},
+  pages = 	 {353},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+@Article{wh89,
+  author = 	 {N. C. Wong and J. L. Hall},
+  title = 	 {},
+  journal = 	 {J. Opt. Soc. Am. B},
+  year = 	 {1989},
+  OPTkey = 	 {},
+  volume = 	 {6},
+  OPTnumber = 	 {},
+  pages = 	 {2300},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{ko98,
+  author = 	 {B. Kalmar and J. J. {O'Brien}},
+  title = 	 {},
+  journal = 	 JMS,
+  year = 	 {1998},
+  OPTkey = 	 {},
+  volume = 	 {192},
+  OPTnumber = 	 {},
+  pages = 	 {386},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{xpw98,
+  author = 	 { J. Xie and B.A. Paldus and E. H. Wahl and J. Martin and T. G. Owano and C. H. Kruger and J. S. Harris and R. W. Zare},
+  title = 	 {},
+  journal = 	 CPL,
+  year = 	 {1998},
+  OPTkey = 	 {},
+  volume = 	 {284},
+  OPTnumber = 	 {},
+  pages = 	 {387},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{g70,
+  author = 	 {I.P. Grant.},
+  title = 	 {Relativistic calculations of atomic structures},
+  journal = 	 {Advan. Phys.},
+  year = 	 {1970},
+  OPTkey = 	 {},
+  volume = 	 {19},
+  OPTnumber = 	 {},
+  pages = 	 {747},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{gq88,
+  author = 	 {I.P. Grant and H. Quiney},
+  title = 	 {Foundations of the relativistic theory of atomic and molecular structure},
+  journal = 	 {Adv. At. Mol. Phys},
+  year = 	 {1988},
+  OPTkey = 	 {},
+  volume = 	 {23},
+  OPTnumber = 	 {},
+  pages = 	 {37},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{f51,
+  author = 	 {W.H. Furry},
+  title = 	 {On bound states and scattering in positron theory},
+  journal = 	 PR,
+  year = 	 {1951},
+  OPTkey = 	 {},
+  volume = 	 {81},
+  OPTnumber = 	 {},
+  pages = 	 {115},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{n89,
+  author = 	 {G. A.Natanson},
+  title = 	 {The Eckart-frame hamiltonian of a triatomic molecule in terms of the bond lenghts and the intrabond angle},
+  journal = 	 {Molecular Physics},
+  year = 	 {1989},
+  OPTkey = 	 {},
+  volume = 	 {66},
+  OPTnumber = 	 {},
+  pages = 	 {129},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{ct95,
+  author = 	 {G.C. Corey and J.W. Tromp},
+  title = 	 {Variational discrete variable representation},
+  journal = 	 JCM,
+  year = 	 {1995},
+  OPTkey = 	 {},
+  volume = 	 {103},
+  OPTnumber = 	 {},
+  pages = 	 {1812},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{kpr01,
+  author = 	 {G. S. Kedziora and J.A. Pople and M.A. Ratner and P.C. redfern and L.A. Curtiss},
+  title = 	 {Scalar relativistic effects on energies of molecules containing atoms from hydrogen through argon},
+  journal = 	 JCM,
+  year = 	 {2001},
+  OPTkey = 	 {},
+  volume = 	 {115},
+  OPTnumber = 	 {},
+  pages = 	 {718},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+@Article{fs01,
+  author = 	 {K. {Faegri Jr.} and T.Saue},
+  title = 	 {Diatomic molecules between very heavy elements of group 13 and group 17: A study of relativistic effects on bonding},
+  journal = 	 JCM,
+  year = 	 {2001},
+  OPTkey = 	 {},
+  volume = 	 {115},
+  OPTnumber = 	 {},
+  pages = 	 {2456},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{b01,
+  author = 	 {M. Barysz},
+  title = 	 {Systematic treatment of relativistic effects accurate through arbitrarily high order in $\alpha^2$},
+  journal = 	 JCM,
+  year = 	 {2001},
+  OPTkey = 	 {},
+  volume = 	 {114},
+  OPTnumber = 	 {},
+  pages = 	 {9315},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{vek01,
+  author = 	 {L. Visscher and E. Eliav and U. Kaldor},
+  title = 	 {Formulation and implementation of the relativistic Fock-space coupled cluster method for molecules},
+  journal = 	 JCM,
+  year = 	 {2001},
+  OPTkey = 	 {},
+  volume = 	 {115},
+  OPTnumber = 	 {},
+  pages = 	 {9720},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{breit1,
+  author = 	 {G. Breit},
+  title = 	 {},
+  journal = 	 {Phys. Rev.},
+  year = 	 {1929},
+  OPTkey = 	 {},
+  volume = 	 {34},
+  OPTnumber = 	 {},
+  pages = 	 {553},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{breit3,
+  author = 	 {G. Breit},
+  title = 	 {},
+  journal = 	 {Phys. Rev.},
+  year = 	 {1932},
+  OPTkey = 	 {},
+  volume = 	 {39},
+  OPTnumber = 	 {},
+  pages = 	 {616},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+
+@Article{breit2,
+  author = 	 {G. Breit},
+  title = 	 {},
+  journal = 	 {Phys. Rev.},
+  year = 	 {1930},
+  OPTkey = 	 {},
+  volume = 	 {36},
+  OPTnumber = 	 {},
+  pages = 	 {383},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+@Article{gaunt,
+  author = 	 {J. A. Gaunt},
+  title = 	 {},
+  journal = 	 {},
+  year = 	 {1928},
+  OPTkey = 	 {},
+  volume = 	 {122},
+  OPTnumber = 	 {},
+  pages = 	 {513},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{pjt2, 
+author = { O. L. Polyansky and P. Jensen and J. Tennyson},
+journal = JCM, 
+volume ={105}, 
+year = {1996}, 
+pages = {6490}}
+
+@Article{PS, 
+author = { H. Partridge and D. W. Schwenke},
+journal = JCM, 
+volume = {106}, 
+year = {1997}, 
+pages = {4618}}
+
+@Article{CM, 
+author = { A. G. Cs\'asz\'ar and  I. M. Mills},
+journal =  {Spectrochimica Acta}, 
+volume = {53A}, 
+year = {1997}, 
+pages = {1101}}
+
+@Article{anat, 
+author = { G. Tarczay and A. G. Cs\'asz\'ar and  W. Klopper and H. M. Quiney},
+journal =  {Mole. Phys.}, 
+volume = {99}, 
+year = {2001}, 
+pages = {1769}}
+
+@Article{dboc, 
+title = {The diagonal correction to the {Born-Oppenheimer} approximation: Its effect on the singlet-triplet splitting of {CH$_2$} and other molecular effects},
+author = { N. C. Handy and  Y. Yamaguchi and H. F. {Schaefer III}},
+journal = JCP,
+volume = {84}, 
+year = {1986}, 
+pages = {4481}}
+
+@Article{s96, 
+author = { D. W. Schwenke}, 
+title = { Variational calculations of rovibrational energy levels and transition intensities for tetratomic molecules },
+journal={J. Phys. Chem. }, 
+volume = {100}, 
+year = {1996}, 
+pages = {2867-2884},
+note = {erratum  100, 18884-18884 (1996).} }
+
+@Article{s01, 
+author = { D. W. Schwenke}, 
+journal={J. Phys. Chem. A}, 
+volume = {105}, 
+year = {2001}, 
+pages = {2352-2360}}
+
+
+@Article{kft84,
+  author = 	 {J. Katriel and D. Feller and E.R. Davidson},
+  title = 	 {},
+  journal = 	 {Int. J. Quantum Chem.},
+  year = 	 {1984},
+  OPTkey = 	 {},
+  volume = 	 {26},
+  OPTnumber = 	 {},
+  pages = 	 {489},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Article{pd81,
+  author = 	 {P. Phillips and E. R. Davidson},
+  title = 	 {},
+  journal = 	 CPL,
+  year = 	 {1981},
+  OPTkey = 	 {},
+  volume = 	 {78},
+  OPTnumber = 	 {},
+  pages = 	 {230},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Article{psb81,
+  author = 	 {P. Pyykk\"o and J.G. Snijders and E.J. Baerends},
+  title = 	 {},
+  journal = 	 CPL,
+  year = 	 {1981},
+  OPTkey = 	 {},
+  volume = 	 {83},
+  OPTnumber = 	 {},
+  pages = 	 {432},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Article{dfp80,
+  author = 	 {E.R. Davidson and D. Feller and P. Phillips},
+  title = 	 {},
+  journal = 	 CPL,
+  year = 	 1980,
+  OPTkey = 	 {},
+  volume = 	 {76},
+  OPTnumber = 	 {},
+  pages = 	 {416},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Article{zsb81,
+  author = 	 {T. Ziegler and J.G. Snijders and E.J. Baerends},
+  title = 	 {},
+  journal = 	 JCP,
+  year = 	 {1981},
+  OPTkey = 	 {},
+  volume = 	 {74},
+  OPTnumber = 	 {},
+  pages = 	 {1271},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Article{dim81,
+  author = 	 {E.R. Davidson and Y. Ishikawa and G.L. Malli},
+  title = 	 {},
+  journal = 	 CPL,
+  year = 	 {1981},
+  OPTkey = 	 {},
+  volume = 	 {84},
+  OPTnumber = 	 {},
+  pages = 	 {226},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Article{m83,
+  author = 	 {R.L. Martin},
+  title = 	 {},
+  journal = 	 JCP,
+  year = 	 {1983},
+  OPTkey = 	 {},
+  volume = 	 {78},
+  OPTnumber = 	 {},
+  pages = 	 {5840},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Article{z83,
+  author = 	 {C.E. Zaspel },
+  title = 	 {},
+  journal = 	 JCP,
+  year = 	 {1983},
+  OPTkey = 	 {},
+  volume = 	 {78},
+  OPTnumber = 	 {},
+  pages = 	 {5842},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Article{h79,
+  author = 	 {R.E. Horward and A.D. McLean and W.A. {Lester Jr.}},
+  title = 	 {},
+  journal = 	 JCP,
+  year = 	 {1979},
+  OPTkey = 	 {},
+  volume = 	 {71},
+  OPTnumber = 	 {},
+  pages = 	 {2412},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Article{ont79,
+  author = 	 {S. Okakaki and K. Nakanishi and H. Touhara and Y. Adachi},
+  title = 	 {},
+  journal = 	 JCP,
+  year = 	 {1979},
+  OPTkey = 	 {},
+  volume = 	 {71},
+  OPTnumber = 	 {},
+  pages = 	 {2421},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{s35,
+  author = 	 {B. Swirles},
+  title = 	 {The relativistic self-consistent field},
+  journal = 	 {Proc. R. Soc. (London) A},
+  year = 	 {1935},
+  OPTkey = 	 {},
+  volume = 	 {A152},
+  OPTnumber = 	 {},
+  pages = 	 {625},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+
+@Article{d28,
+  author = 	 {P.A.M. Dirac},
+  title = 	 {The quantum theory of the electron},
+  journal = 	 {Proc. R. Soc. (London) A},
+  year = 	 {1928},
+  OPTkey = 	 {},
+  volume = 	 {A117},
+  OPTnumber = 	 {},
+  pages = 	 {610},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{Py88, 
+author = { P. Pyykk\"o}, 
+journal = {Chem. Rev.},
+ volume = {88}, 
+year = {1988}, 
+pages = {563},
+note={and the electronic bibliography {\it http://www.csc.fi/lul/rtam}}}
+
+@Article{Orwell, 
+author = { H. M. Quiney and  H. Skaane and  I. P. Grant},
+title = {{\it Ab initio} relativistic quantum chemistry: four-components good, tewo-components bad !} ,
+journal = {Adv. Quant. Chem.},
+volume = {32}, 
+year = {1999}, 
+pages = {1}}
+
+@Article{attila1, 
+author = { A. G. Cs\'{a}sz\'{a}r and  J. S. Kain and  O. L. Polyansky and  N. F. Zobov and  J. Tennyson},
+journal =  CPL,
+ volume = {293}, 
+year = {1998},
+ pages = {317}}
+
+@Article{attila2, 
+author = { A. G. Cs\'{a}sz\'{a}r and  J. S. Kain and  O. L. Polyansky and  N. F. Zobov and  J. Tennyson},
+journal =  CPL,
+volume = {312}, 
+year = {1999}, 
+pages = {613}}
+
+@Article{h2s, 
+author = { G. Tarczay and A. G. Cs\'{a}sz\'{a}r and  O. L. Polyansky and  J. Tennyson},
+journal =  JCM,
+volume = {115}, 
+year = {2001}, 
+pages = {1229}}
+
+@Article{pra, 
+author = { P. Pyykk\"o and  K. Dyall and  A. G.  Cs\'asz\'ar and  G. Tarczay and  O. L. Polyansky and  J. Tennyson},
+journal ={ Phys. Rev. A},
+ volume = {63}, 
+year = {2001}, 
+pages = {024502}}
+
+@Article{cas, 
+author = { A. G.  Cs\'asz\'ar and  W. D. Allen and  H. F. {Schaefer III}},
+journal = JCM,
+ volume = {108},
+ year = {1998},
+ pages = {9751}}
+
+@Article{h2obarr, 
+author = { G. Tarczay and  A. G. Cs\'asz\'ar and  W. Klopper and  V. Szalay and  W. D. Allen and  H. F.  {Schaefer III}}, 
+journal = JCM, 
+volume = {110}, 
+year = {1999}, 
+pages = {11971}}
+
+@Article{rellm, 
+author = { G. Tarczay and  A. G.  Cs\'asz\'ar and  W. Klopper and  H. M. Quiney},
+journal=MP,
+year={2001},
+pages = {1769},
+note={and references therein}}
+
+
+@Article{Quiney, 
+author = { H. M. Quiney and  H. Skaane and I. P. Grant}, 
+journal=CPL ,
+volume = {290}, 
+year = {1998}, 
+pages = {473}}
+
+@Article{dun, 
+author = { T. H. {Dunning Jr.}}, 
+journal={J. Chem. Phys.}, 
+volume = {90}, 
+year = {1989}, 
+pages = {1007}}
+
+@Article{ccsdt, 
+author = { K. Raghavachari and  G. W. Trucks and  J. A. Pople and  M. Head-Gordon},
+journal=CPL,
+volume = {157}, 
+year = {1989},
+pages = {479}}
+ 
+
+
+@Misc{MOLFDIRA,
+  OPTkey = 	 {},
+  author = 	 {P.J.C. Aerts and O. Visser and L. Visscher and H. Merenga and W.A. {de Jong} and W.C. Newport},
+  title = 	 {MOLFDIR},
+  OPThowpublished = {},
+  OPTmonth = 	 {},
+  OPTyear = 	 {},
+  note = 	 {University of Groningen, The Netherlands},
+  OPTannote = 	 {}
+}
+
+@Article{MOLFDIRB, 
+author = { L. Visscher and  O. Visser and  P. J. C. Aerts and  H. Merenga, W.~C.~Nieuwpoort}, 
+journal={Comp. Phys. Commun.}, 
+volume = {81},
+year = {1994},
+pages = {120}}
+
+@Article{BERTHA2, 
+author = { I.~P. Grant and  H.~M. Quiney}, 
+journal={Int. J. Quantum Chem.},
+volume = {80},
+year = {2000},
+pages = {283}}
+
+
+@Article{dvr3d, 
+author = { J. Tennyson and  J. R. Henderson and  N. G. Fulton},
+journal= {Comp. Phys. Commun. },
+volume = {86},
+ year = {1995},
+ pages = {175}}
+
+@Article {PJT1, 
+author = {O. L. Polyansky and  P. Jensen and  J. Tennyson},
+journal = JCM,
+volume = {101},
+year = {1994}, 
+pages = {7651}}
+
+@Article{levels, 
+author = { J. Tennyson and  N. F. Zobov and  R. Williams and  O. L. Polyansky  and P. F. Bernath}, 
+journal={J. Phys. Chem. Ref. Data},
+volume={30},
+year={2001},
+page={1}
+}
+
+#--------- SOPHIE'S articles -------------------------------------------
+@Booklet{test,
+  title = 	 {The Hitran Molecular database},
+  OPTkey = 	 {},
+  author = 	 {L. S. Rothman AND R. R. Gamache AND R. H. Tipping AND C. P. Rinsland AND M. A. H. Smith AND D. C. Benner AND V. Malathy Devi AND J. -M. Flaud AND C. Camy-Peyret AND A. Perrin AND A. Goldman AND S. T. Massie AND L. R. Brown AND R. A. Toth},
+  OPThowpublished = {},
+  OPTaddress = 	 {},
+  OPTmonth = 	 {},
+  OPTyear = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+%\bibitem{rrg+98} L. S. Rothman, C. P. Rinsland, A. Goldman, S. T. Massie, D. Edwards, J. -M. Flaud, A. Perrin, C. Camy-Peyret, V Dana, J. -Y. Mandin, J. Schroeder, A McCann, R. R. Gamache, R. Wattson, K. Yoshino, K. Chance, K. Jucks, L. Brown, V. Nemtchinov, P. Varanasi, J. Quant. Spec. Radiative Transf. {\bf 60} (1998) 665.
+
+
+
+@Article{bcp+87,
+author = {R. J. Bartlett and S. J. Cole and G. D. Purvis and W. C. Ermler and H. C. Hsieh and I Shavitt},
+journal = JCM,
+volume = {87},  
+year = {1987}, 
+pages = {6579}}
+
+@Article{ahm+94,
+
+author = { F. Allard and P. H. Hauschildt and S. Miller and J. Tennyson},
+journal = { The Astrophys. J. },
+ volume = {39},
+ year = {1994},
+ pages = {426}}
+
+@Article{ad60,
+
+author = { A. M. Arthurs and A. Dalgarno },
+journal = { Proc. R. Socs. London Ser. A },
+volume = {256},  
+year = {1960},
+pages = {540}}
+
+
+@Article{b00,
+author = { R. Baer},
+journal = { Chem. Phys. Letts. },
+volume = {324}, 
+year = {2000}, 
+pages = {101}}
+
+
+@Article{bsp79,
+
+author = { R. J. Bartlett and I. Shavitt and G. D. Purvis},
+journal = JCM,
+volume = {71},    
+year = {1979},   
+pages = {281}}  
+
+@Article{bgp56,
+
+author = { W. S. Benedict and N. Gailar and E. K. Plyler},
+journal = JCM,
+volume = {24},  
+year = {1956}, 
+pages = {1139}}
+
+@Article{b96,
+
+author = { P. F. Bernath},
+journal = { Chem. Soc. Rev. },
+volume = {25},  
+title = { Infrared Fourier transform emission spectroscopy },
+year = {1996}, 
+pages = {111-115}}
+
+@Article{b02,
+
+author = { P. F. Bernath},
+journal = { Phys. Chem. Chem. Phys. },
+volume = {4},  
+title = { The spectroscopy of water vapour: Experiment, theory and applications }, 
+year = {2002}, 
+pages = {1501-1509}}
+
+
+@Article{bg91,
+
+author = { J. M. Bowman and B. Gazdy},
+journal = JCM,
+volume = {94},  
+year = {1991}, 
+pages = {816}}
+
+@Article{bg92,
+
+author = { J. M. Bowman and B. Gazdy},
+journal = { Chem. Phys. Letts. },
+volume = {200},  
+year = {1992}, 
+pages = {311}}
+
+@Article{bjj+75,
+
+author = { J. M. Brown and J. T. Hougen and K-P. Huber and J. W. C. Johns and I. Kopp and H. Lebfrebvre-Brion and A Merer and D. Ramsay and J. Rostos and R. Zare},
+journal = JMS,
+volume = {55},   
+year = {1975},  
+pages = {500}} 
+
+@Article{bkb98,
+
+author = { M. E. Brown and C. D. Koresko and G. A. Blake},
+journal = { Astrophys. J. Letts. },
+volume = {508},
+year = {1998},
+pages = {L175}}
+
+@Article{bt85,
+
+author = { F. B. Brown and D. G. Truhlar},
+journal = { Chem. Phys. Letts },
+volume = {117},  
+year = {1985}, 
+pages = {307}}
+
+@Article{bhb74,
+
+author = { M. G. Bucknell and N. C. Handy and S. F. Boys},
+journal = { Molec. Phys. },
+volume = {28},   
+year = {1974},  
+pages = {759}} 
+
+@Article{b83,
+
+author = { P. R. Bunker},
+journal = { Ann. Rev. Phys. Chem. },
+volume = {34},  
+year = {1983}, 
+pages = {59}}
+
+@Article{bc94,
+author = { M. J. Bramley and T.  {Carrington Jr.}},
+title = {    CALCULATION OF TRIATOMIC VIBRATIONAL EIGENSTATES - PRODUCT OR CONTRACTED BASIS-SETS, LANCZOS OR CONVENTIONAL EIGENSOLVERS - WHAT IS THE MOST EFFICIENT COMBINATION},
+journal = JCM,
+volume = {101},
+year = {1994}, 
+pages = {8494-8507}}
+
+@Article{bm80,
+
+author = { P. R. Bunker and R. E. Moss},
+journal = JMS,
+volume = {80},  
+year = {1980}, 
+pages = {217}}
+
+@Article{cfm+85,
+
+author = { C. Camy-Peyret and J. M. Flaud and J. Y. Mandin and J. P. Chevillard and J. Brault and D. A. Ramsay and M. Vervloet and J. Chauville},
+title = {THE HIGH-RESOLUTION SPECTRUM OF WATER-VAPOR BETWEEN 16500 AND 25250 CM$^{-1}$ },      
+journal = JMS,
+volume = {113},  
+year = {1985}, 
+pages = {208-228}}
+
+@Article{cjv99,
+author = { M. Carleer and A. Jenouvreier and A. -C. Vandeele and P. F. Bernath and M. F. M$\acute{e}$ienne and R. Colin and N. F. Zobov and O. L. Polyansky and J. Tennyson},
+journal = JCM,
+volume = {111},  
+year = {1999}, 
+pages = {2444}}
+
+@Article{csk78,
+
+author = { G. D. Carney and L. L. Sprandel and C. W. Kern},
+journal = { Adv. Chem. Phys. },
+volume = {37},  
+year = {1978}, 
+pages = {305}}
+
+@Article{ch86,
+
+author = { S. Carter and N. C. Handy},
+journal = { Comput. Phys. Rep },
+volume = {5},  
+year = {1986}, 
+pages = {115}}
+
+@Article{ch87,
+
+author = { S. Carter and N. C. Handy},
+journal = JCM,
+volume = {87},  
+
+year = {1987}, 
+
+pages = {4294}}
+
+@Article{cga+94,
+
+author = { J. Cernicharo and E. Gonzalez-Alfonso and J. Alcolea and R. Bachiller},
+journal = { D. John ApJ },
+volume = {432}, 
+year = {1994},
+pages ={L59}}
+
+@Article{crt+69,
+
+author = { A. Cheung and D. M. Rank and C. H. Townes and D. D. Thornton and W. J. Welch},
+journal = { Nature },
+volume = {221},  
+year = {1969}, 
+pages = {626}}
+
+@Article{ch94,
+
+author = { M. S. Child and L. Halonen},
+journal = { Adv. Chem. Phys. },
+volume = {57},  
+year = {1994}, 
+pages = {1}}
+
+@Article{cl821,
+author = { M. S. Child and R. T. Lawton},
+journal = { Faraday Disc. Chem. Soc. },
+volume = {71},
+year={1981},
+pages = {273}}
+
+@Article{cl822,
+author = { M. S. Child and R. T. Lawton},
+journal = CPL,
+year={1982},
+volume = {87}, 
+pages = {217}} 
+
+@Article{cl92,
+
+author = { S. E. Choi and J. C. Light},
+journal = JCM,
+volume = {97},  
+year = {1992}, 
+pages = {7031}}
+
+
+@Article{c97,
+
+author = { L. H. Coudert},
+journal = JMS,
+volume = {181},  
+year = {1997}, 
+pages = {246}}
+
+@Article{cg76,
+
+author = { R. D. Cowan and D. C. Griffin},
+journal = { J. Opt. Soc. Am. },
+volume = {66},  
+year = {1976},
+pages = {1010}}
+
+@Article{dc68,
+
+author = { A. S. Dickinson and P. R. Certain},
+title = {Calculation of Matrix Elements for One-Dimensional Quantum-Mechanical Problems},
+journal = JCM,
+volume = {49},  
+year = {1968}, 
+pages = {4204}}
+
+@Article{dlt95,
+
+author = { B. M. Dinelli and C. R. Le Sueur and J. Tennyson and R. D. Amos},
+journal = {Chem. Phys. Letts },
+volume = {232},  
+year = {1995}, 
+pages = {295}}
+
+@Article{e35,
+author = { C. Eckart},
+title = {Some Studies Concerning Rotating Axes and Polyatomic Molecule},
+journal = {  Phys. Rev.},
+volume = {47},  
+year = {1935}, 
+pages = {552}}
+
+
+@Article{ewh+98,
+author = {M. P. Esplin and R. B. Wattson and M. L. Hoke and L. S. Rothman},
+journal = { J. Quant. Spectro. Radiative. Transf. },
+volume = {60},  
+year = {1998}, 
+pages = {711}}
+
+@Article{fcb+97,
+
+author = { J. M. Flaud and C. Camy-Peyret and A. Bykov and O. Naumenko and T. Petrova and A. Scherbakov and L. Sinitsa},
+journal = JMS,
+volume = {183},  
+year = {1997}, 
+pages = {300}}
+
+@Article{fcb+97a,
+
+author = { J. M. Flaud and C. Camy-Peyret and A. Bykov and O. Naumenko and T. Petrova and A. Scherbakov and L. Sinitsa},
+journal = JMS,
+volume = {185},
+year= {1997},
+pages= {211}}
+
+@Article{fcm76,
+
+author = { J. -M. Flaud and C. Camy-Peyret and J. P. Maillard},
+journal = { Molec. Phys. },
+volume = {32},  
+year = {1976}, 
+pages = {499}}
+
+
+@Article{grr+93,
+
+author = { W. Gabriel and E. A. Reinsch and P. Rosmus and S. Carter and N. C. Handy},
+journal = JCM,
+volume = {99},  
+year = {1993}, 
+pages = {897}}
+
+@Article{g97,
+
+author = { C. Galus and L'eau est soluble dans le Soleil and Le Monde and July 24},
+journal = { year },
+volume = {1997}, 
+pages = {}}1
+
+@Article{gr92,
+
+author = { R. R. Gamache and L. S. Rothman},
+journal = { J. Quant. Spec. Radiative. Transfr. },
+volume = {48},  
+year = {1992}, 
+pages = {519}}
+
+@Article{gm73,
+
+author = { J. S. Garing and R. A. McClatchey},
+journal = { Appl. Opt. },
+volume = {12},  
+year = {1973}, 
+pages = {2525}}
+
+@Article{gb91,
+
+author = { B. Gazdy and J. M. Bowman},
+journal = JCM,
+volume = {95},  
+year = {1991}, 
+pages = {6309}}
+
+@Article{gmw96,
+
+author = { P. D. Gensheimer and R. Mauersberger and T. L. Wilson},
+journal = { A\&a },
+&volume = {314},  
+year = {1996}, 
+pages = {281}}
+
+@Article{gwj+931,
+author = { W. H. Green and A. Willetts and D. Jayatilaka and N. C. Handy},
+journal = CPL, 
+year={1990},
+volume = {169},
+pages = {127}}
+
+@Article{gwj+932,
+author = { W. Gabrieel and E. Reinsch and P. Rosmus and S. Carter and N. Handy},
+journal = JCM, 
+year={1993},
+volume = {99},
+pages = {897}}
+
+@Article{h98,
+
+author = { L. Halonen},
+journal = { Adv. Chem. Phys. },
+volume = {104},  
+year = {1998}, 
+pages = {41}}
+
+@Article{hc88,
+
+author = { L. Halonen and T. {Carrington Jr.}},
+journal = JCM,
+volume = {88},   
+year = {1988},  
+pages = {4171}} 
+
+@Article{hl96,
+title = {The adiabatic approximation},
+author = { N. C. Handy and A. M. Lee},
+journal = { Chem. Phys. Letts. },
+volume = {252},  
+year = {1996}, 
+pages = {425}}
+
+@Article{heg65,
+
+author = { D. O. Harris and G. G. Engerholm and W. Gwinn},
+journal = JCM,
+volume = {43},  
+year = {1965}, 
+pages = {1515}}
+
+r_{1},
+r_{2}, \theta
+
+@Article{hlt93,
+
+author = { J. R. Henderson and C. R. Le Sueur and J. Tennyson},
+journal = { Comp. Phys. Comm. },
+volume = {75},  
+year = {1993}, 
+pages = {379}}
+
+@Article{hmt90,
+
+author = { J. R. Henderson and S. Miller and J. Tennyson},
+journal = { J. Chem. Soc. Faraday Trans. },
+volume = {86},  
+year = {1990}, 
+pages = {1963}}
+
+@Article{hkd78,
+
+author = { P. Hennig and W. P. Kramer and G. H. F. Diercksen and G. Strey },
+journal = {Theoret. Chim. Acta },
+volume = {47},  
+year = {1978}, 
+pages = {233}}
+
+
+@Article{htk98,
+author = { K. Higgins and F.M. Tao and W. Klemperer},
+journal = JCM,
+volume = {109},  
+year = {1998}, 
+pages = {3048}}
+
+@Article{hb79a,
+
+author = { K. Hinkle and T. G. Barnes},
+journal = { ApJ },
+volume = {227},  
+year = {1979}, 
+pages = {923}}
+
+@Article{hhr+96,
+
+author = { T. S. Ho and T. Hollebeck. H. Rabitz and L. B. Harding and G. Schatz},
+journal = JCM,
+volume = {105},  
+year = {1996}, 
+pages = {10472}}
+
+@Article{hb74,
+
+author = { A. R. Hoy and P. R. Bunker},
+journal = JMS,
+volume = {105},  
+year = {1996}, 
+pages = {10472}}
+
+@Article{hb74b,
+author = { A. R. Hoy and P. R. Bunker},
+volume = {52},  
+year = {1983}, 
+pages = {439}}
+
+@Article{hb79,
+
+author = { A. R. Hoy and P. R. Bunker},
+journal = JMS,
+volume = {74},  
+year = {1979}, 
+pages = {1}}
+
+@Article{hms72,
+
+author = { A. R. Hoy and I. M. Mills and G. Strey},
+journal = { Molec. Phys. },
+volume = {24},  
+year = {1972}, 
+pages = {1265}}
+
+@Article{hc00,
+author = { S. W. Huang and T. {Carrington Jr.}},
+journal = JCM,
+title = {   A new iterative method for calculating energy levels and wave functions},
+volume = {112},
+pages = {  8765-8771},
+year = {2000} 
+}
+
+@Book{gr80,
+author = {I. S. Gradshteyn and I. H. Ryzhik},
+title = {Tables of Integrals, Series and Products},
+publisher = {Academic, New York},
+year = {1980}}
+
+@Article{hel+96,
+
+author = { J. M. Hutson and A. Ernesti and M. M. Law and C. F. Roche and R. J. Wheatley},
+journal = JCM,
+volume = {105},  
+year = {1996}, 
+pages = {9130}}
+
+@Article{j96,
+
+author = { G. Jansen},
+journal = JCM,
+volume = {105},   
+year = {1996},  
+pages = {89}} 
+
+@Article{j97,
+
+author = { F. Jensen},
+journal = { Chem. Phys. Letts. },
+volume = {261},  
+year = {1995}, 
+pages = {1155}}
+
+@Article{j88,
+
+author = { P. Jensen},
+journal = JMS,
+volume = {128},  
+year = {1989}, 
+pages = {478}}
+
+
+@Article{j89,
+
+author = { P. Jensen},
+journal = JMS,
+volume = {133},  
+year = {1989}, 
+pages = {438}}
+
+@Article{jtt94,
+  author =       { P. Jensen AND S. A. Tashkun AND V. G. Tyuterev },
+  title =        {A REFINED POTENTIAL-ENERGY SURFACE FOR THE ELECTRONIC GROUND-STATE OF THE  WATER MOLECULE},
+  journal =      JMS,
+  year =         {1994},
+  OPTkey =       {},
+  volume =    {168},
+  OPTnumber =    {2},
+  pages =     {271-289},
+  OPTmonth =     {Nov 9 },
+  OPTnote =      {},
+  OPTannote =    {}}
+
+@Article{jr86,
+
+author = { B. R. Johnson and W. P. Reinhardt},
+journal = JCM,
+volume = {85},  
+year = {1986}, 
+pages = {4538}}
+
+@Article{jj931,
+author = { U. G. J$\o$rgensen and P. Jensen},
+journal = JMS,
+volume = {161},
+year = {1993},
+pages = {219}} 
+
+@Article{jj932,
+author = { P. Jensen},
+journal = JMS,
+volume = {133},
+year = {1989},
+pages = {438}} 
+
+@Article{ks97,
+
+author = { G. S. Kedziora and I. Shavitt},
+journal = JCM,
+volume = {109},  
+year = {1997}, 
+pages = {5547}}
+
+
+
+@Misc{ccr12,
+  OPTkey = 	 {},
+  author = 	 {J. Noga and W. Klopper},
+  title = 	 {DIRCCR 12-95},
+  OPThowpublished = {},
+  OPTmonth = 	 {},
+  OPTyear = 	 {},
+  note = 	 {an integral-direct explicitly correlated coupled cluster program},
+  OPTannote = 	 {}
+}
+
+@Article{k97,
+
+author = { W. D. Klopper},
+journal = { J. Comput. Chem. },
+volume = {18},
+year = {1997}, 
+pages = {20}}
+
+@Article{khw+94,
+
+author = { H. G. Kjaergaard and B. R. Henry and H. Wei and S. Lefebvre and T. Carrington and O. S. Mortensen and M. L. Sage},
+journal = JCM,
+volume = {100},  
+year = {1994}, 
+pages = {6228}}
+
+
+@Article{ksh82,
+
+author = { P. J. Knowles and G. J. Sexton and N. C. Handy},
+journal = { Chem. Phys. Letts. },
+volume = {79},  
+year = {1979}, 
+pages = {202}}
+
+@Article{krs82,
+
+author = { W. P. Kraemer and B. O. Roos},
+journal = { P. E. M. Siegbahn. Chem. Phys. },
+volume = {69},  
+year = {1982}, 
+pages = {305}}
+
+@Article{kek74,
+
+author = { B. Krohn and W. Ermler and C. W. Kern},
+journal = JCM,
+volume = {60},  
+year = {1974}, 
+pages = {22}}
+
+
+@Article{lcc99,
+
+author = { R. Lanquetin and L. H. Coudert and C. Camy-Peyret},
+journal = JMS,
+volume = {195},  
+year = {1999}, 
+pages = {54}}
+
+@Article{lbw+94,
+author = { R. J. Le. Roy and C. Bissonette and T. H. Wu and A. K Dham and W. J. Meath}, 
+journal= {Faraday Disc.},
+volume = {97},   
+year = {1994},  
+pages = {81}} 
+
+@Article{lhl85,
+
+author = { J. C. Light and I. P. Hamilton and J. V. Lill},
+title = {Generalised Discrete Variable Approximation in Quantum-Mechanics},
+journal = JCM,
+volume = {82},  
+year = {1985}, 
+pages = {1400}}
+
+@Inproceedings{lwp+89,
+author = { J. C. Light and R. M. Whitnell and  T. J. Pack and S. E. Choi},
+booktitle = {Supercomputer Algorithms for Reactivity, Dynamics
+and Kinetics of Small Molecules},
+editor = { A. {Lagan\`{a}}},
+series = {NATO ASI series C},
+volume = {277},
+year = {1989},
+publisher = {Kluwer, Dordrecht},
+pages = {187}}
+
+@Article{m33,
+author = { J. K. L. MacDonald},
+title = {Successive Approximations by the {Rayleigh-Ritz} Variation Method},
+journal = { Phys. Rev. },
+volume = {43},  
+year = {1933}, 
+pages = {830}}
+
+@Article{mcc+86,
+author = { J. Y. Mandin and J. P. Chevillard and C. Camy-Peyret and J. M. Flaud},
+journal= JMS,
+volume = {116},  
+year = {1986}, 
+pages = {167}}
+
+@Article{mfg91,
+author = { J. M. L. Martin and J. P. Fran\c{c}ois and R. Gijbels},
+journal = JCM,
+volume = {95},  
+year = {1991}, 
+pages = {8374}}
+
+@Article{ms90,
+
+author = { A. B. McCoy and E. {Silbert III}},
+journal = JCM,
+volume = {92},  
+year = {1990}, 
+pages = {1893}}
+
+
+@Article{mh99,
+
+author = { M. Meuwly and J. M. Hutson},
+journal = JCM,
+volume = {110},  
+year = {1999}, 
+pages = {8338}}
+
+
+@Article{m83b,
+author = { P. M. Morse},
+journal = { Phys. Rev. },
+volume = {34},  
+year = {1983}, 
+pages = {57}}
+
+@Article{mwl+86,
+
+author = { M. J. Mumma and H. A. Weaver and H. P. Larson and D. S. Davis and M. Williams},
+journal = { Science },
+volume = {232},  
+year = {1986}, 
+pages = {1523}}
+
+@Article{p74,
+
+author = { R. T. Pack},
+journal = JCM,
+volume = {60},  
+year = {1974}, 
+pages = {633}}
+
+@Article{pah+911,
+author = { J. C. Pearson and T. Anderson and E. Herbst and F. C. Delucia and P. Helminger},
+journal = { Astrophys. J.},
+volume = {379},  
+year = {1991}, 
+pages = {L41}}
+
+@Article{pah+912,
+author = { T. Amano and F. Scappini},
+journal = CPL,
+volume = {182},  
+year = {1991}, 
+pages = {93}}
+
+@Article{pb93,
+
+author = { S. A. Perera and R. J. Bartlett},
+journal = { Chem. Phys. Letts. },
+volume = {216}, 
+year = {1993}, 
+pages = {606}}
+
+@Article{p85,
+
+author = { O. L. Polyansky},
+journal = JMS,
+volume = {112},  
+year = {1985}, 
+pages = {79}}
+
+@Article{pbg+96,
+author = { O. L. Polyansky and J. R. Busler and B. Guo and K. Q. Zhang and P. F. Bernath},
+journal = { J. Molec Spec.  },
+volume = {176},  
+year = {1996}, 
+pages = {305}}
+
+
+@Article{lg01,
+author = {G H Li and H Guo}, 
+journal = { J. Molec Spec.  },
+volume = {210},  
+year = {2001}, 
+pages = {90-97}}
+
+@Article{pjt96,
+
+author = { O. L. Polyansky and P. Jensen and J. Tennyson},
+journal = { J. Molec. Spec },
+volume = {178},  
+year = {1996}, 
+pages = {184}}
+
+@Article{pt92,
+
+author = { O. L. Polyansky and J. Tennyson},
+journal = JMS,
+volume = {154},  
+year = {1992}, 
+pages = {246}}
+
+@Article{ptb97,
+
+author = { O. L. Polyansky and J. Tennyson and P. F. Bernath},
+journal = JMS,
+volume = {186},  
+year = {1997},
+pages = {213}}
+
+@Article{ptz99,
+
+author = { O. L. Polyansky and J. Tennyson and N. F. Zobov.},
+journal = {Spectro. Acta. },
+volume={55A},
+year = {1999}, 
+pages = {659}}
+
+@Article{pzt+97a,
+
+author = { O. L. Polyansky and N. F. Zobov and J. Tennyson and J. A. Lotoski and P. Bernath} ,
+journal = JMS,
+year = {1997},
+volume={184}, 
+pages = {35}}
+
+@Article{pzv+98,
+
+author = { O. L. Polyansky and N. F. Zobov and S. Viti and J. Tennyson},
+journal = JMS,
+volume = {189},  
+year = {1998}, 
+pages = {291}}
+
+@Article{zps+00,
+
+author = { N. F. Zobov and O. L. Polyansky and V. A. Savin and S. V. Shirin},
+journal = {Atmos. Oceanic Optics},
+volume = {13},  
+year = {2000}, 
+pages = {1024--1028}}
+
+
+@Article{cl01,
+  author = 	 {A.G. Cs\'asz\'ar  and M. L. Leininger},
+  title = 	 {Scaled higher-order correlation energies: In pursuit of the complete basis set full configuration interaction},
+  journal = 	 JCM,
+  year = 	 {2001},
+  OPTkey = 	 {},
+  volume = 	 {114},
+  OPTnumber = 	 {},
+  pages = 	 {5491},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{pzv+97b,
+
+author = { O. L. Polyansky and N. F. Zobov and S. Viti and J. Tennyson and P. F. Bernath and L. Wallace},
+journal = { ApJ },
+volume = {489},
+year = {1997}, 
+pages = {L205}}
+
+@Article{qsg98,
+
+author = { H. M. Quiney and H. Skanne and I. P. Grant},
+journal = { Chem. Phys. Letts },
+volume = {290},   
+year = {1998},  
+pages = {473}} 
+
+@Article{r1868,
+
+author = { R. Radau},
+journal = { Ann. Sci. Ecole Normale Superior },
+volume = {5},  
+year = {1868}, 
+pages = {311}}
+
+@Article{rv97,
+
+author = { V. Ramanathan and A. M. Vogelmann},
+journal = { Ambio },
+volume = {26},  
+year = {1997}, 
+pages = {38}}
+
+
+@Article{r08,
+author = { W. Ritz},
+title = {{\"U}ber eine neue Methode zur Lösung gewisser Variations probleme der mathematischen Physik},
+journal={ Reine Angew Math.},
+volume = {135},  
+year = {1908}, 
+pages = {1}}
+
+@Article{res76,
+
+author = { B. J. Rosenberg and W. C. Ermler and I. Shavitt},
+journal = JCM,
+volume = {65},  
+year = {1976}, 
+pages = {4072}}
+
+@Article{hitran,
+author = { L. S. Rothman and C. P. Rinsland and A. Goldman and S. T. Massie and D. Edwards and J. M. Flaud and A. Perrin and C. Camy-Peyret and V Dana and J. Y. Mandin and J. Schroeder and A McCann and R. R. Gamache and R. Wattson and K. Yoshino and K. Chance and K. Jucks and L. Brown and V. Nemtchinov and P. Varanasi},
+journal = { J. Quant. Spec. Radiative Transf. },
+volume = {60}, 
+year = {1998}, 
+pages = {665}}
+
+@Manual{hit2k,
+author = {L. S. Rothman},
+title = {HITRAN 2000, \url{www.hitran.com}}}
+
+@Manual{ESA-WVR,
+author = {R. Schermaul and N. F. Zobov and R. C. M. Learner and D. A. Newnham and J. Ballard and J. Tennyson},
+title = {ESA-WVR, \url{http://badc.nerc.ac.uk/data/esa-wv/}}}
+
+@Manual{GREMLN,
+author = {J. W. Brault},
+title = {Program GREMLN (unpublished)}}
+
+@Manual{roman,
+author = {R. N. Tolchenov},
+title = {Program GOBLIN (to be published)}}
+
+@Article{spc99,
+author = { P. Sarkar and N. Poulin and T. {Carrington Jr.}},
+title =  { Calculating rovibrational energy levels of a triatomic molecule with a simple Lanczos method},
+journal = JCM,
+volume = {110},  
+year = {1999}, 
+pages = {10269-10274}}
+
+@Article{spj+97,
+
+author = { J. H. Schryber and O. L. Polyansky and P. Jensen and J. Tennyson},
+journal = {  },
+volume = {185},  
+year = {1997}, 
+pages = {234}}
+
+@Article{stw+96,
+author = { W. A. Schutte and A. G. G. M. Tielens and D. C. B. Whittet and A. Boogert and P. de Graauw Ehrenfreund and T. Prusti and E. F. Van Dishoek and P. Wesselins},
+journal={ A\&A},
+volume = {315}, 
+year = {1996},
+pages = {L333}}
+
+@Article{s92,
+
+author = { D. W. Schwenke},
+journal = { Chem. Phys. Letts.},
+volume = {189},  
+year = {1992}, 
+pages = {91}}
+
+@Article{s98,
+
+author = { D. W. Schwenke},
+journal = JMS,
+volume = {190},  
+year = {1998}, 
+pages = {397}}
+
+@Article{sp00,
+
+author = { D. W. Schwenke and H. Partridge},
+journal = JCM,
+volume = {113},  
+year = {2000}, 
+pages = {16}}
+
+@Article{sh84,
+
+author = { G. J. Sexton and N. C. Handy},
+journal = { Molec. Phys. },
+volume = {51},   
+year = {1984},  
+pages = {1321}} 
+
+@Article{t91,
+author = { R. A. Toth},
+journal={ J. Opt. Soc. Am.},
+volume = {8},  
+year = {1991}, 
+pages = {2236-2255}}
+
+@Article{t98,
+author = { R. A. Toth}, 
+journal=JMS,
+volume = {190},  
+year = {1998}, 
+pages = {379-396}}
+
+@Article{t99,
+
+author = { R. A. Toth},
+journal = JMS,
+volume = {194},   
+year = {1999},  
+pages = {28-42}} 
+
+@Article{t94a,
+
+author = { R. A. Toth},
+journal = { Applied Optics },
+volume = {33},  
+year = {1994}, 
+pages = {4851-4867}}
+
+@Article{t94b,
+
+author = { R. A. Toth},
+journal = JMS,
+volume = {166},  
+year = {1994}, 
+pages = {176-183}}
+
+
+@Article{vca+00,
+author = { E. F. Valeev and A. G. Cs$\acute{a}$sz$\acute{a}$r and W. C. Allen and H. F. {Schaefer III} },
+journal=JCM,
+volume = {114}, 
+year={2001},
+pages = {2875}}
+
+@Article{dwc+98,
+
+author = { E. F. Van Dishoek and C. Wright},
+journal={ Astrophys. J. Letts. },
+volume = {2001}, 
+pages = {2875}}
+
+@Article{dwc+98b,
+author = { E. F. Van Dishoek and C. Wright},
+volume = {503},
+year = {1998}, 
+pages = {L173}}
+
+@Article{v29,
+author = { J. H. Van Vleck},
+journal = { Phys. Rev. },
+volume = {33},  
+year = {1929}, 
+pages = {467}}
+
+@Article{v96,
+
+author = { A. J. C. Varandas},
+djournal = JCM,
+dvolume = {105},  
+year = {1996}, 
+pages = {9}}
+
+@Article{vd96,
+
+author = { L. Visscher and K. G. Dyall},
+journal = JCM,
+volume = {104}, 
+year = {1996},
+pages = {9040}}
+
+
+@Article{vpz+98,
+
+author = { S. Viti and O. L. Polyansky and J. Tennyson},
+journal = { Astron. Soc. of the Pacific Conference Series },
+volume = {154},  
+year = {1998}, 
+pages = {718}}
+
+@Article{vtp97,
+
+author = { S. Viti and J. Tennyson and O. L. Polyansky},
+journal = { Royal Astron. Soc. },
+volume = {287},  
+year = {1997}, 
+pages = {79}}
+
+@Article{wbl+95,
+
+author = { L. Wallace and P. F. Bernath and W. Livingston and K. Hinkle and J. R. Busler and B. Guo and K. Q. Zhang},
+journal = { Science },
+volume = {268},  
+year = {1995}, 
+pages = {1155}}
+
+@Article{wlh+96,
+author = { L. Wallace and W. Livingston and K. Hinkle and P. F. Bernath},
+journal={Astrophys. J. Suppl. Ser.},
+volume = {106},   
+year = {1996},  
+pages = {165}} 
+
+@Article{w681,
+author = { J. K. G. Watson},
+journal = { Molec. Phys. },
+volume = {15},
+year={1968},
+pages = {479}}
+
+@Article{w682,
+author = { J. K. G. Watson},
+journal = JCM,
+volume = {46}, 
+year = {1967},
+pages = {1935}}
+
+@Article{wr92,
+
+author = { R. B. Wattson and L. S. Rothman},
+journal = { J. Quant. Spec. Radiative. Transf. },
+volume = {48},  
+year = {1992}, 
+pages = {763}}
+
+@Article{wh76,
+
+author = { R. J. Whitehead and N. C. Handy},
+journal = JMS,
+volume = {59},  
+year = {1976}, 
+pages = {459}}
+
+@Article{wbr97,
+author = { H. Worden and R. Beer and C. P. Rinsland},
+title = {Airborne infrared spectroscopy of 1994 western wildfires},
+journal={ J. Geophys. Res. D},
+volume = {102},  
+year = {1997}, 
+pages = {1287-1299}}
+
+@Article{xh96,
+
+author = { D. Xie and G. Yan},
+journal = { Chem. Phys. Letts },
+volume = {248},  
+year = {1996}, 
+pages = {409}}
+
+@Article{zbp+00,
+author = { N. F. Zobov and D. Belmiloud and O. L. Polyansky and J. Tennyson.},
+journal= JCM,
+volume = {133},  
+year = {2000}, 
+pages = {1546}}
+
+@Article{zpt+00,
+
+author = { N. F. Zobov and O. L. Polyansky and J. Tennyson and S. Shirin and R. Nassar and T. Hirao and T. Imajo and P. F. Bernath and L. Wallace },
+journal = { Astrophys. J.},
+volume = {530},  
+year = {2000}, 
+pages = {994}}
+
+@Article{zpt+99,
+
+author = { N. F. Zobov and O. L. Polyansky and J. Tennyson and J. A. Lotoski and P. Colarusso and K. Q. Zhang and P. F. Bernath},
+journal = JMS,
+volume = {193},  
+year = {1999}, 
+pages = {118}}
+
+@Article{zbr+97,
+
+author = { J. Zuniga and A. Bastida and A. Requena and J. Chem. Soc.},
+journal = { Faraday Trans },
+volume = {93},  
+year = {1997}, 
+pages = {1681}}
+
+#------------------Mine's----------------------
+
+
+
+
+@Article{pb2,
+  author = 	 {H. M. Quiney and P. Barletta and G. Tarczay and A. G. \att and O. L. Polyansky and J. Tennyson},
+  title = 	 {Two-electron relativistic corrections to the potential energy surface and vibration-rotation levels of water},
+  journal = 	 CPL,
+  year = 	 {2001},
+  OPTkey = 	 {},
+  volume = 	 {344},
+  OPTnumber = 	 {},
+  pages = 	 {413},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+@Article{pb1,
+  author = 	 {P. Barletta and A. Kievsky},
+  title = 	 {},
+  journal = 	 {},
+  year = 	 {},
+  OPTkey = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  pages = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+
+@Article{kostin,
+  author = 	 {M.A. Kostin and O.L. Polyansky and J.Tennyson},
+  title = 	 {Calculations of rotation-vibration states with the $z$-axis perpendicular to the plane:  high accuracy results for H$^+_3$},
+  journal = 	 {},
+  year = 	 {2001},
+  OPTkey = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  pages = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{pb3,
+  author = 	 {J. Tennyson and P. Barletta and M. A. Kostin and O. L. Polyansky and N. F. Zobov},
+  title = 	 {{\it Ab initio} rotation-vibration energy levels of triatomics to spectroscopic accuracy},
+  journal = 	 {Spectrochimica Acta},
+  year = 	 {2001},
+  OPTkey = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  pages = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {submitted},
+  OPTannote = 	 {}
+}
+
+#------------------------------------------
+@Article{uno,
+  author =       {V.Ramanathan and A.M.Vogelman},
+  title  =       {},
+  journal =      {Ambio},
+  volume  =      {26},
+  pages =        {38},
+  year =         {1997}
+}
+
+@Article{non,
+  author =       {D. W. Schwenke},
+  title  =       {},
+  journal =      JMS,
+  volume  =      {190},
+  pages =         {397},
+  year =        {1998},
+}
+@Article{s03,
+  author =       {D. W. Schwenke},
+  title  =       {{First principles prediction of isotopic shifts in H$_2$O}},
+  journal =      JCP,
+  volume  =      {118},
+  pages =        {2003},
+  year =         {6898-6904}
+}
+
+@Article{lzh+99,
+  author =       {R. C. M. Learner and W. Zhong and J. D.  Haigh and D. Belmiloud and J. Clarke},
+  title  =       {The contribution of unknown weak water vapor lines to the absorption of solar radiation},
+  journal =      {Geophys.Res.Lett.},
+  volume  =      {26},
+  pages =        {3609-3612},
+  year =         {1999}
+}
+
+@Article{sv1,
+  author =       {S.Viti and J.Tennyson and O.L.Polyansky},
+  title  =       {A spectroscopic linelist for hot water},
+  journal =      {Mon.Not.R.Astron.Soc.},
+  volume  =      {287},
+  pages =        {79},
+  year =         {1997}
+}
+@Article{bs2,
+  author =       {J.Tennyson and B.T.Sutcliffe},
+  title  =       {},
+  journal =      {Int. J. Quantum Chem.},
+  volume  =      {39},
+  pages =        {183},
+  year =         {1991}
+}
+@Article{bs3,
+  author =       {J.Tennyson and B.T.Sutcliffe},
+  title  =       {},
+  journal =      {Int. J. Quantum Chem.},
+  volume  =      {42},
+  pages =        {941},
+  year =         {1992}
+}
+@Article{jt2,
+  author =       {J.Tennyson and O.L.Polyansky},
+  title  =       {Water on the sun: the Sun yelds more secrets to spectroscopy},
+  journal =      {Contemporary Physics},
+  volume  =      {39},
+  pages =        {283},
+  year =         {1998}
+}
+
+@Article{wal1,
+  author =       {L.Wallace and W.Livingston and K.Hinkle and P.F.Bernath},
+  title  =       {},
+  journal =      {Astrophys. J. Suppl. Ser.},
+  volume  =      {106},
+  pages =        {165},
+  year =         {1996}
+}
+@Article{wal2,
+  author =       {L.Wallace and W.Livingston and K.Hinkle and P.F.Bernath},
+  title  =       {},
+  journal =      {Science},
+  volume  =      {268},
+  pages =        {1155},
+  year =         {1995}
+}
+@Article{bo1,
+  author =       {M. Born and J.P. Oppenheimer},
+  title  =       {Zur Quantentheorie der Molekeln},
+  journal =      {Ann. Phys.},
+  volume  =      {84},
+  pages =        {457},
+  year =         {1927}
+}
+@Article{bo3,
+  author =       {B.T. Sutcliffe},
+  title  =       {},
+  journal =      {J. Chem. Soc. Faraday Trans.},
+  volume  =      {89},
+  pages =        {2321},
+  year =         {1993}
+}
+@Article{dvr1,
+  author =       {J. C. Light and T. {Carrington Jr.}},
+  title  =       {Discrete Variable Representations and their utilization},
+  journal =      {Adv. Chem. Phys.},
+  volume  =      {114},
+  pages =        {263},
+  year =         {2000}
+}
+@Article{bl89,
+  author =       {Z. Ba\'ci\'c and J. C. Light},
+  title  =       {Theoretical methods for rovibrational states of floppy molecules},
+  journal =      {Annu. Rev. Phys. Chem.},
+  volume  =      {40},
+  pages =        {469},
+  year =         {1989}
+}
+@Article{bm77,
+  author =       {P.R. Bunker and R.E. Moss},
+  title  =       {{The breakdown of the Born-Oppenheimer approximation: the effective vibration-rotation hamiltonian for a diatomic molecule}},
+  journal =      {Molec. Phys.},
+  volume  =      {33},
+  pages =        {417},
+  year =         {1977}
+}
+
+@Article{bmm77,
+  author = 	 {P.R. Bunker and C.J. McLarnon and R.E. Moss},
+  title = 	 {Application of the effective vibration-rotation hamiltonian to H$_2$ and D$_2$},
+  journal = 	 {Molec. Phys.},
+  year = 	 {1977},
+  OPTkey = 	 {},
+  volume = 	 {33},
+  OPTnumber = 	 {},
+  pages = 	 {425},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{bm2,
+  author =       {P.R. Bunker and R.E. Moss},
+  title  =       {},
+  journal =      JMS,
+  volume  =      {80},
+  pages =        {217},
+  year =         {1980}
+}
+@Article{jw1,
+  author =       {J.K.G. Watson},
+  title  =       {},
+  journal =      JMS,
+  volume  =      {80},
+  pages =        {411},
+  year =         {1980}
+}
+@Article{jt5,
+  author =       {O.L. Polyansky and J. Tennyson},
+  title  =       {},
+  journal =      JCM,
+  volume  =      {110},
+  pages =        {5056},
+  year =         {1999}
+}
+
+#-----Articoli per Pisa -----------------
+
+@Article{rip1,
+  author =       {M.Fabre de la Ripelle},
+  title  =       {The first order of the Hyperspherical Harmonic exspansion method},
+  journal =      {Annals of physics},
+  volume  =      {123},
+  pages =        {185},
+  year =         {1979}
+}
+
+@Article{lj2,
+  author =       {D.M.Ceperley and H.Partridge},
+  title  =       {The helium dimer potential at small distances},
+  journal =      JCM,
+  volume  =      {84},
+  pages =        {820},
+  year =         {1986}
+}
+
+@Article{lj1,
+  author =       {J.de Boer and A.Michels},
+  title  =       {},
+  journal =      {Physica},
+  volume  =      {6},
+  pages =        {945},
+  year =         {1938}
+}
+
+@Article{kvr1,
+  author =       {S.Rosati and M.Viviani  and A.Kievsky},
+  title  =       {},
+  journal =      {Nuovo Cim.},
+  volume  =      {105A},
+  pages =        {1473},
+  year =         {1992}
+}
+
+@Article{kvr2,
+  author =       {S.Rosati and M.Viviani and A.Kievsky},
+  title  =       {},
+  journal =      {Few-Body Syst.},
+  volume  =      {1},
+  pages =        {1740},
+  year =         {1986}
+}
+
+@Article{lj3,
+  author =       {R.A.Aziz and cazzo1 and cazzo2 and cazzo3}, 
+  title  =       {},
+  journal =      JCM,
+  volume  =      {70},
+  pages =        {4330},
+  year =         {1979}
+}
+@Article{lj4,
+  author =       {E.Vogel},
+  title  =       {},
+  journal =      {Phys. Chem.},
+  volume  =      {88},
+  pages =        {997},
+  year =         {1984}
+}
+
+@Article{bruch,
+  author =       {L.W.Bruch},
+  title  =       {Boson trimers with nonzero angular momentum},
+  journal =      JCM,
+  volume  =      {110},
+  pages =        {2410},
+  year =         {}
+}
+
+@Article{int1,
+  author =       {W.Rarita and R.D.Present},
+  title  =       {On the nuclear two- three- and four- body problems},
+  journal =      {PR},
+  volume  =      {51},
+  pages =        {778},
+  year =         {1937}
+}
+
+@Article{int2,
+  author =       {L.D.Faddeev},
+  title  =       {Scattering theory for three-particle system},
+  journal =      {Zh. Eksp. Theor. Phyz},
+  volume  =      {39},
+  pages =        {1459},
+  year =         {1960}
+}
+
+
+@Article{luo1,
+  author =       {F.Luo and cazzo1 and cazzo2 and cazzo3},
+  title  =       {Influence of retardation of the higher-order multipole dispersion contributions to the helium dimer potential},
+  journal =      JCM,
+  volume  =      {99},
+  pages =        {10084},
+  year =         {1993}
+}
+
+@Article{luo4,
+  author =       {F.Luo and cazzo1 and cazzo2 and cazzo3},
+  title  =       {Influence of retardation on the vibrational wave function and binding energy of the helium dimer},
+  journal =      JCM,
+  volume  =      {98},
+  pages =        {12},
+  year =         {1993}
+}
+
+@Article{luo2,
+  author =       {F.Luo and C.F.Giese and W.R.Gentry},
+  title  =       {Direct measurement of the size of the helim dimer},
+  journal =      JCM,
+  volume  =      {104},
+  pages =        {1151},
+  year =         {1996}
+}
+
+@Article{luo3,
+  author =       {F.Luo and cazzo1 and cazzo2 and cazzo3},
+  title  =       {},
+  journal =      JCM,
+  volume  =      {98},
+  pages =        {3564},
+  year =         {1993}
+}
+
+@Article{hyl,
+   author= {E. A. Hylleraas and B. Undheim},
+   journal={ Z. Phys}, 
+   volume= {65}, 
+   pages={759},
+   year={1930}}
+
+@Article{mcd,
+   author={ J. K. L. MacDonald},
+   journal={ Phys. Rev.},
+   volume= {43},
+   pages={ 830},
+   year={1933}}
+
+@Article{tang1,
+  author =       {K.T.Tang and J.P.Toennies and C.L.Yiu },
+  title  =       {Accurate analytical He-He van der Waals Potential Based on Pertubation theory}, 
+  journal =      PRL,
+  volume  =      {74},
+  pages =        {1956},
+  year =         {1995}
+}
+
+@Article{aziz1,
+  author =       {R.A.Aziz and M.J.Slaman},
+  title  =       {examination of ab initio results for the helium potential energy curve},
+  journal =      JCM,
+  volume  =      {94},
+  pages =        {8047},
+  year =         {1991}
+}
+
+@Article{aziz2,
+  author =       {R.A.Aziz and M.J.Slaman},
+  title  =       {...},
+  journal =      {Metrologia},
+  volume  =      {27},
+  pages =        {211},
+  year =         {1990}
+}
+
+@Article{aziz3,
+  author =       {R.A.Aziz and F.R.W.McCourt and C.C.K.Wong},
+  title  =       {A new determination of the ground state interatomic potentialfor helium dimer`},
+  journal =      {Molecular Physics},
+  volume  =      {61},
+  pages =        {1487},
+  year =         {1987}
+}
+
+@Article{trd,
+  author =       {B.M.Axilrod and E.Teller}, 
+  title  =       {...},
+  journal =      JCM,
+  volume  =      {11},
+  pages =        {299},
+  year =         {1943}
+}
+
+@Article{trd1,
+  author =       {I.Roeggen and J.Almloef},
+  title  =       {...},
+  journal =      JCM,
+  volume  =      {102},
+  pages =        {7095},
+  year =         {1995}
+}
+
+@Article{trd2,
+  author =       {C.A.Parish and C.E.Dykstra},
+  title  =       {...},
+  journal =      JCM,
+  volume  =      {102},
+  pages =        {7095},
+  year =         {1995}
+}
+
+@Article{tang2,
+  author =       {K.T.Tang and J.P.Toennies},
+  title  =       {An improved simple model for the van der Waals potential based on universal damping functions for the dispersion coefficients},
+  journal =      JCM,
+  volume  =      {80},
+  pages =        {3726},
+  year =         {1984}
+}
+
+@Article{duman,
+  author =       {E.L.Duman  and B.M.Smirnov },
+  title  =       {},
+  journal =      {Opt. Spectrosc.},
+  volume  =      {29},
+  pages =        {229},
+  year =         {1970}
+}
+
+@Article{thakkar1,
+  author =       {A.J.Thakkar},
+  title  =       {The first order of the Hyperspherical Harmonic exspansion method},
+  journal =      JCM,
+  volume  =      {75},
+  pages =        {4496},
+  year =         {1981}
+}
+
+@Article{thakkar2,
+  author =       {A.J.Thakkar},
+  title  =       {The first order of the Hyperspherical Harmonic exspansion method},
+  journal =      JCM,
+  volume  =      {89},
+  pages =        {2092},
+  year =         {1988}
+}
+
+@Article{fed1,
+  author =       {D.V.Fedorov and A.S.Jensen and K.Riisager},
+  title  =       {Efimov states in halo nuclei},
+  journal =      PRL,
+  volume  =      {73},
+  pages =        {2817},
+  year =         {1994}
+}
+
+@Article{lm2,
+  author =       {B.Liu and A.D.McLean},
+  title  =       {The interacting correlated fragments model for weak interactions, basis set superposition error, and the helium dimer potential},
+  journal =      JCM,
+  volume  =      {91},
+  pages =        {2348},
+  year =         {1989}
+}
+
+@Article{glo,
+  author =       {Th.Cornelius and W.Gloecke},
+  title  =       {Efimov states for three \he atoms?},
+  journal =      JCM,
+  volume  =      {85},
+  pages =        {3906},
+  year =         {1986}
+}
+
+
+@Article{ef1,
+  author =       {V.Efimov},
+  title  =       {Weakly bound states of three resonantly interacting particles},
+  journal =      {soviet journal of nuclear physics},
+  volume  =      {12},
+  pages =        {589},
+  year =         {1971}
+}
+
+@Article{ef2,
+  author =       {V.Efimov},
+  title  =       {Energy levels arising from resonant two-body forces in a three-body system},
+  journal =      PL,
+  volume  =      {33B},
+  pages =        {563},
+  year =         {1970}
+}
+
+
+@Article{nielsen,
+  author =       {E.Nielsen and D.V.Fedorov and A.S.Jensen},
+  title =       {The structure of the atomic helium trimers: Halos and Efimov states},
+  journal =      {physics/9806020},
+}
+
+@Article{esry,
+  author =       {B.D.Esry and C.D.Lin and Chris H.Greene},
+  title  =       {Adiabatic hyperspherical study of the helium trimer},
+  journal =      PRA,
+  volume =       {54},
+  pages  =       {394},
+  year  =        {1996}
+} 
+
+@Article{lew,
+  author =       {M.Lewerenz},
+  title  =       {Structure and energetics of small helium clusters: Quantum simulations using a recente pertubational pair potential},
+  journal =      JCM,
+  volume =       {106},
+  pages  =       {4596},
+  year  =        {1997}
+} 
+
+@Article{schol,
+  author =       {W.Schoellkopf and J.P.Toennies},
+  title  =       {The nondescructive detection of the helium dimer and trimer},
+  journal =      JCM,
+  volume  =      {104},
+  pages =        {1155},
+  year =         {1995}
+}
+
+@Article{schol2,
+  author =       {W.Schoellkopf and J.P.Toennies},
+  title  =       {Nondestructive Mass Selection of Small van der Waals Clusters},
+  journal =      {science},
+  volume  =      {266},
+  pages =        {1345},
+  year =         {1994}
+}
+
+@Article{del1,
+  author =       {G.Morpurgo},
+  title  =       {},
+  journal =      {Nuovo Cimento},
+  volume  =      {9},
+  pages =        {461},
+  year =         {1952}
+}
+
+@Article{del2,
+  author =       {L.M.Delves},
+  title  =       {},
+  journal =      NP,
+  volume  =      {9},
+  pages =        {391},
+  year =         {1959}
+}
+
+@Article{del3,
+  author =       {F.T.Smith},
+  title  =       {},
+  journal =      PR,
+  volume  =      {120},
+  pages =        {1058},
+  year =         {1960}
+}
+
+@Article{del4,
+  author =       {W.Zickendrath},
+  title  =       {},
+  journal =      PR,
+  volume  =      {159},
+  pages =        {1967},
+  year =         {1448}
+}
+
+@Article{del5,
+  author =       {W.Schoellkopf and J.P.Toennies},
+  title  =       {},
+  journal =      JCM,
+  volume  =      {104},
+  pages =        {1155},
+  year =         {1995}
+}
+
+@Article{del6,
+  author =       {W.Schoellkopf and J.P.Toennies},
+  title  =       {},
+  journal =      JCM,
+  volume  =      {104},
+  pages =        {1155},
+  year =         {1995}
+}
+
+@Article{del7,
+  author =       {W.Schoellkopf and J.P.Toennies},
+  title  =       {},
+  journal =      JCM,
+  volume  =      {104},
+  pages =        {1155},
+  year =         {1995}
+}
+@Article{del8,
+  author =       {W.Schoellkopf and J.P.Toennies},
+  title  =       {},
+  journal =      JCM,
+  volume  =      {104},
+  pages =        {1155},
+  year =         {1995}
+}
+
+@Article{del9,
+  author =       {W.Schoellkopf and J.P.Toennies},
+  title  =       {},
+  journal =      JCM,
+  volume  =      {104},
+  pages =        {1155},
+  year =         {1995}
+}
+
+@Article{del11,
+  author =       {W.Schoellkopf and J.P.Toennies},
+  title  =       {},
+  journal =      JCM,
+  volume  =      {104},
+  pages =        {1155},
+  year =         {1995}
+}
+
+@Article{del12,
+  author =       {W.Schoellkopf and J.P.Toennies},
+  title  =       {},
+  journal =      JCM,
+  volume  =      {104},
+  pages =        {1155},
+  year =         {1995}
+}
+
+@Article{del13,
+  author =       {W.Schoellkopf and J.P.Toennies},
+  title  =       {},
+  journal =      JCM,
+  volume  =      {104},
+  pages =        {1155},
+  year =         {1995}
+}
+
+@Article{del14,
+  author =       {W.Schoellkopf and J.P.Toennies},
+  title  =       {},
+  journal =      JCM,
+  volume  =      {104},
+  pages =        {1155},
+  year =         {1995}
+}
+
+@Article{del15,
+  author =       {W.Schoellkopf and J.P.Toennies},
+  title  =       {},
+  journal =      JCM,
+  volume  =      {104},
+  pages =        {1155},
+  year =         {1995}
+}
+@Article{del16,
+  author =       {W.Schoellkopf and J.P.Toennies},
+  title  =       {},
+  journal =      JCM,
+  volume  =      {104},
+  pages =        {1155},
+  year =         {1995}
+}
+
+#----------- Articoli di roberto ------------------------
+
+@Article{DAS,
+  author =       {S.R.Das},
+  title  =       {Some aspect of large-N theories},
+  journal =      {Rev. Mod. Phys.},
+  volume =       {59},
+  pages  =       {235},
+  year  =        {1987}
+}
+
+@Article{Witten1,
+  author =       {E.Witten},
+  title  =       {Baryons in the 1/N expansion},
+  journal =      NP,
+  volume =       {160},
+  pages  =       {57},
+  year  =        {1979}
+}
+ 
+
+@Article{Wilson74,
+  author = 	 {K.Wilson},
+  title =        {Confinement of quarks},
+  journal = 	 PR,
+  volume = 	 {10},
+  pages = 	 {2445},
+  year = 	 {1974}
+}
+
+@Article{Munster81,
+  author = 	 {M\"unster},
+  title =        {Hight-temperature expansions \dots},
+  journal = 	 NP,
+  volume = 	 {B180},
+  pages = 	 {23},
+  year = 	 {1981}
+}
+
+@Article{Rossi,
+  author = 	 {P.Rossi and E.Vicari},
+  title =        { },
+  journal = 	 PR,
+  volume = 	 {49},
+  pages = 	 {1621},
+  year = 	 {1994}
+}
+
+@Article{Rossi2,
+  author = 	 {P.Rossi and E.Vicari},
+  title =        { },
+  journal = 	 PR,
+  volume = 	 {50},
+  pages = 	 {4718(E)},
+  year = 	 {1994}
+}
+
+@Article{Rossi3,
+  author = 	 {M. Campostrini, P. Rossi and E. Vicari},
+  title =        { },
+  journal = 	 PR,
+  volume = 	 {51},
+  pages = 	 {958},
+  year = 	 {1995}
+}
+
+@Article{Rossi4,
+  author = 	 {M. Campostrini, P. Rossi and E. Vicari},
+  title =        { (tre articoli) },
+  journal = 	 PR,
+  volume = 	 {52},
+  pages = 	 {358},
+  year = 	 {1995}
+}
+
+@Article{Duncan79,
+  author = 	 {A. Duncan and H. Vaidya},
+  title =        {Extrapolation of lattice gauge theories to the
+                  continuum limit},
+  journal = 	 PR,
+  volume = 	 {20},
+  pages = 	 {903},
+  year = 	 {1979}
+}
+
+@Article{Green81,
+  author = 	 {F. Green and S. Samuel},
+  title =        { },
+  journal = 	 NP,
+  volume = 	 {B190},
+  pages = 	 {113},
+  year = 	 {1981}
+}
+
+@Article{Green812,
+  author = 	 {F. Green and S. Samuel},
+  title =        {},
+  journal = 	 PL,
+  volume = 	 {103B},
+  pages = 	 {110},
+  year = 	 {1981}
+}
+
+                    # green su det U:
+@Article{Green82,
+  author = 	 {F. Green and S. Samuel},
+  title =        {},
+  journal = 	 NP,
+  volume = 	 {B194},
+  pages = 	 {107},
+  year = 	 {1982}
+}
+
+@Article{Drouffe,
+  author = 	 {J.-M. Drouffe and J.-B. Zuber },
+  title =        {Strong coupling and mean field methods in lattice
+                  gauge theories},
+  journal = 	 {Physics Reports},
+  volume = 	 {102},
+  pages = 	 {1},
+  year = 	 {1983}
+}
+
+@Article{Teper,
+  author = 	 {M. Teper},
+  title =        {{$SU(N_c)$} gauge theories for all {$N_c$}},
+  journal = 	 {Oxford Preprint N. $OUTP-96-49P$},
+  volume = 	 { hep-lat/9701004 },
+  pages = 	 { },
+  year = 	 {1997}
+}
+
+@Article{Duncan,
+  author = 	 {A. Duncan and H. Vaidya},
+  title =        {},
+  journal = 	 PR,
+  volume = 	 {20},
+  pages = 	 {903},
+  year = 	 {1979}
+}
+
+#-----------LIBRI--------------
+
+@Book{Rothe,
+  author = 	 {H. Herzberg},
+  title = 	 {Costants of diatomic molecules},
+  publisher = 	 {Van Nostrand Reinhold comp.},
+  year = 	 {1978},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Book{borel,
+  author = 	 {E.Borel},
+  title = 	 {Introduction geometrique \`a quelques theories physiques},
+  publisher = 	 {Gautier-Vilars},
+  year = 	 {1914},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Paris},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Book{borel1,
+  author = 	 {E.Borel},
+  title = 	 {Trait\'e du calcul des probabilit\'es et de ses applications},  
+  publisher = 	 {Gautier-Vilars},
+  year = 	 {1925},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Paris},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Book{appel,
+  author = 	 {P.Appel and J.Kampe},
+  title = 	 {Fonctions hyperg\'eom\'etriques et hypersph\'eriques}, 
+  publisher = 	 {Gautier-Vilars},
+  year = 	 {1926},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Paris},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Book{Montvay,
+  author = 	 {I. Montvay and  G. M\"unster},
+  title = 	 {Quantum Fields on a Lattice},
+  publisher = 	 {Cambridge Monographs on Math. Phys.},
+  year = 	 {1994},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Cambridge},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Book{abr,
+  author = 	 {M.Abramovitz and I.A.Stegun},
+  title = 	 {Handbook of athematical functions},
+  publisher = 	 {Dover publications},
+  year = 	 {1970},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {New York},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Book{szb,
+  author = 	 {A.Szabo and N.S.Ostlund},
+  title = 	 {Modern quantum chemistry},
+  publisher = 	 {McGraw-Hill},
+  year = 	 {1980},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {New York},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Book{mk80,
+  author = 	 {H.Margenau and N.R.Kestner},
+  title = 	 {Theory of intermolecular forces},
+  publisher = 	 {Pergamon Press},
+  year = 	 {1980},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Oxford},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Book{messiah,
+  author = 	 {A. Messiah},
+  title = 	 {Mecanique quantique},
+  publisher = 	 {Dunod},
+  year = 	 {1959},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Paris},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Book{lew2,
+  author = 	 {B.L. Hammond and W.A. {Lester Jr.} and P.J. Reynolds},
+  title = 	 {Monte Carlo Methods in ab initio Quantum Chemistry},
+  publisher = 	 {World scientific},
+  year = 	 {1994},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Singapore},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Book{hd,
+  author = 	 {M.Baranger and E.Vogt},
+  title = 	 {Advances in nuclear physics},
+  publisher = 	 {Plenum Press},
+  year = 	 {1972},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {New York},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Book{nr,
+  author = 	 {W.H.Press and E.Vogt and Q.Vogt and A.Vogt},
+  title = 	 {Numerical Recipes},
+  publisher = 	 {Cambridge University Press},
+  year = 	 {1996},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Cambridge},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Book{bo2,
+  author = 	 {M.Born and K.Huang},
+  title = 	 {Dynamical Theory of Crystal Lattices},
+  publisher = 	 {Oxford University Press},
+  year = 	 {1955},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+
+@Book{sak2,
+  author = 	 {J. J. Sakurai},
+  ALTeditor = 	 {},
+  title = 	 {Advanced Quantum Mechanics},
+  publisher = 	 {Addison-Wesley},
+  year = 	 {1967},
+  OPTkey = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  OPTaddress = 	 {},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Book{BetheSalpeter,
+  author = 	 {H. A. Bethe and E. E. Salpeter},
+  title = 	 {Quantum Mechanics of One- and Two-Electron Atoms },
+  publisher = 	 {Springer-Verlag},
+  year = 	 {1957},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Berlin},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Book{bal,
+  author = 	 {K. Balasubramanian},
+  title = 	 {Relativistic effects in Chemistry, Part A: Theory and techniques and Part B: Applications},
+  publisher = 	 {Wiley},
+  year = 	 {1997},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {New York},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Book{cs35,
+  author = 	 {E. U. Condon and G. H. Shortley},
+  title = 	 {The Theory of Atomic Spectra},
+  publisher = 	 {Cambridge University Press},
+  year = 	 {1935},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Cambridge},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Book{e74,
+  author = 	 {S. T. Epstein},
+  title = 	 {The Variation Method in Quantum Chemistry},
+  publisher = 	 {Academic Press.},
+  year = 	 {},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {New York},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+}
+@Book{rot,
+  author = 	 {C. H. Townes and A. L. Schawlow},
+  title = 	 {Microwave Spectroscopy},
+  publisher = 	 {Dover Publications},
+  year = 	 {1975},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {New York, USA},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+
+@Article{ctl01,
+  author = 	 {A. G.  Cs\'asz\'ar and G. Tarczay and M. L. Leininger and
+O. L. Polyansky and J. Tennyson and W. D. Allen},
+  title = 	 {Dream or reality: complete basis set full configuration interaction potential energy hypersurfaces},
+  journal = 	 {},
+  year = 	 {},
+  OPTkey = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  pages = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@InBook{nato01,
+  author = 	 {A. G.  Cs\'asz\'ar and G. Tarczay and M. L. Leininger and
+O. L. Polyansky and J. Tennyson and W. D. Allen},
+  ALTeditor = 	 {J. Demaison, K. Sarka},
+  title = 	 {Spectroscopy from Space},
+  chapter = 	 {},
+  publisher = 	 {Kluwer Academic Publishers},
+  year = 	 {2001},
+  OPTkey = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {NATO ASI SeriesC},
+  OPTtype = 	 {},
+  OPTaddress = 	 {Dordrecht},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  pages = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Book{cms,
+  author = 	 {A. G.  Cs\'asz\'ar and  W. D. Allen and Y. Yamaguchi and H. F. {Schaefer III}},
+  title = 	 {Computational Molecular Spectroscopy},
+  publisher = 	 {Wiley},
+  year = 	 {2000},
+  OPTkey = 	 {},
+  OPTeditor = 	 {P. Jensen, P. R. Bunker},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Chicester},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+
+
+@Book{mcf+84,
+  author = 	 {J. N. Murrell and S. Carter and S. C. Farantos and P. Huxley and A. J. C. Varandas},
+  title = 	 {Molecular Potential Energy Functions},
+  publisher = 	 {Wiley},
+  year = 	 {1984},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Chirchester},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Book{ss66,
+  author = 	 {A. H. Stroud and D. Secrest},
+  title = 	 {Gaussian Quadrature Formulas},
+  publisher = 	 {Prentice-Hall},
+  year = 	 {1966},
+  OPTkey = 	 {},
+  OPTeditor = 	 {George Forsythe},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {London},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@PhdThesis{v97,
+  author = 	 {S. Viti},
+  title = 	 {},
+  school = 	 {University College London},
+  year = 	 {1997},
+  OPTkey = 	 {},
+  OPTtype = 	 {},
+  OPTaddress = 	 {London, UK},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@PhdThesis{sophie,
+  author = 	 {J.S. Kain},
+  title = 	 {},
+  school = 	 {University College London}, 
+  year = 	 {2001},
+  OPTkey = 	 {},
+  OPTtype = 	 {},
+  OPTaddress = 	 {London, UK},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@PhdThesis{Paolo,
+  author = 	 {P. Barletta},
+  title = 	 {},
+  school = 	 {University College London},
+  year = 	 {2002},
+  OPTkey = 	 {},
+  OPTtype = 	 {},
+  OPTaddress = 	 {London, UK},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Book{r37,
+  author = 	 {Lord Rayleigh},
+  title = 	 {Theory of Sound},
+  publisher = 	 {Macmillan},
+  year = 	 {1937},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {1},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {London},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Book{m89,
+  author = 	 {R. McWeeny},
+  title = 	 {Methods of Molecular Quantum Mechanics, 2nd edition},
+  publisher = 	 {Academic Press},
+  year = 	 {1989},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {London},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Book{k75,
+  author = 	 {H. W. Kroto},
+  title = 	 {Molecular Rotation Spectra},
+  publisher = 	 {John Wiley and Sons},
+  year = 	 {1975},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {London},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Book{itcc,
+  author = 	 {F. Jensen },
+  title = 	 {Introduction to Computational Chemistry},
+  publisher = 	 {Wiley},
+  year = 	 {1999},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Chircester},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Book{h37,
+  author = 	 { H. Hellmann},
+  title = 	 { Einf$\ddot{u}$hrung in die Quantenchemie},
+  publisher = 	 {Franz Deutiche},
+  year = 	 {1937},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Leipzig},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Book{h86,
+  author = 	 {J. B. Hearnshaw},
+  title = 	 {The Analysis of Starlight: One Hundred and Fifty Years of Astrononmical Spectroscopy},
+  publisher = 	 {Cambridge University Press},
+  year = 	 {1986},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Cambridge},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+@Book{h45,
+  author = 	 {G. Herzberg},
+  title = 	 {Molecular Spectra and Molecular Structure},
+  publisher = 	 {Malabar},
+  year = 	 {},
+  OPTkey = 	 {},
+  OPTeditor = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Florida},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@PhdThesis{h70,
+  author = 	 {D.N.B. Hall},
+  title = 	 {},
+  school = 	 {Harvard University},
+  year = 	 {1970},
+  OPTkey = 	 {},
+  OPTtype = 	 {},
+  OPTaddress = 	 {USA},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@PhdThesis{f94,
+  author = 	 {Nicholas G.. Fulton},
+  title = 	 {Graphical and Computational Analysis of the Vibrations of Triatomic Molecules},
+  school = 	 {University College London},
+  year = 	 {1994},
+  OPTkey = 	 {},
+  OPTtype = 	 {},
+  OPTaddress = 	 {London, UK},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@PhdThesis{b99,
+  author = 	 {D. Belmiloud},
+  title = 	 {},
+  school = 	 {Universit\'e de Reims},
+  year = 	 {1999},
+  OPTkey = 	 {},
+  OPTtype = 	 {},
+  OPTaddress = 	 {Reims, France},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@InCollection{relz1,
+  author = 	 {Ian P. Grant},
+  title = 	 {Relativistic Atomic Structure Calculations},
+  booktitle = 	 {Relativistic effects in atoms and molecules},
+  OPTcrossref =  {},
+  OPTkey = 	 {},
+  pages = 	 {},
+  OPTpublisher = {Plenum Press},
+  OPTyear = 	 {1988},
+  OPTeditor = 	 {S. Wilson},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  OPTtype = 	 {},
+  OPTchapter = 	 {},
+  OPTaddress = 	 {New York},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@InCollection{relz2,
+  author = 	 {Stephen Wilson},
+  title = 	 {Relativistic Molecular Structure Calculations},
+  booktitle = 	 {Relativistic effects in atoms and molecules},
+  OPTcrossref =  {},
+  OPTkey = 	 {},
+  pages = 	 {},
+  OPTpublisher = {Plenum Press},
+  OPTyear = 	 {1988},
+  OPTeditor = 	 {S. Wilson},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  OPTtype = 	 {},
+  OPTchapter = 	 {},
+  OPTaddress = 	 {New York},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@InCollection{relz3,
+  author = 	 {Odd Gropen},
+  title = 	 {The Relativistic Effective Core Potential Method},
+  booktitle = 	 {Relativistic effects in atoms and molecules},
+  OPTcrossref =  {},
+  OPTkey = 	 {},
+  pages = 	 {},
+  OPTpublisher = {Plenum Press},
+  OPTyear = 	 {1988},
+  OPTeditor = 	 {S. Wilson},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  OPTtype = 	 {},
+  OPTchapter = 	 {},
+  OPTaddress = 	 {New York},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@InCollection{relz4,
+  author = 	 {Pekka Pyykk\"o},
+  title = 	 {Semiempirical Relativistic Molecular Structure Calculations},
+  booktitle = 	 {Relativistic effects in atoms and molecules},
+  OPTcrossref =  {},
+  OPTkey = 	 {},
+  pages = 	 {},
+  OPTpublisher = {Plenum Press},
+  OPTyear = 	 {1988},
+  OPTeditor = 	 {S. Wilson},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  OPTtype = 	 {},
+  OPTchapter = 	 {},
+  OPTaddress = 	 {New York},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@InCollection{relz5,
+  author = 	 {Harry M. Quiney},
+  title = 	 {Relativistic Many-Body Pertubation Theory},
+  booktitle = 	 {Relativistic effects in atoms and molecules},
+  OPTcrossref =  {},
+  OPTkey = 	 {},
+  pages = 	 {},
+  OPTpublisher = {Plenum Press},
+  OPTyear = 	 {1988},
+  OPTeditor = 	 {S. Wilson},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  OPTtype = 	 {},
+  OPTchapter = 	 {},
+  OPTaddress = 	 {New York},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+#---------  jayesh's articles -------------------
+@PhdThesis{H02,
+  author = 	 {Gregory J Harris},
+  title = 	 {An ab initio HCN/HNC Rotational-Vibrational Line List and Opacity function for Astronomy },
+  school = 	 {University College London},
+  year = 	 {2002},
+  OPTkey = 	 {},
+  OPTtype = 	 {},
+  OPTaddress = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+@Article{mt92,
+  author = 	 {J.M.L. MArtin AND Timothy J. Lee},
+  title = 	 {Accurate ab initio quartic force fields for borane and {BeH$_2$}},
+  journal = 	 cpl,
+  year = 	 {1992},
+  OPTkey = 	 {},
+  volume = 	 {200},
+  OPTnumber = 	 {5},
+  pages = 	 {502},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{pt99 ,
+author = { O. L.  Polyansky AND J.  Tennyson},
+OPTfile_num = {jt236},
+title = {Ab initio calculation of the rotation-vibration energy levels of {H$_3^+$} and its isotopomers  to spectroscopic accuracy},
+journal = {J.  Chem.  Phys. },
+year  = {1999},
+volume  = {110},
+pages = {5056-5064}
+}

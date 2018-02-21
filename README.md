@@ -1,6 +1,5 @@
 # ExoMol .bib Files
 ## Getting Started
----
 ### Check Git Installation
 If you would like a copy of the .bib files on your local machine please follow the below instructions to download them. If not they can still be found on the shared folder in the usual place.
 
@@ -21,7 +20,6 @@ If it is not installed, see [Install Git](#install-git)
 1. You can add this path in your LaTeX config and start writing
 
 ## Detailed Instructions
----
 ### Clone .bib Files From GitHub
 
 First locate to the directory on your local machine where you would like to **clone** the .bib files:
@@ -128,7 +126,6 @@ The key line here is now "Changes to be committed". We can now get ready to comm
 you have saved a local change that is different to the last **commit**. A Commit it means that it has been added to the version control histroy in git. Git commits are a way of tracking different versions of a file or group of files).
 
 ## Install Git
----
 
 If git is not installed, you can run the following commands in terminal to install.
 In Ubuntu this is as simple as:

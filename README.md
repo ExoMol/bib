@@ -14,6 +14,7 @@ If it is not installed, see [Install Git](#install-git)
 
 ## Quick Guide
 1. To grab a copy simply type: `git clone git@github.com:ExoMol/bib.git`
+1. Or `git clone https://github.com/ExoMol/bib.git` **if you don't have a GitHub account**
 1. This will create a bib folder on your machine
 1. You can add this path in your LaTeX config and start writing
 

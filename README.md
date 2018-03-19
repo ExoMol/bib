@@ -53,19 +53,18 @@ You should see something like this (if it is successful):
     Resolving deltas: 100% (188/188), done.
     Checking connectivity... done.
 
-You can check the .bib files with `ls ./bib` and you should see something like this:
+You can check the .bib files with `ls -1 ./bib` and you should see something like this:
 
-    15NH3.bib       CaO.bib        eckart.bib               HCCS.bib            MARVEL             O2.bib            ScH.bib
-    abinitio.bib    CaOCa.bib      emol                     HCF.bib             MARVEL_unused.bib  O3.bib            ScO.bib
-    AbInTM.bib      CaOH.bib       ethyl-methyl-ether.bib   HCl.bib             methods2.bib       OClO.bib          SF6.bib
-    additional.bib  CH2.bib        exogen2.bib              HCN_.bib            methods_.bib       OH3+.bib          SH.bib
-    AlBr.bib        CH2p.bib       exogen.bib               HCN.bib             methods.bib        OH.bib            SH+.bib
-    AlF.bib         CH3.bib        exomol                   HCNO.bib            MgCl.bib           OH+.bib           SiC.bib
-    AlH.bib         CH3+.bib       exomolcites.bib          HCS.bib             MgH_.bib           OP.bib            SiH2.bib
-    AlO_.bib        CH3Cl_.bib     exoplanets_.bib          HDO_.bib            MgH.bib            ORBYTS.bib        SiH4.bib
-    AlO.bib         CH3Cl.bib      exoplanets.bib           HDO.bib             MgNC.bib           P2H2.bib          SiH.bib
-    a-models.bib    CH3D.bib       extra2.bib               HF.bib              MgO.bib            PAH.bib           SiHF3.bib
-    ap.bib          CH3F.bib       extra.bib                history.bib         MgOMg.bib          partition.bib     SiN.bib
+    emol
+    exomol
+    journals_astro.bib
+    journals_phys.bib
+    jt
+    MARVEL
+    plasma
+    README.md
+    rmat
+    RmatReact
 
 If so then you have successfully cloned .bib git repository.
 
@@ -133,7 +132,7 @@ The key line here is now "Changes to be committed". We can now get ready to comm
 
 For a change to be added to GitHub it must first be committed. A commit is like a snapshot of a folder and all of its contents. After you the changes have been committed they can then pushed back to GitHub (`git push`). To commit your staged changes use `git commit -m "<your message here>"`. Where `<your message here>` can be a short description of the changes made. See below for an example:
 
-    git commit -m "made changes to test.bib"
+    $ git commit -m "made changes to test.bib"
     [master 34f64ba] made changes to test.bib
      1 file changed, 1 insertion(+)
      create mode 100644 test.bib
@@ -142,12 +141,12 @@ For a change to be added to GitHub it must first be committed. A commit is like 
 
 Before you push changes back to GitHub it is always a good idea to run `git pull` first (this helps to avoid errors on the off chance someone else pushes their changes before you can submit).
 
-    git pull
+    $ git pull
     Already up-to-date.
 
 This will update if changes have been made or simply state that the folder is already up-to-date. You are now ready to push your changes back to the server:
 
-    git push
+    $ git push
     warning: push.default is unset; its implicit value has changed in
     Git 2.0 from 'matching' to 'simple'. To squelch this message
     and maintain the traditional behaviour, use:

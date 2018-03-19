@@ -21,7 +21,7 @@ If you would like a copy of the .bib files on your local machine please follow t
 
 To **clone** (download) the .bib files from this reposistory you will first need **git** installed on your machine. It is more than likely that you may already have git installed on your machine. To check, type the following command in your terminal:
 
-    git --version
+    $ git --version
 
 If it is installed you will see something like this:
 
@@ -37,11 +37,11 @@ Please note you will need a GitHub account to collaborate in the ExoMol bib proj
 
 First locate to the directory on your local machine where you would like to **clone** the .bib files:
 
-    cd Documents/ExampleDirectory/
+    $ cd Documents/ExampleDirectory/
 
 Then type the following command into the terminal:
 
-    git clone git@github.com:ExoMol/bib.git
+    $ git clone git@github.com:ExoMol/bib.git
 
 You should see something like this (if it is successful):
 

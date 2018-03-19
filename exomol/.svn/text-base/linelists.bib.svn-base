@@ -1,0 +1,617 @@
+
+@article{TheoReTS,
+title = "TheoReTS – An information system for theoretical spectra based on variational predictions from molecular potential energy and dipole moment surfaces ",
+journal = JMS,
+volume = "",
+pages = " - ",
+year = "2016",
+doi = "http://dx.doi.org/10.1016/j.jms.2016.04.006",
+author = "Michaël Rey and Andrei V. Nikitin and Yurii L. Babikov and Vladimir G. Tyuterev",
+keywords = "Hydrocarbons",
+keywords = "Methane",
+keywords = "Ethylene",
+keywords = "Phosphine",
+keywords = "Spectroscopic databank",
+keywords = "Internet accessible information system ",
+abstract = "Abstract Knowledge of intensities of rovibrational transitions of various molecules and theirs isotopic species in wide spectral and temperature ranges is essential for the modeling of optical properties of planetary atmospheres, brown dwarfs and for other astrophysical applications. TheoReTS (“Theoretical Reims–Tomsk Spectral data”) is an Internet accessible information system devoted to ab initio based rotationally resolved spectra predictions for some relevant molecular species. All data were generated from potential energy and dipole moment surfaces computed via high-level electronic structure calculations using variational methods for vibration–rotation energy levels and transitions. When available, empirical corrections to band centers were applied, all line intensities remaining purely ab initio. The current TheoReTS implementation contains information on four-to-six atomic molecules, including phosphine, methane, ethylene, silane, methyl-fluoride, and their isotopic species 13 \{CH\} 4 , 12 \{CH\} 3 D , 12 \{CH\} 2 D 2 , 12 \{CD\} 4 , 13 C 2 H 4 , … . Predicted hot methane line lists up to T = 2000 K are included. The information system provides the associated software for spectra simulation including absorption coefficient, absorption and emission cross-sections, transmittance and radiance. The simulations allow Lorentz, Gauss and Voight line shapes. Rectangular, triangular, Lorentzian, Gaussian, sinc and sinc squared apparatus function can be used with user-defined specifications for broadening parameters and spectral resolution. All information is organized as a relational database with the user-friendly graphical interface according to Model-View-Controller architectural tools. The full-featured web application is written on \{PHP\} using Yii framework and C++ software modules. In case of very large high-temperature line lists, a data compression is implemented for fast interactive spectra simulations of a quasi-continual absorption due to big line density. Applications for the TheoReTS may include: education/training in molecular absorption/emission, radiative and non-LTE processes, spectroscopic applications, opacity calculations for planetary and astrophysical applications. The system is freely accessible via internet on the two mirror sites: in Reims, France (http://theorets.univ-reims.fr) and in Tomsk, Russia (http://theorets.tsu.ru). "
+}
+
+
+@article{16WaGeMo,
+Author = {Wang, Chaojun and Ge, Wenjun and Modest, Michael F. and He, Boshu},
+Title = {{A full-spectrum k-distribution look-up table for radiative transfer in
+   nonhomogeneous gaseous media}},
+Journal = JQSRT,
+Year = {{2016}},
+Volume = {{168}},
+Pages = {46-56},
+Abstract = {{A full-spectrum k-distribution (FSK) look-up table has been constructed
+   for gas mixtures within a certain range of thermodynamic states for
+   three species, i.e., CO2, H2O and CO. The k-distribution of a mixture is
+   assembled directly from the summation of the linear absorption
+   coefficients of three species. The systematic approach to generate the
+   table, including the generation of the pressure-based absorption
+   coefficient and the generation of the k-distribution, is discussed. To
+   efficiently obtain accurate k-values for arbitrary thermodynamic states
+   from tabulated values, a 6-D linear interpolation method is employed. A
+   large number of radiative heat transfer calculations have been carried
+   out to test the accuracy of the FSK look-up table. Results show that,
+   using the FSK look-up table can provide excellent accuracy compared to
+   the exact results. Without the time-consuming process of assembling
+   k-distribution from individual species plus mixing, using the FSK
+   look-up table can save considerable computational cost. To evaluate the
+   accuracy as well as the efficiency of the FSK look-up table, radiative
+   heat transfer via a scaled Sandia D Flame is calculated to compare the
+   CPU execution time using the FSK method based on the narrow-band
+   database, correlations, and the look-up table. Results show that the FSK
+   look-up table can provide a computationally cheap alternative without
+   much sacrifice in accuracy.}},
+DOI = {{10.1016/j.jqsrt.2015.08.017}}}
+
+@INPROCEEDINGS{96Joxxxx.all,
+  author = {J{\o}rgensen, U. G.},
+   title = "{Cool star models}",
+booktitle = {Molecules in Astrophysics: Probes \& Processes},
+    year = 1996,
+  series = {IAU Symposium},
+  publisher = {Kluwer},
+  volume = 178,
+  editor = "{E.~F.~van Dishoeck}",
+   pages = {441}
+}
+
+@article{ 11Kurucz.db,
+Author = {Kurucz, Robert L.},
+Title = {Including all the lines},
+Journal = {Can. J. Phys.},
+Year = {2011},
+Volume = {89},
+Pages = {417-428},
+Abstract = {I present a progress report on including all the lines in the line
+   lists, including all the lines in the opacities, and including all the
+   lines in the model atmosphere and spectrum synthesis calculations. The
+   increased opacity will improve stellar atmosphere, pulsation, stellar
+   interior, asteroseismology, nova, supernova, and other
+   radiation-hydrodynamics calculations. I also report on producing
+   high-resolution, high-signal-to-noise atlases for use in verifying the
+   line data and spectrum calculations, and as tools for extending
+   laboratory spectrum analyses to higher energy levels. All the data are
+   available on my web site: kurucz.harvard.edu.}}
+
+
+@misc{93Kuxxxx.CD,
+  title = " CD-ROM 13, 14, 18, 23",
+  year = 1993,
+  author = { Kurucz, R. L},
+}
+
+@misc{95Kuxxxx.CD,
+  title = " CD-ROM 15",
+  year = 1995,
+  author = { Kurucz, R. L},
+  publisher =  {Cambridge, Mass.: Smithsonian Astrophysical Observatory},
+}
+
+
+@article{ 89JoAlSi.C3,
+Author = {J{\o}rgensen, U. G. and  Alml{\"o}f, J. and  Siegbahn, P. E. M.},
+Year = {1989},
+Volume = {343},
+Pages = {554},
+Journal = ApJ,
+}
+
+@article{ 96JoLaIw.CH,
+Author = {J{\o}rgensen, U. G. and   Larsson, M. and Iwamae, A. and Yu, B.},
+Year = {1996},
+Volume = {315},
+Pages = {204},
+Journal = AA,
+}
+
+
+@article{ 89Joxxxx.C2H2,
+Author = {J{\o}rgensen, U G},
+Title = {THE INFRARED-SPECTRUM OF TX PISCIUM},
+Journal = APJ,
+Year = {1989},
+Volume = {344},
+Number = {2, Part 1},
+Pages = {901-906},
+Month = {SEP 15},
+DOI = {10.1086/167857},
+ISSN = {0004-637X},
+Times-Cited = {25},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1989AP72300034},
+}
+
+
+@ARTICLE{HITRAN2008,
+  author = {Rothman, L. S. and Gordon, I. E. and Barbe, A. and Benner, D. Chris and Bernath, P. F. and Birk, M. and Boudon, V. and Brown, L. R. and
+   Campargue, A. and Champion, J. -P. and Chance, K. and Coudert, L. H. and Dana, V. and Devi, V. M. and Fally, S. and Flaud, J. -M. and
+   Gamache, R. R. and Goldman, A. and Jacquemart, D. and Kleiner, I. and Lacome, N. and Lafferty, W. J. and Mandin, J. -Y. and Massie, S. T. and
+   Mikhailenko, S. N. and Miller, C. E. and Moazzen-Ahmadi, N. and Naumenko, O. V. and Nikitin, A. V. and Orphal, J. and Perevalov, V. I.
+   and Perrin, A. and Predoi-Cross, A. and Rinsland, C. P. and Rotger, M. and Simeckova, M. and Smith, M. A. H. and Sung, K. and Tashkun, S. A.  and Tennyson, J. and Toth, R. A. and Vandaele, A. C. and Vander Auwera, J.},
+title = {The HITRAN 2008 Molecular Spectroscopic Database},
+  journal = JQSRT,
+  year = {2009},
+  volume = {110},
+  pages = {553-572},
+  abstract = {This paper describes the status of the 2008 edition of the HITRAN
+	molecular spectroscopic database. The new edition is the first official
+	public release since the 2004 edition, although a number of crucial
+	updates had been made available online since 2004. The HITRAN compilation
+	consists of several components that serve as input for radiative-transfer
+	calculation codes: individual line parameters for the microwave through
+	visible spectra of molecules in the gas phase; absorption cross-sections
+	for molecules having dense spectral features, i.e. spectra in which
+	the individual lines are not resolved; individual line parameters
+	and absorption cross-sections for bands in the ultraviolet; refractive
+	indices of aerosols, tables and files of general properties associated
+	with the database; and database management software. The line-by-line
+	portion of the database contains spectroscopic parameters for 42
+	molecules including many of their isotopologues.},
+  file = {09RoGoBa.pdf:HITRAN/09RoGoBa.pdf:PDF},
+  owner = {clarasousasilva},
+  timestamp = {2012.01.09}
+}
+
+
+@ARTICLE{98PiPoCo.db,
+  author = {Pickett, H M and Poynter, R L and Cohen, E A and Delitsky, M L and
+	Pearson, J C and {M\"uller}, H S P},
+  title = {Submillimeter, millimeter, and microwave spectral line catalog},
+  journal = JQSRT,
+  year = {1998},
+  volume = {60},
+  pages = {883-890},
+  timestamp = {2012.10.08}
+}
+
+@article{ 92RoGaTi.db,
+Author = {Rothman, LS and Gamache, R R and Tipping, R H and Rinsland, C P and Smith,
+   M A H and Benner, D C and Devi, V M and Flaud, J M and Camy-Peyret, C and
+   Perrin, A and Goldman, A and Massie, S T and Brown, L R and TOTH, R A},
+Title = {THE HITRAN MOLECULAR DATABASE - EDITIONS OF 1991 AND 1992},
+Journal = JQSRT,
+Year = {1992},
+Volume = {48},
+Number = {5-6},
+Pages = {469-507},
+Month = {NOV-DEC},
+Abstract = {We describe in this paper the modifications, improvements, and
+   enhancements to the HITRAN molecular absorption database that have
+   occurred in the two editions of 1991 and 1992. The current database
+   includes line parameters for 31 species and their isotopomers that are
+   significant for terrestrial atmospheric studies. This line-by-line
+   portion of HITRAN presently contains about 709,000 transitions between 0
+   and 23,000 cm-1 and contains three molecules not present in earlier
+   versions: COF2, SF6, and H2S. The HITRAN compilation has substantially
+   more information on chlorofluorocarbons and other molecular species that
+   exhibit dense spectra which are not amenable to line-by-line
+   representation. The user access of the database has been advanced, and
+   new media forms are now available for use on personal computers.},
+DOI = {10.1016/0022-4073(92)90115-K},
+ISSN = {0022-4073},
+Times-Cited = {1335},
+Journal-ISO = {J. Quant. Spectrosc. Radiat. Transf.},
+}
+
+@article{ 92GaRoxx.db,
+Author = {Gamache, R R and Rothman, L S},
+Title = {EXTENSION OF THE HITRAN DATABASE TO NON-LTE APPLICATIONS},
+Journal = JQSRT,
+Year = {1992},
+Volume = {48},
+Number = {5-6},
+Pages = {519-525},
+Month = {NOV-DEC},
+Abstract = {A new parameter has been added to the compilation of atmospheric
+   molecular spectroscopic data. This compilation contains fundamental
+   parameters required for simulations of transmission and radiance
+   calculations of molecular absorption properties due to rotational and
+   vibration-rotation transitions. The new quantity is the weighted
+   transition moment squared which is independent of both isotopic
+   abundance and temperature. It fulfills a needed niche for upper
+   atmospheric non-local thermodynamic equilibrium calculations in that it
+   is directly proportional to the Einstein coefficients. In this paper, we
+   review the development of this quantity as well as present relationships
+   between the Einstein coefficients and oscillator strengths to the
+   transition moment and other parameters on the compilation.},
+DOI = {10.1016/0022-4073(92)90117-M},
+ISSN = {0022-4073},
+Times-Cited = {20},
+Journal-ISO = {J. Quant. Spectrosc. Radiat. Transf.},
+}
+
+
+@article{ HAPI,
+Author = {R. V. Kochanov and I. E. Gordon and C. Hill and P. Wcis{\l}o and J. S. Wilzewski and L. S. Rothman},
+Title = {{The HITRAN molecular spectroscopic database: edition of 2000 including
+   updates through 2001}},
+Journal = JQSRT,
+year  = {2016},
+pages = {(in preparation)}}
+
+@article{ Honline,
+Author = {C. Hill and  I. E. Gordon and R. V. Kochanov and L. Barrett and L. S. Rothman},
+Title = {{HITRANonline: A modern online interface and the flexible representation of spectroscopic data in the HITRAN database}},
+Journal = JQSRT,
+year  = {2016},
+pages = {(in preparation)}}
+
+
+@article{ 01RoBaBe.db,
+Author = {Rothman, L S and Barbe, A and Benner, D C and Brown, L R and Camy-Peyret, C
+   and Carleer, M R and Chance, K and Clerbaux, C and Dana, V and Devi, V M
+   and Fayt, A and Flaud, J M and Gamache, R R and Goldman, A and Jacquemart,
+   D and Jucks, K W and Lafferty, W J and Mandin, J Y and Massie, S T and
+   Nemtchinov, V and Newnham, D A and Perrin, A and Rinsland, C P and
+   Schroeder, J and Smith, K M and Smith, M A H and Tang, K and Toth, R A and
+   Vander Auwera, J and Varanasi, P and Yoshino, K},
+Title = {The HITRAN molecular spectroscopic database: edition of 2000 including
+   updates through 2001},
+Journal = JQSRT,
+Year = {2003},
+Volume = {82},
+Number = {1-4},
+Pages = {5-44},
+Month = {NOV-DEC},
+Abstract = {This paper describes the status circa 2001, of the HITRAN compilation
+   that comprises the public edition available through 2001. The HITRAN
+   compilation consists of several components useful for radiative transfer
+   calculation codes: high-resolution spectroscopic parameters of molecules
+   in the gas phase, absorption cross-sections for molecules with very
+   dense spectral features, aerosol refractive indices, ultraviolet
+   line-by-line parameters and absorption cross-sections, and associated
+   database management software. The line-by-line portion of the database
+   contains spectroscopic parameters for 38 molecules and their
+   isotopologues and isotopomers suitable for calculating atmospheric
+   transmission and radiance properties. Many more molecular species are
+   presented in the infrared cross-section data than in the previous
+   edition, especially the chlorofluorocarbons and their replacement gases.
+   There is now sufficient representation so that quasi-quantitative
+   simulations can be obtained with the standard radiance codes.
+   In addition to the description and justification of new or modified data
+   that have been incorporated since the last edition of HITRAN (1996),
+   future modifications are indicated for cases considered to have a
+   significant impact on remote-sensing experiments. (C) 2003 Elsevier Ltd.
+   All rights reserved.},
+DOI = {10.1016/S0022-4073(03)00146-8},
+ISSN = {0022-4073},
+Times-Cited = {690},
+Journal-ISO = {J. Quant. Spectrosc. Radiat. Transf.},
+}
+
+@article{ 98RoRiGo.db,
+Author = {Rothman, L S and Rinsland, C P and Goldman, A and Massie, S T and Edwards,
+   DP and Flaud, J M and Perrin, A and Camy-Peyret, C and Dana, V and
+   Mandin, J Y and Schroeder, J and McCann, A and Gamache, R R and Wattson,
+   RB and Yoshino, K and Chance, K V and Jucks, K W and Brown, L R and
+   Nemtchinov, V and Varanasi, P},
+Title = {The HITRAN molecular spectroscopic database and HAWKS (HITRAN
+   Atmospheric Workstation): 1996 edition},
+Journal = JQSRT,
+Year = {1998},
+Volume = {60},
+Number = {5},
+Pages = {665-710},
+Month = {NOV},
+Abstract = {Since its first publication in 1973, the HITRAN molecular spectroscopic
+   database has been recognized as the international standard for providing
+   the necessary fundamental spectroscopic parameters for diverse
+   atmospheric and laboratory transmission and radiance calculations. There
+   have been periodic editions of HITRAN over the past decades as the
+   database has been expanded and improved with respect to the molecular
+   species and spectral range covered, the number of parameters included,
+   and the accuracy of this information. The 1996 edition not only includes
+   the customary line-by-line transition parameters familiar to HITRAN
+   users, but also cross-section data, aerosol indices of refraction,
+   software to filter and manipulate the data, and documentation. This
+   paper describes the data and features that have been added or replaced
+   since the previous edition of HITRAN. We also cite instances of critical
+   data that are forthcoming. Published by Elsevier Science Ltd.},
+DOI = {10.1016/S0022-4073(98)00078-8},
+ISSN = {0022-4073},
+Times-Cited = {1416},
+Journal-ISO = {J. Quant. Spectrosc. Radiat. Transf.},
+}
+
+
+@article{ 96WaLiHi.db,
+Author = {Wallace, L and Livingston, W and Hinkle, K and Bernath, P},
+Title = {Infrared spectral atlases of the sun from noao},
+Journal = APJS,
+Year = {1996},
+Volume = {106},
+Number = {1},
+Pages = {165-169},
+Month = {SEP},
+Abstract = {We have prepared a series of four solar spectral atlases. The atlases
+   illustrate the disk center photospheric spectrum from 0.7 to 22 mu m and
+   the sunspot umbral spectrum from 1.2 to 21 mu m. The spectra were
+   observed at high resolution (lambda/Delta/lambda similar to 300,000)
+   with the Fourier transform spectrometer (FTS) at the McMath-Pierce solar
+   telescope on Kitt Peak. When possible, solar observations at different
+   air masses and on different days have allowed the less opaque telluric
+   lines to be effectively removed from the program spectrum. The solar
+   lines have been identified by searching the literature on atomic and
+   molecular laboratory spectroscopy and when necessary by additional
+   laboratory spectroscopy. Many new identifications have been made,
+   including numerous SiO and hot water lines in the sunspot spectrum.},
+DOI = {10.1086/192333},
+ISSN = {0067-0049},
+Times-Cited = {47},
+Journal-ISO = {Astrophys. J. Suppl. Ser.},
+}
+
+@Article{ HITRAN2012,
+author = "L. S. Rothman and I. E. Gordon and Y. Babikov and A. Barbe and D. Chris Benner and P. F. Bernath and M. Birk and L. Bizzocchi and V. Boudon and L. R. Brown and A. Campargue and K. Chance and E. A. Cohen and L. H. Coudert and V. M. Devi and B. J. Drouin and A. Fayt and J.-M. Flaud and R. R. Gamache and J. J. Harrison and J.-M. Hartmann and C. Hill and J. T. Hodges and D. Jacquemart and A. Jolly and J. Lamouroux and R. J. {Le Roy} and G. Li and D. A. Long and O. M. Lyulin and C. J. Mackie and S. T. Massie and S. Mikhailenko and H. S. P. M{\"u}ller and O. V. Naumenko and A. V. Nikitin and J. Orphal and V. Perevalov and A. Perrin and E. R. Polovtseva and C. Richard and M. A. H. Smith and E. Starikova and K. Sung and S. Tashkun and J. Tennyson and G. C. Toon and Vl. G. Tyuterev and G. Wagner",
+title = {{The {\it HITRAN} 2012 molecular spectroscopic database}},
+journal = JQSRT,
+year  = {2013},
+volume = "130",
+pages = "4 - 50",
+doi = {10.1016/jqsrt.2013.07.002},
+OPTfile_num = {557}
+}
+
+
+@article{ PNNL,
+Author = {Sharpe, S W and Johnson, T J and Sams, R L and Chu, P M and Rhoderick, G C
+   and Johnson, P A},
+Title = {Gas-phase databases for quantitative infrared spectroscopy},
+Journal = {Appl. Spectrosc.},
+Year = {2004},
+Volume = {58},
+Pages = {1452-1461},
+Abstract = {The National Institute of Standards and Technology (NIST) and the
+   Pacific Northwest National Laboratory (PNNL) are each creating
+   quantitative databases containing the vapor-phase infrared spectra of
+   pure chemicals. The digital databases have been created with both
+   laboratory and remote-sensing applications in mind. A spectral
+   resolution of approximate to0.1 cm(-1) was selected to avoid degrading
+   sharp spectral features, while also realizing that atmospheric
+   broadening typically limits line widths to 0.1 cm(-1). Calculated
+   positional (wave-number, cm(-1)) uncertainty is less than or equal
+   to0.005 cm(-1), while the 1sigma, statistical uncertainty in absorbance
+   values is <2\% for most compounds. The latter was achieved by measuring
+   multiple (typically 9) path length-concentration burdens and fitting a
+   weighted Beer's law plot to each wavenumber channel. The two databases
+   include different classes of compounds and were compared using 12
+   samples. Though these 12 samples span a range of polarities, absorption
+   strengths, and vapor pressures, the data agree to within experimental
+   uncertainties with only one exception.},
+DOI = {10.1366/0003702042641281},
+Keywords = {database; quantitative; gas-phase; infrared; Fourier transform infrared
+   spectroscopy; FT-IR},
+Keywords-Plus = {FOURIER-TRANSFORM SPECTROSCOPY; FT-IR; DETECTOR NONLINEARITY; LINE
+   STRENGTHS; SPECTRA; SPECTROMETRY; PARAMETERS; ARTIFACTS; EMISSION},
+}
+
+
+@misc{NIST,
+    author = {Ralchenko, Yu and Kramida, A. E. and Reader, J. and {NIST ASD Team}},
+    institution = {National Institute of Standards and Technology, Gaithersburg, MD},
+    posted-at = {2009-09-27 22:15:11},
+    priority = {0},
+    title = {{NIST Atomic Spectra Database (version 3.1.5)}},
+    url = {http://www.nist.gov/pml/data/asd.cfm},
+    year = {2008}
+}
+
+@ARTICLE{cdms,
+ author = {{M\"uller}, H S P and {Schl\"oder}, F and Stutzki, J and Winnewisser, G},
+ title = {{The Cologne database for molecular spectroscopy, CDMS: a useful tool for astronomers andspectroscopists}},
+Journal = THEOCHEM,
+ year = {2005},
+ volume = {742},
+ pages = {215-227}}
+
+
+@article{03FiGaGo.pf,
+Author = {J. Fischer and  R. R. Gamache and A. Goldman and L. S. Rothman and A. Perrin},
+Title = {{Total internal partition sums for molecular species in the 2000 edition of the HITRAN database}},
+Journal = JQSRT,
+Year = {2003},
+Volume = {82},
+Pages = {401-412}}
+
+
+@article{ 12PfVeCz.db,
+    author  = "B. Pfeiffer and K. Venkataramaniah and U. Czok and Scheidenberger",
+    journal = "Atomic Data and Nuclear Data Tables",
+    title   = "Atomic mass compilation 2012",
+    volume  = "100",
+    pages   = "403-535",
+    year    = "2012"
+}
+
+@article{15CoLixx,
+title = "A database of narrow-band parameters for fuels commonly encountered in fire applications ",
+journal = "Fire Safety J.",
+volume = "78",
+number = "",
+pages = "202 - 218",
+year = "2015",
+doi = "http://dx.doi.org/10.1016/j.firesaf.2015.10.002",
+author = "J. L. Consalvi and F. Liu",
+keywords = "Fuels",
+keywords = "Medium resolution transmission measurements",
+keywords = "Malkmus model",
+keywords = "Narrow band database",
+keywords = "Narrow band k-distributions",
+keywords = "Spectroscopic database ",
+abstract = {{Abstract The objective of this paper is to derive narrow band (NB) parameters for the Malkmus statistical narrow band model from the medium resolution transmission measurements carried out at \{NIST\} (Wakatsuki et al., Proc. Combust. Inst., vol. 31, 2007, pp. 2573–2580) up to about 1000 K for nine fuels commonly encountered in fire applications, namely methane, methanol, ethane, ethylene, propane, propylene, heptane, methyl methacrylate and toluene. These \{NB\} parameters can be used to generate a database of \{NB\} k-distributions of these fuels in order to apply the k-distribution methods to model their contributions to radiative heat transfer. The accuracy of this \{NB\} database, the \{EM2C\} \{NB\} database for methane (Perrin and Soufiani, JQSRT, vol. 103, 2007, pp. 3–13), and \{HITRAN\} 2012 for methane, methanol, ethane, and ethylene is assessed by comparison with the measured medium resolution transmissivities and spectrally-integrated radiative properties. Results show that the \{EM2C\} database is the most accurate for methane over the entire range of the temperature and the fuel partial pressure path length considered. The line parameters in \{HITRAN\} 2012 are not available for some important bands of methanol, ethane and ethylene and this spectroscopic database cannot be used with confidence above 600 K. The Malkmus narrow band database derived in the present study is found to reproduce spectrally-integrated radiative properties with error less than 20\%, which suggests that it can be used for engineering applications. Finally, applications to radiation calculations along lines of sight with methane concentrations and temperatures representative of pool fires show that both the present Malkmus narrow band and the \{NIST\} databases can predict accurately the radiative intensity for small scale pool fires where as discrepancies of the order of 30\% are expected in the case of methane pool fires with a heat release rate of 176 kW.}}
+}
+
+@article{12RiSoxx,
+title = "Updated band model parameters for H2O, CO2, \{CH4\} and \{CO\} radiation at high temperature ",
+journal = "Intern. J. Heat Mass Transf. ",
+volume = "55",
+pages = "3349 - 3358",
+year = "2012",
+doi = "http://dx.doi.org/10.1016/j.ijheatmasstransfer.2012.03.019",
+author = "Philippe Rivi{\`e}re and Anouar Soufiani",
+keywords = "Statistical narrow-band model",
+keywords = "Correlated-k band model",
+keywords = "High temperature",
+keywords = "CO2",
+keywords = "H2O",
+keywords = "CH4",
+keywords = "CO infrared radiation ",
+keywords = "EM2C database",
+abstract = "Statistical narrow-band (SNB) model parameters for H2O, CO2, \{CH4\} and CO, and correlated-k (CK) parameters for \{H2O\} and \{CO2\} are generated from line by line calculations and recently improved spectroscopic databases in wide temperature and spectral ranges. Results from the new parameters are compared to direct line by line calculations and to results from earlier model parameters [A. Soufiani, J. Taine, High temperature gas radiative property parameters of statistical narrow-band model for H2O, \{CO2\} and \{CO\} and correlated-k (ck) model for \{H2O\} and CO2, Int. J. Heat Mass Transfer 40 (1997) 987–991] in terms of band averaged spectral transmissivities, Planck mean absorption coefficients, and total emissivities. The comparisons show first a good agreement between updated SNB, \{CK\} and \{LBL\} results. Significant improvements on earlier parameters are observed for \{H2O\} and CO2, especially at very high temperatures and path lengths. Model parameters and computer programs illustrating their implementation are provided as Supplementary data. "
+}
+
+@article{ 15PaWoSu,
+Author = {Parigger, Christian G. and Woods, Alexander C. and Surmick, David M. and
+   Gautam, Ghaneshwar and Witte, Michael J. and Hornkohl, James.},
+Title = {{Computation of diatomic molecular spectra for selected transitions of
+   aluminum monoxide, cyanide, diatomic carbon, and titanium monoxide}},
+Journal = SCAB,
+Year = {{2015}},
+Pages = {132-138},
+Abstract = {{Laser ablation studies with laser-induced breakdown spectroscopy (LIBS)
+   typically emphasize atomic species yet fingerprints from molecular
+   species can occur subsequently or concurrently. In this work, selected
+   molecular transitions of aluminum monixide (AlO), diatomic carbon (C-2),
+   cyanide (CN), and titanium monoxide (TiO) are accurately computed. Line
+   strength tables are used to describe the radiative transitions of
+   diatomic molecules primarily in the visible, optical region. Details are
+   elaborated of the computational procedure that allows one to utilize
+   diatomic spectra as a predictive and as a diagnostic tool. In order to
+   create a computed spectrum, the procedure requires information regarding
+   the temperature of the diatomic transitions along with other input such
+   as the spectral resolution. When combined with a fitting algorithm to
+   optimize such parameters, this procedure is used to infer information
+   from an experimentally obtained spectrum. Furthermore, the programs and
+   data files are provided for LIBS investigations that also reveal MO,
+   C-2, CN, and TiO diatomic spectra.}},
+DOI = {{10.1016/j.sab.2015.02.018}}}
+
+
+@ARTICLE{ 12TeYuxx.db,
+  author = {Tennyson, Jonathan and Yurchenko, Sergei N.},
+  title = {{ExoMol}: molecular line lists for exoplanet and other atmospheres},
+  journal = MNRAS,
+  year = {2012},
+  volume = {425},
+  pages = {21-33},
+  abstract = {The discovery of extrasolar planets is one of the major scientific
+	advances of the last two decades. Hundreds of planets have now been
+	detected and astronomers are beginning to characterize their composition
+	and physical characteristics. To do this requires a huge quantity
+	of spectroscopic data most of which are not available from laboratory
+	studies. The ExoMol project will offer a comprehensive solution to
+	this problem by providing spectroscopic data on all the molecular
+	transitions of importance in the atmospheres of exoplanets. These
+	data will be widely applicable to other problems and will be used
+	for studies on cool stars, brown dwarfs and circumstellar environments.
+	This paper lays out the scientific foundations of this project and
+	reviews previous work in this area. A mixture of first principles
+	and empirically tuned quantum mechanical methods will be used to
+	compute comprehensive and very large rotationvibration and rotationvibrationelectronic
+	line lists. Methodologies will be developed for treating larger molecules
+	such as methane and nitric acid. ExoMol will rely on these developments
+	and the use of state-of-the-art computing.},
+  doi = {10.1111/j.1365-2966.2012.21440.x},
+  journal-iso = {Mon. Not. Roy. Astron. Soc.},
+  times-cited = {1}
+}
+
+
+@Article{ 16TeYuAl.db ,
+author = {J. Tennyson and S. N. Yurchenko and A. F. Al-Refaie and E. J. Barton and K. L. Chubb and P. A. Coles and S. Diamantopoulou and M. N. Gorman and C. Hill and A. Z. Lam and L. Lodi and L. K. McKemmish and Y. Na and A. Owens and O. L. Polyansky and C. Sousa-Silva and D. S. Underwood and A. Yachmenev and E. Zak},
+title = {{The ExoMol database: molecular line lists for exoplanet and other hot atmospheres}},
+journal = JMS,
+year={2016},
+volume  = {},
+pages = {},
+notes={(submitted)},
+}
+
+@Article{VALD3,
+Author = {Ryabchikova, T. and Piskunov, N. and Kurucz, R. L. and Stempels, H. C.
+   and Heiter, U. and Pakhomov, Yu and Barklem, P. S.},
+Title = {{A major upgrade of the VALD database}},
+Journal = {Physica Scripta},
+Year = {{2015}},
+Volume = {{90}},
+Abstract = {{Vienna atomic line database (VALD) is a collection of critically
+   evaluated laboratory parameters for individual atomic transitions,
+   complemented by theoretical calculations. VALD is actively used by
+   astronomers for stellar spectroscopic studies-model atmosphere
+   calculations, atmospheric parameter determinations, abundance analysis
+   etc. The two first VALD releases contained parameters for atomic
+   transitions only. In a major upgrade of VALD-VALD3, publically available
+   from spring 2014, atomic data was complemented with parameters of
+   molecular lines. The diatomic molecules C-2, CH, CN, CO, OH, MgH, SiH,
+   TiO are now included. For each transition VALD provides species name,
+   wavelength, energy, quantum number J and Lande-factor of the lower and
+   upper levels, radiative, Stark and van der Waals damping factors and a
+   full description of electronic configurarion and term information of
+   both levels. Compared to the previous versions we have revised and
+   verify all of the existing data and added new measurements and
+   calculations for transitions in the range between 20 angstrom and 200
+   microns. All transitions were complemented with term designations in a
+   consistent way and electron configurations when available. All data were
+   checked for consistency: listed wavelength versus Ritz, selection rules
+   etc. A new bibliographic system keeps track of literature references for
+   each parameter in a given transition throughout the merging process so
+   that every selected data entry can be traced to the original source. The
+   query language and the extraction tools can now handle various units,
+   vacuum and air wavelengths. In the upgrade process we had an intensive
+   interaction with data producers, which was very helpful for improving
+   the quality of the VALD content.}},
+DOI = {{10.1088/0031-8949/90/5/054005}},
+pages = {054005}
+}
+
+
+@article{HITEMP1995,
+Author = {Rothman, L S and Wattson, R B and Gamache, R R and Schroeder, J and McCann, A},
+Title = {{HITRAN, HAWKS and HITEMP high-temperature molecular database}},
+Journal = {Proc. Soc. Photo. Opt. Instrum. Eng.},
+Year = {1995},
+Volume = {2471},
+Pages = {105-111}}
+
+@article{   HITRAN,
+   author = {Rothman, L. S. and Gordon, I. E. and Barber, R. J. and Dothe, H. and Gamache, R. R. and Goldman, A. and Perevalov, V. I. and Tashkun, S. A. and Tennyson, J.},
+   title = {HITEMP, the high-temperature molecular spectroscopic database},
+   journal = JQSRT,
+   volume = {111},
+   number = {15},
+   pages = {2139-2150},
+   abstract = {A new molecular spectroscopic database for high-temperature modeling of the spectra of molecules in the gas phase is described. This database, called HITEMP, is analogous to the HITRAN database but encompasses many more bands and transitions than HITRAN for the absorbers H2O, CO2, CO, NO, and OH. HITEMP provides users with a powerful tool for a great many applications: astrophysics, planetary and stellar atmospheres, industrial processes, surveillance, non-local thermodynamic equilibrium problems, and investigating molecular interactions, to name a few. The sources and implementation of the spectroscopic parameters incorporated into HITEMP are discussed. (C) 2010 Elsevier Ltd. All rights reserved.},
+   DOI = {10.1016/j.jqsrt.2010.05.001},
+   url = {<Go to ISI>://WOS:000281269800002},
+   year = {2010},
+   type = {Journal Article}
+}
+
+
+@article{ HITEMP2010,
+title = {HITEMP, the high-temperature molecular spectroscopic database },
+journal = {Journal of Quantitative Spectroscopy and Radiative Transfer },
+volume = {111},
+number = {15},
+pages = {2139 - 2150},
+year = {2010},
+note = {\{XVIth\} Symposium on High Resolution Molecular Spectroscopy (HighRus-2009)XVIth Symposium on High Resolution Molecular Spectroscopy },
+issn = {0022-4073},
+doi = {http://dx.doi.org/10.1016/j.jqsrt.2010.05.001},
+url = {http://www.sciencedirect.com/science/article/pii/S002240731000169X},
+author = {L.S. Rothman and I.E. Gordon and R.J. Barber and H. Dothe and R.R. Gamache and A. Goldman and V.I. Perevalov and S.A. Tashkun and J. Tennyson},
+keywords = {Spectroscopic database},
+keywords = {Molecular spectroscopy},
+keywords = {Molecular absorption},
+keywords = {Line parameters},
+keywords = {High-temperature spectroscopy},
+keywords = {HITEMP },
+abstract = {A new molecular spectroscopic database for high-temperature modeling of the spectra of molecules in the gas phase is described. This database, called HITEMP, is analogous to the \{HITRAN\} database but encompasses many more bands and transitions than \{HITRAN\} for the absorbers H2O, CO2, CO, NO, and OH. \{HITEMP\} provides users with a powerful tool for a great many applications: astrophysics, planetary and stellar atmospheres, industrial processes, surveillance, non-local thermodynamic equilibrium problems, and investigating molecular interactions, to name a few. The sources and implementation of the spectroscopic parameters incorporated into \{HITEMP\} are discussed. }
+}
+
+

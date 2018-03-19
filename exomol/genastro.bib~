@@ -1,0 +1,414 @@
+@article{12WoWaCo.C2H2,
+Author = {Woods, Paul M. and Walsh, C. and Cordiner, M. A. and Kemper, F.},
+Title = {The chemistry of extragalactic carbon stars},
+Journal = MNRAS,
+Year = {2012},
+Volume = {426},
+Pages = {2689-2702},
+Abstract = {Prompted by the ongoing interest in Spitzer Infrared Spectrometer
+   spectra of carbon stars in the Large Magellanic Cloud, we have
+   investigated the circumstellar chemistry of carbon stars in
+   low-metallicity environments. Consistent with observations, our models
+   show that acetylene is particularly abundant in the inner regions of low
+   metallicity carbon-rich asymptotic giant branch stars more abundant than
+   carbon monoxide. As a consequence, larger hydrocarbons have higher
+   abundances at the metallicities of the Magellanic Clouds than in stars
+   with solar metallicity. We also find that the oxygen and nitrogen
+   chemistry is suppressed at lower metallicity, as expected. Finally, we
+   calculate molecular line emission from carbon stars in the Large and
+   Small Magellanic Cloud and find that several molecules should be readily
+   detectable with the Atacama Large Millimeter Array at Full Science
+   operations.},
+DOI = {10.1111/j.1365-2966.2012.21771.x},
+Keywords = {Astrochemistry; stars: AGB and post-AGB; stars: carbon; circumstellar
+   matter; infrared: stars; submillimetre: stars},
+Keywords-Plus = {LARGE-MAGELLANIC-CLOUD; GIANT BRANCH STARS; MASS-LOSS RATES; RICH
+   AGB-STARS; 2-DIMENSIONAL RADIATIVE-TRANSFER; ENVELOPE SURROUNDING
+   IRC+10216; INFRARED EXTINCTION LAW; DUST FORMATION ZONE; TO-GAS RATIO;
+   CIRCUMSTELLAR ENVELOPES},
+}
+
+@article{12McKhAm.C2H2,
+Author = {McKay, C. P. and Khare, B. N. and Amin, R. and Klasson, M. and Kral, T.
+   A.},
+Title = {{Possible sources for methane and C-2-C-5 organics in the plume of
+   Enceladus}},
+Journal = PSS,
+Year = {2012},
+Volume = {71},
+Pages = {73-79},
+Abstract = {We consider six possible sources of CH4 and other lowmass (C-2-C-5)
+   organics in the plume of Enceladus: three of these sources represent
+   initial endowments of organics: cometary organics, Titan-like tholin,
+   and the Fisher-Tropsch type reactions in the gases from which Enceladus
+   formed. The other three sources represent processes inside Enceladus:
+   water-rock reactions, microbiology, and thermogenesis. We report on new
+   laboratory results for C-2 hydrocarbons released by thermogenesis of
+   laboratory tholin and the Fisher-Tropsch type synthesis. Thermal
+   processing of Titan-like tholin produced ratios of CH4/C2H4 and CH4/C2H6
+   of about two for temperatures up to 450 degrees C and about six for a
+   temperature of 650 degrees C. The low pressure (similar to 1 atm)
+   Fisher-Tropsch type experiments produced CH4/C2H4 of similar to 1.5,
+   similar to previous results. C2H2 was not produced by either process.
+   Tests of gas production by four strains of methanogens confirmed the
+   absence of any detectable production of non-methane hydrocarbons.
+   Cometary endowment, the Fisher-Tropsch type synthesis, and Titan-like
+   tholin incorporation could be primary inputs of organics and subsequent
+   thermal processing of any of these all are possible sources of low mass
+   organics in the plume. Biological production and water-rock reactions
+   are an alternative source of CH4. Aqueous reactions with CO and H-2 can
+   produce C-2-C-5 organics even at the low pressures of the interior of
+   Enceladus. If there is a confirmed detection of CO and C2H2 in the plume
+   of Enceladus, this provides an important constraint on sources, as we
+   have identified no process, other than the initial volatile component of
+   cometary organics, which can supply these gases. Precise determination
+   of the relative concentrations of C-1-C-5 hydrocarbons may provide
+   additional constraints on sources, but a detailed isotopic analysis of C
+   and H in these organics and a search for amino acids constitute the next
+   important steps in resolving the sources of the organics in Enceladus'
+   plume. },
+DOI = {10.1016/j.pss.2012.07.011},
+Keywords = {Enceladus; Plume; Organics; Methane; Acetylene},
+Keywords-Plus = {OUTER SOLAR-SYSTEM; EARLY EARTH; HYDROTHERMAL CONDITIONS; PREBIOTIC
+   CHEMISTRY; ORIGIN; TITAN; LIFE; HYDROCARBONS; EVOLUTION; SURFACE},
+}
+
+@article{11BaCaxx.C2H2,
+Author = {Balucani, Nadia and Casavecchia, Piergiorgio},
+Title = {{Crossed molecular beam studies of astronomically relevant bimolecular
+   reactions}},
+Journal = {RENDICONTI LINCEI-SCIENZE FISICHE E NATURALI},
+Year = {2011},
+Volume = {22},
+Pages = {173-181},
+Abstract = {A variety of molecular species, from simple diatoms to complex
+   polyatomic molecules, have been identified in many gaseous
+   extraterrestrial environments, such as the atmospheres of solar planets
+   and satellites, exoplanets, cometary comae and the interstellar medium.
+   The detection of relatively complex molecules can be taken as evidence
+   that some chemical evolution has occurred. The modeling of such
+   evolution requires the knowledge of all the important elementary
+   reactions, which should be identified and included with the appropriate
+   parameters, possibly determined in laboratory experiments. Among the
+   different types of processes which are called into play, gas-phase
+   neutral-neutral bimolecular reactions are expected to play a major role.
+   In this paper, the contributions made by the crossed molecular beam
+   investigations of neutral-neutral bimolecular reactions will be
+   illustrated. In particular, recent achievements obtained in our
+   laboratory and concerning the identification of the reaction products
+   and their branching ratios, an essential piece of information for the
+   building up of a realistic modeling of the above-mentioned environments,
+   will be illustrated.},
+DOI = {10.1007/s12210-011-0128-2},
+Keywords = {Elementary reactions; Chemistry of planetary atmospheres; Chemistry of
+   the interstellar medium},
+Keywords-Plus = {SOFT ELECTRON-IONIZATION; ELEMENTARY REACTIONS; LABORATORY
+   INVESTIGATIONS; AB-INITIO; DYNAMICS; SCATTERING; ATOMS; PHOTOCHEMISTRY;
+   ATMOSPHERE; ACETYLENE},
+}
+
+@article{11MoViFo.C2H2,
+Author = {Moses, Julianne I. and Visscher, C. and Fortney, J. J. and Showman, A.
+   P. and Lewis, N. K. and Griffith, C. A. and Klippenstein, S. J. and
+   Shabram, M. and Friedson, A. J. and Marley, M. S. and Freedman, R. S.},
+Title = {{DISEQUILIBRIUM CARBON, OXYGEN, AND NITROGEN CHEMISTRY IN THE ATMOSPHERES
+   OF HD 189733b AND HD 209458b}},
+Journal = ApJ,
+Year = {2011},
+Volume = {737},
+Abstract = {We have developed a one-dimensional photochemical and thermochemical
+   kinetics and diffusion model to study the effects of disequilibrium
+   chemistry on the atmospheric composition of ``hot-Jupiter{''}
+   exoplanets. Here we investigate the coupled chemistry of neutral carbon,
+   hydrogen, oxygen, and nitrogen species on HD 189733b and HD 209458b and
+   we compare the model results with existing transit and eclipse
+   observations. We find that the vertical profiles of molecular
+   constituents are significantly affected by transport-induced quenching
+   and photochemistry, particularly on the cooler HD 189733b; however, the
+   warmer stratospheric temperatures on HD 209458b help maintain
+   thermochemical equilibrium and reduce the effects of disequilibrium
+   chemistry. For both planets, the methane and ammonia mole fractions are
+   found to be enhanced over their equilibrium values at pressures of a few
+   bar to less than an mbar due to transport-induced quenching, but CH4 and
+   NH3 are photochemically removed at higher altitudes. Disequilibrium
+   chemistry also enhances atomic species, unsaturated hydrocarbons
+   (particularly C2H2), some nitriles (particularly HCN), and radicals like
+   OH, CH3, and NH2. In contrast, CO, H2O, N-2, and CO2 more closely follow
+   their equilibrium profiles, except at pressures less than or similar to
+   1 mu bar, where CO, H2O, and N-2 are photochemically destroyed and CO2
+   is produced before its eventual high-altitude destruction. The enhanced
+   abundances of CH4, NH3, and HCN are expected to affect the spectral
+   signatures and thermal profiles of HD 189733b and other relatively cool,
+   transiting exoplanets. We examine the sensitivity of our results to the
+   assumed temperature structure and eddy diffusion coefficients and
+   discuss further observational consequences of these models.},
+DOI = {10.1088/0004-637X/737/1/15},
+pages = {15},
+Keywords = {planetary systems; planets and satellites: atmospheres; planets and
+   satellites: composition; planets and satellites: individual (HD 189733b,
+   HD 209458b); stars: individual (HD 189733, HD 209458)},
+Keywords-Plus = {EXTRASOLAR GIANT PLANETS; INFRARED-EMISSION-SPECTRUM; HOT JUPITER
+   ATMOSPHERES; HUBBLE-SPACE-TELESCOPE; EVALUATED KINETIC-DATA; TITANS
+   UPPER-ATMOSPHERE; DWARF GLIESE 229B; NEPTUNE GJ 436B; BROWN DWARFS; MU-M},
+}
+
+@inproceedings{11MaCaxx.C2H2,
+Author = {Malek, S. E. and Cami, J.},
+Editor = {Kerschbaum, F and Lebzelter, T and Wing, R F},
+Title = {The Rich Carbon Chemistry of SMP LMC 11},
+Booktitle = {WHY GALAXIES CARE ABOUT AGB STARS II: SHINING EXAMPLES AND COMMON
+   INHABITANTS},
+Series = ASPCS,
+Year = {2011},
+Volume = {445},
+Pages = {347-348},
+Note = {Conference on Why Galaxies Care About AGB Stars II: Shining Examples and
+   Common Inhabitants, Univ Campus, Vienna, AUSTRIA, AUG 16-20, 2010},
+Abstract = {We present an analysis of the Spitzer IRS spectrum of the
+   proto-planetary nebula SMP LMC II. This spectrum displays unusually
+   strong absorption bands from cool, carbon-rich gas, including benzene
+   (C6H6), (poly)acetylenes (C2H2, C4H2 and C6H2), HC3N, and propyne
+   (CH3C2H); HCN on the other hand is at best marginally present. We derive
+   column densities and temperatures by modelling the molecular absorption.
+   While the relative abundances of the polyacetylenes are consistent with
+   chemical models for the outer envelopes of evolved carbon stars, those
+   for HC3N and HCN are not. It is not clear whether the presence of
+   benzene indicates an efficient means of formation, or instead a
+   protective environment that inhibits photo-destruction.},
+ISBN = {978-1-58381-770-4},
+Keywords-Plus = {PROTOPLANETARY NEBULAE; MOLECULES; BENZENE},
+}
+
+@article{09LaZiSl.C2H2,
+Author = {Lagadec, Eric and Zijlstra, Albert A. and Sloan, G. C. and Wood, Peter
+   R. and Matsuura, Mikako and Bernard-Salas, Jeronimo and Blommaert, J. A.
+   D. L. and Cioni, M. -R. L. and Feast, M. W. and Groenewegen, M. A. T.
+   and Hony, Sacha and Menzies, J. W. and van Loon, J. Th. and Whitelock,
+   P. A.},
+Title = {Metal-rich carbon stars in the Sagittarius dwarf spheroidal galaxy},
+Journal = MNRAS,
+Year = {2009},
+Volume = {396},
+Pages = {598-608},
+Abstract = {We present spectroscopic observations from the Spitzer Space Telescope
+   of six carbon-rich asymptotic giant branch (AGB) stars in the
+   Sagittarius dwarf spheroidal galaxy (Sgr dSph) and two foreground
+   Galactic carbon stars. The band strengths of the observed C(2)H(2) and
+   SiC features are very similar to those observed in Galactic AGB stars.
+   The metallicities are estimated from an empirical relation between the
+   acetylene optical depth and the strength of the SiC feature. The
+   metallicities are higher than those of the Large Magellanic Cloud, and
+   close to Galactic values. While the high metallicity could imply an age
+   of around 1 Gyr, for the dusty AGB stars, the pulsation periods suggest
+   ages in excess of 2 or 3 Gyr. We fit the spectra of the observed stars
+   using the DUSTY radiative transfer model and determine their dust
+   mass-loss rates to be in the range 1.0-3.3 x 10(-8) M(circle dot)
+   yr(-1). The two Galactic foreground carbon-rich AGB stars are located at
+   the far side of the solar circle, beyond the Galactic Centre. One of
+   these two stars shows the strongest SiC feature in our present Local
+   Group sample.},
+DOI = {10.1111/j.1365-2966.2009.14736.x},
+Keywords = {stars: AGB and post-AGB; stars: carbon; circumstellar matter; stars:
+   mass-loss; galaxies: individual: Sagittarius dwarf spheroidal; infrared:
+   stars},
+Keywords-Plus = {LARGE-MAGELLANIC-CLOUD; GIANT BRANCH STARS; SPITZER-SPACE-TELESCOPE;
+   MASS-LOSS RATES; AGB-STARS; INFRARED-EMISSION; EVOLVED STARS; GALACTIC
+   HALO; MU-M; METALLICITY},
+}
+
+@article{05SeNaxx.C2H2,
+Author = {Segura, A and Navarro-Gonzalez, R},
+Title = {{Production of low molecular weight hydrocarbons by volcanic eruptions on
+   early Mars}},
+Journal = {ORIGINS OF LIFE AND EVOLUTION OF THE BIOSPHERE},
+Year = {2005},
+Volume = {35},
+Pages = {477-487},
+Abstract = {Methane and other larger hydrocarbons have been proposed as possible
+   greenhouse gases on early Mars. In this work we explore if volcanic
+   processes may have been a source for such molecules based on theoretical
+   and experimental considerations. Geologic evidence and numerical
+   simulations indicate that explosive volcanism was widely distributed
+   throughout Mars. Volcanic lightning is typically produced in such
+   explosive volcanism. Therefore this geologic setting was studied to
+   determine if lightning could be a source for hydrocarbons in volcanic
+   plumes. Volcanic lightning was simulated by focusing a high-energy
+   infrared laser beam inside of a Pyrex reactor that contained the
+   proposed volcanic gas mixture composed of 64\% CH4, 24\% H-2, 10\% H2O
+   and 2\% N-2, according to an accretion model and the nitrogen content
+   measured in Martian meteorites. The analysis of products was performed
+   by gas chromatography coupled to infrared and mass spectroscopy. Eleven
+   hydrocarbons were identified among the products, of which acetylene
+   (C2H2) was the most abundant. A thermochemical model was used to
+   determine which hydrocarbons could arise only from volcanic heat. In
+   this case, acetylene and ethylene are formed at magmatic temperatures.
+   Our results indicate that explosive volcanism may have injected into the
+   atmosphere of early Mars similar to 6 x 10(12) g yr(-1) of acetylene,
+   and similar to 2 x 10(12) g yr(-1) of 1,3-butadiyne, both produced by
+   volcanic lightning, similar to 5 x 10(11) g yr(-1) of ethylene produced
+   by volcanic heat, and 10(13) g yr(-1) of methane.},
+DOI = {10.1007/s11084-005-6420-3},
+Keywords = {explosive volcanism; hydrocarbons; lightning; magmatic gases; Mars;
+   Martian atmosphere; volcanic activity; volcanic lightning},
+Keywords-Plus = {CORE FORMATION; EVOLUTION; EARTH; LIFE; SIMULATION; ORIGIN; CLOUDS; AIR},
+}
+
+@article{05MaZiLo.C2H2,
+Author = {Matsuura, M and Zijlstra, AA and van Loon, JT and Yamamura, I and
+   Markwick, AJ and Whitelock, PA and Woods, PM and Marshall, JR and Feast,
+   MW and Waters, LBFM},
+Title = {{Three-micron spectra of AGB stars and supergiants in nearby galaxies}},
+Journal = AA,
+Year = {2005},
+Volume = {434},
+Pages = {691-706},
+Abstract = {The dependence of stellar molecular bands on the metallicity is studied
+   using infrared L- band spectra of AGB stars ( both carbon- rich and
+   oxygen- rich) and M- type supergiants in the Large and Small Magellanic
+   Clouds ( LMC and SMC) and in the Sagittarius Dwarf Spheroidal Galaxy.
+   The spectra cover SiO bands for oxygen- rich stars, and acetylene (
+   C2H2), CH and HCN bands for carbon- rich AGB stars. The equivalent width
+   of acetylene is found to be high even at low metallicity. The high C2H2
+   abundance can be explained with a high carbon- to- oxygen ( C/ O) ratio
+   for lower metallicity carbon stars. In contrast, the HCN equivalent
+   width is low: fewer than half of the extra- galactic carbon stars show
+   the 3.5 $\mu$m HCN band, and only a few LMC stars show high HCN equivalent
+   width. HCN abundances are limited by both nitrogen and carbon elemental
+   abundances. The amount of synthesized nitrogen depends on the initial
+   mass, and stars with high luminosity ( i. e. high initial mass) could
+   have a high HCN abundance. CH bands are found in both the extra-
+   galactic and Galactic carbon stars. One SMC post- AGB star, SMC- S2,
+   shows the 3.3 $\mu$m PAH band. This first detection of a PAH band from an
+   SMC post- AGB star confirms PAHs can form in these low- metallicity
+   stars. None of the oxygen- rich LMC stars show SiO bands, except one
+   possible detection in a low quality spectrum. The limits on the
+   equivalent widths of the SiO bands are below the expectation of up to 30
+   angstrom for LMC metallicity. Several possible explanations are
+   discussed, mostly based on the effect of pulsation and circumstellar
+   dust. The observations imply that LMC and SMC carbon stars could reach
+   mass- loss rates as high as their Galactic counterparts, because there
+   are more carbon atoms available and more carbonaceous dust can be
+   formed. On the other hand, the lack of SiO suggests less dust and lower
+   mass- loss rates in low- metallicity oxygen- rich stars. The effect on
+   the ISM dust enrichment is discussed.},
+DOI = {10.1051/0004-6361:20042305},
+Keywords = {stars : AGB and post-AGB; infrared : stars; galaxies : stellar content;
+   stars : atmospheres},
+Keywords-Plus = {LARGE-MAGELLANIC-CLOUD; ASYMPTOTIC GIANT BRANCH; MASS-LOSS RATES;
+   ROTATION-VIBRATION BANDS; SAGITTARIUS DWARF GALAXY; LONG-PERIOD
+   VARIABLES; CARBON STARS; ISO-SWS; INFRARED PHOTOMETRY; PLANETARY-NEBULAE},
+}
+
+@article{04GaHoJo.C2H2,
+Author = {Gautschy-Loidl, R and Hofner, S and Jorgensen, UG and Hron, J},
+Title = {{Dynamic model atmospheres of AGB stars - IV. A comparison of synthetic
+   carbon star spectra with observations}},
+Journal = AA,
+Year = {2004},
+Volume = {422},
+Pages = {289-306},
+Abstract = {We have calculated synthetic opacity sampling spectra for carbon-rich
+   Asymptotic Giant Branch (AGB) stars based on dynamic model atmospheres
+   which couple time-dependent dynamics and frequency-dependent radiative
+   transfer, as presented in the third paper of this series. We include the
+   molecules CO, CH, CN, C-2, CS, HCN, C2H2 and C-3 in our calculations,
+   both when computing the atmospheric structures, and the synthetic
+   spectra. A comparison of the synthetic spectra with various observed
+   colours and spectra in the wavelength range between 0.5 and 25 mum of TX
+   Psc, WZ Cas, V460 Cyg, T Lyr and S Cep is presented. We obtain good
+   agreement between observations gathered at different phases and
+   synthetic spectra of one single hydrodynamical model for each star in
+   the wavelength region between 0.5 and 5 mum. At longer wavelengths our
+   models showing mass loss offer a first self-consistent qualitative
+   explanation of why a strong feature around 14 mum, which is predicted by
+   all hydrostatic models as well as dynamical models showing no mass loss,
+   is missing in observed AGB carbon star spectra.},
+DOI = {10.1051/0004-6361:20035860},
+Keywords = {stars : AGB and post-AGB; stars : atmospheres; stars : variables :
+   general stars : carbon; hydrodynamics; radiative transfer},
+Keywords-Plus = {LONG-PERIOD VARIABLES; CIRCUMSTELLAR DUST SHELLS; Y-CANUM-VENATICORUM;
+   ISO-SWS SPECTRA; MASS-LOSS RATES; 2.5 MU-M; MIRA VARIABLES; INFRARED
+   SPECTROPHOTOMETRY; ASTROPHYSICAL INTEREST; STELLAR ATMOSPHERES},
+}
+@article{99Hoxxxx.C2H2,
+Author = {Hofner, S},
+Title = {A new generation of dynamic model atmospheres for AGB stars: first
+   results},
+Journal = AA,
+Year = {1999},
+Volume = {346},
+Pages = {L9-L12},
+Abstract = {Existing time-dependent dynamic model atmospheres for AGE stars suffer
+   from the fact that they are based on grey radiative transfer which is a
+   poor approximation for cool line-blanketed atmospheres. Therefore,
+   frequency-dependent radiative transfer has been included into a
+   well-tried radiation hydrodynamics code to obtain more realistic models.
+   First results concerning the structure of such non-grey dynamical model
+   atmospheres are presented in this paper. Due to computational reasons,
+   the number of frequencies used in the radiative transfer has to be kept
+   very low, typically around 50, but even with this restriction
+   considerable improvements can be obtained compared to grey models.},
+Keywords = {stars : AGB and post-AGB; stars : variables : general; stars :
+   atmospheres; hydrodynamics; radiative transfer},
+Keywords-Plus = {STELLAR},
+}
+
+@article{99LoHoJo.C2H2,
+Author = {Loidl, R and Hofner, S and Jorgensen, U G and Aringer, B},
+Title = {Dynamic model atmospheres of AGB stars - II. Synthetic near infrared
+   spectra of carbon stars},
+Journal = AA,
+Year = {1999},
+Volume = {342},
+Pages = {531-541},
+Abstract = {We have calculated synthetic opacity sampling spectra for carbon-rich
+   Asymptotic Giant Branch (AGB) stars based on dynamic model atmospheres
+   presented in the first paper of this series. We discuss how different
+   model parameters influence the resulting synthetic spectra and how the
+   spectra vary with phase. The molecules included are: CO, CH, CN, C-2,
+   HCN, C2H2 and C-3 We show in which atmospheric layers the different
+   molecules form, in an attempt to understand the qualitatively different
+   variation with pulsation phase exhibited by various spectral features.
+   Almost all features are blends of transitions from more than one
+   molecule, and we therefore identify the most important transitions and
+   molecules that contribute to the main spectral features from 0.5 to 12
+   $\mu$m. Furthermore, we demonstrate the effect on the individual spectral
+   features due to the carbon depletion when dust is formed in the
+   atmosphere.},
+Keywords = {stars : carbon; stars : atmospheres; stars : AGB and post-AGB; stars :
+   variables : general; radiative transfer; hydrodynamics},
+Keywords-Plus = {LONG-PERIOD VARIABLES; VIBRATIONAL BAND STRENGTHS; CIRCUMSTELLAR DUST
+   SHELLS; MIRA VARIABLES; GROWTH; EVAPORATION},
+}
+
+@article{98HoJoLo.C2H2,
+Author = {Hofner, S and Jorgensen, U G and Loidl, R and Aringer, B},
+Title = {Dynamic model atmospheres of AGB stars - I. Atmospheric structure and
+   dynamics},
+Journal = AA,
+Year = {1998},
+Volume = {340},
+Pages = {497-507},
+Abstract = {The strong interactions of shock waves caused by stellar pulsation, the
+   formation of molecules and dust grains and a variable radiation field
+   present a considerable challenge when modelling the atmospheres and
+   circumstellar envelopes of pulsating asymptotic giant branch stars. In
+   this paper we present dynamic model atmospheres of long-period variables
+   which allow a consistent computation of near-infrared molecular features
+   and their variability with phase. We discuss the effects of grey
+   radiative transfer, of molecular opacities and of shock waves on the
+   atmospheric structures and on the resulting wind properties. We find
+   that the gas absorption coefficient used in the dynamical calculation
+   has a considerable influence on the structure of the atmosphere, the
+   mass loss and the observable spectral features. Therefore, we stress the
+   importance of using reasonable mean gas opacities in grey dynamic
+   models. Most topics discussed in this paper concern both C- and O-rich
+   atmospheres but the quantitative results are mainly based on C-rich
+   models. Synthetic spectra resulting from selected C- and O-rich models
+   have been presented and compared to observations in several recent
+   papers. A systematic investigation of observable properties of our
+   C-rich models will be the subject of a second paper in this series.},
+Keywords = {radiative transfer; hydrodynamics; stars : atmospheres; stars :
+   variables : general; stars : mass-loss; stars : AGB and post-AGB},
+Keywords-Plus = {LONG-PERIOD VARIABLES; CIRCUMSTELLAR DUST SHELLS; SPECTRA; GIANTS},
+}

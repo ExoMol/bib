@@ -1,0 +1,158 @@
+
+@article{ 98Scxxxx.TiO,
+Author = {Schwenke, DW},
+Title = {Opacity of TiO from a coupled electronic state calculation parametrized
+   by ab initio and experimental data},
+Year = {1998},
+Volume = {109},
+Pages = {321-334},
+Abstract = {We have carried out calculations of re-vibrational energy levels of the
+   13 lowest electronic states of TiO. The dominant couplings between the
+   various states are included, with the coupling parameters and potential
+   parameters optimized to match experimental energy levels. We have also
+   performed ab initio electronic structure calculations of the spin-orbit
+   and rotation-orbit couplings, to verify that the physical results are
+   obtained from the optimization. Our wavefunctions were used to predict
+   the intensities of both well characterized and unobserved forbidden
+   bands.},
+DOI = {10.1039/a800070k},
+Times-Cited = {65},
+Journal = {Faraday Discuss.},
+Unique-ID = {ISI:000076353800019},
+}
+
+@article{ 94Joxxxx.TiO,
+Author = {J{\o}rgensen, U. G.},
+Title = {},
+Journal = AA,
+Year = {1994},
+Volume = {284},
+Pages = {179}
+}
+
+@article{ 98AlPexx.VO,
+Author = {Alvarez, R and Plez, B},
+Title = {Near-infrared narrow-band photometry of M-giant and Mira stars: models meet observations},
+Journal = AA,
+Year = {1998},
+Volume = {330},
+Pages = {1109-1119},
+Abstract = {From near-infrared, narrow-band photometry of 256 oxygen-rich Mira
+   variables we obtain evidence about the loops that these stars follow in
+   colour-colour diagrams. We also find a phase lag between indices related
+   to molecular band-strength of titanium oxide and vanadium oxide. We
+   compute colours for normal M-giants and Miras using hydrostatic and
+   hydrodynamic model atmospheres and very extensive up-to-date line lists.
+   Normal M-giants colours are well reproduced, reaching a high
+   quantitative agreement with observations for spectral types earlier than
+   M7. The out-of-phase variations of the various spectral features of
+   Miras are also acceptably reproduced, despite limitations in the
+   modelling. This enables us to confirm that the phase lag phenomenon
+   results from the propagation of perturbations in the extended
+   atmosphere. It opens new perspectives in the spectral modelling of
+   Miras.}
+}
+
+
+@article{ 91GuAmVe.TiO,
+title = { LASER-INDUCED FLUORESCENCE AND FOURIER-TRANSFORM SPECTROSCOPY OF TIO - AN IMPROVED DESCRIPTION OF THE DELTA-3 GROUND-STATE},
+Author = { Gustavsson, T and Amiot, C and Verges, J},
+journal = JMS,
+volume = { 145}, pages = {56-65}, year={1991}}
+
+@article{ 95AmAzLu.TiO,
+title = { HIGH-RESOLUTION ROTATIONAL ANALYSIS OF THE B-(3)PI-X(3)DELTA (1,0) BAND OF TITANIUM MONOXIDE},
+Author = { Amiot, C and Azaroual, E M and Luc, P and Vetter R},
+journal =  JCP,
+volume = { 102}, pages = {4375-4381}, year={1995}}
+
+@article{ 79HoGeMe.TiO,	
+title = { ROTATIONAL ANALYSIS OF 4 BANDS OF THE GAMMA'(B3-PI-X3-DELTA) SYSTEM OF TIO},
+Author = { Hocking, W H and Gerry, M C L and Merer, A J},
+Journal = {Can. J. Phys.},
+Year = {1979},
+volume = { 57}, pages = {54-&}}
+
+@article{ 95KaMcHe.TiO,	
+title = { LASER SPECTROSCOPY OF TIO - ACCURATE TERM ENERGIES FOR THE SINGLET-STATES AND LIGAND-FIELD ASSIGNMENT OF STATES IN THE RANGE 0-EV TO 4-EV},
+Author = { Kaledin, L A and McCord, J E and Heaven, M C},
+journal =  JMS,
+volume = { 173}, pages = {499-509}, year={1995}}
+
+@article{ 96RaBeWa.TiO,
+Author = {R. S. Ram and P. F. Bernath and L. Wallace},
+journal = ApJS,
+volume = {107}, pages = {443-}, year={1996}}
+
+@article{ 80GaBrDa.TiO,
+title = { THE TITANIUM-OXIDE PHI-SYSTEM},
+Author = { Galehouse, D C and Brault, J W and Davis, S P},
+journal = ApJS,
+volume = {42}, pages = {241-259}, year={1980}}
+
+@article{ 74Lixxxx.TiO,	
+title = { ANALYSIS OF DELTAV=O SEQUENCE OF BETA(C1PH1-A1DELTA) SYSTEM OF TIO MOLECULE},
+Author = { Linton, C},
+journal =  JMS,
+volume = { 50}, pages = {235-245}, year={1974}}
+
+@article{ 91SiHaxx.TiO,
+title = {SPECTROSCOPY AND PHOTOPHYSICS OF REFRACTORY MOLECULES AT LOW-TEMPERATURE - ROTATIONAL ANALYSIS OF THE E3-PI-X3-DELTA (0,0) BAND OF TITANIUM MONOXIDE},
+Author = { Simard, B and Hackett, P A},
+journal =  JMS,
+volume = { 148}, pages = {128-135}, year={1991}}
+
+@article{ 85BrGaxx.TiO,	
+title = { ROTATIONAL AND VIBRATIONAL ANALYSIS OF BANDS OF THE F1-DELTA-A1-DELTA SYSTEM OF TITANIUM-OXIDE},
+Author = { Brandes, G R and Galehouse, D C},
+journal =  JMS,
+volume = { 109}, pages = {345-351}, year={1985}}
+
+@article{ 98Plez.TiO,
+Author = {Plez, B},
+Title = {A new TiO line list},
+Journal = AA,
+Year = {1998},
+Volume = {337},
+Pages = {495-500},
+Abstract = {A new line list for 9 electronic transitions of TiO (alpha, beta, gamma,
+   gamma', delta, epsilon, phi, a-f, and E-B) is presented and made
+   publicly available. It is the latest and much improved version of a
+   suite of TiO line lists inaugurated in Plez et al. (1992). It includes
+   the transition moments of Langhoff (1997) and provides a better match to
+   both high- and low-resolution spectra of cool stars than any previous
+   extensive TiO line list. It is shown to be adequate for most purposes in
+   stellar atmosphere modelling sind spectroscopy. The line strengths
+   appear to match observations very well, except for a mismatch of the
+   delta band system, when using Langhoff's transition moment. It appears
+   too strong in the calculations. It would be very valuable to perform
+   accurate lifetime and branching ratios measurements for the delta and
+   phi transitions.}}
+
+@article{ 97Lang.TiO,
+Author = {Langhoff, SR},
+Title = {{Theoretical study of the spectroscopy of TiO}},
+Journal = ApJ,
+Year = {{1997}},
+Volume = {{481}},
+Pages = {1007-1015},
+Abstract = {{Theoretical electronic transition moments are presented for all of the
+   dipole-allowed transitions connecting the f(1) Delta, c(1) Phi, b(1) Pi,
+   d(1) Sigma(+), and a(1) Delta singlet states and the C-3 Delta, B-3 Pi,
+   A(3) Phi, E-3 Pi, and X-3 Delta triplet states of TiO. The transition
+   moments connecting the C-3 Delta state with lower states were determined
+   at the complete active space self-consistent field (CASSCF) level, and
+   the transition moments connecting the other states were determined at
+   both the CASSCF and the internally contracted multireference
+   configuration-interacti on (IC-MRCI) level. The CASSCF active space can
+   be made sufficiently large that the effect of electron correlation on
+   the transition moments is included quantitatively. The theoretical
+   radiative lifetimes for the short-lived states are generally within 10\%
+   of the recent laser fluorescence measurements of Hedgecock, Naulin, \&
+   Costes. For the v = 0 level of the E-3 Pi. state, we obtain a radiative
+   lifetime of 4259 ns, consistent with their determination of tau(v=0) >
+   2000 ns, but much longer than the lifetime of 770 +/- 40 ns reported by
+   Simard \& Hackett. Except for the 8-bands, the theoretical oscillator
+   strengths are less than those currently employed in molecular opacity
+   calculations.}},
+DOI = {{10.1086/304077}}}

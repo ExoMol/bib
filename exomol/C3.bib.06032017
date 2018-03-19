@@ -1,0 +1,483 @@
+@article{ 01MaLaWaBo.C3,
+Author = {Maier, J P and Lakin, N M and Walker, G A H and Bohlender, D A},
+Title = {{Detection of C-3 in diffuse interstellar clouds}},
+Journal = ApJ,
+Year = {{2001}},
+Volume = {{553}},
+Pages = {267-273},
+Abstract = {{The smallest polyatomic carbon chain, C-3, has been identified in
+   interstellar clouds (A(upsilon)similar to 1 mag) toward zeta Ophiuchi,
+   20 Aquilae and zeta Persei by detection of the origin band in its
+   A(1)II(u)-X(1)Sigma (+)(g) electronic transition, near 4052 Angstrom.
+   Individual rotational lines were resolved up to J = 30, allowing the
+   rotational-level column densities and temperature distributions to be
+   determined. The inferred limits for the total column densities (similar
+   to1-2 x 10(12) cm(-2)) offer a strong incentive to laboratory and
+   astrophysical searches for the longer carbon chains. Concurrent searches
+   for C-2(+), C-2(-), and C-3(-) were negative, but provide sensitive
+   estimates for their maximum column densities.}}
+}
+
+@article{ 89JoAlSi.C3,
+Author = {J{\o}rgensen, U. G. and  Alml{\"o}f, J. and  Siegbahn, P. E. M.},
+Year = {1989},
+Volume = {343},
+Pages = {554},
+Journal = ApJ,
+}
+
+
+@article{ 06SaWexx.C3,
+Author = {Saha, Sudarshana and Western, Colin M.},
+Title = {Experimental and ab initio study of a new (D)over-tilde (1)Delta(g)
+   state of the C-3 radical},
+Journal = JCP,
+Year = {2006},
+Volume = {125},
+pages = {224307},
+Abstract = {We report here the first observation of the D (1)Delta(g) state of the C-3 radical, which provides the first comprehensively analyzed example
+   of the dynamic Renner-Teller splitting in Delta symmetry. Two color
+   double resonance spectroscopy via the A (1)Pi(u) state was employed to
+   experimentally probe an extensive range of vibronic levels in this D
+   (1)Delta(g) state, covering all three modes of vibration of C-3. The
+   analysis was supported by ab initio potential energy surface
+   calculations on the C-3 radical to outline the lowest eight singlet
+   electronic states. Two methods were used to analyze the Renner-Teller
+   effect. The first method is an empirical Hamiltonian based on normal
+   modes, using harmonic oscillator functions as a basis, with
+   Renner-Teller and other terms added as required, which allows
+   conventional vibrational parameters to be determined. The second is a
+   much larger program that uses the exact kinetic energy operator for a
+   triatomic molecule to calculate vibronic energy levels directly from
+   the Renner-Teller pair of potential energy surfaces. Both methods give
+   a good fit to the experimental results, with only a small adjustment to
+   the ab initio surfaces required for the latter. One of the overall
+   conclusions is that the Renner-Teller effect is rather smaller in the D
+   (1)Delta(g) state than in the A (1)Pi(u) state.}}
+
+@article{ 04AhBaWe.C3,
+Author = {Ahmed, K and Balint-Kurti, G G and Western, C M},
+Title = {Ab initio calculations and vibrational energy level fits for the lower
+   singlet potential-energy surfaces of C-3},
+Journal = JCP,
+Year = {2004},
+Volume = {121},
+Pages = {10041-10051},
+DOI = {10.1063/1.1806820},
+}
+
+@article{ 89RoGoxx.C3,
+Author = {Rohlfing, E .A. and Goldsmith, J. E. M.},
+Title = {STIMULATED-EMISSION PUMPING SPECTROSCOPY OF JET-COOLED C-3},
+Journal = JCP,
+Year = {1989},
+Volume = {90},
+Pages = {6804-6805},
+DOI = {10.1063/1.456300},
+}
+
+@article{ 97SpMeJe.C3,
+Author = {\v{S}pirko, V and Mengel, M and Jensen, P},
+Title = {Calculation of rotation-vibration energy levels in ground state C-3 by a
+   Born-Oppenheimer-type separation of the vibrational motions},
+Journal = JMS,
+Year = {1997},
+Volume = {183},
+Pages = {129-138},
+}
+
+@article{ 93BaBrHa.C3,
+Author = {Baker, J and Bramble, S K and Hamilton, P A},
+Title = {A HOT-BAND LIF STUDY OF THE A(1)PI(U)-X(1)SIGMA(G)+ TRANSITION IN C3},
+Journal = CPL,
+Year = {1993},
+Volume = {213},
+Pages = {297-302}}
+
+@article{ 90RoGoxx.C3,
+Author = {Rohlfing, E.A. and Goldsmith, J.E.M.},
+Title = {STIMULATED-EMISSION PUMPING SPECTROSCOPY OF JET-COOLED-C3 -
+   ANTISYMMETRIC STRETCH-BEND LEVELS},
+Journal = JOSAB,
+Year = {1990},
+Volume = {7},
+Pages = {1915-1923},
+DOI = {10.1364/JOSAB.7.001915}}
+
+@article{ 90NoSexx.C3,
+Author = {Northrup, F. J. and Sears, T. J.},
+Title = {STIMULATED-EMISSION PUMPING SPECTROSCOPY STUDY OF JET-COOLED-C3 - PURE
+   BENDING LEVELS AND BEND-SYMMETRICAL-STRETCH COMBINATION LEVELS OF
+   CHI-APPROXIMATELY-SIGMA-1G+},
+Journal = JOSAB,
+Year = {1990},
+Volume = {7},
+Pages = {1924-1934},
+DOI = {10.1364/JOSAB.7.001924},
+}
+
+@article{ 89Roxxxx.C3,
+Author = {Rohlfing, E. A.},
+Title = {LASER-INDUCED-FLUORESCENCE SPECTROSCOPY OF JET-COOLED-C3},
+Journal = JCP,
+Year = {1989},
+Volume = {91},
+Pages = {4531-4542},
+DOI = {10.1063/1.456791},
+}
+
+@article{ 11ChZhMe.C3,
+Author = {Chen, K. -S. and Zhang, G. and Merer, A. J. and Hsu, Y-C and Chen, W. -J},
+Title = {{The (A)over-tilde1 Pi(u), 0 1 1 (Delta(u)) vibrational level of C-3}},
+Journal = JMS,
+Year = {{2011}},
+Volume = {{267}},
+Pages = {169-171},
+Abstract = {{A new band at 23 390 cm(-1) in the (A) over tilde (1)Pi(u)-(X) over
+   tilde (1)Sigma(+)(g) electronic transition of C-3 has been recorded by
+   laser-induced fluorescence at high resolution and rotationally analyzed.
+   Based on the agreement of the lower state constants with infra-red data
+   given by Kawaguchi et al. {[}9], the vibrational assignment is found to
+   be 0 1 1(Delta(u))-0 1 1 (Pi(g)). Seventeen of the 19 vibronic levels of
+   the (A) over tilde (1)Pi(u) state expected to lie below 25 700 cm(-1) (a
+   vibrational energy of 1025 cm(-1)) have now been identified.}},
+DOI = {{10.1016/j.jms.2011.03.011}}}
+
+@article{ 11ChMeCh.C3,
+Author = {Chen, Chiao-Wei and Merer, Anthony J. and Chao, Jun-Mei and Hsu, Yen-Chu},
+Title = {{Laser excitation spectrum of C-3 in the region 26 000-30 700 cm(-1)}},
+Journal = JMS,
+Year = {{2010}},
+Volume = {{263}},
+Pages = {56-70},
+Abstract = {{The vibrational structure of the (A) over bar (1)Pi(u) electronic state
+   of C-3 in the region 26 000-30 775 cm(-1) has been re-examined, using
+   laser excitation spectra of jet-cooled molecules. Rotational constants
+   and vibrational energies have been determined for over 60
+   previously-unreported vibronic levels: a number of other levels have
+   been re-assigned. The vibrational structure is complicated by
+   interactions between levels of the upper and lower Born-Oppenheimer
+   components of the (A) over tilde (1)Pi(u) state, and by the effects of
+   the double minimum potential in the Q(3) coordinate, recognized by Izuha
+   and Yamanouchi {[}16]. The present work shows that there is also strong
+   anharmonic resonance between the overtones of the v(1) and v(3)
+   vibrations. For instance, the levels 2 1(+)1 and 0 1(+)3 are nearly
+   degenerate in zero order, but as a result of the resonance they give
+   rise to two levels 139 cm(-1) apart, centered about the expected
+   position of the 2 1(+)1 level. With these irregularities recognized,
+   every observed vibrational level up to 30 000 cm(-1) (a vibrational
+   energy of over 5000 cm(-1)) can now be assigned. A Sigma(+)(u) vibronic
+   level at 30181.4 cm(-1), which has a much lower B' rotational constant
+   than nearby levels of the (A) over tilde (1)Pi(u) state, possibly
+   represents the onset of vibronic perturbations by the (B) over
+   tilde'(1)Delta(u) electronic state; this state is so far unknown, but is
+   predicted by the ab initio calculations of Ahmed et al. {[}36].}},
+DOI = {{10.1016/j.jms.2010.06.010}}}
+
+@article{ 05ZhChMe.C3,
+Author = {Zhang, G Q and Chen, K S and Merer, A J and Hsu, Y C and Chen, W J and Shaji,
+   S and Liao, Y A},
+Title = {{The 4051-angstrom band of C-3
+   ((A)over-tilde(1)Pi(u)-(X)over-tilde(1)Sigma(+)(g), 000-000): Perturbed
+   low-J lines and lifetime measurements}},
+Journal = JCP,
+Year = {{2005}},
+Volume = {{122}},
+Abstract = {{Rotational analyses have been carried out at high resolution for the
+   000-000 and 000-100 bands of the A (1)Pi(u)-X (1)Sigma(g)(+) transition
+   of supersonic jet-cooled C-3. Two different spectra have been recorded
+   for each band, using time gatings of 20-150 and 800-2300 ns. At the
+   shorter time delay the spectra show only the lines observed by many
+   previous workers. At the longer time delay many extra lines appear, some
+   of which have been observed previously by {[}McCall Chem. Phys. Lett.
+   374, 583 (2003)] in cavity ring-down spectra of jet-cooled C-3. Detailed
+   analysis of these extra lines shows that at least two long-lived states
+   perturb the A (1)Pi(u), 000 state. One of these appears to be a
+   (3)Sigma(u)(-) vibronic state, which may possibly be a high vibrational
+   level of the b (3)Pi(g) state, and the other appears to be a P=1 state
+   with a low rotational constant B. Our spectra also confirm the
+   reassignment by McCall of the R(0) line of the 000-000 band, which is
+   consistent with the spectra recorded towards a number of stars that
+   indicate the presence of C-3 in the interstellar medium. Fluorescence
+   lifetimes have been measured for a number of upper-state rotational
+   levels. The rotational levels of the A (1)Pi(u) state have lifetimes in
+   the range of 230-190 ns, decreasing slightly with J; the levels of the
+   perturbing states have much longer lifetimes, with some of them showing
+   biexponential decays. An improved value has been obtained for the nu(1)
+   vibrational frequency of the ground state, nu(1)=1224.4933 +/- 0.0029
+   cm(-1). }},
+DOI = {{10.1063/1.1928827}},
+pages = {244308}}
+
+
+@ARTICLE{92JeRoAl.C3,
+  author = {Jensen, P and Rohlfing, C M and Almlof, J},
+  title = {CALCULATION OF THE COMPLETE-ACTIVE-SPACE SELF-CONSISTENT-FIELD POTENTIAL-ENERGY
+	SURFACE, THE DIPOLE-MOMENT SURFACES, THE ROTATION VIBRATION ENERGIES,
+	AND THE VIBRATIONAL TRANSITION MOMENTS FOR C3(X)OVER-TILDE1-SIGMA-G+},
+  journal = JCP,
+  year = {1992},
+  volume = {97},
+  pages = {3399-3411},
+  abstract = {The present work reports an ab initio calculation of the potential-energy
+	surface and corresponding dipole moment surfaces for the C3 molecule
+	employing the full valence complete-active-space self-consistent-field
+	method with a very large basis set. On the basis of the ab initio
+	results we have calculated the rotation-vibration energies in the
+	lower part of the energy spectrum with the MOR.BID (Morse oscillator
+	rigid bender internal dynamics) method, and we find that the present
+	ab initio potential-energy surface reproduces qualitatively the variation
+	of the bending energy-level pattern with excitation of the stretching
+	modes. We conclude from the ab initio results obtained in the present
+	work, and from a fitting to experimental data carried out with the
+	MORBID Computer program, that the equilibrium structure of C3 is
+	linear. We have used the ab initio dipole moment calculated in the
+	present work to compute the vibrational transition moments for selected
+	vibrational transitions of C-12(3), obtaining transition moments
+	of 0.44 and 0.35 D, respectively, for the nu-2 and nu-3 bands. The
+	ab initio dipole moment values have further been used to calculate
+	the line strengths, integrated absorption coefficients, and peak
+	absorption coefficients of the low-J transitions in the nu-2 and
+	nu-3 bands; the results of the theoretical intensity calculation
+	are in keeping with recent experimental observations.},
+  doi = {10.1063/1.462976},
+  journal-iso = {J. Chem. Phys.},
+}
+
+
+@ARTICLE{84KrBuYo.C3,
+  author = {Kraemer, W P and Bunker, P R and Yoshimine, M},
+  title = {A THEORETICAL-STUDY OF THE ROTATION-VIBRATION ENERGY-LEVELS AND
+	DIPOLE-MOMENT FUNCTIONS OF CCN+, CNC+, AND C-3},
+  journal = JMS,
+  year = {1984},
+  volume = {107},
+  pages = {191-207},
+  doi = {10.1016/0022-2852(84)90276-5},
+  journal-iso = {J. Mol. Spectrosc.},
+}
+
+
+
+@article{ 14HaHibe.C3,
+Author = {Hargreaves, R. J. and Hinkle, K. and Bernath, P. F.},
+Title = {Small carbon chains in circumstellar envelopes},
+Journal = MNRAS,
+Year = {2014},
+Volume = {444},
+Pages = {3721-3728},
+Abstract = {Observations of carbon-rich circumstellar envelopes were made using the
+   Phoenix spectrograph on the Gemini South telescope to determine the
+   abundance of small carbon chain molecules. Vibration-rotation lines of
+   the upsilon(3) antisymmetric stretch of C-3 near 2040 cm(-1) (4.902 mu
+   m) have been used to determine the column density for four carbon-rich
+   circumstellar envelopes: CRL 865, CRL 1922, CRL 2023 and IRC + 10216. We
+   additionally calculate the column density of C-5 for IRC + 10216, and
+   provide an upper limit for five more objects. An upper limit estimate
+   for the C-7 column density is also provided for IRC+ 10216. A comparison
+   of these column densities suggests a revision to current circumstellar
+   chemical models may be needed.},
+DOI = {10.1093/mnras/stu1719},
+Keywords = {astrochemistry; molecular data; stars: abundances; stars: carbon;
+   circumstellar matter; infrared: stars},
+Keywords-Plus = {DIODE-LASER SPECTROSCOPY; MOLECULAR LINE SURVEY; INTERSTELLAR-MEDIUM;
+   STAR IRC+10216; AGB STARS; C-3; CHEMISTRY; BAND; DUST; GAS},
+Journal-ISO = {Mon. Not. Roy. Astron. Soc.},
+}
+
+
+@article{13KrLuEn.C3,
+author = {Krieg, J\"{u}rgen and Lutter, Volker and Endres, Christian P. and Keppeler, Imke H. and Jensen, Per and Harding, Michael E. and V\'{a}zquez, Juana and Schlemmer, Stephan and Giesen, Thomas F. and Thorwirth, Sven},
+title = {High-Resolution Spectroscopy of C3 around 3 μm},
+journal = JPCA,
+volume = {117},
+pages = {3332-3339},
+year = {2013},
+doi = {10.1021/jp3119204},
+abstract = { We report on the detection of the (1001) ← (0000) vibrational band of gas-phase C3 and the two of its mono 13C substituted isotopologs in the infrared region around 3200 cm–1. Additionally, the associated hot band (1111) ← (0110) has been assigned for the parent isotopolog. Spectra have been recorded using a supersonic jet spectrometer with a laser ablation source in combination with a continuous-wave optical parametric oscillator as radiation source. High-level quantum-chemical ab initio calculations have been performed and used to assist the assignment. A combined fit for the vibrational states of C3 found in this study has been done together with previously reported high-resolution data to increase the accuracy of the molecular parameters, especially for the ground state. The vibrational energies are 3260.126, 3205.593, and 3224.751 cm–1 for the (1001) state of C3, 12C13C12C, and 13C12C12C, respectively. The (1111) state of C3 has been found to be at 3330.509 cm–1. }
+}
+
+
+@article{ ,
+Author = {SASADA, H and AMANO, T and JARMAN, C and BERNATH, P F},
+Title = {{A NEW TRIPLET BAND SYSTEM OF C-3 - THE APPROXIMATELY-B 3-PI-G-A3-PI-U
+   TRANSITION}},
+Journal = JCP,
+Year = {{1991}},
+Volume = {{94}},
+Pages = {2401-2407},
+Abstract = {{A triplet band system of C3 has been observed for the first time in
+   absorption with a distributed-feedback (DFB) diode laser spectrometer
+   and in emission with a Fourier transform spectrometer at around 6500
+   cm-1.  The band has been assigned to the b approximately 3-PI-g-a
+   approximately 3-PI-u system, and the spectroscopic constants in both the
+   upper and lower states have been determined.  It is demonstrated that
+   near-infrared DFB lasers are promising radiation sources for
+   spectroscopy of unstable molecules.}},
+DOI = {{10.1063/1.460710}},
+Keywords-Plus = {{FOURIER-TRANSFORM SPECTROSCOPY; JET-COOLED C-3; ELECTRONIC-TRANSITIONS;
+   LASER SPECTROSCOPY; SPECTRUM; C3; MOLECULES; ABINITIO; STATES; C2}}}
+
+@article{00CeGoxx.C3, 
+Author = {Jos\'{e} Cernicharo and Javier R. Goicoechea, Emmanuel Caux},
+title = {FAR-INFRARED DETECTION OF C3 IN SAGITTARIUS B2 AND IRC 􏰂10216},
+journal = ApJ,
+volume = {534},
+pages = {199-202},
+year = {2000}
+doi = {10.1086/312668},
+abstract = {We report on the detection of nine lines of the ν2 bending mode of triatomic carbon, C3, in the direction of Sagittarius B2. The R(4) and R(2) lines of C3 have been also detected in the carbon-rich star IRC +10216. The abundances of C3 in the direction of Sgr B2 and IRC +10216 are ≃3 × 10-8 and ≃10-6, respectively. In Sgr B2 we have also detected the 23–12 line of NH with an abundance of a few times 10-9. Polyatomic molecules will have a weak contribution from their pure rotational spectrum to the emission/absorption in the far-infrared. We suggest, however, that they could be, through their low-lying vibrational bending modes, the dominant carriers of emission/absorption in the spectrum of bright far-infrared sources.}
+keywords-Plus = {infrared: ISM: lines and bands — ISM: individual (Sagittarius B2) — ISM: molecules — line: identification — molecular data — radiative transfer}
+
+
+@article{07NeKePa.C3, 
+author = {L\'{a}szl\'{o} Nemes and Anna M. Keszler and Christian G. Parigger and James O. Hornkohl and Hope A. Michelsen and Vadim Stakhursky}, 
+journal = {Appl. Opt.}, 
+keywords = {Laser-induced breakdown; Spectroscopy, molecular; Plasmas},
+pages = {4032--4040}, 
+title = {Spontaneous emission from the C3 radical in carbon plasma}, 
+volume = {46}, 
+year = {2007},
+doi = {10.1364/AO.46.004032},
+abstract = {Spontaneous emission measurements are discussed for the Swings transitionsof theC3 radical in laser-generated graphite plasma, and the spectroscopyof theC3 radical in carbon vapor and plasma is summarized. A review isgiven of some theoretical calculations and emission spectroscopicinvestigations are presented. Time-averaged, laser-induced optical breakdown spectra arereported from Nd:YAG laser generated graphite microplasma. In 200-300 Torrof argon and helium, and depending on the specific experimental configuration,a weak emission continuum is observed centered at 400 nm when using a laserfluence of typically1 J/cm2. Such continua were not detected in our previousexperiments using focused laser radiation. The possibilities for theorigin of this continuum are considered.},
+}
+
+@article{ 03GePeGi.C3,
+Author = {Gendriesch, R and Pehl, K and Giesen, T and Winnewisser, G and Lewen, F},
+Title = {{Terahertz spectroscopy of linear triatomic CCC: High precision
+   laboratory measurement and analysis of the ro-vibrational bending
+   transitions}},
+Journal = {{ZEITSCHRIFT FUR NATURFORSCHUNG SECTION A-A JOURNAL OF PHYSICAL SCIENCES}},
+Year = {{2003}},
+Volume = {{58}},
+Pages = {129-138},
+Abstract = {{We report concise measurements of the bending vibration transition (0,
+   1(1), 0) <-- (0, 0(0), 0) near 63.416529(40) cm(-1) of the carbon
+   cluster CCC in the electronic ground state (X(1)Sigma(g)(+)). The nu(2)
+   vibration-rotation spectrum consists of P-, Q-, and R-branch
+   transitions. A total of ten ro-vibrational transitions have been
+   measured with the Cologne Sideband Spectrometer for Terahertz
+   Applications, COSSTA. It is essentially a Backward Wave Oscillator (BWO)
+   based, and frequency stabilized sideband spectrometer. The essential
+   feature of COSSTA is the absolute frequency accuracy of the
+   measurements. Absolute frequency calibration is better than 5 kHz at 2
+   THz, i.e. COSSTA reaches microwave accuracy.
+   The band centre frequency was determined to be 1.901181506(162) THz: The
+   derived molecular parameters are: (0, 0(0), 0) : B = 12908.242(142) MHz;
+   D = 44.30(40) kHz; H = 4.068(184) Hz; (0, 1(1), 0) : B = 13262.946(109)
+   MHz; D = 70.33(39) kHz; H = 7.71(38).}}}
+
+@article{ 88SnSeJo.C3,
+Author = {Snow, T P and Seab, C G and Joseph, C L},
+Title = {{A NEW SEARCH FOR INTERSTELLAR-C3}},
+Journal = ApJ,
+Year = {{1988}},
+Volume = {{335}},
+Pages = {185-187},
+DOI = {{10.1086/166919}},
+}
+
+% Renia's extra refs
+
+@article{1882HuXxXx.C3,
+Author = {W. Huggins},
+Journal =  {Proc. R. Soc. London}, 
+volume = {33},
+pages = {1},
+year ={1882}}
+
+@article{95OrCrPr.C3,
+Author = { A. {Van Orden} and J. D. Cruzan and  R. A. Provencal and T. F. Giesen and R. J. Saykally, R.T. Boreiko and A. L. Betz},
+journal = {Airborne Astronomy Symposium on the Galactic Ecosystem, ASP Conference Series},
+volume ={73}, 
+year ={1995}}
+
+@article{02ToHaLe.C3,
+author={D. W. Tokaryk and Duncan J. Harvie and Ronald M. Lees and Li-Hong Xu},
+Journal = JCP,
+volume = {117},
+pages= {4825},
+year ={2002}}
+
+
+@article{07GuGuZh.C3,
+author={King Guo and Xibin Gu and Fangtong Zhang and Alexander M. Mebel and Ralf I. Kaiser},
+Journal = PCCP,
+volume = {9}, 
+pages ={1972-1979},
+year ={007}}
+
+@article{79PeRaXx.C3,
+author={Miljenko Peri\'{c} and Jelena Radi\'{c} -Peri\'{c}},
+Journal = JCP,
+volume = {67}, 
+pages={1},
+year={1979}}
+
+@article{03MaThWa.C3,
+author = {G. G. Maisuradze and D. L. Thompson and A. F. Wagner and M. Minkoff},
+Journal = JCP,
+volume = {119}, 
+pages={19}, 
+year={2003}}
+
+@article{10XiBoXx.C3,
+authors={Zhen Xie and Joel M. Bowman},
+Journal = JCTC,
+volume = {6},
+pages={26-34}, 
+year={2010}}
+
+@barticle{07ToWaMi.C3,
+author = {Igor V. Tokmakov and Albert F.Wagner and Michael Minkoff and Donald Thompson},
+Journal = {Theor. Chem. Account},
+volume={118}, 
+pages={755-767},
+year={2007}}
+
+@article{92Wilson.C3,
+author={S. Wilson},
+publisher={Plenum Press},
+pages={1-31},
+year={1992}}
+
+ @article{94MlScBo.C3,
+ author={M. Mladenovi\'{c} and S. Schmatz and P. Botschwina},
+Journal = JCP,
+volume = {101}, 
+pages={5891},
+year={1994}}
+
+@article{94Botsch.C3
+author={Peter Botschwina},
+Journal = JCP,
+volume = {101}, 
+volume={853},
+year={1994}}
+
+article{ 16ScSexx.C3,
+Author = {Schroeder, Benjamin and Sebald, Peter},
+Title = {{High-level theoretical rovibrational spectroscopy beyond fc-CCSD(T): The
+   C-3 molecule}},
+Journal = JCP,
+Year = {{2016}},
+Volume = {{144}},
+Abstract = {{An accurate local (near-equilibrium) potential energy surface (PES) is
+   reported for the C-3 molecule in its electronic ground state ((X) over
+   tilde (1)Sigma(+)(g)). Special care has been taken in the convergence of
+   the potential relative to high-order correlation effects, core-valence
+   correlation, basis set size, and scalar relativity. Based on the
+   aforementioned PES, several rovibrational states of all C-12 and C-13
+   substituted isotopologues have been investigated, and spectroscopic
+   parameters based on term energies up to J = 30 have been calculated.
+   Available experimental vibrational term energies are reproduced to
+   better than 1 cm(-1) and rotational constants show relative errors of
+   not more than 0.01\%. The equilibrium bond length has been determined in
+   a mixed experimental/theoretical approach to be 1.294 07(10) A in
+   excellent agreement with the ab initio composite value of 1.293 97 A.
+   Theoretical band intensities based on a newly developed electric dipole
+   moment function also suggest that the infrared active (1,1(1),0)
+   (0,0(0),0) combination band might be observable by high-resolution
+   spectroscopy. }},
+DOI = {{10.1063/1.4940780}},
+pages = {044307}}

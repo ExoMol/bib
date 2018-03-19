@@ -1,0 +1,1221 @@
+
+@article{ 13DaBaCr.CD,
+Author = {Davis, Timothy A. and Bayet, Estelle and Crocker, Alison and Topal,
+   Selcuk and Bureau, Martin},
+Title = {ISM chemistry in metal-rich environments: molecular tracers of metallicity},
+Journal = MNRAS,
+Year = {2013},
+Volume = {433},
+Pages = {1659-1674},
+Abstract = {In this paper we use observations of molecular tracers in metal-rich and
+   alpha-enhanced galaxies to study the effect of abundance changes on
+   molecular chemistry. We selected a sample of metal-rich spiral and
+   star-bursting objects from the literature, and present here new data for
+   a sample of early-type galaxies (ETGs) previously studied by Crocker et
+   al. We conducted the first survey of carbon monosulphide (CS) and
+   methanol emission in ETGs, detecting seven objects in at least one CS
+   transition, and methanol emission in five ETGs. We find that ETGs whose
+   gas is dominated by ionization from star formation have enhanced CS
+   emission, compared to their hydrogen cyanide (HCN) emission, supporting
+   the hypothesis that CS is a better tracer of dense star-forming gas than
+   HCN. We suggest that the methanol emission in these sources is driven by
+   dust mantle destruction due to ionization from high-mass star formation
+   in dense molecular clouds, but cannot rule out a component due to shocks
+   dominating in some sources. We construct rotation diagrams for each
+   early-type source where at least two transitions of a given species were
+   detected. The rotational temperatures we derive for linear molecules
+   vary between 3 and 9 K, with the majority of sources having rotational
+   temperatures around 5 K. Despite the large uncertainty inherent in this
+   method, the derived source-averaged CS and methanol column densities are
+   similar to those found by other authors for normal spiral and starburst
+   galaxies. This may suggest dense clouds are little affected by the
+   differences between early- and late-type galaxies. Finally, we used the
+   total column density ratios for both our ETG and literature galaxy
+   sample to show for the first time that some molecular tracers do seem to
+   show systematic variations that appear to correlate with metallicity,
+   and that these variations roughly match those predicted by chemical
+   models. Using this fact, the chemical models of Bayet et al. and
+   assumptions about the optical depth we are able to roughly predict the
+   metallicity of our spiral and ETG sample, with a scatter of approximate
+   to 0.3 dex. We provide the community with linear approximations to the
+   relationship between the HCN and CS column density ratio and
+   metallicity. Further study will clearly be required to determine if
+   this, or any, molecular tracer can be used to robustly determine
+   gas-phase metallically, but that a relationship exists at all suggests
+   that in the future it may be possible to calibrate a metallicity
+   indicator for the molecular interstellar medium.},
+DOI = {10.1093/mnras/stt842},
+}
+
+@article{ 13ShNiSu.CS,
+Author = {Shi, Deheng and Niu, Xianghong and Sun, Jinfeng and Zhu, Zunlue},
+Title = {Accurate theoretical study on 18 Lambda-S and 50 Omega states of CS in
+   the gas phase: Potential energy curves, spectroscopic parameters, and
+   spin-orbit coupling},
+Journal = JCP,
+Year = {2013},
+Volume = {139},
+Abstract = {The potential energy curves (PECs) of 50 Omega states generated from the
+   18 Lambda-S states are studied for the first time using the complete
+   active space self-consistent field method, which is followed by the
+   internally contracted multireference configuration interaction approach
+   with the Davidson modification. All the 18 Lambda-S states correlate to
+   the first dissociation limit, C(P-3(g)) + S(P-3(g)), of CS molecule, of
+   which only the 2(5) Pi is repulsive and the A(1)Pi, A'(1)Sigma(+), and
+   2(3)Sigma(+) possess double wells. The spin-orbit (SO) coupling is
+   accounted for by the state interaction approach with the Breit-Pauli
+   Hamiltonian. Core-valence correlation correction is taken into account
+   with an all-electron cc-pCV5Z basis set. Scalar relativistic correction
+   calculations are made by the third-order Douglas-Kroll Hamiltonian
+   approximation at the level of a cc-pVTZ basis set. All the PECs are
+   extrapolated to the complete basis set limit. The a'(3)Sigma(+),
+   e(3)Sigma(-), 1(5)Sigma(+), 1(5)Pi, and d(3)Delta are found to be the
+   inverted Lambda-S states with the SO coupling included. The
+   spectroscopic parameters of 17 Lambda-S and 41 Omega bound states are
+   evaluated. The comparisons between the present results and available
+   measurements are performed, and excellent agreement has been found. It
+   shows that the spectroscopic results reported here can be expected to be
+   reliable predicted ones. },
+DOI = {10.1063/1.4813794},
+pages = {044306},
+}
+
+@article{ 13LiChSu.CS,
+Author = {Li, Rui and Wei, Changli and Sun, Qixiang and Sun, Erping and Xu,
+   Haifeng and Yan, Bing},
+Title = {Ab Initio MRCI plus Q Study on Low-Lying States of CS Including
+   Spin-Orbit Coupling},
+Journal = JPCA,
+Year = {2013},
+Volume = {117},
+Pages = {2373-2382},
+Abstract = {Carbon monosulfide (CS), which plays an important role in a variety of
+   research fields, has long received considerable interest. Due to its
+   transient nature and large state density, the electronic states of CS
+   have not been well understood, especially the interactions between
+   different states. In this paper, we performed a detail ab initio study
+   on the low-lying electronic states of CS by means of the internally
+   contracted multireference configuration interaction method (including
+   Davidson correction) with scalar relativistic correction using the
+   Douglas-Kroll-Hess Hamiltonian. We focused on the spin orbit coupling of
+   the states via the state interaction method with the full Breit-Pauli
+   Hamiltonian. The potential energy curves (PECs) of 18 Lambda-S states
+   correlated with the lowest dissociation limit of the CS molecule were
+   calculated, as well as those of SO SI states generated from the Lambda-S
+   states. The spectroscopic constants of the bound states were obtained,
+   which are in good agreement with previous available experimental and
+   theoretical results. The state perturbations of the a(3)Pi and A(1)Pi
+   states with other low-lying electronic states are discussed in detail,
+   based on the calculated spin orbit matrix as well as the PECs of the
+   Omega states. Avoided crossing in the states of CS was indicated when
+   spin orbit coupling was taken into account. Finally, the allowed
+   transition dipole moments as well as the lifetimes of the five lowest
+   vibrational states of the A(1)Pi(1), A'(1)Sigma(+)(0). and a(3)Pi(1),
+   states were obtained.},
+DOI = {10.1021/jp4002516},
+}
+
+@article{ 13LiDeZh.CS,
+Author = {Li, Chuanliang and Deng, Lunhua and Zhang, Jing and Qiu, Xuanbing and
+   Wei, Jilin and Chen, Yangqin},
+Title = {Deperturbation of the rotational spectrum of the d(3)Delta-a(3)Pi (7,1)
+   band of CS radical},
+Journal = JMS,
+Year = {2013},
+Volume = {284},
+Pages = {29-32},
+Abstract = {The spectra of d(3)A-a(3)Pi (7,1) band of CS radical were measured by
+   optical heterodyne-concentration modulation spectroscopy in the region
+   from 11640 to 12230 cm(-1). In total, we assigned three hundred and four
+   lines, of which R-ee and R-ff branches in the d(3)Delta-a(3)Pi(o)
+   subsystem and more than a hundred lines were first observed and
+   identified. The anomalous lambda-doubling of the d(3)Delta(1) (upsilon =
+   7) level reveals a local perturbation interaction from the (1)Sigma(-)
+   state. The perturbation parameter between (1)Sigma(-) and a(3)Pi(o)
+   (upsilon = 13), and molecular constants of the d(3)Delta(1) (upsilon =
+   7) as well as (1)Sigma- were derived through fitting all assigned lines
+   to the effective Hamiltonian. Crown Copyright (C) 2013 Published by
+   Elsevier Inc. All rights reserved.},
+DOI = {10.1016/j.jms.2013.02.002},
+}
+
+@Article{15UeHoSa.CS,
+Author = {Uehara, Hiromichi and Horiai, Koui and Sakamoto, Yukihiro},
+Title = {Vibrational-rotational spectroscopy of 13CS and global multi-isotopologue analysis},
+Journal = JMS,
+Year = {2015},
+Volume = {313},
+Pages = {19-39}
+}
+
+@article{12LiDeZh.CS,
+Author = {Li, Chuan-liang and Deng, Lun-hua and Zhang, Yan and Wei, Ji-lin and
+   Chen, Yang-qin},
+Title = {Absorption Spectroscopy of (8,1) Band in d(3)Delta-a(3)II System of CS
+   Radical},
+Journal = {Chin. J. Chem. Phys.},
+Year = {2012},
+Volume = {25},
+Pages = {513-518},
+Abstract = {The CS radical was generated by discharging the mixture gas of CS2 and
+   Helium. The Doppler limited spectra of CS were recorded in the region of
+   12350-12950 cm(-1) using optical heterodyne concentration modulation
+   absorption spectroscopy. Three hundred and twenty-six lines were
+   recorded and assigned to the d(3)Delta-a(3)II (8,1) band, in which
+   eighty-three transitions were first observed. A set of improved
+   molecular constants for the d(3)Delta(v=8) and a(3)II(v=1) levels were
+   determined by a non-linear least-squares fitting of all the lines to the
+   effective Hamiltonian.},
+DOI = {10.1088/1674-0068/25/05/513-518},
+}
+
+@article{ 12AgFoCe.CS,
+Author = {Agundez, M. and Fonfria, J. P. and Cernicharo, J. and Kahane, C. and
+   Daniel, F. and Guelin, M.},
+Title = {Molecular abundances in the inner layers of IRC+10216},
+Journal = AA,
+Year = {2012},
+Volume = {543},
+Abstract = {Context. The inner layers of circumstellar envelopes around asymptotic
+   giant branch stars are sites where a variety of processes such as
+   thermochemical equilibrium, shocks induced by the stellar pulsation, and
+   condensation of dust grains determine the chemical composition of the
+   material that is expelled into the outer envelope layers and,
+   ultimately, into interstellar space.
+   Aims. We aim at studying the abundances, throughout the whole
+   circumstellar envelope of the carbon star IRC +10216, of several
+   molecules formed in the inner layers in order to constrain the different
+   processes at work in such regions.
+   Methods. Observations towards IRC +10216 of CS, SiO, SiS, NaCl, KCl,
+   AlCl, AlF, and NaCN have been carried out with the IRAM 30-m telescope
+   in the 80-357.5 GHz frequency range. A large number of rotational
+   transitions covering a wide range of energy levels, including highly
+   excited vibrational states, are detected in emission and serve to trace
+   different regions of the envelope. Radiative transfer calculations based
+   on the LVG formalism have been performed to derive molecular abundances
+   from the innermost out to the outer layers. The excitation calculations
+   include infrared pumping to excited vibrational states and inelastic
+   collisions, for which up-to-date rate coefficients for rotational and,
+   in some cases, ro-vibrational transitions are used.
+   Results. We find that in the inner layers CS, SiO, and SiS have
+   abundances relative to H-2 of 4 x 10(-6), 1.8 x 10(-7), and 3 x 10(-6),
+   respectively, and that CS and SiS have significant lower abundances in
+   the outer envelope, which implies that they actively contribute to the
+   formation of dust. Moreover, in the inner layers, the amount of sulfur
+   and silicon in gas phase molecules is only 27\% for S and 5.6\% for Si,
+   implying that these elements have already condensed onto grains, most
+   likely in the form of MgS and SiC. Metal-bearing molecules lock up a
+   relatively small fraction of metals, although our results indicate that
+   NaCl, KCl, AlCl, AlF, and NaCN, despite their refractory character, are
+   not significantly depleted in the cold outer layers. In these regions a
+   few percent of the metals Na, K, and Al survive in the gas phase, either
+   in atomic or molecular form, and are therefore available to participate
+   in the gas phase chemistry in the outer envelope.},
+DOI = {10.1051/0004-6361/201218963},
+pages = {A48}}
+
+@article{ 11LeRoAb.CS,
+Author = {Lepine, J. R. D. and Roman-Lopes, A. and Abraham, Zulema and Junqueira,
+   T. C. and Mishurov, Yu N.},
+Title = {The spiral structure of the Galaxy revealed by CS sources and evidence
+   for the 4:1 resonance},
+Journal = MNRAS,
+Year = {2011},
+Volume = {414},
+Pages = {1607-1616},
+Abstract = {We present a map of the spiral structure of the Galaxy, as traced by
+   molecular carbon monosulphide (CS) emission associated with IRAS sources
+   which are believed to be compact H II regions. The CS line velocities
+   are used to determine the kinematic distances of the sources in order to
+   investigate their distribution in the galactic plane. This allows us to
+   use 870 objects to trace the arms, a number larger than that of previous
+   studies based on classical H II regions. The distance ambiguity of the
+   kinematic distances, when it exists, is solved by different procedures,
+   including the latitude distribution and an analysis of the
+   longitude-velocity diagram. The study of the spiral structure is
+   complemented with other tracers: open clusters, Cepheids, methanol
+   masers and H II regions. The well-defined spiral arms are seen to be
+   confined inside the corotation radius, as is often the case in spiral
+   galaxies. We identify a square-shaped sub-structure in the CS map with
+   that predicted by stellar orbits at the 4:1 resonance (four epicycle
+   oscillations in one turn around the galactic centre). The sub-structure
+   is found at the expected radius, based on the known pattern rotation
+   speed and epicycle frequency curve. An inner arm presents an end with
+   strong inwards curvature and intense star formation that we tentatively
+   associate with the region where this arm surrounds the extremity of the
+   bar, as seen in many barred galaxies. Finally, a new arm with concave
+   curvature is found in the Sagitta to Cepheus region of the sky. The
+   observed arms are interpreted in terms of perturbations similar to
+   grooves in the gravitational potential of the disc, produced by crowding
+   of stellar orbits.},
+DOI = {10.1111/j.1365-2966.2011.18492.x},
+}
+
+@article{ 10ShLiSu.CS,
+Author = {Shi, De-Heng and Liu, Hui and Sun, Jin-Feng and Liu, Yu-Fang and Zhu,
+   Zun-Lue},
+Title = {MRCI study on potential energy curves, spectroscopic parameters and
+   rovibrational energy levels of CS(X-1 Sigma(+)) molecule},
+Journal = THEOCHEM,
+Year = {2010},
+Volume = {945},
+Pages = {1-7},
+Abstract = {Using the highly accurate valence internally contracted multireference
+   configuration interaction (MRCI) approach in combination with several
+   groups of correlation-consistent basis sets, this paper investigates the
+   potential energy curves (PECs), spectroscopic parameters and vibrational
+   manifolds including rovibrational levels and transition lines of the
+   CS(X-1 Sigma(+)) molecule. The PECs are fitted to the Murrell-Sorbie
+   function form, which are used to accurately reproduce the spectroscopic
+   parameters (D-0, omega(e)chi(e), alpha(e) and B-e). By comparison with
+   the available experiments, the PEC obtained at the basis sets,
+   aug-cc-pCV5Z for C and cc-pV5Z for S. is selected to investigate the
+   spectroscopic parameters and rovibrational energy levels. The present
+   D-0, D-e, R-e, omega(e), omega(e)chi(e), and B-e are of 7.2646 eV,
+   7.3436 eV, 0.15403 nm, 1278.00 cm(-1), 6.4924 cm(-1), 0.005837 cm(-1)
+   and 0.8144 cm(-1), respectively, which almost perfectly conform to the
+   available measurements. With the interaction potential obtained at the
+   basis sets, aug-cc-pCV5Z for C and cc-pV5Z for S. by numerically solving
+   the radial Schrodinger equation of nuclear motion, a total of 82
+   vibrational states is predicted when the rotational quantum number J
+   equals zero. The complete vibrational levels, classical turning points,
+   inertial rotation and centrifugal distortion constants are determined
+   when J = 0, which are in excellent agreement with the available
+   experiments. The rovibrational energy levels of the CS(X-1 Sigma(+))
+   molecule are calculated until J = 30. According to the rovibrational
+   levels, a number of transition lines for the CS(X-1 Sigma(+)) molecule
+   are evaluated, which agree well with the available experimental
+   observations. (C) 2010 Elsevier B.V. All rights reserved.},
+DOI = {10.1016/j.theochem.2009.12.029},
+}
+
+@article{07BaSuZh.CS ,
+Author = {Bai, Hong-Tao and Sun, Cheng-Yuan and Zhan, Jun and Sun, Fu-Xiang and Xi,
+   Hai-Shan and Huang, Xu-Ri},
+Title = {Theoretical study on the potential energy surface of the CS plus NO
+   reaction},
+Journal = {Acta Chimica Sinica},
+Year = {2007},
+Volume = {65},
+Pages = {1762-1766},
+Abstract = {The reaction mechanism of CS molecule with NO molecule was investigated
+   by using ab initio and DFT. The doublet and quartet potential energy
+   surface of the reaction of CS with NO were calculated at the
+   B3LYP/6-311G{*}{*} and CCSD(T)/6-311G{*}{*} level. The results of the
+   calculation show that the major reaction mode is C-atom of CS molecule
+   connecting N-atom of NO in the doublet potential energy surface. The
+   reactants initially form the linear intermediate 1 (CSNO) via the
+   transition state TS1, and then intermediate 1 takes a series of complex
+   isomerization to the main product P, (CO+SN). The reaction process
+   releases large heat which is - 183.75 kJ/mol. The quartet state is
+   unimportant because the potential barrier of reaction entrance is too
+   high.},
+}
+
+@article{ 07CaDeBo.CS,
+Author = {Canaves, M. V. and de Almeida, A. A. and Boice, D. C. and Sanzovo, G. C.},
+Title = {On the chemistry of CS and NS in cometary comae},
+Journal = {Adv. Space Res.},
+Year = {2007},
+Volume = {39},
+Pages = {451-457},
+Abstract = {We have developed a multifluid chemical model of cometary comae which is
+   an improvement to a recent work by Canaves et al. {[}Canaves, M.V., de
+   Almeida, A.A., Boice, D.C., Sanzovo, G.C., Nitrogen sulfide in comets
+   Hyakutake (C/1996 B2) and Hale-Bopp (C/1995 01), Earth Moon Planets, 90,
+   1-13, 2002.] with the purpose to predict the abundances of carbon
+   monosulfide (CS) and nitrogen sulfide (NS). The model is applied to the
+   recent bright comets Hyakutake and Hale-Bopp at a heliocentric distance
+   of 1 AU using a detailed photo and chemical reaction network including
+   more than 100 species and over 1000 reactions. The collisional reactions
+   have up-to-date rate coefficients from Le Teuff et al. {[}Le Teuff,
+   Y.H., Millar, T.J., Markwick, A.J., The UMIST database for
+   astrochemistry 1999, A\&AS, 146, 157-168, 2000.], while the photolytic
+   rate coefficients were taken for minimum and maximum solar fluxes in
+   order to estimate an lower and a upper limit for the abundances of NS
+   and CS. The comparison of results for NS molecule in comet Hale-Bopp is
+   in good agreement with Irvine et al. {[}Irvine, W.M., Senay, M., Lovell,
+   A.J., Matthews, H.E., McGonagle, D., Meier, R., Note: detection of
+   nitrogen sulfide in comet Hale-Bopp, Icarus, 143, 412-414, 2000.], while
+   for CS species we show that the abundances do not seem to vary much with
+   the cometocentric distance. (C) 2007 COSPAR. Published by Elsevier Ltd.
+   All rights reserved.},
+DOI = {10.1016/j.asr.2006.09.040},
+}
+
+@article{ 06GoPeGe.CS,
+Author = {Goicoechea, J. R. and Pety, J. and Gerin, M. and Teyssier, D. and
+   Roueff, E. and Hily-Blant, P. and Baek, S.},
+Title = {Low sulfur depletion in the Horsehead PDR},
+Journal = AA,
+Year = {2006},
+Volume = {456},
+Pages = {565-U52},
+Abstract = {Aims. We present 3.65{''} x 3.34{''} angular-resolution IRAM Plateau de
+   Bure Interferometer (PdBI) observations of the CS J = 2-1 line toward
+   the Horsehead Photodissociation Region (PDR), complemented with IRAM-30m
+   single-dish observations of several rotational lines of CS, (CS)-S-34
+   and HCS+. We analyse the CS and HCS+ photochemistry, excitation and
+   radiative transfer to obtain their abundances and the physical
+   conditions prevailing in the cloud edge. Since the CS abundance scales
+   to that of sulfur, we determine the gas phase sulfur abundance in the
+   PDR, an interesting intermediate medium between translucent clouds
+   (where sulfur remains in the gas phase) and dark clouds (where large
+   depletions have been invoked).
+   Methods. A nonlocal non-LTE radiative transfer code including dust and
+   cosmic background illumination adapted to the Horsehead geometry has
+   been developed to carefuly analyse the CS, (CS)-S-34, HCS+ and (CO)-O-18
+   rotational line emission. We use this model to consistently link the
+   line observations with photochemical models to determine the
+   CS/HCS+/S/S+ structure of the PDR.
+   Results. Densities of n(H-2) similar or equal to (0.5-1.0) x 10(5)
+   cm(-3) are required to reproduce the CS and (CS)-S-34 J = 2-1 and 3-2
+   line emission. CS J = 5-4 lines show narrower line widths than the CS
+   low-J lines and require higher density gas components not resolved by
+   the similar to 10{''} IRAM-30m beam. These values are larger than
+   previous estimates based in CO observations. We found chi(CS) = (7 +/-
+   3) x 10(-9) and chi(HCS+) = (4 +/- 2) x 10(-11) as the averaged
+   abundances in the PDR. According to photochemical models, the gas phase
+   sulfur abundance required to reproduce these values is S/H = (3.5 +/-
+   1.5) x 10(-6), only a factor less than or similar to 4 less abundant
+   than the solar sulfur elemental abundance. Since only lower limits to
+   the gas temperature are constrained, even lower sulfur depletion values
+   are possible if the gas is significantly warmer. \textbackslash{}
+   Conclusions. The combination of CS, (CS)-S-34 and HCS+ observations
+   together with the inclusion of the most recent CS collisional and
+   chemical rates in our models implies that sulfur depletion invoked to
+   account for CS and HCS+ abundances is much smaller than in previous
+   studies.},
+DOI = {10.1051/0004-6361:20065260},
+}
+
+@article{ 06HuBeFl.CS,
+Author = {Huang, M D and Becker-Ross, H and Florek, S and Heitmann, U and Okruss, M},
+Title = {Determination of sulfur by molecular absorption of carbon monosulfide
+   using a high-resolution continuum source absorption spectrometer and an
+   air-acetylene flame},
+Journal = {Spectrochim. Acta B},
+Year = {2006},
+Volume = {61},
+Pages = {181-188},
+Abstract = {A standard air-acetylene flame, attached to a high-resolution continuum
+   source atomic absorption spectrometer, was used to determine sulfur via
+   measurements of selected rotational lines of carbon monosulfide (CS)
+   formed in the flame. The lines are part of the strong molecular
+   absorption system around 258nm. Their half-widths in the order of a few
+   picometers are comparable to common atomic lines. The analytical method
+   is characterized by simplicity, rapidity, reliability, and robustness.
+   Potential chemical and spectral interferences were tested using nitric,
+   hydrochloric, perchloric and hydrofluoric acids at concentrations up to
+   5\% (v/v), and solutions of Al, Ca, Co, Cr, Cu, Fe, K, Mg, Mn, Na, Ni,
+   and Pb at concentrations up to 2000 mg L-1. The only serious spectral
+   interference occurred with Pb at concentrations higher than 200 mg L-1,
+   which is due to the fort-nation of lead sulfate in the solution. The
+   limit of detection achieved for sulfur was 2.4 mg L-1, using the CS line
+   at 258.056nm and a measurement time of 5 s. A linear dynamic range of
+   more than 3 orders of magnitude was obtained. The analytical results
+   were verified by means of standard reference materials, yielding good
+   precision and accuracy. (c) 2006 Elsevier B.V. All rights reserved.},
+DOI = {10.1016/j.sab.2006.01.001},
+}
+
+@article{ 04ArSaxx.04,
+Author = {Arce, H G and Sargent, A I},
+Title = {Outflow-infall interactions in early star formation and their impact on
+   the mass-assembling process in L1228},
+Journal = ApJ,
+Year = {2004},
+Volume = {612},
+Pages = {342-356},
+Abstract = {New high-resolution molecular line and continuum millimeter
+   interferometer observations of the environment within 10(4) AU of the
+   low-mass protostar IRAS 20582+7724, in the L1228 dark cloud, enable a
+   detailed study of the molecular outflow near the protostellar source,
+   the circumstellar envelope, and the outflow-envelope interaction. In
+   (12)CO and (13)CO maps a wide-angle molecular outflow has been imaged to
+   within less than 1000 AU of the 2.7 mm continuum emission associated
+   with IRAS 20582+7724. The morphology and kinematics are consistent with
+   entrainment of the gas by an underlying wind that has both a wide-angle
+   and a collimated component. The HCO(+) (1-0), HNC (1-0), and CS (2-1)
+   lines are sensitive to infall motions and trace an elongated
+   circumstellar envelope perpendicular to the outflow axis. Together the
+   morphology, kinematics, and energetics of both the outflow and infalling
+   circumstellar envelope suggest that the outflow has excavated wide-angle
+   cavities in the envelope and thereby constrained the infall region to a
+   limited volume outside the outflow lobes. In the IRAS 20582+7724 system,
+   outflow-envelope interactions evidently have an important effect on the
+   mass-assembling process. In addition, our multimolecular line data show
+   that the outflow has affected the chemical composition of the gaseous
+   environment surrounding the protostar, through the shock enhancement of
+   different molecular species.},
+DOI = {10.1086/422552},
+}
+
+@article{ 03Chandr.CS,
+Author = {Chandra, S},
+Title = {Radiative excitation of CS molecules in atmosphere of a star},
+Journal = {Indian J. Phys.},
+Year = {2003},
+Volume = {77B},
+Pages = {617-620},
+Abstract = {We have investigated radiative excitation of CS molecules in atmosphere
+   of a carbon star. Besides those of the observed lines of CS molecule,
+   intensities of some other lines, in the ground v = 0 as well as
+   vibrationally excited v = 1 states, are computed. Intensities of other
+   lines are found comparable to those of the observed ones, in the
+   corresponding vibrational state, and therefore, those lines are probable
+   candidates for their detection. The lines in the vibrationally excited
+   state, as well as between higher rotational levels in the ground
+   vibrational state, are found to have a tendency of their formation in
+   the regions close to the photosphere of the star, whereas the reverse
+   has been found for the lines between lower rotational levels in the
+   ground vibrational state.
+   It is found that lines in the vibrationally excited state cannot be
+   generated, even in a high density and high temperature region, unless
+   external infrared radiation field is present.},
+}
+
+@article{ 03Jamanx.CS ,
+Author = {Jaman, A I},
+Title = {Millimeterwave spectroscopy of transient molecules produced in a DC
+   discharge},
+Journal = {Praman J. Phys.},
+Year = {2003},
+Volume = {61},
+Pages = {85-91},
+Abstract = {The construction of a millimeterwave spectrometer to study the pure
+   rotational spectra or transient molecules in the gas phase is presented.
+   The spectrometer is a source-modulated system combined with a free space
+   glass discharge cell. Millimeterwave radiation has been produced using a
+   frequency multiplier, the fundamental radiation sour e being klystrons.
+   The spectrometer has been used to study the millimeterwave spectrum of
+   carbon monosulfide (CS) and fluorine cyanide (FCN) produced inside the
+   cell in a low pressure DC discharge of precursor gases. The quadrupole
+   hyperfine structures of S-33 and N-14 nucleus of CS and FCN have been
+   resolved, measured and analysed.},
+DOI = {10.1007/BF02704512},
+}
+
+@article{03KiYaxx.CS ,
+Author = {Kim, E and Yamamoto, S},
+Title = {Fourier transform millimeter-wave spectroscopy of CS(X-1 Sigma(+)) and
+   SO(b(1)Sigma(+)) in highly excited vibrational states},
+Journal = JMS,
+Year = {2003},
+Volume = {219},
+Pages = {296-304},
+Abstract = {The rotational spectral lines of CS(X(1)Sigma(+)) and SO(b(1)Sigma(+))
+   in the highly excited vibrational states have been observed with the
+   Fourier transform millimeter-wave spectrometer in combination with a
+   pulsed discharge nozzle. The J = 1-0 rotational lines of
+   CS(X(1)Sigma(+)) have been measured for vibrational states up to v = 39,
+   whereas those of SO(b(1)Sigma(+)) up to v = 22. The J = 2-1 rotational
+   lines of CS(X(1)Sigma(+)) and SO(b(1)Sigma(+)) are detected for several
+   vibrational states. These measurements lead to a precise determination
+   of the Dunham coefficients. In addition to the normal species, the
+   spectral lines of their isotopomers have also been observed. The
+   hyperfine interaction constants of (CS)-C-13 and (CS)-S-33 are
+   determined in each excited vibrational state. The present measurements
+   indicate that the pulsed discharge nozzle system can produce a molecule
+   in highly excited vibrational states as well as in the metastable
+   electronic states. },
+DOI = {10.1016/S0022-2852(03)00027-4},
+}
+
+@article{ 02KiKoxx.CS,
+Author = {Kim, K T and Koo, B C},
+Title = {Interaction between ionized and molecular gas in the active star-forming
+   region W31},
+Journal = ApJ,
+Year = {2002},
+Volume = {575},
+Pages = {327-336},
+Abstract = {We have carried out 21 cm radio continuum, H76alpha radio recombination
+   line, and various ((CO)-C-12, (CO)-C-13, CS, and (CS)-S-34) molecular
+   line observations of the W31 complex. Our radio continuum data show that
+   W31 is composed of two extended H II regions, G10.2-0.3 and G10.3-0.1,
+   each of which comprises an ultra-compact H II region, two or more
+   compact components, and a diffuse envelope. The W31 cloud appears as an
+   incomplete shell on the whole and consists of southern spherical and
+   northern at components, which are associated with G10.2-0.3 and
+   G10.3-0.1, respectively. For an assumed distance of 6 kpc, the molecular
+   cloud has a size of 48 pc and a mass of 6.2 x 10(5) M.. The IR
+   luminosity-to-mass ratio and the star formation efficiency are derived
+   to be 9 L./M. and 3\%, respectively. These estimates are greater than
+   average values of the inner Galactic plane. We detect two large ( 16 and
+   11 pc) and massive (2.1 x 10(5) and 8.2 x 10(4) M.) CS-emitting regions
+   in the northern and southern cloud components. The large amount (48\% in
+   mass and 16\% in area) of dense gas may suggest that the W31 cloud has
+   the ability to form rich stellar clusters and that star formation has
+   only recently begun. The extended envelopes of both G10.2-0.3 and
+   G10.3-0.1 are likely to be results of the champagne flows, based on the
+   distributions of ionized and molecular gas and the velocity gradient of
+   H76alpha line emission. According to the champagne model, the dynamical
+   ages of the two H II regions would be (4-12) x 10(5) yr. We find strong
+   evidence of bipolar molecular outflows associated with the two
+   ultracompact H II regions. In the vicinity of the ultracompact and
+   compact H II regions in G10.3-0.1, the (CO)-C-12 J = 2-1/J = 1-0
+   intensity ratio is high (1.4), and a small but prominent molecular gas
+   hollow exists. Together, these observations strongly indicate that the H
+   II regions and their ionizing stars are interacting with the molecular
+   cloud. Therefore, it is most likely that recently formed massive stars
+   are actively disrupting their parental molecular cloud in the W31
+   complex.},
+DOI = {10.1086/341285},
+}
+
+@article{ 98Liuxxx.CS,
+Author = {Liu, W H},
+Title = {Formation and destruction of carbon sulfide in SN 1987A},
+Journal = ApJ,
+Year = {1998},
+Volume = {496},
+Pages = {967-970},
+Abstract = {Mechanisms for formation and destruction of carbon sulfide (CS)
+   molecules in SN 1987A are explored, and a chemistry model of CS is
+   advanced. Partly because of the slow formation of CS due to the low
+   degree of microscopic mixing of carbon and sulfur in the ejecta and
+   mainly because of the rapid destruction of CS by the abundant neutral
+   oxygen, the chemistry predicts a low mass of CS of the order of 10(-11)
+   M. in the supernova. If the 3.88 mu m feature in the late-time infrared
+   spectra of SN 1987A is indeed due to the first overtone emission of CS,
+   the vibrational nu = 2 level of CS in the supernova may be populated
+   more efficiently by Br alpha pumping than by thermal electron impact.},
+DOI = {10.1086/305390},
+}
+
+@article{ 98SwKixx.CS,
+Author = {Swade, D A and Kinzel, W M},
+Title = {HST archival search for carbon monosulfide toward zeta ophiuchi},
+journal =ASPCS ,
+Year = {1998},
+Volume = {143},
+Pages = {295-298},
+Abstract = {We have searched the HST archive for GHRS observations toward the star
+   zeta Oph in which the wavelength range includes the CS A-X (0,0)
+   transitions near 2577 Angstrom. An emission line arising from the CS J =
+   2-1 rotational transition at millimeter wavelengths has been detected
+   toward zeta Oph (Drdla, Knapp \& van Dishoeck 1989) with sufficient
+   intensity to indicate a CS column density which would provide enough
+   absorption for detection of the A-X (0,0) R(0) line by the GHRS. A total
+   of three Echelle-B data sets were found which satisfied our search
+   criteria. The sum of the three Echelle-B data sets provides a more
+   stringent upper limit of 0.16 m Angstrom (3 sigma) on the CS A-X (0,0)
+   R(0) line equivalent width. This is below the equivalent width predicted
+   by Drdla, Knapp \& van Dishoeck based on their CS J = 2-1 detection.},
+}
+
+@article{ 96MaHeLa.CS,
+Author = {Mauersberger, R and Henkel, C and Langer, N and Chin, Y N},
+Title = {Interstellar S-36: A probe of s-process nucleosynthesis},
+Journal = AA,
+Year = {1996},
+Volume = {313},
+Pages = {L1-L4},
+Abstract = {The first detection of a S-36-bearing molecule in interstellar space is
+   reported. The J=2-1 and 3-2 transitions of (CS)-S-36 have been observed
+   toward eight Galactic molecular hot cores. From a comparison with other
+   optically thin isotopic species of CS, the abundance ratio of S-34/S-36
+   is 115(+/-17). This is smaller than the solar system ratio of 200 and
+   supports the idea that S-36 is, unlike the other stable sulfur isotopes,
+   a purely secondary nucleus that is produced by s-process nucleosynthesis
+   in massive stars.},
+}
+
+@article{96ChHeWh.CS ,
+Author = {Chin, Y N and Henkel, C and Whiteoak, J B and Langer, N and Churchwell, E B},
+Title = {Interstellar sulfur isotopes and stellar oxygen burning},
+Journal = AA,
+Year = {1996},
+Volume = {305},
+Pages = {960-969},
+Abstract = {A (CS)-C-12-S-32, (CS)-C-13-S-32, (CS)-C-12-S-34, and (CS)-C-12-S-33
+   J=2-1 line survey has been made to study interstellar S-32/S-34 and
+   S-34/S-33 ratios from the galactic disk. The four CS isotopomers were
+   detected in 20 star forming regions with galactocentric distances
+   between 3 and 9 kpc. From a comparison of line velocities, the (CS)-S-33
+   J=2-1 rest frequency is similar to 250 kHz below the value given in the
+   Lovas (1992) catalog. Taking C-12/C-13 ratios from Wilson \& Rood (1994)
+   and assuming equal (CS)-C-12-S-32 and (CS)-C-13-S-32 excitation
+   temperatures and beam filling factors, (CS)-C-12-S-32 opacities are in
+   the range 3 to 15; average S-32/S-34 and S-34/S-33 isotope ratios
+   are-24.4 +/- 5.0 and 6.27 +/- 1.01, respectively. While no systematic
+   variation in the S-34/S-33 isotope ratio is found, the S-32/S-34 ratio
+   increases with galactocentric distance when accounting for the C-12/C-13
+   gradient of the galactic disk. A fit to the unweighted data yields
+   S-32/S-34 = 3.3 +/- 0.5 (D-GC/kpc) + 4.1 +/- 3.1 with a correlation
+   coefficient of 0.84. Since the interstellar sulfur (S) isotopes are
+   synthesized by oxygen burning in massive stars, consequences for
+   nucleosynthesis and models of chemical evolution are briefly
+   discussed(1).},
+}
+
+@article{95RaBeDa.CS ,
+Author = {Ram, R S and Bernath, P F and Davis, S P},
+Title = {FOURIER-TRANSFORM INFRARED-EMISSION SPECTROSCOPY OF CS},
+Journal = JMS,
+Year = {1995},
+Volume = {173},
+Pages = {146-157},
+Abstract = {The vibration-rotation spectrum of CS was observed in emission in the
+   spectral region 1000-1400 cm(-1) with a Fourier transform spectrometer.
+   The observed spectrum consists of nine Delta upsilon = 1 vibration
+   rotation bands with upsilon less than or equal to 9. The present data
+   combined with previous infrared and microwave measurements provide an
+   improved set of molecular constants. (C) 1995 Academic Press, Inc.},
+DOI = {10.1006/jmsp.1995.1225},
+}
+
+@article{ 95PaJaIs.CS,
+Author = {Paglione, T A D and Jackson, J M and Ishizuki, S and Nguyenqrieu},
+Title = {FIRST OBSERVATIONS OF EXTRAGALACTIC CS J=1-]0},
+Journal = AJ,
+Year = {1995},
+Volume = {109},
+Pages = {1716-1723},
+DOI = {10.1086/117399},
+}
+
+@article{94RiSaCu.CS ,
+Author = {Richardson, K J and Sandall, G and Cunningham, C T and Davies, S R},
+Title = {DR-21(OH), A CLUSTER IN THE MAKING .1. OBSERVATIONS IN CARBON
+   MONOSULFIDE AND METHANOL},
+Journal = AA,
+Year = {1994},
+Volume = {286},
+Pages = {555-564},
+Abstract = {The star formation region DR 21 (OH) was observed in the J=5-4
+   transitions of CS and (CS)-S-34, and in several J=5-4 transitions of
+   methanol. High velocity wings are detected in CS towards the main
+   DR21(OH) peak, extending over 80 km s-1. They are very faint, and the
+   outer wings are detected only at the centre position. Since the outflow
+   is not seen in the CO J=1-0 or 2-1 transitions, the CS observations
+   suggest that this is a young, compact, dense and hot outflow. Many of
+   the known NH3 cores are also seen in CS and methanol. Three known
+   submm-continuum sources, DR 21 (OH)S, DR 2 1 (OH)SW, and DR 21(OH)NW,
+   are surprisingly faint in the CS J=5-4 line, probably because the gas,
+   though sufficiently dense, is too cold to fully excite the CS J=5-4
+   transition. They are, however, strong in methanol. An additional source,
+   DR 21 (OH)SE, is strong in CS but weak in methanol. The methanol lines
+   were interpreted with an LTE analysis to estimate rotational
+   temperatures and column densities at the main peaks, and the results
+   discussed in the context of chemical},
+}
+
+@article{ 92CoHaxx.CS ,
+Author = {Coxon, J A and Hajigeorgiou, P G},
+Title = {ON THE DIRECT DETERMINATION OF ANALYTICAL DIATOMIC POTENTIAL-ENERGY
+   FUNCTIONS FROM SPECTROSCOPIC DATA - THE X1-SIGMA+ ELECTRONIC STATES OF
+   NAF, LII, CS, AND SIS},
+Journal = CP,
+Year = {1992},
+Volume = {167},
+Pages = {327-340},
+Abstract = {Line positions available in the literature for vibrational-rotational
+   and pure rotational transitions have been employed to determine accurate
+   effective potential energy curves for the ground electronic states of
+   (NaF)-Na-23-F-19 and (LiI)-Li-7-I-127, and Born-Oppenheimer potentials
+   and associated radial functions describing Born-Oppenheimer breakdown
+   corrections for CS and SiS. In each case, a small number of fitted
+   parameters represents the entire data to within the measurement
+   accuracies. Rotational and centrifugal distortion constants are
+   calculated a posteriori through perturbation theory. For SiS, the
+   results are compared with those of a recent analysis by Ogilvie, and it
+   is found that eigenvalues calculated by numerical solution of the radial
+   equation with effective Hamiltonians defined by the present results are
+   greatly improved over those calculated from Hamiltonians defined by
+   Ogilvie's parameters.},
+DOI = {10.1016/0301-0104(92)80206-B},
+}
+
+@article{ 91ChRhLe.CS,
+Author = {Choe, J I and Rho, Y M and Lee, S M and Lefloch, A C and Kukolich, S G},
+Title = {FOURIER-TRANSFORM SPECTROSCOPY OF THE CS D3-DELTA-I-A3-PI-R SYSTEM -
+   INDIRECT MEASUREMENT OF THE 1-SIGMA-VALENCE STATE},
+Journal = JMS,
+Year = {1991},
+Volume = {149},
+Pages = {185-213},
+}
+
+@article{ 11DoShMe.CS,
+Author = {Domagal-Goldman, Shawn D. and Meadows, Victoria S. and Claire, Mark W.
+   and Kasting, James F.},
+Title = {Using Biogenic Sulfur Gases as Remotely Detectable Biosignatures on
+   Anoxic Planets},
+Journal = {Astrobiology},
+Year = {2011},
+Volume = {11},
+Pages = {419-441},
+Abstract = {We used one-dimensional photochemical and radiative transfer models to
+   study the potential of organic sulfur compounds (CS2, OCS, CH3SH,
+   CH3SCH3, and CH3S2CH3) to act as remotely detectable biosignatures in
+   anoxic exoplanetary atmospheres. Concentrations of organic sulfur gases
+   were predicted for various biogenic sulfur fluxes into anoxic
+   atmospheres and were found to increase with decreasing UV fluxes.
+   Dimethyl sulfide (CH3SCH3, or DMS) and dimethyl disulfide (CH3S2CH3, or
+   DMDS) concentrations could increase to remotely detectable levels, but
+   only in cases of extremely low UV fluxes, which may occur in the
+   habitable zone of an inactive M dwarf. The most detectable feature of
+   organic sulfur gases is an indirect one that results from an increase in
+   ethane (C2H6) over that which would be predicted based on the planet's
+   methane (CH4) concentration. Thus, a characterization mission could
+   detect these organic sulfur gases-and therefore the life that produces
+   them-if it could sufficiently quantify the ethane and methane in the
+   exoplanet's atmosphere.},
+DOI = {10.1089/ast.2010.0509}}
+
+@ARTICLE{06AgCexx.CS,
+  author = {Agundez, M and Cernicharo, J},
+  title = {Oxygen chemistry in the circumstellar envelope of the carbon-rich star IRC+10216},
+  journal = ApJ,
+  year = {2006},
+  volume = {650},
+  pages = {374-393}
+}
+
+
+@ARTICLE{34CaShxx.CS,
+  author = {Crawford, F H and Shurcliff, W A},
+  title = {The Band Spectrum of CS},
+  journal = PR,
+  year = {1934},
+  volume = {45},
+  pages = {860-870}
+}
+
+@ARTICLE{07CaAlBo.CS,
+  author = {Canaves, M.V and de Almeida, A.A and Boice, D.C and Sanzovo, G.C},
+  title = {On the chemistry of CS and NS in cometary comae},
+  journal = {Adv. Space Res.},
+  year = {2007},
+  volume = {39},
+  pages = {451-457}
+}
+
+
+@ARTICLE{13DaBaCr.CS,
+  author = {Davis, T.A and Bayet, E and Crocker, A and Topal, S and Bureau, M},
+  title = {ISM chemistry in metal rich environments: molecular tracers of metallicity},
+  journal = MNRAS,
+  year = {2013},
+  volume = {433},
+  pages = {1659-1674}
+}
+
+@ARTICLE{85HeBaxx.CS,
+  author = {Henkel, C and  J. Bally},
+  title = {Detection of extragalactic CS },
+  journal = AA,
+  year = {1985},
+  volume = {150},
+  pages = {L25-L27},
+  abstract = {The J = 2-1 transition of CS has been detected in M82 and in IC342, suggesting the presence of large amounts of high density gas (n greater than 1000/cu cm). The integrated intensities are 1.51 km/s and 0.44 km/s for M82 and IC342, respectively. The probable location of the peak of the CS emission relative to the nucleus of IC342 is discussed. The molecular line intensity ratios in M82 and IC342 are similar to those found in the Galactic center region and in local molecular cloud cores. They are, however, different from the line intensity ratios in the GMCs of the Galactic disk. The larger integrated intensity of M82 is consistent with the occurrence of a nuclear starburst in this galaxy. Searching in IC342 for the J = 11-10 transition of HC3N leads to the discovery of an upper limit 3 times below the intensity of the J = 2-1 CS line. },
+}
+
+@article{ 00NiBeHj.CS,
+Author = {Nilsson, A and Bergman, P and Hjalmarson, A},
+Title = {SO and CS observations of molecular clouds - I. The observational data},
+Journal = ApJS,
+Year = {2000},
+Volume = {144},
+Pages = {441-450},
+Abstract = {We present in this article a rather extensive mapping survey of 19
+   Galactic molecular clouds in the CS (J = 2-1) and SO(J(N) = 3(2)-2(1))
+   lines using the Onsala 20 m telescope. The data, taken with the same
+   angular resolution of similar to 40{''}, are presented as integrated
+   intensity maps and for some relevant positions we also present spectra
+   of the previously mentioned lines and their S-34 substituted isotopomer
+   lines. For map positions where we have observed at least one of the less
+   abundant isotopomer transitions pre have tabulated the integrated
+   intensities of all observed transitions (Table 2). Already a visual
+   inspection of the maps reveals considerable differences between the SO
+   and CS integrated intensity distributions.}}
+
+@article{ 15ScShWa.CS,
+Author = {Scoville, Nick and Sheth, Kartik and Walter, Fabian and Manohar,
+   Swarnima and Zschaechner, Laura and Yun, Min and Koda, Jin and Sanders,
+   David and Murchikova, Lena and Thompson, Todd and Robertson, Brant and
+   Genzel, Reinhard and Hernquist, Lars and Tacconi, Linda and Brown,
+   Robert and Narayanan, Desika and Hayward, Christopher C. and Barnes,
+   Joshua and Kartaltepe, Jeyhan and Davies, Richard and Van Der Werf, Paul
+   and Fomalont, Edward},
+Title = {ALMA IMAGING OF HCN, CS, AND DUST IN ARP 220 AND NGC 6240},
+Journal = ApJ,
+Year = {2015},
+Volume = {800},
+pages = {70},
+Abstract = {We report ALMA Band 7 (350 GHz) imaging at 0{''}.4-0{''}.6 resolution
+   and Band 9 (696 GHz) at similar to 0{''}.25 resolution of the luminous
+   IR galaxies Arp 220 and NGC 6240. The long wavelength dust continuum is
+   used to estimate interstellar medium masses for Arp 220 east and west
+   and NGC 6240 of 1.9, 4.2, and 1.6 x 10(9) M-circle dot within radii of
+   69, 65, and 190 pc. The HCN emission was modeled to derive the
+   emissivity distribution as a function of radius and the kinematics of
+   each nuclear disk, yielding dynamical masses consistent with the masses
+   and sizes derived from the dust emission. In Arp 220, the major dust and
+   gas concentrations are at radii less than 50 pc in both counter-rotating
+   nuclear disks. The thickness of the disks in Arp 220 estimated from the
+   velocity dispersion and rotation velocities are 10-20 pc and the mean
+   gas densities are n(H2) similar to 10(5) cm(-3) at R < 50 pc. We develop
+   an analytic treatment for the molecular excitation (including photon
+   trapping), yielding volume densities for both the HCN and CS emission
+   with n(H2) similar to 2 x 10(5) cm(-3). The agreement of the mean
+   density from the total mass and size with that required for excitation
+   suggests that the volume is essentially filled with dense gas, i.e., it
+   is not cloudy or like swiss cheese.},
+DOI = {10.1088/0004-637X/800/1/70}
+}
+
+@article{ 02McSiLa.CS,
+Author = {McQuinn, K B W and Simon, R and Law, C J and Jackson, J M and Bania, T M and  Clemens, D P and Heyer, M H},
+Title = {A comparison of (CO)-C-13 and CS emission in the inner galaxy},
+Journal = ApJ,
+Year = {2002},
+Volume = {576},
+Pages = {274-284},
+Abstract = {We analyze 2 deg(2) of the Galactic plane surveyed in CSJ = 2 --> 1 and
+   (13)COJ = 1 --> 0 emission lines as a part of the Boston University Five
+   College Radio Astronomy Observatory Milky Way Galactic Ring Survey.
+   Since the critical density of the CS molecule is large, strong CS
+   emission originates only in dense molecular cloud cores. Yet, because
+   high volume density regions traced by CS also tend to have large column
+   densities, we find that (CO)-C-13 is just as useful as, and much more
+   efficient than, CS for identifying potential dense, star-forming cores.
+   Sixty-five percent of the star-forming sites in the survey region,
+   selected using color criteria for embedded IRAS point sources, are
+   detected as bright (CO)-C-13 clumps with emission above an integrated
+   intensity of 15 K km s(-1) ( greater than 37 sigma). The fraction of
+   those infrared point sources detected as bright CS clumps above 1 K km
+   s(-1) (greater than 3 sigma) is only 35\%. The CS/(CO)-C-13 intensity
+   ratio can be used as a measure of gas excitation conditions. We compared
+   the observed CS and (CO)-C-13 line intensities of the entire 2 deg(2)
+   field as well as the average line ratios from two molecular clouds with
+   very different physical properties. The average intensity ratio for
+   GRSMC 45.46+0.05, a high volume density, star-forming molecular cloud,
+   calculated with a high (26 K km s(-1)) (CO)-C-13 flux threshold, is
+   T-mb(CS)/T-mb((CO)-C-13) = 0.17 +/- 0.06, with a peak value of similar
+   to0.5 toward two of the CS emission maxima. The ratio for the same cloud
+   calculated using all (CO)-C-13 positions with flux above 3 sigma is 0.06
+   +/- 0.01. For GRSMC 45.60+0.30, a low-density, quiescent molecular
+   cloud, this ratio is even lower, 0.03 +/- 0.01. The average line ratio
+   for the entire 2 deg(2) field is 0 : 04 0 : 01, similar to the value for
+   the low-density cloud. Although the CS lines are brightest toward
+   star-forming cores, ubiquitous, low-level CS emission dominates the
+   emission in the survey region. This emission probably originates from
+   subthermally excited, low-density gas.},
+DOI = {10.1086/341538}
+}
+
+
+@article{ 15BiBaxx.CS,
+Author = {Bilalbegovic, G. and Baranovic, G.},
+Title = {Sulphur-bearing species in molecular clouds},
+Journal =MNRAS,
+Year = {2015},
+Volume = {446},
+Pages = {3118-3129},
+Abstract = {We study several molecules that could help in the solution of the
+   missing sulphur problem in dense clouds and circumstellar regions, as
+   well as in the clarification of the sulphur chemistry in comets. These
+   sulphur molecules are the trimer (CH2S)(3) and the tetramer (CH2S)(4) of
+   thioformaldehyde, pentathian S5CH2, hexathiepan S6CH2, thiirane C2H4S,
+   trisulfane HSSSH, and thioacetone (CH3)(2)CS. Infrared spectra of these
+   species are calculated using the density functional theory methods. The
+   majority of calculated bands belong to the mid-infrared, with some of
+   them occurring in the near-and far-infrared region. We suggest that some
+   of unidentified spectral features measured by Infrared Space Observatory
+   in several active galactic nuclei and starburst galaxies could be caused
+   by 1,3,5-trithiane ((CH2S)(3)), 1,3,5,7-tetrathiocane ((CH2S)(4)), and
+   thiirane (C2H4S). The objects whose unidentified infrared features we
+   compare with calculated bands are NGC 253, M82, NGC 1068, Circinus, Arp
+   220, 30 Doradus, Orion KL, and Sgr B2.},
+DOI = {10.1093/mnras/stu2313}
+}
+
+@article{ 71PeSoWi.CS,
+Author = {Penzias, A A and Solomon, P M and Wilson, R W and Jefferts, K B},
+Title = {INTERSTELLAR CARBON MONOSULFIDE},
+Journal = ApJ,
+Year = {1971},
+Volume = {168},
+Pages = {L53-\&},
+DOI = {10.1086/180784}
+}
+
+@ARTICLE{89MaHeWib.CS,
+  author = {Mauersberger, R and Henkel, C and Wilson, T.L and Harju, J.},
+  title = {Dense gas in nearby galaxies. II - CS emission from spiral galaxies},
+  journal = AA,
+  year = {1989},
+  volume = {226},
+  pages = {L5-L6}
+}
+
+@ARTICLE{89MaHeWia.CS,
+  author = {Mauersberger, R and Henkel, C and Wilson, T.L and Harju, J.},
+  title = {Dense gas in nearby galaxies.I - Distribution, kinematics and multilevel studies of CS },
+  journal = AA,
+  year = {1989},
+  volume = {223},
+  pages = {79-88},
+  abstract = {First Extragalactic Detection of C34S},
+}
+
+@ARTICLE{93HeMaWi.CS,
+  author = {C. Henkel and R. Mauersberger and T. Wiklind and S. Huettemeister and  C. Lemme and T. J. Millar},
+  title = {Dense gas in nearby galaxies. VI - A large 12C/13C ratio in a nuclear starburst environment},
+  journal = AA,
+  year = {1993},
+  volume = {268},
+  pages = {L17-L20}
+}
+
+@ARTICLE{11ShLiZh.CS,
+  author = {Shi, D.H and Li, W.T and Zhang, X.N and Sun, J.F and Liu, Y.F and Zhu, Z.L and Wang, J.M},
+  title = {Effects on spectroscopic properties for several low-lying electronic states of CS molecule by core-valence correlation and relativistic corrections},
+  journal = JMS,
+  year = {2011},
+  volume = {266},
+  pages = {27-36}
+}
+
+@ARTICLE{72BeNgSu.CS,
+  author = {Bell, S and Ng, T.L and Suggitt, C.},
+  title = {An emission system of CS in the vacuum and near ultraviolet},
+  journal = JMS,
+  year = {1972},
+  volume = {44},
+  pages = {267-278}
+}
+
+@ARTICLE{77CoHoRo.CS,
+  author = {Cossart, D and Horani, M and Rostas, J.},
+  title = {Rotational analysis of the a3Pi r- X1Sigma+ transition of CS},
+  journal = JMS,
+  year = {1977},
+  volume = {67},
+  pages = {283-303}
+}
+
+@ARTICLE{87StYoSm.CS,
+  author = {Stark, G. and Yoshino, K. and Smith, P. L.},
+  title = {},
+  journal = JMS,
+  year = {1987},
+  volume = {124},
+  pages = {420-429}
+}
+
+@ARTICLE{55MoBixx.CS,
+  author = {Mockler, R. C. and Bird, G. R.},
+  title = {},
+  journal = PR,
+  year = {1955},
+  volume = {98},
+  pages = {1837-1839}
+}
+
+@ARTICLE{74LoKrxx.CS,
+  author = {Lovas, F.J. and Krupenie, P.H.},
+  title = {Microwave Spectra of Molecules of Astrophysical Interest VII. Carbon Monoxide, Carbon Monosulfide, and Silicon Monoxide},
+  journal = {J. Phys. Chem. Ref. Data},
+  year = {1974},
+  volume = {3},
+  pages = {245-257}
+}
+
+@ARTICLE{63KeSaWi.CS,
+  author = {Kewley, R. and Sastry, K.V.L.N. and Winnewisser, M. and Gordy, W.},
+  title = {Millimeter Wave Spectroscopy of Unstable Molecular Species. I. Carbon Monosulfide},
+  journal = JCP,
+  year = {1963},
+  volume = {39},
+  pages = {2856}
+}
+
+@ARTICLE{82BoDeDe.CS,
+  author = {Bogey, M. and Demuynck, C. and Destombes, J.},
+  title = {Millimeter and Submillimeter Wave Spectrum of Cs Sigma-1 in High Vibrational-States - Isotopic Dependence of Dunham Coefficients},
+  journal = JMS,
+  year = {1982},
+  volume = {95},
+  pages = {35-42}
+}
+
+@ARTICLE{81BoDeDe.CS,
+  author = {Bogey, M. and Demuynck, C. and Destombes, J.},
+  title = {Millimeter Wave Spectrum of Rare CS isotopes},
+  journal = CPL,
+  year = {1981},
+  volume = {81},
+  pages = {256-260}
+}
+
+@ARTICLE{99AhWixx.CS,
+  author = {V. Ahrens and G. Winnewisser},
+  title = {},
+  journal = {Z. Naturforsch},
+  year = {1999},
+  volume = {54a},
+  pages = {131}
+}
+
+@ARTICLE{03GoMyTh.CS,
+  author = {C. A. Gottlieb and P. C. Myers and P. Thaddeus},
+  title = {},
+  journal = ApJ,
+  year = {2003},
+  volume = {588},
+  pages = {655}
+}
+
+@ARTICLE{79ToOlxx.CS,
+  author = {Todd, T. R. and Olson, W. B},
+  title = {The infrared spectra of 12C 32S,12C 34S,13C 32S, and 12C 33S},
+  journal = JMS,
+  year = {1979},
+  volume = {74},
+  pages = {190-202}
+}
+
+@ARTICLE{77Toxxxx.CS,
+  author = {Todd, T. R.},
+  title = {},
+  journal = JMS,
+  year = {1977},
+  volume = {66},
+  pages = {162-167}
+}
+
+@ARTICLE{79YaHixx.CS,
+  author = {Yamada, C. and Hirota, E.},
+  title = {},
+  journal = JMS,
+  year = {1979},
+  volume = {74},
+  pages = {203-208}
+}
+
+@ARTICLE{84WiDaPe.CS,
+  author = {Winkel, R. J. and Davis, S. P. and Pecyner, R. and Brault, J. W.},
+  title = {The infrared spectrum of CS},
+  journal = CJP,
+  year = {1984},
+  volume = {62},
+  pages = {1414-1419}
+}
+
+@ARTICLE{87BuLoHa.cs,
+  author = {Burkholder, J. B. and Lovejoy, E.R. and Hammer, P. D. and Howard, C. J.},
+  title = {High-resolution Fourier transform infrared spectra of 12C32S, 12C33S, 12C34S, and 13C32S},
+  journal = JMS,
+  year = {1987},
+  volume = {124},
+  pages = {450-457}
+}
+
+@ARTICLE{85BoSexx.CS,
+  author = {Botschwina, P. and Sebald, P.},
+  title = {Spectroscopic properties of CS and HCS+ from ab initio calculations},
+  journal = JMS,
+  year = {1985},
+  volume = {110},
+  pages = {1-18}
+}
+
+@ARTICLE{84RiCaFa.CS,
+Author = {Ridgway, S T and Carbon, D F and Hall, D N B and Jewell, J},
+Title = {AN ATLAS OF LATE-TYPE STELLAR SPECTRA, 2400-2778 INVERSE CENTIMETERS},
+Journal =ApJS,
+Year = {1984},
+Volume = {54},
+Pages = {177-209},
+DOI = {10.1086/190925}
+}
+
+@article{ 78BrGoSt.CS,
+Author = {Bregman, J D and Goebel, J H and Strecker, DW},
+Title = {IDENTIFICATION OF 3.9 MICRON ABSORPTION-BAND IN CARBON STARS},
+Journal = ApJ,
+Year = {1978},
+Volume = {223},
+Pages = {L45-L46},
+DOI = {10.1086/182724}
+}
+
+@ARTICLE{87PiTiCh.CS,
+  author = {Pineiro, A. L. and Tipping, R. H. and Chackerian Jr, C.},
+  title = {Rotational and vibration-rotational intensities of CS isotopes},
+  journal = JMS,
+  year = {1987},
+  volume = {125},
+  pages = {91-98},
+abstract = {Rotational and vibration-rotational intensities (dipole-moment matrix elements and Einstein A coefficients) have been calculated for the four most abundant isotopes of CS for the following sets of rotational and vibrational quantum numbers: J′ − J = ±1 for 0 ≤ J′ ≤ 200, and 0 ≤ v′ − v ≤ 4 for 0 ≤ v′ ≤ 20. The transition moments were calculated using both a series expansion and a Padé approximant representation for the dipole-moment function obtained from ab initio calculations and numerical vibration-rotational wavefunctions computed via a solution of the radial Schrödinger equation with accurate RKR potential-energy functions. Representative numerical results for bandhead positions and dipole-moment matrix elements of vibration-rotational transitions of 12C32S are presented and compared with experimental and theoretical results of other workers. Explicit results are also given for a number of lines in the pure rotational band of CS that are of interest to radio astronomers.}
+}
+
+@ARTICLE{68WiCoxx.CS,
+  author = {Winnewisser, G. and Cook, R. L.},
+  title = {The dipole moment of carbon monosulfide},
+  journal = JMS,
+  year = {1968},
+  volume = {28},
+  pages = {266-268}
+}
+
+@ARTICLE{91CoHaxx.CS,
+  author = {Coxon, J. A. and Hajigeorgiou, P. G.},
+  title = {},
+  journal = JMS,
+  year = {1991},
+  volume = {150},
+  pages = {1}
+}
+
+@ARTICLE{03MoMaMa.CS,
+  author = {Moreno, R and Marten, A and Matthews, H E and Biraud, Y},
+  title = {Long-term evolution
+of CO, CS and HCN in Jupiter after the impacts of comet Shoemaker-Levy 9},
+  journal = {PlanetSpaceSci},
+  year = {2003},
+  volume = {51},
+  pages = {591-611}
+}
+@article{ 15PaBaYu.CS,
+Author = {Paulose, Geethu and Barton, Emma J. and Yurchenko, Sergei N. and
+   Tennyson, Jonathan},
+Title = {ExoMol molecular line lists - XII. Line lists for eight isotopologues of
+   CS},
+Journal = MNRAS,
+Year = {2015},
+Volume = {454},
+Number = {2},
+Pages = {1931-1939},
+Month = {DEC 1},
+Abstract = {Comprehensive vibration-rotation line lists for eight isotopologues of
+   carbon monosulphide (CS; (CS)-C-12-S-32, (CS)-C-12-S-33, (CS)-C-12-S-34,
+   (CS)-C-12-S-36, (CS)-C-13-S-32, (CS)-C-13-S-33, (CS)-C-13-S-34,
+   (CS)-C-13-S-36) in their ground electronic states are calculated. These
+   line lists are suitable for temperatures up to 3000 K. A
+   spectroscopically-determined potential energy curve (PEC) and dipole
+   moment curve (DMC) are taken from literature. This PEC is adapted to
+   suit our method prior to the computation of ro-vibrational energies. The
+   calculated energies are then substituted by experimental energies, where
+   available, to improve the accuracy of the line lists. The ab initio DMC
+   is used without refinement to generate Einstein A coefficients. Full
+   line lists of vibration-rotation transitions and partition functions are
+   made available in an electronic form as Supporting Information to this
+   paper and at www.exomol.com.},
+DOI = {10.1093/mnras/stv1543},
+Keywords = {molecular data; opacity; astronomical data bases: miscellaneous; planets
+   and satellites: atmospheres; stars: low-mass},
+Keywords-Plus = {MILLIMETER-WAVE SPECTROSCOPY; CARBON MONOSULFIDE; NEARBY GALAXIES; DENSE
+   GAS; COMET SHOEMAKER-LEVY-9; ROTATIONAL ANALYSIS; VIBRATIONAL-STATES;
+   INFRARED-SPECTRA; HIGH-RESOLUTION; EMISSION},
+ResearcherID-Numbers = {Tennyson, Jonathan/I-2222-2012
+   Yurchenko, Sergey/G-9929-2012},
+ORCID-Numbers = {Tennyson, Jonathan/0000-0002-4994-5238
+   Yurchenko, Sergey/0000-0001-9286-9501},
+Journal-ISO = {Mon. Not. Roy. Astron. Soc.},
+Unique-ID = {ISI:000367997700059},
+}

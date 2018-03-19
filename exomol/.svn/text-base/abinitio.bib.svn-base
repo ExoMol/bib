@@ -1,0 +1,256 @@
+% This file was created with JabRef 2.9.2.
+% Encoding: ISO8859_1
+
+@ARTICLE{Adler07,
+  author = {Adler, T.B. and Knizia, G. and Werner, H.-J.},
+  title = {A simple and efficient CCSD(T)-F12 approximation},
+  journal = JCP,
+  year = {2007},
+  volume = {127},
+  pages = {221106},
+}
+
+@ARTICLE{Becke1993,
+  author = {A. D. Becke},
+  journal = JCP,
+  year = {1993},
+  volume = {98},
+  pages = {5648--5652}
+}
+
+@ARTICLE{94DeKnxx.ai,
+  author = {Deegan, M J O and Knowles, P J},
+  title = {Perturbative corrections to account for triple excitations in closed
+	and open-shell coupled-cluster theories},
+  journal = CPL,
+  year = {1994},
+  volume = {227},
+  pages = {321-326},
+  abstract = {The application of the coupled cluster method restricted to single
+	and double excitations (CCSD) to a non-Hartree-Fock determinantal
+	reference wavefunction is examined, with particular emphasis on the
+	case of spin-restricted open shell reference states. By considering
+	the perturbation expansions of the true and CCSD energies, expressions
+	are derived which give a perturbative correction for the effects
+	of triple excitations which is consistent to fifth order. The resulting
+	Ansatz, denoted CCSD-T, differs from the standard CCSD(T) correction
+	even in the case where Brillouin's theorem holds, and ought to be
+	superior, since it correctly includes more disconnected triples terms
+	up to fifth order. This assertion is investigated by test calculations,
+	which show that both methods deliver accurate results for both closed
+	and open shell molecules.},
+  doi = {10.1016/0009-2614(94)00815-9},
+  journal-iso = {Chem. Phys. Lett.},
+  keywords-plus = {QUADRATIC CONFIGURATION-INTERACTION; HARTREE-FOCK REFERENCE; ELECTRON
+	CORRELATION; CORRELATION ENERGIES; WAVE-FUNCTIONS; BASIS-SETS; 5TH-ORDER;
+	SPIN; CCSD; GRADIENTS},
+}
+
+@ARTICLE{01DuPeWi.ai,
+  author = {T. H. Dunning and K. A. Peterson and A. K. Wilson },
+  title = {{Gaussian basis sets for use in correlated molecular calculations.
+	X. The atoms aluminum through argon revisited }},
+  journal = JCP,
+  year = {{2001}},
+  volume = {{114}},
+  pages = {9244},
+  abstract = {{For molecules containing second row atoms, unacceptable errors have
+	been found in extrapolating dissociation energies calculated with
+	the standard correlation consistent basis sets to the complete basis
+	set limit. By carefully comparing the convergence behavior of De(O2)
+	and De(SO), we show that the cause of these errors is a result of
+	two inter-related problems: near duplication of the exponents in
+	two of the d sets and a lack of high-exponent functions in the early
+	members of the sets. Similar problems exist for the f sets (and probably
+	in higher angular momentum sets), but have only a minor effect on
+	the calculated dissociation energies. A number of approaches to address
+	the problems in the d sets were investigated. Well behaved convergence
+	was obtained by augmenting the (1d) and (2d) sets with a high-exponent
+	function and by replacing the (3d) set by the (4d) set and the (4d)
+	set by the (5d) set and so on. To ensure satisfactory coverage of
+	both the L and M shell regions, the exponents of the new d sets were
+	re-optimized. Benchmark calculations on Si2, PN, SO, and AlCl with
+	the new cc-pV(n+d)Z sets show greatly improved convergence behavior
+	not only for De but for many other properties as well. © 2001 American
+	Institute of Physics.}}
+}
+
+@ARTICLE{Haettig05,
+  author = {H\"attig, C},
+  title = {Optimization of auxiliary basis sets for RI-MP2 and RI-CC2 calculations:
+	Core-valence and quintuple-zeta basis sets for H to Ar and QZVPP
+	basis sets for Li to Kr},
+  journal = PCCP,
+  year = {2005},
+  volume = {7},
+  pages = {59-66},
+}
+
+@ARTICLE{65Huxxxx.ai,
+  author = {S. Huzinaga},
+  title = {{}},
+  journal = {{Technical Report: Approximate Atomic Functions, Unversity of Alberta}},
+  year = {{1965}},
+  volume = {{}},
+  abstract = {{}}
+}
+
+@ARTICLE{Kendall92,
+  author = {Kendall, R. A. and Dunning, T. H. and Harrison, R. J.},
+  journal = JCP,
+  year = {1992},
+  volume = {96},
+  pages = {6796--6806}
+}
+
+@ARTICLE{Lee1988,
+  author = {C. Lee. and W. Yang and K. G. Parr},
+  journal = PRB,
+  year = {1988},
+  volume = {37},
+  pages = {785--789}
+}
+
+@ARTICLE{PurvisJCP1982,
+  author = {Purvis, G. D. and Bartlett, R. J.},
+  journal = JCP,
+  year = {1982},
+  volume = {76},
+  pages = {1910--1918}
+}
+
+@ARTICLE{85UrNoCo.ai,
+  author = {Urban, M and Noga, J and Cole, S J and Bartlett, R J},
+  title = {Towards a full {CCSDT} model for electron correlation},
+  journal = JCP,
+  year = {1985},
+  volume = {83},
+  pages = {4041-4046},
+  doi = {10.1063/1.449067},
+  journal-iso = {J. Chem. Phys.}
+}
+
+@ARTICLE{Weigend02,
+  author = {Weigend, F},
+  title = {A fully direct RI-HF algorithm: Implementation, optimised auxiliary
+	basis sets, demonstration of accuracy and efficiency},
+  journal = PCCP,
+  year = {2002},
+  volume = {4},
+  pages = {4285-4291},
+}
+
+@ARTICLE{Dunning2003,
+  author = {Wilson, A. K. and Dunning, T. H.},
+  journal = JCP,
+  year = {2003},
+  volume = {119},
+  pages = {11712-11714}
+}
+
+@ARTICLE{CFOUR,
+  author = {Harding, Michael E. and Metzroth, Thorsten and Gauss, J{"u}rgen and Auer, Alexander A.},
+  title = {Parallel Calculation of CCSD and CCSD(T) Analytic First and Second Derivatives},
+  journal = {J Chem. Theory Comput.},
+  year = {2008},
+  volume = {4},
+  pages = {64-74},
+doi = {10.1021/ct700152c}
+}
+
+
+@MISC{CFOUR-www,
+  note = {CFOUR, a quantum chemical program package written by J.F. Stanton,
+	J. Gauss, M.E. Harding, P.G. Szalay with contributions from A.A.
+	Auer, R.J. Bartlett, U. Benedikt, C. Berger, D.E. Bernholdt, Y.J.
+	Bomble, L. Cheng, O. Christiansen, M. Heckert, O. Heun, C. Huber,
+	T.-C. Jagau, D. Jonsson, J. Jus\'{e}lius, K. Klein, W.J. Lauderdale,
+	D.A. Matthews, T. Metzroth, L.A. M\"{u}ck, D.P. O'Neill, D.R. Price,
+	E. Prochnow, C. Puzzarini, K. Ruud, F. Schiffmann, W. Schwalbach,
+	S. Stopkowicz, A. Tajti, J. V\'{a}zquez, F. Wang, J.D. Watts and
+	the integral packages MOLECULE (J. Alml\"{o}f and P.R. Taylor), PROPS
+	(P.R. Taylor), ABACUS (T. Helgaker, H.J. Aa. Jensen, P. J{\o}rgensen,
+	and J. Olsen), and ECP routines by A. V. Mitin and C. van W\"{u}llen.
+	For the current version, see http://www.cfour.de. },
+  key = {CFOUR}
+}
+
+
+
+@article{Werner1988,
+    author  =  "H.-J. Werner and P. J. Knowles",
+    title   =  "An efficient internally contracted multiconfiguration–reference configuration interaction method",
+    year    = "1988",
+    volume  = "89",
+    pages   = "5803--5814",
+    journal =JCP,
+}
+
+@misc{mrcc,
+key = "MRCC",
+    note="{\sc MRCC}, a string-based quantum chemical program
+suite written by M. K{\'a}llay. See also M. K{\'a}llay and
+P. R. Surj{\'a}n, J. Chem. Phys., {\bf 115}, 2945 (2001),
+ as well as: www. mrcc. hu"}
+
+@article{09WiLiSc,
+Author = {Wilke, Jeremiah J. and Lind, Maria C. and Schaefer, III, Henry F. and
+   Csaszar, Attila G. and Allen, Wesley D.},
+Title = {{Conformers of Gaseous Cysteine}},
+Journal = {J. Comput. Chem. Theory},
+Year = {{2009}},
+Volume = {{5}},
+Pages = {1511-1523},
+Abstract = {{Structures, accurate relative energies, equilibrium and vibrationally
+   averaged rotational constants, quartic and sextic centrifugal distortion
+   constants, dipole moments, N-14 nuclear quadrupole coupling constants,
+   anharmonic vibrational frequencies, and double-harmonic infrared
+   intensities have been determined from ab initio electronic structure
+   computations for conformers of the neutral form of the natural amino
+   acid L-cysteine (Cys). A systematic scan located 71 unique conformers of
+   Cys using the MP2(FC)/cc-pVTZ method. The large number of structurally
+   diverse low-energy conformers of Cys necessitates the highest possible
+   levels of electronic structure theory to determine their relative
+   energies with some certainty. For this reason, we determined the
+   relative energies of the lowest-energy eleven conformers, accurate
+   within a standard error (11 or) of about 0.3 kJ mol(-1), through
+   first-principles composite focal-point analyses (FPA), which employed
+   extrapolations using basis sets as large as aug-cc-pV(5+d)Z and
+   correlation treatments as extensive as CCSD(T). Three and eleven
+   conformers Of L-cysteine fall within a relative energy of 6 and 10 kJ
+   mol(-1), respectively. The vibrationally averaged rotational constants
+   computed in this study agree well with Fourier-transform microwave
+   spectroscopy results. The effects determining the relative energies of
+   the low-energy conformers of cysteine are analyzed in detail on the
+   basis of hydrogen bond additivity schemes and natural bond orbital
+   analysis.}},
+DOI = {{10.1021/ct900005c}}}
+
+
+
+@article{ 98ScGoxx.ai,
+Author = {Schmidt, M W and Gordon, M S},
+Title = {The construction and interpretation of MCSCF wavefunctions},
+Year = {1998},
+Volume = {49},
+Pages = {233-266},
+Abstract = {The multiconfiguration self-consistent field (MCSCF) method offers the
+   most general approach to the computation of chemical reactions and
+   multiple electronic states. This review discusses the design of MCSCF
+   wavefunctions for treating these problems and the interpretation of the
+   resulting orbitals and configurations. In particular, localized orbitals
+   are convenient both for selection of the appropriate active space and
+   for understanding the computed results. The computational procedures for
+   optimizing these wavefunctions and the techniques for recovery of
+   dynamical correlation energy are reviewed.},
+DOI = {10.1146/annurev.physchem.49.1.233},
+Keywords = {MCSCF optimization; active orbitals; reaction channels; excited states;
+   dynamic correlation; wavefunction interpretation},
+Keywords-Plus = {PLESSET PERTURBATION-THEORY; CONFIGURATION-INTERACTION CALCULATIONS;
+   GENERALIZED MOLLER-PLESSET; COUPLED-CLUSTER THEORY; MOLECULAR ELECTRONIC
+   WAVEFUNCTIONS; POTENTIAL-ENERGY SURFACES; FIELD REFERENCE FUNCTION;
+   SINGLE-REFERENCE FORMALISM; WAVE-FUNCTION OPTIMIZATION; HARTREE-FOCK
+   PROCEDURES},
+Journal = {Annu. Rev. Phys. Chem.},
+Unique-ID = {ISI:000076541300009},
+}

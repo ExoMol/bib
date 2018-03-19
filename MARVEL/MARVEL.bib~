@@ -1,0 +1,100 @@
+@article{07CsCzFu.marvel,
+	Author = {Cs{\'a}sz{\'a}r, Attila G and Czak{\'o}, G{\'a}bor and Furtenbacher, Tibor and M{\'a}tyus, Edit},
+	Journal = {Annu. Rep. Computat. Chem.},
+	Pages = {155--176},
+	Title = {An active database approach to complete rotational--vibrational spectra of small molecules},
+	Volume = {3},
+	Year = {2007}}
+
+@article{ 11CsFuxx.marvel,
+title = {Spectroscopic networks },
+journal = JMS,
+volume = {266},
+pages = {99 - 103},
+year = {2011},
+doi = {http://dx.doi.org/10.1016/j.jms.2011.03.031},
+ author = {A. G. {Cs\'asz\'ar} and T. Furtenbacher},
+abstract = {Approaches related to graph theory are investigated which allow a better understanding and yield routes for systematic enlargement and improvement of experimental spectroscopic line lists of molecules. The proposed protocols are based on the fact that quantum mechanics builds, in a simple and natural way, large-scale, weighted, undirected graphs, whereby the vertices are discrete energy levels, the edges are transitions, and the weights are transition intensities. A small part of molecular quantum mechanical graphs can be probed experimentally via high-resolution spectroscopic techniques, while the complete graph encompassing the full line list information for a given molecule can be obtained through sophisticated variational nuclear motion computations. Both approaches yield what one may call spectroscopic networks (SNs). It is shown on the example of the \{HD16O\} isotopologue of the water molecule that both the measured and the computed one-photon absorption \{SNs\} have a scale-free behavior with all of the usual consequences, including appearance of hubs, robustness, error tolerance, and the “small-world” property. For the complete computed “deterministic” network the scale-free property holds if a realistic intensity cut-off is employed during its build-up, thus introducing “stochasticity”. The graph-theoretical view of molecular spectra offers several new ideas for improving the accuracy and robustness of the information systems containing high-resolution spectroscopic data. }
+}
+
+@article{11FaMaFu.marvel,
+	Author = {F{\'a}bri, Csaba and M{\'a}tyus, Edit and Furtenbacher, Tibor and Nemes, L{\'a}szl{\'o} and Mih{\'a}ly, B{\'e}la and Zolt{\'a}ni, T{\'\i}mea and Cs{\'a}sz{\'a}r, Attila G},
+	Journal = JCP,
+	Number = {9},
+	Pages = {094307},
+	Title = {{Variational quantum mechanical and active database approaches to the rotational-vibrational spectroscopy of ketene, H2CCO}},
+	Volume = {135},
+	Year = {2011}}
+
+@article{ 12FuCsxx.marvel,
+title = {The role of intensities in determining characteristics of spectroscopic networks },
+  author = {T. Furtenbacher and A. G. {Cs\'asz\'ar}},
+journal = THEOCHEM,
+volume = {1009},
+pages = {123 - 129},
+year = {2012},
+keywords = {\{VIBRATIONAL\} \{INTENSITIES\} - \{THEIR\} \{SIGNIFICANCE\} \{IN\} \{MOLECULAR\} \{SPECTROSCOPY\} \{AND\} \{MOLECULAR\} \{STRUCTUREA\} Collection of Papers dedicated to Professor Boris Galabov on the occasion of his 70th Birthday },
+doi = {http://dx.doi.org/10.1016/j.molstruc.2011.10.057},
+abstract = {Spectroscopic networks (SNs) are large, finite, weighted, undirected, rooted graphs, where the vertices are discrete energy levels, the edges are transitions, and the weights are transition intensities. While first-principles \{SNs\} are “deterministic” by definition, if a realistic transition intensity cut-off is employed during the construction of these SNs, a certain randomness (“stochasticity”) is introduced. Experiments naturally build random graphs. It is shown on the example of the \{HD16O\} isotopologue of the water molecule how intensities, in the present case one-photon absorption intensities, determine the structure as well as the degree distribution and edge density of SNs. The degree distribution of realistic computed \{SNs\} can be described as scale free, with the usual and well known consequences. Experimental SNs, based on measured and assigned transitions, also turn out to be scale free. The graph-theoretical view of high-resolution molecular spectra offers several new ideas for improving the accuracy and robustness of information systems containing spectroscopic data. For example, it is shown that most all rotational–vibrational energy levels are involved in at least a few relatively strong transitions suggesting that an almost complete coverage of experimental quality energy levels can be deduced from measurements. }
+}
+
+@article{13FuSzFa.marvel,
+	Author = {Furtenbacher, Tibor and Szidarovszky, Tam{\'a}s and F{\'a}bri, Csaba and Cs{\'a}sz{\'a}r, Attila G},
+	Journal = PCCP,
+	Number = {25},
+	Pages = {10181--10193},
+	Title = {{MARVEL analysis of the rotational--vibrational states of the molecular ions H$_2$D$^+$ and D$_2$H$^+$}},
+	Volume = {15},
+	Year = {2013}}
+
+@article{13FuSzMa.marvel,
+	Author = {Furtenbacher, Tibor and Szidarovszky, Tam{\'a}s and M{\'a}tyus, Edit and F{\'a}bri, Csaba and Cs{\'a}sz{\'a}r, Attila G},
+	Journal = JCTC,
+	Number = {12},
+	Pages = {5471--5478},
+	Title = {{Analysis of the Rotational--Vibrational States of the Molecular Ion H$_3^+$}},
+	Volume = {9},
+	Year = {2013}}
+
+@article{16ArPeFu.marvel,
+	Author = {{\'A}rend{\'a}s, P{\'e}ter and Furtenbacher, Tibor and Cs{\'a}sz{\'a}r, Attila G},
+	Journal = {J. Math. Chem.},
+	Pages = {806--822},
+	Title = {On spectra of spectra},
+	Volume = {54},
+	Year = {2016}}
+
+@article{13FuSzMa.marvel,
+	Author = {Furtenbacher, Tibor and Szidarovszky, Tam{\'a}s and M{\'a}tyus, Edit and F{\'a}bri, Csaba and Cs{\'a}sz{\'a}r, Attila G},
+	Journal = JCTC,
+	Number = {12},
+	Pages = {5471--5478},
+	Title = {{Analysis of the Rotational--Vibrational States of the Molecular Ion H$_3^+$}},
+	Volume = {9},
+	Year = {2013}}
+
+@article{14FuArMe.marvel,
+	Author = {Furtenbacher, Tibor and {\'A}rend{\'a}s, P{\'e}ter and Mellau, Georg and Cs{\'a}sz{\'a}r, Attila G},
+	Journal = {Sci. Rep.},
+	Title = {Simple molecules as complex systems},
+	Volume = {4},
+	Year = {2014}}
+
+@article{16CzFuAr.marvel,
+	Author = {Cs{\'a}sz{\'a}r, Attila G and Furtenbacher, Tibor and {\'A}rend{\'a}s, P{\'e}ter},
+	Journal = JPCA,
+	Number = {45},
+	Pages = {8949--8969},
+	Title = {Small Molecules -- Big Data},
+	Volume = {120},
+	Year = {2016}}
+
+@article{jtCH4Marvel,
+	Author = {Barton, E J. and Liu, M. and Farnell T. and Tennyson, J and Sousa-Silva, C},
+	Journal = {JQSRT},
+	Year = {2017}}
+
+@article{jtC2H2Marvel,
+	Author = {Chubb, K. and Joseph, M. and Franklin, J. and Choudhury, N and Gaspard, G and Oguko, P and Kelly, A and Furtenbacher, T and Cs\'asz\'ar, A and Tennyson, J and Sousa-Silva, C},
+	Journal = {JQSRT},
+	Year = {2017}}

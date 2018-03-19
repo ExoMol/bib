@@ -1,0 +1,85 @@
+﻿
+@article{ 12RiGoRo.CIA,
+Author = {Richard, C. and Gordon, I. E. and Rothman, L. S. and Abel, M. and
+   Frommhold, L. and Gustafsson, M. and Hartmann, J. -M. and Hermans, C.
+   and Lafferty, W. J. and Orton, G. S. and Smith, K. M. and Tran, H.},
+Title = {{New section of the HITRAN database: Collision-induced absorption (CIA)}},
+Journal = JQSRT,
+Year = {{2012}},
+Volume = {{113}},
+Number = {{11, SI}},
+Pages = {{1276-1285}},
+Month = {{JUL}},
+Abstract = {{This paper describes the addition of Collision-Induced Absorption (CIA)
+   into the HITRAN compilation. The data from different experimental and
+   theoretical sources have been cast into a consistent format and
+   formalism. The implementation of these new spectral data into the HITRAN
+   database is invaluable for modeling and interpreting spectra of telluric
+   and other planetary atmospheres as well as stellar atmospheres. In this
+   implementation for HITRAN, CIAs of N-2, H-2, O-2, CO2, and CH4 due to
+   various collisionally interacting atoms or molecules are presented. Some
+   CIA spectra are given over an extended range of frequencies, including
+   several H-2 overtone bands that are dipole-forbidden in the
+   non-interacting molecules. Temperatures from tens to thousands of Kelvin
+   are considered, as required, for example, in astrophysical analyses of
+   objects, including cool white dwarfs, brown dwarfs. M dwarfs, cool main
+   sequence stars, solar and extra-solar planets, and the formation of
+   so-called first stars. (C) 2011 Elsevier Ltd. All rights reserved.}},
+DOI = {{10.1016/j.jqsrt.2011.11.004}},
+ISSN = {{0022-4073}},
+Times-Cited = {{3}},
+Journal-ISO = {{J. Quant. Spectrosc. Radiat. Transf.}},
+}
+
+@article{ 11AbFrLi.CIA,
+Author = {Abel, Martin and Frommhold, Lothar and Li, Xiaoping and Hunt, Katharine
+   L. C.},
+Title = {{Collision-Induced Absorption by H-2 Pairs: From Hundreds to Thousands of
+   Kelvin}},
+Journal = JPCA,
+Year = {{2011}},
+Volume = {{115}},
+Number = {{25, SI}},
+Pages = {{6805-6812}},
+Month = {{JUN 30}},
+Abstract = {{An interaction-induced dipole surface (IDS) and a potential energy
+   surface (PES) of collisionally interacting molecular hydrogen pairs
+   H-2-H-2 was recently obtained using quantum chemical methods (Li, X.; et
+   al. Computational Methods in Science and Engineering, ICCMSE. AIP Conf.
+   Proc. 2009,; see also Li, X.; et al. Int. J. Spectrosc. 2010, ID
+   371201). The data account for substantial rotovibrational excitations of
+   the H-2 molecules, as encountered at temperatures of thousands of kelvin
+   (e.g., in the atmospheres of ``cool{''} stars). In this work we use
+   these results to compute the binary collision-induced absorption (CIA)
+   spectra of dense hydrogen gas in the infrared at temperatures up to
+   several thousand kelvin. The principal interest of the work is in the
+   spectra at such higher temperatures, but we also compare our
+   computations with existing laboratory measurements of CIA spectra of
+   dense hydrogen gas and find agreement.}},
+DOI = {{10.1021/jp109441f}},
+ISSN = {{1089-5639}},
+Times-Cited = {{6}},
+Journal-ISO = {{J. Phys. Chem. A}},
+}
+
+
+
+@article{ 01BoJoFu.CIA,
+title = {High-temperature (1000-7000 K) collision-induced absorption of \{H2\} pairs computed from the first principles, with application to cool and dense stellar atmospheres },
+journal = JQSRT,
+volume = {68},
+number = {3},
+pages = {235 - 255},
+year = {2001},
+note = {},
+issn = {0022-4073},
+doi = {http://dx.doi.org/10.1016/S0022-4073(00)00023-6},
+url = {http://www.sciencedirect.com/science/article/pii/S0022407300000236},
+author = {Aleksandra Borysow and Uffe G. Jorgensen and Yi Fu},
+keywords = {Collision-induced spectroscopy},
+keywords = {Infrared absorption},
+keywords = {Quantum mechanical lineshapes computations},
+keywords = {Atmospheres of cool stars },
+abstract = {The collision-induced absorption (CIA) spectra of H2-H2 and H2-He are known to play an important role for modelling of low-metallicity cool and dense stellar atmospheres. In this paper we present collision-induced absorption spectra of H2вЂ“H2 complexes in the rototranslational (О”v=0), the fundamental (О”v=1), the first (О”v=2) and the second (О”v=3) overtone bands in the temperature range from 1000 to 7000&#xa0;K, and in the frequency region from 0 to 20&#xa0;000 cmв€’1. The translational spectral density functions are computed quantum mechanically, based on: (1) the newly developed ab initio collision-induced H2вЂ“H2 dipole functions of Zheng (Computational study of collision induced dipole moments and absorption spectra of H2вЂ“H2. Ph.D. thesis, Michigan Technological University, 1997), which account for the short-range H2вЂ“H2 intermolecular distances (as small as 2.5 a.u.) and for larger \{H2\} internuclear distances (as large as 2.15 a.u.); (2) semiempirical isotropic H2вЂ“H2 potential (Ross et al, J Chem Phys 1983;79(3):1487) suitable for high temperatures. We include the collision-induced absorption coefficient of the vibrational transitions as v1,v2,vвЂІ1,vвЂІ2в‰¤3 which we computed rigorously. We also give our estimate for the collision-induced absorption coefficients of single vibrational transitions such as vi&lt;3,&#xa0;vвЂІi&gt;3 in the first and second overtone bands. The dependence of \{CIA\} spectra on rotational states of \{H2\} molecules is accounted for in our computations. We have previously (Borysow et al, Astronom Astrophys. 1997;324:185вЂ“95) studied the effect of \{CIA\} for stars of a wide range of fundamental stellar parameters (effective temperature, gravity, and chemical composition), and determined for which combinations of these parameters it is necessary to include \{CIA\} in the model and spectrum computation. These calculations showed that \{CIA\} from H2вЂ“H2 plays an important, and often even a dominating role for stellar atmospheres of a wide range of stars. The approximate character of the estimates of the H2вЂ“H2 absorption coefficient we used in our previous work combined with the large effect \{CIA\} had on the stellar atmospheres, were the main inspirations to initiate the more accurate computations of the absorption coefficient we present here. The absorption coefficient we compute in the present analysis is in qualitative agreement with our preliminary estimates (Borysow et al, Astronom Astrophys 1997;324:185вЂ“95), but in some spectral regions of high importance for the stellar structure, our computed absorption coefficient is up to a factor of 3 larger than our preliminary estimates. We therefore fully confirm our previous suspicion that H2вЂ“H2 \{CIA\} will have a pronounced effect on the atmosphere for a wide range of stars. In this paper we therefore quantify the effect the new data have on a typical cool dense stellar atmosphere, and compare our new results with our previous estimates. }
+}
+

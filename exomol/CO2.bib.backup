@@ -1,0 +1,2238 @@
+
+
+@article{17OyPaDr.CO2,
+  doi = {10.1016/j.jqsrt.2017.06.012},
+  year  = {2017},
+  month = {jun},
+  publisher = {Elsevier {BV}},
+  author = {Fabiano Oyafuso and Vivienne H. Payne and Brian J. Drouin and V. Malathy Devi and D. Chris Benner and Keeyoon Sung and Shanshan Yu and Iouli E. Gordon and Roman Kochanov and Yan Tan and David Crisp and Eli J. Mlawer and Alexandre Guillaume},
+  title = {High accuracy absorption coefficients for the Orbiting Carbon Observatory-2 ({OCO}-2) mission: Validation of updated carbon dioxide cross-sections using atmospheric spectra},
+  journal = {Journal of Quantitative Spectroscopy and Radiative Transfer}
+}
+
+@article{Drouinprivate,
+  year  = {2017},
+  author = {Brian J. Drouin},
+  journal = {Private communication}
+}
+
+@article{12LyKaJa.CO2,
+  doi = {10.1016/j.jqsrt.2012.06.028},
+  year  = {2012},
+  month = {nov},
+  publisher = {Elsevier {BV}},
+  volume = {113},
+  number = {17},
+  pages = {2167--2181},
+  author = {O.M. Lyulin and E.V. Karlovets and D. Jacquemart and Y. Lu and A.W. Liu and V.I. Perevalov},
+  title = {Infrared spectroscopy of 17O- and 18O-enriched carbon dioxide in the 1700-8300cm-1 wavenumber region},
+  journal = {Journal of Quantitative Spectroscopy and Radiative Transfer}
+}
+
+@article{HITRAN2016,
+  doi = {10.1016/j.jqsrt.2017.06.038},
+  year  = {2017},
+  month = {jul},
+  publisher = {Elsevier {BV}},
+  author = {I.E. Gordon and L.S. Rothman and C. Hill and R.V. Kochanov and Y. Tan and P.F. Bernath and M. Birk and V. Boudon and A. Campargue and K.V. Chance and B.J. Drouin and J.-M. Flaud and R.R. Gamache and J.T. Hodges and D. Jacquemart and V.I. Perevalov and A. Perrin and K.P. Shine and M.-A.H. Smith and J. Tennyson and G.C. Toon and H. Tran and V.G. Tyuterev and A. Barbe and A.G. Cs{\'{a}}sz{\'{a}}r and V.M. Devi and T. Furtenbacher and J.J. Harrison and J.-M. Hartmann and A. Jolly and T.J. Johnson and T. Karman and I. Kleiner and A.A. Kyuberis and J. Loos and O.M. Lyulin and S.T. Massie and S.N. Mikhailenko and N. Moazzen-Ahmadi and H.S.P. M\"{u}ller and O.V. Naumenko and A.V. Nikitin and O.L. Polyansky and M. Rey and M. Rotger and S.W. Sharpe and K. Sung and E. Starikova and S.A. Tashkun and J. Vander Auwera and G. Wagner and J. Wilzewski and P. Wcis{\l}o and S. Yu and E.J. Zak},
+  title = {The {HITRAN}2016 Molecular Spectroscopic Database},
+  journal = {Journal of Quantitative Spectroscopy and Radiative Transfer}
+}
+
+
+@article{HITRAN2012,
+  doi = {10.1016/j.jqsrt.2013.07.002},
+  year  = {2013},
+  month = {nov},
+  publisher = {Elsevier {BV}},
+  volume = {130},
+  pages = {4--50},
+  author = {L.S. Rothman and I.E. Gordon and Y. Babikov and A. Barbe and D. Chris Benner and P.F. Bernath and M. Birk and L. Bizzocchi and V. Boudon and L.R. Brown and A. Campargue and K. Chance and E.A. Cohen and L.H. Coudert and V.M. Devi and B.J. Drouin and A. Fayt and J.-M. Flaud and R.R. Gamache and J.J. Harrison and J.-M. Hartmann and C. Hill and J.T. Hodges and D. Jacquemart and A. Jolly and J. Lamouroux and R.J. Le Roy and G. Li and D.A. Long and O.M. Lyulin and C.J. Mackie and S.T. Massie and S. Mikhailenko and H.S.P. M\"{u}ller and O.V. Naumenko and A.V. Nikitin and J. Orphal and V. Perevalov and A. Perrin and E.R. Polovtseva and C. Richard and M.A.H. Smith and E. Starikova and K. Sung and S. Tashkun and J. Tennyson and G.C. Toon and Vl.G. Tyuterev and G. Wagner},
+  title = {The {HITRAN}2012 molecular spectroscopic database},
+  journal = {Journal of Quantitative Spectroscopy and Radiative Transfer}
+}
+
+
+
+
+@article{HITRAN2008,
+  doi = {10.1016/j.jqsrt.2009.02.013},
+  year  = {2009},
+  month = {jun},
+  publisher = {Elsevier {BV}},
+  volume = {110},
+  number = {9-10},
+  pages = {533--572},
+  author = {L.S. Rothman and I.E. Gordon and A. Barbe and D.Chris Benner and P.F. Bernath and M. Birk and V. Boudon and L.R. Brown and A. Campargue and J.-P. Champion and K. Chance and L.H. Coudert and V. Dana and V.M. Devi and S. Fally and J.-M. Flaud and R.R. Gamache and A. Goldman and D. Jacquemart and I. Kleiner and N. Lacome and W.J. Lafferty and J.-Y. Mandin and S.T. Massie and S.N. Mikhailenko and C.E. Miller and N. Moazzen-Ahmadi and O.V. Naumenko and A.V. Nikitin and J. Orphal and V.I. Perevalov and A. Perrin and A. Predoi-Cross and C.P. Rinsland and M. Rotger and M. {\v{S}}ime{\v{c}}kov{\'{a}} and M.A.H. Smith and K. Sung and S.A. Tashkun and J. Tennyson and R.A. Toth and A.C. Vandaele and J. Vander Auwera},
+  title = {The {HITRAN} 2008 molecular spectroscopic database},
+  journal = {Journal of Quantitative Spectroscopy and Radiative Transfer}
+}
+
+
+
+@article{17OdFaMo.CO2,
+  doi = {10.1063/1.4989925},
+  year  = {2017},
+  month = {jun},
+  publisher = {{AIP} Publishing},
+  volume = {146},
+  number = {24},
+  pages = {244309},
+  author = {T. A. Odintsova and E. Fasci and L. Moretti and E. J. Zak and O. L. Polyansky and J. Tennyson and L. Gianfrani and A. Castrillo},
+  title = {Highly accurate intensity factors of pure {CO}2 lines near 2 $\mu$m},
+  journal = {The Journal of Chemical Physics}
+}
+
+@article{17ZaTePo1.CO2,
+  doi = {10.1016/j.jqsrt.2017.01.037},
+  year  = {2017, in press},
+  month = {feb},
+  publisher = {Elsevier {BV}},
+  author = {Emil J. Zak and Jonathan Tennyson and Oleg L. Polyansky and Lorenzo Lodi and Nikolay F. Zobov and Sergei A. Tashkun and Valery I. Perevalov},
+  title = {Room temperature linelists for {CO}2 asymmetric isotopologues with ab initio computed intensities},
+  journal = JQSRT,
+}
+
+
+@article{Hodges2017,
+  doi = {},
+  year  = {2017},
+  month = {May},
+  publisher = {},
+  volume = {private communication},
+  number = {},
+  pages = {},
+  author = {J. T. Hodges},
+  title = {},
+  journal = {National Institute of Standards and Technology}
+}
+
+@article{17ZaTePo.CO2,
+  doi = {10.1016/j.jqsrt.2016.11.022},
+  year  = {2017},
+  month = {mar},
+  publisher = {Elsevier {BV}},
+  volume = {189},
+  pages = {267--280},
+  author = {Emil J. Zak and Jonathan Tennyson and Oleg L. Polyansky and Lorenzo Lodi and Nikolay F. Zobov and Sergei A. Tashkun and Valery I. Perevalov},
+  title = {Room temperature line lists for {CO}2 symmetric isotopologues with ab initio computed intensities},
+  journal = JQSRT,
+}
+
+
+@article{16CoBoDu.CO2,
+  doi = {10.5194/amt-9-5227-2016},
+  year  = {2016},
+  month = {oct},
+  publisher = {Copernicus {GmbH}},
+  volume = {9},
+  number = {10},
+  pages = {5227--5238},
+  author = {Brian Connor and Hartmut B\"{o}sch and James McDuffie and Tommy Taylor and Dejian Fu and Christian Frankenberg and Chris O'Dell and Vivienne H. Payne and Michael Gunson and Randy Pollock and Jonathan Hobbs and Fabiano Oyafuso and Yibo Jiang},
+  title = {Quantification of uncertainties in {OCO}-2 measurements of {XCO2}:
+		simulations and linear error analysis},
+  journal = {Atmospheric Measurement Techniques}
+}
+
+
+@article{03TeDaCl.CO2,
+  doi = {10.1016/s0022-2852(03)00057-2},
+  year  = {2003},
+  volume = {219},
+  pages = {271--281},
+  author = {J.-L. Teffo and L. Daumont and C. Claveau and A. Valentin and S.A. Tashkun and V.I. Perevalov},
+  title = {Infrared spectra of the and species of carbon dioxide: {II}. The 1500{\textendash}3000 cm$^{-1}$ region},
+  journal = JMS,
+}
+
+@article{17KaKaTa.CO2,
+  doi = {10.1016/j.jqsrt.2016.09.002},
+  year  = {2017},
+  volume = {187},
+  pages = {414--425},
+  author = {S. Kassi and E.V. Karlovets and S.A. Tashkun and V.I. Perevalov and A. Campargue},
+  title = {Analysis and theoretical modeling of the 18O enriched carbon dioxide spectrum by {CRDS} near 1.35$\mu$m: (I) 16O12C18O,  16O12C17O,  12C16O2 and 13C16O2},
+  journal = JQSRT,
+}
+@article{84MaRiBe.CO2,
+  doi = {10.1364/ao.23.004067},
+  year  = {1984},
+  volume = {23},
+  pages = {4067},
+  author = {V. Malathy Devi and Curtis P. Rinsland and D. Chris Benner},
+  title = {Absolute intensity measurements of {CO}$_2$ bands in the 2395{\textendash}2680-cm$^{-1}$ region},
+  journal = {Appl. Opt.}
+}
+
+@article{84RiBeDe.CO2,
+  doi = {10.1364/ao.23.004523},
+  year  = {1984},
+  volume = {23},
+  pages = {4523},
+  author = {Curtis P. Rinsland and D. Chris Benner},
+  title = {Absolute intensities of spectral lines in carbon dioxide bands near 2050 cm$^{-1}$},
+  journal = {Appl. Opt.}
+}
+
+@article{85RiBeDe.CO2,
+  doi = {10.1364/ao.24.001644},
+  year  = {1985},
+  volume = {24},
+  pages = {1644},
+  author = {Curtis P. Rinsland and D. Chris Benner and V. Malathy Devi},
+  title = {Measurements of absolute line intensities in carbon dioxide bands near 52 $\mu$m},
+  journal = {Appl. Opt.}
+}
+
+@article{99ClToHu.CO2,
+  doi = {10.1006/jmsp.1998.7704},
+  year  = {1999},
+  volume = {193},
+  pages = {15--32},
+  author = {C. Claveau and J.-L. Teffo and D. Hurtmans and A. Valentin and R.R. Gamache},
+  title = {Line Positions and Absolute Intensities in the Laser Bands of Carbon-12 Oxygen-17 Isotopic Species of Carbon Dioxide},
+  journal = JMS,
+}
+
+@article{85To.CO2,
+  doi = {10.1364/ao.24.000261},
+  year  = {1985},
+  volume = {24},
+  pages = {261},
+  author = {Robert A. Toth},
+  title = {Line positions and strengths of {CO}${_2}$ in the 1200{\textendash}1430~cm$^{-1}$ region},
+  journal = {Appl. Opt.}
+}
+
+@article{99KsGiCh.CO2,
+  doi = {10.1016/s0022-4073(98)00058-2},
+  year  = {1999},
+  volume = {61},
+  pages = {695--701},
+  author = {R. J. Kshirsagar and L. P. Giver  and C. Chackerian and L. R. Brown},
+  title = {THE ROVIBRATIONAL INTENSITIES OF THE 2$\nu$3 BAND OF  AT 4639 cm$^{-1}$},
+  journal = JQSRT,
+}
+
+
+@article{87Jo.CO2,
+  doi = {10.1016/0022-2852(87)90109-3},
+  year  = {1987},
+  volume = {125},
+  pages = {442--464},
+  author = {J. W. C Johns},
+  title = {Absolute intensity and pressure broadening measurements of {CO}$_2$ in the 4.3-$\mu$m region},
+  journal = JMS,
+}
+
+@article{90JoAu.CO2,
+  doi = {10.1016/0022-2852(90)90008-e},
+  year  = {1990},
+  volume = {140},
+  pages = {71--102},
+  author = {J. W. C. Johns and J. {Vander Auwera}},
+  title = {Absolute intensities in {CO}$_2$: The $\nu$2 fundamental near 15 $\mu$m},
+  journal = JMS,
+}
+
+@article{02TeDaCl.CO2,
+  doi = {10.1006/jmsp.2002.8561},
+  year  = {2002},
+  volume = {213},
+  pages = {145--152},
+  author = {J.-L. Teffo and L. Daumont and C. Claveau and A. Valentin and S. A. Tashkun and V. I. Perevalov},
+  title = {{Infrared Spectra of the $^{16}$O$^{12}$C$^{17}$O and $^{16}$O$^{12}$C$^{18}$O Species of Carbon Dioxide: The Region 500{\textendash}1500 cm$^{-1}$}},
+  journal = JMS
+}
+
+@article{16HeLyxx.CO2,
+Author = {Heng, Kevin and Lyons, James R.},
+Title = {{CARBON DIOXIDE IN EXOPLANETARY ATMOSPHERES: RARELY DOMINANT COMPARED TO
+   CARBON MONOXIDE AND WATER IN HOT, HYDROGEN-DOMINATED ATMOSPHERES}},
+Journal = ApJ,
+Year = {2016},
+Volume = {817},
+Abstract = {We present a comprehensive study of the abundance of carbon dioxide in
+   exoplanetary atmospheres in hot, hydrogen-dominated atmospheres. We
+   construct novel analytical models of systems in chemical equilibrium
+   that include carbon monoxide, carbon dioxide, water, methane and
+   acetylene and relate the equilibrium constants of the chemical reactions
+   to temperature and pressure via the tabulated Gibbs free energies. We
+   prove that such chemical systems may be described by a quintic equation
+   for the mixing ratio of methane. By examining the abundances of these
+   molecules across a broad range of temperatures (spanning equilibrium
+   temperatures from 600 to 2500 K), pressures (via temperature-pressure
+   profiles that explore albedo and opacity variations) and
+   carbon-to-oxygen ratios, we conclude that carbon dioxide is subdominant
+   compared to carbon monoxide and water. Atmospheric mixing does not alter
+   this conclusion if carbon dioxide is subdominant everywhere in the
+   atmosphere. Carbon dioxide and carbon monoxide may attain comparable
+   abundances if the metallicity is greatly enhanced, but this property is
+   negated by temperatures above 1000 K. For hydrogen-dominated
+   atmospheres, our generic result has the implication that retrieval
+   studies may wish to set the subdominance of carbon dioxide as a prior of
+   the calculation and not let its abundance completely roam free as a
+   fitting parameter, because it directly affects the inferred value of the
+   carbon-to-oxygen ratio and may produce unphysical conclusions. We
+   discuss the relevance of these implications for the hot Jupiter WASP-12b
+   and suggest that some of the previous results are chemically impossible.
+   The relative abundance of carbon dioxide to acetylene is potentially a
+   sensitive diagnostic of the carbon-to-oxygen ratio.},
+DOI = {10.3847/0004-637X/817/2/149},
+pages = {149},
+Keywords = {methods: analytical; planets and satellites: atmospheres},
+Keywords-Plus = {EXTRASOLAR GIANT PLANETS; SYSTEMATIC RETRIEVAL ANALYSIS; TIDALLY LOCKED
+   EXOPLANETS; BROWN DWARFS; HD 209458B; C/O RATIO; TRANSMISSION SPECTRA;
+   RADIATIVE-TRANSFER; CIRCULATION MODEL; THERMAL INVERSION},
+}
+
+@article{16VaKoMo.CO2,
+  doi = {10.1016/j.jqsrt.2016.07.002},
+  year  = {2016},
+  volume = {184},
+  pages = {233--240},
+  author = {S. Vasilchenko and M. Konefal and D. Mondelain and S. Kassi and P. {\v{C}}erm{\'{a}}k and S. A. Tashkun and V .I. Perevalov and A. Campargue},
+  title = {The {CO}2 absorption spectrum in the 2.3$\mathrm{\mu}$m transparency window by high sensitivity {CRDS}: (I) Rovibrational lines},
+  journal = JQSRT,
+}
+
+@article{15TaZhLi.CO2,
+  doi = {10.1016/j.jqsrt.2015.06.010},
+  year  = {2015},
+  volume = {165},
+  pages = {22--27},
+  author = {Y. Tan and X.-Q. Zhao and A.-W. Liu and S.-M. Hu and O. M. Lyulin and S. A. Tashkun and V. I. Perevalov},
+  title = {Cavity ring-down spectroscopy of {CO}2 overtone bands near 830nm},
+  journal = JQSRT,
+}
+
+@Article{16Sh.CO2,
+author="Shved, G. M.",
+title="On the abundances of carbon dioxide isotopologues in the atmospheres of mars and earth",
+journal="Solar System Res.",
+year="2016",
+volume="50",
+pages="161--164",
+abstract="The isotopic composition of carbon dioxide in the Martian atmosphere from the measurements of Mars Science Laboratory have been used to estimate the relative abundances of CO2 isotopologues in the Martian atmosphere. Concurrently, this study has revealed long-standing errors in the amounts of some of low-abundance CO2 isotopologues in the Earth's atmosphere in the databases of spectroscopic parameters of gases (HITRAN, etc.).",
+doi="10.1134/S0038094616020064",
+}
+
+@inproceedings{16KiMaSt.CO2,
+Author = { M. Kiseleva and J. Mandon and S. Persijn and J. Petersen and L. Nielsen and F. J. M. Harren},
+Title = {{Tractable line strength measurements of methane and carbon dioxide in the near infrared wavelength region at 1.65 $\mu$m using cavity ring down spectroscopy}},
+booktitle = {13th ASA-HITRAN conference, Reims},
+pages = {P1-16},
+year = {2016}}
+
+@article{11GaPaLo.CO2,
+  doi = {10.1080/00268976.2011.614284},
+  year  = {2011},
+  volume = {109},
+  pages = {2267--2272},
+  author = {Iacopo Galli and Pablo Cancio Pastor and Gianfranco {Di Lonardo} and Luciano Fusina and Giovanni Giusfredi and Davide Mazzotti and Filippo Tamassia and Paolo De Natale},
+  title = {{The $v_3$ band of $^{14}$C $^{16}$O$_2$ molecule measured by optical-frequency-comb-assisted cavity ring-down spectroscopy}},
+  journal = MP,
+}
+
+@article{15KaPe.CO2,
+  doi = {10.1134/s0030400x15070139},
+  year  = {2015},
+  volume = {119},
+  pages = {16--21},
+  author = {E. V. Karlovets and V. I. Perevalov},
+  title = {The influence of isotopic substitution on the effective dipole moment parameters of {CO}$_2$ molecule},
+  journal = {Optics  Spectrosc.}
+}
+
+@article{89DoWiKl.CO2,
+  doi = {},
+  year  = {1989},
+  volume = {44a},
+  pages = {633--639},
+  author = {S. Dobos and G. Winnewisser and F. Kling and J. Mink},
+  title = {{Improved spectroscopic constants for $^{14}$C $^{16}$O$_2$ obtained from the $v_3$ band}},
+  journal = {Z. Naturforsch}
+}
+
+@article{95AuWa.CO2,
+  doi = {10.1016/0375-9474(95)00445-9},
+  year  = {1995},
+  volume = {595},
+  pages = {409--480},
+  author = {G. Audi and A. H. Wapstra},
+  title = {The 1995 update to the atomic mass evaluation},
+  journal = {Nucl. Phys. A}
+}
+
+@article{14KaKaTa.CO2,
+  doi = {10.1016/j.jqsrt.2014.04.001},
+  year  = {2014},
+  volume = {144},
+  pages = {137--153},
+  author = {E. V. Karlovets and S. Kassi and S. A. Tashkun and V. I. Perevalov and A. Campargue},
+  title = {High sensitivity Cavity Ring Down spectroscopy of carbon dioxide in the 1.19{\textendash}1.26$\mathrm{\mu}$m region},
+  journal = JQSRT,
+}
+
+
+@article{16GuNuCh.CO2,
+  doi = {10.1016/j.jes.2015.11.015},
+  year  = {2016},
+  volume = {40},
+  pages = {60--74},
+  author = {Christophe Guimbaud and C{\'{e}}cile Noel and Michel Chartier and Val{\'{e}}ry Catoire and Michaela Blessing and Jean Christophe Gourry and Claude Robert},
+  title = {A quantum cascade laser infrared spectrometer for {CO}$_2$ stable isotope analysis: Field implementation at a hydrocarbon contaminated site under bio-remediation},
+  journal = {J. Environ. Sci.}
+}
+
+@article{11LaGaLa.CO2,
+  doi = {10.1016/j.icarus.2011.06.004},
+   year  = {2011},
+   volume = {215},
+   pages = {391--400},
+  author = {Anne L. Laraia and Robert R. Gamache and Julien Lamouroux and Iouli E. Gordon and Laurence S. Rothman},
+  title = {Total internal partition sums to support planetary remote sensing},
+  journal = {Icarus}
+}
+
+@article{16DeBeSu.CO2,
+  doi = {10.1016/j.jqsrt.2015.12.020},
+  year  = {2016},
+  volume = {177},
+  pages = {117--144},
+  author = {V. Malathy Devi and D. Chris Benner and Keeyoon Sung and Linda R. Brown and Timothy J. Crawford and Charles E. Miller and Brian J. Drouin and Vivienne H. Payne and Shanshan Yu and Mary Ann H. Smith and Arlan W. Mantz and Robert R. Gamache},
+  title = {Line parameters including temperature dependences of self- and air-broadened line shapes of $^{12}$C $^{16}$O$_2$: 1.6-$\mu$m region},
+  journal = JQSRT,
+}
+
+@article{07ToMiBr.CO2,
+  doi = {10.1016/j.jms.2007.03.005},
+  year  = {2007},
+  volume = {243},
+  pages = {43--61},
+  author = {R.A. Toth and C.E. Miller and L.R. Brown and V. Malathy Devi and D. Chris Benner},
+  title = {{Line positions and strengths of $^{16}$O$^{12}$C$^{18}$O,  $^{18}$O$^{12}$C$^{18}$O and $^{17}$O$^{12}$C$^{18}$O  between 2200 and 7000 cm$^{-1}$}},
+  journal = JMS,
+}
+
+@article{15McOgBe.CO2,
+title = "Measurements of carbon-14 with cavity ring-down spectroscopy ",
+journal = "Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms ",
+volume = "361",
+pages = "277 - 280",
+year = "2015",
+doi = "http://dx.doi.org/10.1016/j.nimb.2015.05.036",
+author = "A.D. McCartt and T. Ognibene and G. Bench and K. Turteltaub",
+keywords = "CRDS",
+keywords = "Spectroscopy",
+keywords = "Carbon-14 ",
+abstract = "Abstract Accelerator Mass Spectrometry (AMS) is the most sensitive method for quantitation of 14C in biological samples. This technology has been used in a variety of low dose, human health related studies over the last 20 years when very high sensitivity was needed. \{AMS\} helped pioneer these scientific methods, but its expensive facilities and requirements for highly trained technical staff have limited their proliferation. Quantification of 14C by cavity ring-down spectroscopy (CRDS) offers an approach that eliminates many of the shortcomings of an accelerator-based system and would supplement the use of \{AMS\} in biomedical research. Our initial prototype, using a non-ideal wavelength laser and under suboptimal experimental conditions, has a 3.5-modern, 1- σ precision for detection of milligram-sized, carbon-14-elevated samples. These results demonstrate proof of principle and provided a starting point for the development of a spectrometer capable of biologically relevant sensitivities. "
+}
+
+@article{10GiBaBo.CO2,
+  doi = {10.1103/physrevlett.104.110801},
+  year  = {2010},
+  volume = {104},
+  pages = {110801},
+  author = {G. Giusfredi and S. Bartalini and S. Borri and P. Cancio and I. Galli and D. Mazzotti and P. De Natale},
+  title = {Saturated-Absorption Cavity Ring-Down Spectroscopy},
+  journal =PRL,
+}
+
+@article{08ToWaTa.CO2,
+  doi = {10.1299/jpes.2.221},
+  year  = {2008},
+  volume = {2},
+  pages = {221--228},
+  author = {Hideki Tomita and Kenichi Watanabe and Yu Takiguchi and Jun Kawarabayashi and Tetsuo Iguchi},
+  title = {Radioactive Carbon Isotope Monitoring System Based on Cavity Ring-down Laser Spectroscopy for Decommissioning Process of Nuclear Facilities},
+  journal = {J. Power  Energy Systems}
+}
+
+@article{10RoSiGu.CO2,
+  doi = {10.1038/nature09288},
+  year  = {2010},
+  volume = {466},
+  pages = {1093--1097},
+  author = {Kathryn A. Rose and Elisabeth L. Sikes and Thomas P. Guilderson and Phil Shane and Tessa M. Hill and Rainer Zahn and Howard J. Spero},
+  title = {Upper-ocean-to-atmosphere radiocarbon offsets imply fast deglacial carbon dioxide release},
+  journal = {Nature}
+}
+
+@article{10LeNaKr.CO2,
+  doi = {10.1111/j.1600-0889.2009.00446.x},
+  year  = {2010},
+  volume = {62},
+  pages = {26--46},
+  author = {INGEBORG Levin and TOBIAS Naegler and BERND Kromer and MORITZ Diehl and ROGER J. Francey and ANGEL J. Gomez-Pelaez and L. PAUL Steele and DIETMAR Wagenbach and ROLF Weller and DOUGLAS E. Worthy},
+  title = {Observations and modelling of the global distribution and long-term trend of atmospheric $^{14}${CO}$_2$},
+  journal = {Tellus B}
+}
+
+@article{10ReRaPo.CO2,
+  doi = {10.1111/j.1600-0889.2010.00479.x},
+  year  = {2010},
+  volume = {62},
+  pages = {329--336},
+  author = {CHRISTIAN H. Reick and THOMAS Raddatz and JULIA Pongratz and MARTIN Claussen},
+  title = {Contribution of anthropogenic land cover change emissions to pre-industrial atmospheric {CO}$_2$},
+  journal = {Tellus B}
+}
+
+
+
+@article{15GeVaPh.CO2,
+  doi = {10.1364/ol.40.001342},
+  year  = {2015},
+  volume = {40},
+  pages = {1342},
+  author = {G. Genoud and M. Vainio and H. Phillips and J. Dean and M. Merimaa},
+  title = {Radiocarbon dioxide detection based on cavity ring-down spectroscopy and a quantum cascade laser},
+  journal = {Opt. Lett.}
+}
+
+@article{11GaBaBo.CO2,
+  doi = {10.1103/physrevlett.107.270802},
+  year  = {2011},
+  volume = {107},
+  pages = {270802},
+  author = {I. Galli and S. Bartalini and S. Borri and P. Cancio and D. Mazzotti and P. {De Natale} and G. Giusfredi},
+  title = {Molecular Gas Sensing Below Parts Per Trillion: Radiocarbon-Dioxide Optical Detection},
+  journal = PRL,
+}
+
+@article{04AmViCh.CO2,
+  author = {A. Amy-Klein and H. Vigu{\'e} and C. Chardonnet},
+  title = {{Absolute frequency measurement of $^{12}$C$^{16}$O$_2$ 
+laser lines with a femtosecond laser comb and new determination of the $^{12}$C$^{16}$O$_2$ molecular constants and frequency grid}},
+  journal = JMS,
+  volume = {228},
+  year  = {2004},
+  pages = {206-212}}
+
+@article{15GiGaMa.CO2,
+  doi = {10.1364/josab.32.002223},
+  year  = {2015},
+  volume = {32},
+  pages = {2223},
+  author = {G. Giusfredi and I. Galli and D. Mazzotti and P. Cancio and P. {De Natale}},
+  title = {Theory of saturated-absorption cavity ring-down: radiocarbon dioxide detection,  a case study},
+  journal = JOSAB,
+}
+
+@article{13GaBaCa.CO2,
+author = {I. Galli and S. Bartalini and P. Cancio and P. {De Natale} and D. Mazzotti and G. Giusfredi and M E Fedi and P. A. Mando},
+journal = {Radiocarbon},
+year = {2013},
+volume = {55},
+ pages = {213-223},
+  title = {Optical Detection of Radiocarbon Dioxide: First Results and {AMS} Intercomparison}}
+
+@article{92RoHaWa.CO2,
+  doi = {10.1016/0022-4073(92)90119-o},
+  year  = {1992},
+  volume = {48},
+  pages = {537--566},
+  author = {L. S. Rothman and R. L. Hawkins and R. B. Wattson and R. R. Gamache},
+  title = {Energy levels,  intensities,  and linewidths of atmospheric carbon dioxide bands},
+  journal = JQSRT,
+}
+
+@inproceedings{08PeTa.CO2,
+author = {V. I. Perevalov AND  S. A. Tashkun},
+title = {{CDSD-296 (Carbon Dioxide Spectroscopic Databank): updated and enlarged version for atmospheric applications}},
+year = {2008},
+Conference={10th HITRAN Conference}, 
+address= {Cambridge MA, USA},
+}
+
+@article{10DuLiVi.CO2,
+  doi = {10.1007/s00340-010-3924-y},
+  year  = {2010},
+  volume = {99},
+  pages = {339--351},
+  author = {G. Durry and J. S. Li and I. Vinogradov and A. Titov and L. Joly and J. Cousin and T. Decarpenterie and N. Amarouche and X. Liu and B. Parvitte and O. Korablev and M. Gerasimov and V. Z{\'{e}}ninari},
+  title = {{Near infrared diode laser spectroscopy of C$_2$H$_2$,  H$_2$O,  {CO}$_2$ and~their isotopologues and the application to {TDLAS},  a tunable diode laser spectrometer for the martian {PHOBOS}-{GRUNT} space mission}},
+  journal = {Appl. Phys. B}
+}
+
+
+@article{15TaPeGa.CO2,
+  doi = {10.1016/j.jqsrt.2014.10.017},
+  year  = {2015},
+  volume = {152},
+  pages = {45--73},
+  author = {S. A. Tashkun and V. I. Perevalov and R. R. Gamache and J. Lamouroux},
+  title = {{CDSD}-296,  high resolution carbon dioxide spectroscopic databank: Version for atmospheric applications},
+  journal = JQSRT,
+}
+
+
+
+@article{14KaCaMo.CO2,
+  doi = {10.1016/j.jqsrt.2013.11.006},
+  year  = {2014},
+  volume = {136},
+  pages = {89--107},
+  author = {E. V. Karlovets and A. Campargue and D. Mondelain and S. Kassi and S. A. Tashkun and V. I. Perevalov},
+  title = {{High sensitivity Cavity Ring Down spectroscopy of $^{18}$O enriched carbon dioxide between 5850 and 7000\cm: Part III~Analysis and theoretical modeling of the $^{12}$C$^{17}$O$_2$,  $^{16}$O$^{12}$C$^{17}$O,  $^{17}$O$^{12}$C$^{18}$O,  $^{16}$O$^{13}$C$^{17}$O and $^{17}$O$^{13}$C$^{18}$O spectra}},
+  journal = JQSRT,
+}
+
+
+@article{11WuWeTo.CO2,
+  doi = {10.5194/acp-11-12317-2011},
+  year  = {2011},
+  volume = {11},
+  pages = {12317--12337},
+  author = {D. Wunch and P. O. Wennberg and G. C. Toon and B. J. Connor and B. Fisher and G. B. Osterman and C. Frankenberg and L. Mandrake and C. O'Dell and P. Ahonen and S. C. Biraud and R. Castano and N. Cressie and D. Crisp and N. M. Deutscher and A. Eldering and M. L. Fisher and D. W. T. Griffith and M. Gunson and P. Heikkinen and G. Keppel-Aleks and E. Kyr\"{o} and R. Lindenmaier and R. Macatangay and J. Mendonca and J. Messerschmidt and C. E. Miller and I. Morino and J. Notholt and F. A. Oyafuso and M. Rettinger and J. Robinson and C. M. Roehl and R. J. Salawitch and V. Sherlock and K. Strong and R. Sussmann and T. Tanaka and D. R. Thompson and O. Uchino and T. Warneke and S. C. Wofsy},
+  title = {A method for evaluating bias in global measurements of {CO}${_2}$ total columns from space},
+  journal = {Atmos. Chem. Phys.}
+}
+
+@article{Karlovets16.CO2,
+  doi = {ll},
+  year  = {2016},
+  volume = {ll},
+  pages = {ll},
+  author = {E. V. Karlovets and...: requires a reference},
+  title = {ll},
+  journal =ll ,
+}
+
+@article{13KaCaMo.CO2,
+title = {High sensitivity Cavity Ring Down spectroscopy of $^{18}$O enriched carbon dioxide between 5850 and 7000 cm$^{−1}$: I. Analysis and theoretical modeling of the $^{16}$O$^{12}$C$^{18}$ spectrum},
+journal = JQSRT,
+volume = "130",
+pages = "116 - 133",
+year = "2013",
+doi = "10.1016/j.jqsrt.2013.05.019",
+author = "E. V. Karlovets and A. Campargue and D. Mondelain and S. B\'eguier and S. Kassi and S. A. Tashkun and V. I. Perevalov",
+keywords = "Carbon dioxide",
+keywords = "CO2",
+keywords = "Isotopologue",
+keywords = "Global modeling",
+keywords = "Cavity Ring Down spectroscopy",
+keywords = "HITRAN",
+keywords = "CDSD ",
+abstract = ""
+}
+
+@article{14KaCaMoII.CO2,
+title = {{High sensitivity Cavity Ring Down spectroscopy of 18O enriched carbon dioxide between 5850 and 7000 cm$^{-1}$: Part II—Analysis and theoretical modeling of the $^{12}$C$^{18}$O$_2$, $^{13}$C$^{18}$O$_2$ and $^{16}$O$^{13}$C$^{18}$O spectra}},
+journal = JQSRT,
+volume = "136",
+pages = "71 - 88",
+year = "2014",
+doi = "10.1016/j.jqsrt.2013.11.005",
+author = "E.V. Karlovets and A. Campargue and D. Mondelain and S. Kassi and S.A. Tashkun and V.I. Perevalov",
+keywords = "Carbon dioxide",
+keywords = "CO2",
+keywords = "Isotopologue",
+keywords = "Global modeling",
+keywords = "Cavity Ring Down Spectroscopy",
+keywords = "HITRAN",
+keywords = "GEISA",
+keywords = "CDSD ",
+abstract = {}
+}
+
+
+
+
+@Article{15ZaTePo.CO2,
+author = {E. Zak and J. Tennyson and O. L. Polyansky and L. Lodi and S. A. Tashkun and V. I. Perevalov},
+title = {{A room temperature CO$_2$ line list with {\it ab initio} computed intensities}},
+journal = JQSRT,
+volume = {177},
+pages = {31-42},
+doi = {10.1016/j.jqsrt.2015.12.022},
+year={2016}}
+
+@article{15JaBoLy.CO2,
+  doi = {10.1016/j.jqsrt.2015.03.016},
+   year  = {2015},
+  volume = {160},
+  pages = {1--9},
+  author = {D. Jacquemart and Yu.G. Borkov and O. M. Lyulin and S. A. Tashkun and V. I. Perevalov},
+  title = {{Fourier transform spectroscopy of {CO}$_2$ isotopologues at 1.6$\mathrm{\mu}$m: Line positions and intensities}},
+  journal = JQSRT,
+}
+
+
+@misc{14Ja.CO2,
+  year  = {2014},
+  author = {D. Jacquemart},
+  note = {{Private communication}},
+}
+
+
+@article{12JaGuLy.CO2,
+  doi = {10.1016/j.jqsrt.2012.02.020},
+  year  = {2012},
+  volume = {113},
+  pages = {961--975},
+  author = {D. Jacquemart and F. Gueye and O. M. Lyulin and E. V. Karlovets and D. Baron and V. I. Perevalov},
+  title = {{Infrared spectroscopy of {CO}2 isotopologues from 2200 to 7000 cm$^{-1}$: I{\textemdash}Characterizing experimental uncertainties of positions and intensities}},
+  journal = JQSRT,
+}
+
+@article{15BoJaLy.CO2,
+  doi = {10.1016/j.jqsrt.2015.02.019},
+  year  = {2015},
+  volume = {159},
+  pages = {1--10},
+  author = {Yu. G. Borkov and D. Jacquemart and O. M. Lyulin and S. A. Tashkun and V. I. Perevalov},
+  title = {{Infrared spectroscopy of $^{17}$O- and $^{18}$O-enriched carbon dioxide: Line positions and intensities in the 4681{\textendash}5337 cm$^{-1}$ region}},
+  journal = JQSRT}
+
+@article{14BoJaLy.CO2,
+  doi = {10.1016/j.jqsrt.2013.11.008},
+  year  = {2014},
+  volume = {137},
+  pages = {57--76},
+  author = {Yu. G. Borkov and D. Jacquemart and O. M. Lyulin and S. A. Tashkun and V. I. Perevalov},
+  title = {{Infrared spectroscopy of $^{17}$O- and $^{18}$O-enriched carbon dioxide: Line positions and intensities in the 3200{\textendash}4700 cm$^{-1}$ region. Global modeling of the line positions of $^{16}$O$^{12}$C$^{17}$O$_2$ and $^{17}$O$^{12}$C$^{17}$O}},
+  journal = JQSRT,
+}
+
+
+
+@article{Emmert2012,
+  doi = {10.1038/ngeo1626},
+  year  = {2012},
+  volume = {5},
+  pages = {868--871},
+  author = {J. T. Emmert and M. H. Stevens and P. F. Bernath and D. P. Drob and C. D. Boone},
+  title = {Observations of increasing carbon dioxide concentration in Earth's thermosphere},
+  journal = {Nature Geoscience}
+}
+
+@article{Song2010,
+  doi = {10.1016/j.jqsrt.2009.09.004},
+  year  = {2010},
+  volume = {111},
+  pages = {332--344}, 
+  author = {K. F. Song and S. Kassi and S. A. Tashkun and V. I. Perevalov and A. Campargue},
+  title = {High sensitivity {CW}-cavity ring down spectroscopy of $^{12}$CO$_2$ near 1.35$\mu$m (II): New observations and line intensities modeling},
+  journal = JQSRT,
+}
+
+@article{Wang2005,
+  doi = {10.1016/j.jms.2005.08.008},
+  year  = {2005},
+  volume = {234},
+  pages = {84--92},
+  author = {L. Wang and V. I. Perevalov and S. A. Tashkun and Y. Ding and S.-M. Hu},
+  title = {{Absolute line intensities of $^{13}$C$^{16}$O$_2$ in the 4200{\textendash}8500 cm$^{-1}$ region}},
+  journal = JMS,
+}
+
+@article{Perevalov2008,
+  doi = {10.1016/j.jms.2008.08.006},
+  year  = {2008},
+  volume = {252},
+  pages = {190--197},
+  author = {B. V. Perevalov and A. Campargue and B. Gao and S. Kassi and S. A. Tashkun and V. I. Perevalov},
+  title = {New {CW}-{CRDS} measurements and global modeling of {$^{12}$C$^{16}$O$_2$} absolute line intensities in the 1.6$\mu$m region},
+  journal = JMS,
+}
+
+
+@article{Sioris2014,
+  doi = {10.5194/amt-7-2243-2014},
+  year  = {2014},
+  volume = {7},
+  pages = {2243--2262},
+  author = {C. E. Sioris and C. D. Boone and R. Nassar and K. J. Sutton and I. E. Gordon and K. A. Walker and P. F. Bernath},
+  title = {Retrieval of carbon dioxide vertical profiles from solar occultation observations and associated error budgets for {ACE}-{FTS} and {CASS}-{FTS}},
+  journal = {Atmos. Meas. Tech.}
+}
+
+@article{OBrien2002,
+  doi = {10.1029/2001jd000617},
+  pages = {ACH~6},
+  year  = {2002},
+  volume = {107},
+  number = {D18},
+  author = {D. M. O'Brien and P J Rayner},
+  title = {{Global observations of the carbon budget,  2, CO$_2$ column from differential absorption of reflected sunlight in the 1.61 $\mu$m band of CO$_2$}},
+  journal = JGR,
+}
+
+@article{98ClTeHu.CO2,
+  doi = {10.1006/jmsp.1998.7546},
+  year  = {1998},
+  volume = {189},
+  pages = {153--195},
+  author = {C. Claveau and J.-L. Teffo and D. Hurtmans and A. Valentin},
+  title = {Infrared Fundamental and First Hot Bands of (OCO)-O$^{12}$C$^{17}$O  Isotopic Variants of Carbon Dioxide},
+  journal = JMS
+}
+
+@article{Hashemi2013,
+  doi = {10.1139/cjp-2013-0051},
+  year  = {2013},
+  volume = {91},
+  pages = {924--936},
+  author = {Robab Hashemi and Hoimonti Rozario and Amr Ibrahim and Adriana Predoi-Cross},
+  title = {{Line shape study of the carbon dioxide laser band I$^1$}},
+  journal = {Can. J. Phys.}
+}
+
+@article{Castrillo2003,
+  doi = {10.1103/physreva.67.062503},
+  year  = {2003},
+  volume = {67},
+  author = {A. Castrillo and G. Gagliardi and G. Casa and L. Gianfrani},
+  title = {{Combined interferometric and absorption-spectroscopic technique for determining molecular line strengths: Applications to CO$_2$}},
+  journal = PRA,
+}
+
+
+@article{08ToMiBr.CO2,
+  doi = {10.1016/j.jms.2008.01.009},
+  year  = {2008},
+  volume = {251},
+  pages = {64--89},
+  author = {R.A. Toth and C.E. Miller and L.R. Brown and V. Malathy Devi and D. Chris Benner},
+  title = {{Line strengths of  $^{16}$O$^{13}$C$^{16}$O, $^{16}$O$^{13}$C$^{18}$$^{16}$O$^{13}$C$^{17}$O and $^{18}$O$^{13}$C$^{18}$O, between 2200 and 6800
+cm$^{-1}$}},
+  journal = JMS,
+}
+
+@article{08ToBrMi.CO2,
+  doi = {10.1016/j.jqsrt.2007.12.004},
+  year  = {2008},
+  volume = {109},
+  pages = {906--921},
+  author = {R. A. Toth and L. R. Brown and C. E. Miller and V. Malathy Devi and D. Chris. Benner},
+  title = {{Spectroscopic database of {CO}$_2$ line parameters: 4300{\textendash}7000cm$^{-1}$}},
+  journal = JQSRT,
+}
+
+
+@misc{12TaPe.CO2,
+author = {S. A. Tashkun AND  V. I. Perevalov},
+title = {},
+nonote = {Private communication: Line positions calculated from empirical energy levels, derived using RITZ approach},
+year = {2012},
+}
+
+@misc{12TaPe_dip.CO2,
+author = {S. A. Tashkun AND  V. I. Perevalov},
+title = {},
+note = {Private communication: Intensities calculated using the effective dipole moment function},
+year = {2012},
+}
+
+@article{16BeDeSu.CO2,
+  doi = {10.1016/j.jms.2016.02.012},
+  year  = {2016},
+  volume = {326},
+  pages = {21--47},
+  author = {D. Chris Benner and V. Malathy Devi and Keeyoon Sung and Linda R. Brown and Charles E. Miller and Vivienne H. Payne and Brian J. Drouin and Shanshan Yu and Timothy J. Crawford and Arlan W. Mantz and Mary Ann H. Smith and Robert R. Gamache},
+  title = {{Line parameters including temperature dependences of air- and self-broadened line shapes of $^{12}$C$^{16}$O$_2$: 2.06-$\mu$m region}},
+  journal = JMS,
+abstract = "Abstract This study reports the results from analyzing a number of high resolution, high signal-to-noise ratio (S/N) spectra in the 2.06-μm spectral region for pure \{CO2\} and mixtures of \{CO2\} in dry air. A multispectrum nonlinear least squares curve fitting technique has been used to retrieve the various spectral line parameters. The dataset includes 27 spectra: ten pure CO2, two 99\% 13C-enriched \{CO2\} and fifteen spectra of mixtures of 12C-enriched \{CO2\} in dry air. The spectra were recorded at various gas sample temperatures between 170 and 297 K. The absorption path lengths range from 0.347 to 49 m. The sample pressures for the pure \{CO2\} spectra varied from 1.1 to 594 Torr; for the two 13CO2 spectra the pressures were ∼10 and 146 Torr. For the air-broadened spectra, the pressures of the gas mixtures varied between 200 and 711 Torr with \{CO2\} volume mixing ratios ranging from 0.014\% to 0.203\%. The multispectrum fitting technique was applied to fit simultaneously all these spectra to retrieve consistent set of line positions, intensities, and line shape parameters including their temperature dependences; for this, the Voigt line shape was modified to include line mixing (via the relaxation matrix formalism) and quadratic speed dependence. The new results are compared to select published values, including recent ab initio calculations. These results are required to retrieve the column averaged dry air mole fraction (XCO2) from space-based observations, such as the Orbiting Carbon Observatory-2 (OCO-2) satellite mission that \{NASA\} launched in July 2014. "
+}
+
+
+@article{OCO-2,
+  doi = {10.5194/amt-2016-281},
+  year  = {2016},
+  month = {oct},
+  publisher = {Copernicus {GmbH}},
+  pages = {1--45},
+  author = {David Crisp and Harold R. Pollock and Robert Rosenberg and Lars Chapsky and Richard A. M. Lee and Fabiano A. Oyafuso and Christian Frankenberg and Christopher W. O'Dell and Carol J. Bruegge and Gary B. Doran and Annmarie Eldering and Brendan M. Fisher and Dejian Fu and Michael R. Gunson and Lukas Mandrake and Gregory B. Osterman and Florian M. Schwandner and Kang Sun and Tommy E. Taylor and Paul O. Wennberg and Debra Wunch},
+  title = {The On-Orbit Performance of the Orbiting Carbon Observatory-2 ({OCO}-2) Instrument and its Radiometrically Calibrated Products},
+  journal = {Atmospheric Measurement Techniques Discussions}
+}
+
+@article{Tashkun2015,
+  doi = {10.1016/j.jqsrt.2014.10.017},
+  year  = {2015},
+  volume = {152},
+  pages = {45--73},
+  author = {S. A. Tashkun and V. I. Perevalov and R. R. Gamache and J. Lamouroux},
+  title = {{CDSD}-296,  high resolution carbon dioxide spectroscopic databank: Version for atmospheric applications},
+  journal = JQSRT,
+Abstract={{We present an atmospheric version, CDSD-296, of the carbon dioxide spectroscopic databank (CDSD). The databank contains the calculated line parameters (positions, intensities, air- and self-broadened half-widths, coefficients of temperature dependence of air-broadened half-widths and air pressure-induced line shifts) of the twelve stable isotopic species of CO 2 . The reference temperature is T ref =296K and the intensity cutoff is I cut =10 −30 cm −1 /(moleculecm −2 ). More than 500,000 lines covering the 6–14,075cm −1 spectral range are included in CDSD-296. The databank has been generated within the framework of the method of effective operators and based on the global weighted fits of spectroscopic parameters (parameters of the effective Hamiltonians and effective dipole moment operators) to observed data collected from the literature. The fitted models are able to reproduce known measured positions and intensities with accuracies compatible with measurement uncertainties. The line-shape parameters originate from the recent theoretical and semi-empirical calculations. Comparisons of CDSD-296 with HITRAN-2012, GEISA-2011, and the AMES line lists are also given.}},
+}
+
+@article{ 02TaPeTe.CO2,
+Author = {Tashkun, S A and Perevalov, V I and Teffo, J L and Bykov, A D and
+   Lavrentieva, N N},
+Title = {{CDSD-1000, the high-temperature carbon dioxide spectroscopic databank}},
+Journal = JQSRT,
+Year = {{2003}},
+Volume = {{82}},
+Pages = {165-196},
+Abstract = {{We present a high-temperature version, CDSD-1000, of the carbon dioxide
+   spectroscopic databank. The databank contains the line parameters
+   (positions, intensities, air- and self-broadened half-widths and
+   coefficients of temperature dependence of air-broadened half-widths) of
+   the four most abundant isotopic species of the carbon dioxide molecule.
+   The reference temperature is T-ref = 1000 K and the intensity cutoff is
+   I-cut = 10(-27) cm(-1)/molecule cm(-2). More than 3 million lines
+   covering the 260-8310, 418-2454, 394-4662, and 429-2846 cm(-1) spectral
+   ranges for (CO2)-C-12-O-16, (CO2)-C-13-O-16, (COO)-C-12-O-16-O-18, and
+   (COO)-C-12-O-16-O-17, respectively, are included in CDSD-1000. The
+   databank has been generated within the framework of the method of
+   effective operators and based on the global fittings of spectroscopic
+   parameters (parameters of the effective Hamiltonians and effective
+   dipole moment operators) to observed data collected from the literature.
+   Line-by-line simulations of several low- and medium-resolution
+   high-temperature (T = 800-3000 K) spectra have been performed in order
+   to validate the databank. Comparisons of CDSD-1000 with other
+   high-temperature databanks HITEMP, HITELOR, and EM2C are also given.
+   CDSD-1000 is able to reproduce observed spectra in a more satisfactory
+   way than the high-resolution databank HITEMP for temperatures higher
+   than 1000 K. The databank is useful for studying high-temperature
+   radiative properties of CO2. CDSD-1000 is freely accessible via the
+   Internet.}},
+DOI = {{10.1016/S0022-4073(03)00152-3}}}
+
+@article{ 14SnStGr.CO2,
+Author = {Snels, Marcel and Stefani, Stefania and Grassi, Davide and Piccioni,
+   Giuseppe and Adriani, Alberto},
+Title = {{Carbon dioxide opacity of the Venus' atmosphere}},
+Journal = PSS,
+Year = {{2014}},
+Volume = {{103}},
+Pages = {347-354},
+Abstract = {{Venus' atmosphere consists of about 95\% of carbon dioxide, which
+   accounts for most of the absorption of the radiation emitted by its hot
+   surface. The large densities and high temperatures of Venus' atmosphere
+   make the absorption much more complex than for low density atmospheres
+   such as Earth or Mars. Available experimental data are at present
+   insufficient and theoretical models inadequate to describe complex
+   absorption line shapes and collision-induced phenomena. Here we present
+   a survey of all absorption and scattering processes which influence the
+   transparency of Venus' atmosphere for what concerns carbon dioxide.}},
+DOI = {{10.1016/j.pss.2014.08.002}}}
+
+@article{ 13HuFrTa.CO2,
+Author = {Huang, Xinchuan and Freedman, Richard S. and Tashkun, Sergey A. and
+   Schwenke, David W. and Lee, Timothy J.},
+Title = {{Semi-empirical $^{12}$C$^{16}$O$_2$ IR line lists for simulations up to 1500
+   K and 20,000 cm$^{-1}$}},
+Journal = JQSRT,
+Year = {{2013}},
+Volume = {{130}},
+Pages = {134-146},
+Abstract = {{New semi-empirical Infrared (IR) line lists for (CO2)-C-12-O-16,
+   Ames-296 K and Ames-1000 K, have been computed using a newly updated ab
+   initio CCSD(T)/aug-cc-pVQZ dipole moment surface (denoted DMS-N2) and an
+   empirically refined potential energy surface (Ames-1). J=0-150
+   rovibrational levels are computed up to 30,000 cm(-1), and related
+   transitions are cut off at 1E-42 cm molecule(-1) (296 K) and 1E-36 cm
+   molecule(-1) (1000 K). These are the first line lists available to cover
+   reliably the energy region as high as similar to 20,000 cm(-1). Recent
+   experimental data at 1.1 mu m has confirmed the predicted intensities
+   for the 50013-00001 and 50014-00001 band transitions have better than
+   90\% agreement. Comparisons are made against the Wattson 750 K line list
+   and HITEMP/HITRAN at 300 K, 500 K, 725 K, 1000 K, 1500 K, 2000 K and
+   3000 K. The temperature dependence and accuracy of the new Ames-296
+   K/1000 K line lists are investigated and we claim both line lists are
+   capable of providing reliable opacities up to 18,00023,000 cm(-1), while
+   the highest applicable wavenumber range drops as T rises. We suggest
+   caution is used for T> 1000 K simulations. Comparison to recent
+   experiments at 1000 K, 1550 K and 1773 K shows that the Ames-1000 K line
+   list and HITEMP perform similarly in the 3200-3800 cm(-1) and 4600-5200
+   cm-1 ranges. In the 2000-2100 cm(-1) range, Ames-1000 K yields better
+   agreement relative to experiment. Existing problems and possible future
+   solutions in the new Ames-296 K/1000 K line lists for line positions and
+   intensities are also discussed. (C) 2013 Elsevier Ltd. All rights
+   reserved.}},
+DOI = {10.1016/j.jqsrt.2013.05.018}}
+
+@article{13StPiSn.CO2,
+title = {{Experimental CO$_2$ absorption coefficients at high pressure and high temperature}},
+journal = JQSRT,
+volume = "117",
+pages = "21 - 28",
+year = "2013",
+doi = "10.1016/j.jqsrt.2012.11.019",
+author = "Stefania Stefani and Giuseppe Piccioni and Marcel Snels and Davide Grassi and Alberto Adriani",
+keywords = "Planetary atmosphere",
+keywords = "Absorption coefficients",
+keywords = "Carbon dioxide",
+keywords = "Radiative transfer",
+keywords = "Venus",
+abstract = ""
+}
+
+
+@article{11TaPe.CO2,
+Author = {Tashkun, S. A. and Perevalov, V. I.},
+Title = {{CDSD-4000: High-resolution, high-temperature carbon dioxide
+   spectroscopic databank}},
+Journal = JQSRT,
+Year = {2011},
+Volume = {112},
+Pages = {1403-1410},
+Abstract = {We present a high-resolution, high-temperature version of the Carbon
+   Dioxide Spectroscopic Databank called CDSD-4000. The databank contains
+   the line parameters (positions, intensities, air- and self-broadened
+   half-widths, coefficients of temperature dependence of air- and
+   self-broadened half-widths, and air-broadened pressure shifts) of the
+   four most abundant isotopologues of CO(2). A reference temperature is
+   296 K and an intensity cutoff is 10(-27) cm(-1)/molecule cm(-2) at 4000
+   K. The databank has 628,324,454 entries, covers the 226-8310 cm(-1)
+   spectral range and designed for the temperature range 2500-5000 K.
+   Format of CDSD-4000 is similar to that of HITRAN-2008. The databank has
+   been generated within the framework of the method of effective operators
+   and based on the global fittings of spectroscopic parameters (parameters
+   of the effective Hamiltonians and effective dipole moment operators) to
+   observed data collected from the literature. The databank is useful for
+   studying high-temperature radiative properties of CO(2), including
+   exoplanets atmospheres, aerothemal modeling for Mars entry missions,
+   high-temperature laboratory spectra, and industrial applications.
+   CDSD-4000 is freely accessible via the Internet site
+   ftp://ftp.iao.ru/pub/CDSD-4000..},
+DOI = {10.1016/j.jqsrt.2011.03.005},
+}
+
+@article{11DePeRi.CO2,
+title = {{Infrared emission spectroscopy of CO$_2$ at high temperature. Part II: Experimental results and comparisons with spectroscopic databases}},
+journal = JQSRT	,
+volume = "113",
+pages = "14 - 25",
+year = "2012",
+doi = "10.1016/j.jqsrt.2011.09.013",
+author = "S. Depraz and M. Y. Perrin and Ph. Rivière and A. Soufiani",
+keywords = "FTIR emission spectroscopy",
+keywords = "Microwave plasma source",
+keywords = "Spectroscopic databases",
+keywords = "High temperature CO<sub>2</sub> infrared radiation"
+}
+
+@article{ 13JoReCa.CO2,
+Author = {Johnson, William and Repasky, Kevin S. and Carlsten, John L.},
+Title = {{Micropulse differential absorption lidar for identification of carbon
+   sequestration site leakage}},
+Journal = AO,
+Year = {{2013}},
+Volume = {{52}},
+Pages = {2994-3003},
+Abstract = {{A scanning differential absorption lidar (DIAL) instrument for
+   identification of carbon dioxide leaks at carbon sequestration sites has
+   been developed and initial data has been collected at Montana State
+   University. The laser transmitter uses two tunable discrete mode laser
+   diodes operating in the continuous-wave mode with one locked to the
+   online absorption wavelength and the other operating at the offline
+   wavelength. Two in-line fiber optic switches are used to switch between
+   online and offline operation. After the fiber optic switch, an
+   acousto-optic modulator is used to generate a pulse train used to
+   injection seed an erbium-doped fiber amplifier to produce eye-safe laser
+   pulses with maximum pulse energies of 66 mu J, a pulse repetition
+   frequency of 15 kHz, and an operating wavelength of 1.571 mu m. The DIAL
+   receiver uses a 28 cm diameter Schmidt-Cassegrain telescope to collect
+   that backscattered light, which is then monitored using a
+   photomultiplier tube module operating in the photon counting mode. The
+   DIAL has measured carbon dioxide profiles from 1 to 2.5 km with 60 min
+   temporal averaging. Comparisons of DIAL measurements with a Licor LI-820
+   gas analyzer point sensor have been made. }},
+DOI = {{10.1364/AO.52.002994}}
+}
+
+
+@article{ 13VeFrBe.CO2,
+Author = {Venot, O. and Fray, N. and Benilan, Y. and Gazeau, M. -C. and Hebrard,
+   E. and Larcher, G. and Schwell, M. and Dobrijevic, M. and Selsis, F.},
+Title = {{High-temperature measurements of VUV-absorption cross sections of CO$_2$
+   and their application to exoplanets}},
+Journal = AA,
+Year = {{2013}},
+Volume = {{551}},
+pages = {A131},
+Abstract = {{Context. Ultraviolet (UV) absorption cross sections are an essential
+   ingredient of photochemical atmosphere models. Exoplanet searches have
+   unveiled a large population of short-period objects with hot
+   atmospheres, very different from what we find in our solar system.
+   Transiting exoplanets whose atmospheres can now be studied by transit
+   spectroscopy receive extremely strong UV fluxes and have typical
+   temperatures ranging from 400 to 2500 K. At these temperatures, UV
+   photolysis cross section data are severely lacking.
+   Aims. Our goal is to provide high-temperature absorption cross sections
+   and their temperature dependency for important atmospheric compounds.
+   This study is dedicated to CO2, which is observed and photodissociated
+   in exoplanet atmospheres. We also investigate the influence of these new
+   data on the photochemistry of some exoplanets.
+   Methods. We performed these measurements with synchrotron radiation as a
+   tunable VUV light source for the 115-200 nm range at 300, 410, 480, and
+   550 K. In the 195-230 nm range, we used a deuterium lamp and a 1.5 m
+   Jobin-Yvon spectrometer and we worked at seven temperatures between 465
+   and 800 K. We implemented the measured cross section into a 1D
+   photochemical model.
+   Results. For lambda > 170 nm, the wavelength dependence of ln(sigma(CO2)
+   (lambda,T) x 1/Q(v)(T)) can be parametrized with a linear law. Thus, we
+   can interpolate sigma(CO2) (lambda,T) at any temperature between 300 and
+   800 K. Within the studied range of temperature, the CO2 cross section
+   can vary by more than two orders of magnitude. This, in particular,
+   makes the absorption of CO2 significant up to wavelengths as high as 230
+   nm, while it is negligible above 200 nm at 300 K.
+   Conclusions. The absorption cross section of CO2 is very sensitive to
+   temperature, especially above 160 nm. The model predicts that accounting
+   for this temperature dependency of CO2 cross section can affect the
+   computed abundances of NH3, CO2, and CO by one order of magnitude in the
+   atmospheres of hot Jupiter and hot Neptune. This effect will be more
+   important in hot CO2-dominated atmospheres.}},
+DOI = {10.1051/0004-6361/201220945}}
+
+
+@ARTICLE{12HuScTa.CO2,
+  author = {Huang, Xinchuan and Schwenke, David W. and Tashkun, Sergey A. and
+	Lee, Timothy J.},
+  title = {{An isotopic-independent highly accurate potential energy surface
+	for CO$_2$ isotopologues and an initial $^{12}$C$^{16}$O$_2$ infrared line list}},
+  journal = JCP,
+  year = {2012},
+  volume = {136},
+  abstract = {An isotopic-independent, highly accurate potential energy surface
+	(PES) has been determined for CO2 by refining a purely ab initio
+	PES with selected, purely experimentally determined rovibrational
+	energy levels. The purely ab initio PES is denoted Ames-0, while
+	the refined PES is denoted Ames-1. Detailed tests are performed to
+	demonstrate the spectroscopic accuracy of the Ames-1 PES. It is shown
+	that Ames-1 yields sigma(rms) (root-mean-squares error) = 0.0156
+	cm(-1) for 6873 J = 0-117 (CO2)-C-12-O-16 experimental energy levels,
+	even though less than 500 (CO2)-C-12-O-16 energy levels were included
+	in the refinement procedure. It is also demonstrated that, without
+	any additional refinement, Ames-1 yields very good agreement for
+	isotopologues. Specifically, for the (CO2)-C-12-O-16 and (CO2)-C-13-O-16
+	isotopologues, spectroscopic constants G(nu) computed from Ames-1
+	are within +/- 0.01 and 0.02 cm(-1) of reliable experimentally derived
+	values, while for the (OCO)-O-16-C-12-O-18, (OCO)-O-16-C-12-O-17,
+	(OCO)-O-16-C-13-O-18, (OCO)-O-16-C-13-O-17, (CO2)-C-12-O-18, (OCO)-O-17-C-12-O-18,
+	(CO2)-C-12-O-17, (CO2)-C-13-O-18, (CO2)-C-13-O-17, (OCO)-O-17-C-13-O-18,
+	and (CO2)-C-14-O-16 isotopologues, the differences are between +/-
+	0.10 and 0.15 cm(-1). To our knowledge, this is the first time a
+	polyatomic PES has been refined using such high J values, and this
+	has led to new challenges in the refinement procedure. An initial
+	high quality, purely ab initio dipole moment surface (DMS) is constructed
+	and used to generate a 296 K line list. For most bands, experimental
+	IR intensities are well reproduced for (CO2)-C-12-O-16 using Ames-1
+	and the DMS. For more than 80\% of the bands, the experimental intensities
+	are reproduced with sigma(rms)(Delta I) < 20\% or srms(Delta I/delta(obs))
+	< 5. A few exceptions are analyzed and discussed. Directions for
+	future improvements are discussed, though it is concluded that the
+	current Ames-1 and the DMS should be useful in analyzing and assigning
+	high-resolution laboratory or astronomical spectra. (C) 2012 American
+	Institute of Physics. {[}http://dx.doi.org/10.1063/1.3697540]},
+  pages = {124311},
+  doi = {10.1063/1.3697540}}
+
+
+@article{00TaPeTe.CO2,
+title = "13C16O2: Global Treatment of Vibrational–Rotational Spectra and First Observation of the 2ν1 + 5ν3 and ν1 + 2ν2 + 5ν3 Absorption Bands ",
+journal = JMS,
+volume = "200",
+pages = "162 - 176",
+year = "2000",
+doi = "http://dx.doi.org/10.1006/jmsp.2000.8057",
+author = "S.A. Tashkun and V.I. Perevalov and J.-L. Teffo and M. Lecoutre and T.R. Huet and A. Campargue and D. Bailly and M.P. Esplin",
+keywords = "carbon dioxide",
+keywords = "infrared spectroscopy",
+keywords = "HITRAN",
+keywords = "high-excited states",
+keywords = "line positions",
+keywords = "line intensities ",
+abstract = "The effective operator approach is applied to the calculation of both line positions and line intensities of the 13C16O2 molecule. About 11 000 observed line positions of 13C16O2 selected from the literature have been used to derive 84 parameters of a reduced effective Hamiltonian globally describing all known vibrational–rotational energy levels in the ground electronic state. The standard deviation of the fit is 0.0015 cm−1. The eigenfunctions of this effective Hamiltonian have then been used in fittings of parameters of an effective dipole-moment operator to more than 600 observed line intensities of the cold and hot bands covering the ν2 and 3ν2 regions. The standard deviations of the fits are 3.2 and 12.0\% for these regions, respectively. The quality of the fittings and the extrapolation properties of the fitted parameters are discussed. A comparison of calculated line parameters with those provided by the \{HITRAN\} database is given. Finally, the first observations of the 2ν1 + 5ν3 and ν1 + 2ν2 + 5ν3 absorption bands by means of photoacoustic spectroscopy (PAS) is presented. The deviations of predicted line positions from observed ones is found to be less than 0.1 cm−1, and most of them lie within the experimental accuracy (0.007 cm−1) once the observed line positions are included in the global fit. "
+}
+
+@article{12Ta.CO2,
+title = "Global multi-isotopologue fitting of CO2 vibrational-rotational line positions using a phenomenological mass dependent effective Hamiltonian",
+journal = " Abstracts of the XVII Symposium on High Resolution Molecular Spectroscopy.Zelenogorsk, St.Petersburg region, Russia ",
+volume = "",
+pages = "P.67",
+year = "2012",
+note = "",
+issn = "",
+author = "S.A. Tashkun"
+}
+
+@article{98TaPeTe.CO2,
+title = "Global fitting of $^{12}$C$^{16}$O$_2$ vibrational-rotational line positions using the effective hamiltonian approach",
+journal = JQSRT,
+volume = "60",
+pages = "785 - 801",
+year = "1998",
+doi = "http://dx.doi.org/10.1016/S0022-4073(98)00082-X",
+author = "S. A. Tashkun and V. I. Perevalov and J. L. Teffo and L. S. Rothman and Vl.G. Tyuterev",
+abstract = ""
+}
+
+@ARTICLE{99TaPeTe.CO2,
+  author = {Tashkun, S A and Perevalov, V I and Teffo, J L and Tyuterev, VI G},
+  title = {{Global fit of $^{12}$C$^{16}$O$_2$ vibrational-rotational line intensities
+	using the effective operator approach}},
+  journal = JQSRT,
+  year = {1999},
+  volume = {62},
+  pages = {571-598},
+  abstract = {More than 5000 observed line intensities belonging to 120 vibrational
+	bands of the (CO2)-C-12-O-16 molecule selected from the literature
+	have been used to fit 60 parameters of an effective dipole moment.
+	The eigenfunctions of the effective Hamiltonian published in our
+	recent paper have been used in the fits. The regions of nu(2), 3
+	nu(2), 5 nu(2), 7 nu(2), 9 nu(2), and 11 nu(2) bands have been studied.
+	RMS deviations ranging from 2.9 to 13.3\% depending on the frequency
+	regions have been achieved. The quality of the fits and the extrapolation
+	properties of the fitted parameters are discussed. The predictions
+	of both line positions and line intensities for perturbed bands 21113
+	<-- 11102, 21113 <-- 11101, 40002 <-- 11102, 12212 <-- 02201, and
+	23301 <-- 02201 are given. The results are compared with the HITRAN-96
+	database. (C) 1999 Elsevier Science Ltd. All rights reserved.},
+  doi = {10.1016/S0022-4073(98)00138-1},
+}
+
+@article{ 13PoOtWe.CO2,
+Author = {Pogany, Andrea and Ott, Oliver and Werhahn, Olav and Ebert, Volker},
+Title = {{Towards traceability in CO$_2$ line strength measurements by TDLAS at 2.7  $\mu m$}},
+Journal = JQSRT,
+Year = {{2013}},
+Volume = {{130}},
+Pages = {147-157},
+Abstract = {{Direct tunable diode laser absorption spectroscopy (TDLAS) was combined
+   in this study with metrological principles on the determination of
+   uncertainties to measure the line strengths of the P36e and P34e line of
+   (CO2)-C-12-O-16 in the nu(1)+nu(3) band at 2.7 mu m. Special emphasis
+   was put on traceability and a concise, well-documented uncertainty
+   assessment. We have quantitatively analyzed the uncertainty
+   contributions of different experimental parameters to the uncertainty of
+   the line strength. Establishment of the wavenumber axis and the gas
+   handling procedure proved to be the two major contributors to the final
+   uncertainty. The obtained line strengths at 296 K are 1.593 x 10(-20)
+   cm/molecule for the P36e and 1.981 x 10(-20) cm/molecule for the P34e
+   line, with relative expanded uncertainties of 1.1\% and 1.3\%,
+   respectively (k=2, corresponding to a 95\% confidence level). The
+   measured line strength values are in agreement with literature data
+   (line strengths listed in the HITRAN and GEISA databases), but show an
+   uncertainty, which is at least a factor of 2 lower.}},
+DOI = {{10.1016/j.jqsrt.2013.07.011}}}
+
+@inproceedings{ 15BrWeSe.CO2,
+Author = { Jens Brunzendorf and V Werwein and A Serduykov and Werhahn, Olav and Ebert, Volker},
+Title = {{CO$_2$ line strength measurements in the 20012--00001 band near 2 $\mu$m}},
+booktitle = {The 24th Colloquium on High Resolution Molecular Spectroscopy},
+pages = {O17},
+year = {2015}}
+
+@article{14HuGaFr.CO2,
+Author = {Huang, Xinchuan and Gamache, Robert R. and Freedman, Richard S. and
+   Schwenke, David W. and Lee, Timothy J.},
+Title = {{Reliable infrared line lists for 13 CO$_2$ isotopologues up to E =18,000
+   cm$^{-1}$ and 1500 K, with line shape parameters}},
+Journal = JQSRT,
+Year = {{2014}},
+Volume = {{147}},
+Pages = {134-144},
+DOI = {{10.1016/j.jqsrt.2014.05.015}}}
+
+@article{ 11WuViJo.CO2,
+Author = {Wuebbeler, Gerd and Viquez, Gerardo J. Padilla and Jousten, Karl and Werhahn, Olav and Elster, Clemens},
+Title = {{Comparison and assessment of procedures for calculating the R(12) line strength of the $\nu_1 +2\nu_2 + \nu_3$ band of CO$_2$}},
+Journal = JCP,
+Year = {{2011}},
+Volume = {{135}},
+DOI = {{10.1063/1.3662134}},
+pages = {204304}
+}
+
+@article{09CaWeCa.CO2,
+   author = "Casa, Giovanni and Wehr, Richard and Castrillo, Antonio and Fasci, Eugenio and Gianfrani, Livio",
+   title = {{The line shape problem in the near-infrared spectrum of self-colliding CO$_2$ molecules: Experimental investigation and test of semiclassical models}},
+   journal = JCP,
+   year = "2009",
+   volume = "130",
+   pages = {184306},
+   doi = "http://dx.doi.org/10.1063/1.3125965"
+}
+
+@article{07CaPaCa.CO2,
+   author = "Casa, Giovanni and Parretta, Donatella A. and Castrillo, Antonio and Wehr, Richard and Gianfrani, Livio",
+   title = {{Highly accurate determinations of CO$_2$ line strengths using intensity-stabilized diode laser absorption spectrometry}},
+   journal = JCP,
+   year = "2007",
+   volume = "127",
+   pages = "084311",
+   doi = "http://dx.doi.org/10.1063/1.2759930" 
+}
+
+@article{06BoMaDa.CO2,
+title = {{$^{12}$C$^{16}$O$_2$ line intensity measurements around 1.6 $\mu$m}},
+journal = JMS,
+volume = "236",
+pages = "158 - 167",
+year = "2006",
+doi = "http://dx.doi.org/10.1016/j.jms.2006.01.007",
+author = "D. Boudjaadar and J.-Y. Mandin and V. Dana and N. Picqu{\'e} and G. Guelachvili",
+keywords = "Carbon dioxide",
+keywords = "Near infrared",
+keywords = "Line intensities",
+keywords = "Transition dipole moment",
+keywords = "\{HITRAN\} database",
+keywords = "\{CDSD\} database ",
+abstract = "Using Fourier transform spectra and a multispectrum fitting procedure, 271 absolute line intensities of 12C16O2 have been measured around 1.6&#xa0;μm, for the three cold bands 30014-00001, 30013-00001, and 30012-00001, and for the two hot bands 31113-01101 and 31112-01101, extending from 6035 to 6380&#xa0;cm−1. Accuracies are on the average 3 and 5\% for cold and hot bands, respectively. Vibrational transition dipole moments and Herman–Wallis coefficients are reported for each band. Comparisons are made with previous experimental results and with data available in the \{HITRAN\} database and the Carbon Dioxide Spectroscopic Databank (CDSD). "
+}
+
+@article{08PeCaGa.CO2,
+title = {{New CW-CRDS measurements and global modeling of $^{12}$C$^{16}$O$_2$ absolute line intensities in the 1.6 $\mu$m region}},
+journal = JMS,
+volume = "252",
+pages = "190 - 197",
+year = "2008",
+doi = "http://dx.doi.org/10.1016/j.jms.2008.08.006",
+author = "B. V. Perevalov and A. Campargue and B. Gao and S. Kassi and S. A. Tashkun and V. I. Perevalov",
+keywords = "Molecular spectroscopy",
+keywords = "Carbon dioxide",
+keywords = "\{CO2\}",
+keywords = "Line intensities",
+keywords = "Infrared",
+keywords = "Global modeling",
+keywords = "CW-CRDS",
+keywords = "Cavity Ring Down Spectroscopy",
+keywords = "Carbon Dioxide Spectroscopic Databank (CDSD)",
+keywords = "\{HITRAN\} ",
+abstract = "Line intensities of 12C16O2 transitions have been measured by CW-Cavity Ring Down Spectroscopy in four wavenumber intervals near 1.6&#xa0;μm. Intensity values of 952 transitions ranging from 1.10&#xa0;×&#xa0;10−28 to 4.94&#xa0;×&#xa0;10−25&#xa0;cm/molecule were retrieved with an average accuracy of 4\%. These transitions belong to a total of 30 bands corresponding to the ΔP&#xa0;=&#xa0;9 series of transitions. The achieved sensitivity (noise equivalent absorption αmin&#xa0;∼&#xa0;3&#xa0;×&#xa0;10−10&#xa0;cm−1) allows lowering by more than two orders of magnitude the lower intensity values measured in the region. Comparison with the values included in the \{JPL\} database [R.A. Toth, L.R. Brown, C.E. Miller, V. Malathi Devi, D.C. Benner, J. Quant. Spectrosc. Radiat. Transf. 109 (2008) 906–921] shows residuals exceeding one order of magnitude for weak lines. The measured intensities together with a selection of experimental intensities available in the literature were used to extend and refine the set of effective dipole moment parameters for the ΔP&#xa0;=&#xa0;9 series of transitions of the principal isotopologue of carbon dioxide. The refined parameters allow reproducing, within the experimental uncertainties, the whole set of intensity measurements which extends over nearly six orders of magnitude (1.10&#xa0;×&#xa0;10−28–6.12&#xa0;×&#xa0;10−23&#xa0;cm/molecule). Combining the CW-CRDS line positions with the calculated line intensities, a line list has been generated for the whole 5851–7045&#xa0;cm−1 region and is provided as Supplementary Material. The obtained effective dipole moment parameters have also been used to generate the ΔP&#xa0;=&#xa0;9 series of transitions included in the new version of the \{CDSD\} database. The comparison of the \{CDSD\} line intensities with the values provided by the HITRAN-2004 database shows discrepancies up to 80\% for some of the bands while discrepancies up to three orders of magnitude are noted for the weakest bands included in the \{JPL\} database. "
+}
+
+@article{04WaPeTa.CO2,
+title = {{Absolute line intensities of $^{13}$C$^{16}$O$_2$ in the 4200--8500 cm$^{-1}$ region}},
+journal = JMS,
+volume = "234",
+pages = "84 - 92",
+year = "2005",
+doi = "10.1016/j.jms.2005.08.008",
+author = "L. Wang and V. I. Perevalov and S. A. Tashkun and Y. Ding and S.-M. Hu",
+keywords = "Carbon dioxide",
+keywords = "Infrared",
+keywords = "Fourier transform spectroscopy",
+keywords = "Absolute line intensities",
+keywords = "Transition dipole moment",
+keywords = "Global modeling ",
+abstract = "The absolute line intensities of 13C16O2 were retrieved from Fourier-transform spectra recorded in the region 4200–8500&#xa0;cm−1. The accuracy of the line intensity determination is estimated to be 5\% or better for most lines and about 10\% for weak ones. The vibrational transition dipole moments squared and Herman–Wallis coefficients have been determined. The global fittings of the observed line intensities within the framework of the effective operators approach have been performed. As the result of the fittings, most line intensities are reproduced within the experimental accuracy. The comparison between the new measured data and the \{HITRAN\} database are also carried out. "
+}
+
+@article{10SoKaTa.CO2,
+title = {{High sensitivity CW-cavity ring down spectroscopy of $^{12}$CO$_2$ near 1.35 $\mu$m (II): New observations and line intensities modeling}},
+journal = JQSRT,
+volume = "111",
+pages = "332 - 344",
+year = "2010",
+doi = "10.1016/j.jqsrt.2009.09.004",
+author = "K. F. Song and S. Kassi and S. A. Tashkun and V. I. Perevalov and A. Campargue",
+keywords = "Carbon dioxide",
+keywords = "CW-CRDS",
+keywords = "Cavity ring down spectroscopy",
+keywords = "Fourier transform absorption spectroscopy",
+keywords = "\{HITRAN\}",
+keywords = "Carbon dioxide spectroscopic databank",
+keywords = "Venus",
+keywords = "\{HITEMP\} ",
+abstract = "In a previous contribution [Kassi S, Song KF, Campargue A. High sensitivity CW-cavity ring down spectroscopy of 12CO2 near 1.35&#xa0;μm (I): line positions. \{JQSRT\} 110 (2009) 1801–1814], the line positions analysis of the high sensitivity absorption spectrum of carbon dioxide has been reported in the 7123–7793&#xa0;cm−1 region. In this second contribution, the spectral region investigated by CW-cavity ring down spectroscopy has been extended up to 7917&#xa0;cm−1. It added about 400 lines to our previous list of about 2500 transitions. These additional lines include transitions belonging to six newly observed 12C16O2 bands for which we provide the spectroscopic parameters. Over the whole 7123–7917&#xa0;cm−1 region, the accurate intensities of about 2900 lines belonging to four isotopologues (12C16O2, 13C16O2, $^{16}$O$^{12}$C$^{18}$O and $^{16}$O$^{12}$C$^{17}$O) were retrieved with an average accuracy of 3\%. Intensity values range between 1.2×10−29 and 4.1×10−25&#xa0;cm/mol. Compared to the present version of the carbon dioxide spectroscopic databank recently adopted for the \{HITRAN\} database, important deviations were evidenced for some weak bands of the main isotopologue. The CW-CRDS intensity data relative to a total of 46 12C16O2 bands together with selected intensity information available in the literature for nine bands have been fitted simultaneously using the effective operators approach. The ΔP=11 set of the 12C16O2 effective dipole moment parameters has been refined leading to a much better agreement with the measured intensity values. In addition, the ΔP=10 effective dipole moment parameters of the $^{16}$O$^{12}$C$^{18}$O minor isotopologue were determined for the first time. The obtained results will help to improve the carbon dioxide spectroscopic databank (CDSD). "
+}
+
+@article{GOSAT,
+Author = {Butz, A. and Guerlet, S. and Hasekamp, O. and Schepers, D. and Galli, A.
+   and Aben, I. and Frankenberg, C. and Hartmann, J. -M. and Tran, H. and
+   Kuze, A. and Keppel-Aleks, G. and Toon, G. and Wunch, D. and Wennberg,
+   P. and Deutscher, N. and Griffith, D. and Macatangay, R. and
+   Messerschmidt, J. and Notholt, J. and Warneke, T.},
+Title = {{Toward accurate CO$_2$ and CH$_4$ observations from GOSAT}},
+Journal = GRL,
+Year = {{2011}},
+Volume = {{38}},
+pages = {L14812},
+Abstract = {{The column-average dry air mole fractions of atmospheric carbon dioxide
+   and methane (X-CO2 and X-CH4) are inferred from observations of
+   backscattered sunlight conducted by the Greenhouse gases Observing
+   SATellite (GOSAT). Comparing the first year of GOSAT retrievals over
+   land with colocated ground-based observations of the Total Carbon Column
+   Observing Network (TCCON), we find an average difference (bias) of
+   -0.05\% and -0.30\% for X-CO2 and X-CH4 with a station-to-station
+   variability (standard deviation of the bias) of 0.37\% and 0.26\% among
+   the 6 considered TCCON sites. The root-mean square deviation of the
+   bias-corrected satellite retrievals from colocated TCCON observations
+   amounts to 2.8 ppm for X-CO2 and 0.015 ppm for X-CH4. Without any data
+   averaging, the GOSAT records reproduce general source/sink patterns such
+   as the seasonal cycle of X-CO2 suggesting the use of the satellite
+   retrievals for constraining surface fluxes. Citation: Butz, A., et al.
+   (2011), Toward accurate CO2 and CH4 observations from GOSAT, Geophys.
+   Res. Lett., 38, L14812, doi:10.1029/2011GL047888.}},
+DOI = {{10.1029/2011GL047888}}}
+
+@article{XOCO,
+Author = {Miller, C. E. and Crisp, D. and DeCola, P. L. and Olsen, S. C. and
+   Randerson, J. T. and Michalak, A. M. and Alkhaled, A. and Rayner, P. and
+   Jacob, D. J. and Suntharalingam, P. and Jones, D. B. A. and Denning, A.
+   S. and Nicholls, M. E. and Doney, S. C. and Pawson, S. and Boesch, H.
+   and Connor, B. J. and Fung, I. Y. and O'Brien, D. and Salawitch, R. J.
+   and Sander, S. P. and Sen, B. and Tans, P. and Toon, G. C. and Wennberg,
+   P. O. and Wofsy, S. C. and Yung, Y. L. and Law, R. M.},
+Title = {{Precision requirements for space-based X-CO2 data}},
+Journal = JGR,
+Year = {{2007}},
+Volume = {{112}},
+Abstract = {{{[}1] Precision requirements are determined for space-based
+   column-averaged CO2 dry air mole fraction (X-CO2) data. These
+   requirements result from an assessment of spatial and temporal gradients
+   in X-CO2, the relationship between X-CO2 precision and surface CO2 flux
+   uncertainties inferred from inversions of the X-CO2 data, and the
+   effects of X-CO2 biases on the fidelity of CO2 flux inversions.
+   Observational system simulation experiments and synthesis inversion
+   modeling demonstrate that the Orbiting Carbon Observatory mission design
+   and sampling strategy provide the means to achieve these X-CO2 data
+   precision requirements.}},
+DOI = {{10.1029/2006JD007659}},
+pages = {D10314}}
+
+@article{ TCCON,
+Author = {Wunch, Debra and Toon, Geoffrey C. and Blavier, Jean-Francois L. and
+   Washenfelder, Rebecca A. and Notholt, Justus and Connor, Brian J. and
+   Griffith, David W. T. and Sherlock, Vanessa and Wennberg, Paul O.},
+Title = {{The Total Carbon Column Observing Network}},
+journal = {Phil.  Trans.  Royal Soc.  London A},
+Year = {{2011}},
+Volume = {{369}},
+Pages = {2087-2112},
+Abstract = {{A global network of ground-based Fourier transform spectrometers has
+   been founded to remotely measure column abundances of CO2, CO, CH4, N2O
+   and other molecules that absorb in the near-infrared. These measurements
+   are directly comparable with the near-infrared total column measurements
+   from space-based instruments. With stringent requirements on the
+   instrumentation, acquisition procedures, data processing and
+   calibration, the Total Carbon Column Observing Network (TCCON) achieves
+   an accuracy and precision in total column measurements that is
+   unprecedented for remotesensing observations (better than 0.25\% for
+   CO2). This has enabled carbon-cycle science investigations using the
+   TCCON dataset, and allows the TCCON to provide a link between satellite
+   measurements and the extensive ground-based in situ network.}},
+DOI = {{10.1098/rsta.2010.0240}}}
+
+@article{13LeMiWo.CO2,
+Author = {Lehman, Scott J. and Miller, John B. and Wolak, Chad and Southon, John
+   and Tans, Pieter P. and Montzka, Stephen A. and Sweeney, Colm and
+   Andrews, Arlyn and LaFranchi, Brian and Guilderson, Thomas P. and
+   Turnbull, Jocelyn C.},
+Title = {ALLOCATION OF TERRESTRIAL CARBON SOURCES USING {$^{14}$CO$_2$}: METHODS,
+   MEASUREMENT, AND MODELING},
+Journal = {Radiocarbon},
+Year = {{2013}},
+Volume = {{55}},
+Pages = {1484-1495},
+Abstract = {{The radiocarbon content of whole air provides a theoretically ideal and
+   now observationally proven tracer for recently added fossil-fuel-derived
+   CO2 in the atmosphere (C-ff). Over large industrialized land areas,
+   determination of C-ff also constrains the change in CO2 due to uptake
+   and release by the terrestrial biosphere. Here, we review the
+   development of a Delta(CO2)-C-14 measurement program and its
+   implementation within the US portion of the NOAA Global Monitoring
+   Division's air sampling network. The Delta(CO2)-C-14 measurement
+   repeatability is evaluated based on surveillance cylinders of whole air
+   and equates to a C-ff detection limit of <= 0.9 ppm from measurement
+   uncertainties alone. We also attempt to quantify additional sources of
+   uncertainty arising from non-fossil terms in the atmospheric (CO2)-C-14
+   budget and from uncertainties in the composition of ``background{''} air
+   against which C-ff enhancements occur. As an example of how we apply the
+   measurements, we present estimates of the boundary layer enhancements of
+   C-ff and Cb-io using observations obtained from vertical airborne
+   sampling profiles off of the northeastern US. We also present an updated
+   time series of measurements from NOAA GMD's Niwot Ridge site at 3475 m
+   asl in Colorado in order to characterize recent Delta(CO2)-C-14
+   variability in the well-mixed free troposphere.}}}
+
+
+@article{ CarbonSat,
+Author = {Velazco, V. A. and Buchwitz, M. and Bovensmann, H. and Reuter, M. and
+   Schneising, O. and Heymann, J. and Krings, T. and Gerilowski, K. and
+   Burrows, J. P.},
+Title = {{Towards space based verification of CO$_2$ emissions from strong localized
+   sources: fossil fuel power plant emissions as seen by a CarbonSat
+   constellation}},
+Journal = {Atmos. Meas. Tech.},
+Year = {{2011}},
+Volume = {{4}},
+Pages = {2809-2822},
+Abstract = {{Carbon dioxide (CO2) is the most important man-made greenhouse gas (GHG)
+   that cause global warming. With electricity generation through
+   fossil-fuel power plants now being the economic sector with the largest
+   source of CO2, power plant emissions monitoring has become more
+   important than ever in the fight against global warming. In a previous
+   study done by Bovensmann et al. (2010), random and systematic errors of
+   power plant CO2 emissions have been quantified using a single overpass
+   from a proposed CarbonSat instrument. In this study, we quantify errors
+   of power plant annual emission estimates from a hypothetical CarbonSat
+   and constellations of several CarbonSats while taking into account that
+   power plant CO2 emissions are time-dependent. Our focus is on estimating
+   systematic errors arising from the sparse temporal sampling as well as
+   random errors that are primarily dependent on wind speeds. We used
+   hourly emissions data from the US Environmental Protection Agency (EPA)
+   combined with assimilated and re-analyzed meteorological fields from the
+   National Centers of Environmental Prediction (NCEP). CarbonSat orbits
+   were simulated as a sun-synchronous low-earth orbiting satellite (LEO)
+   with an 828-km orbit height, local time ascending node (LTAN) of 13:30
+   (01:30 p.m. LT) and achieves global coverage after 5 days. We show, that
+   despite the variability of the power plant emissions and the limited
+   satellite overpasses, one CarbonSat has the potential to verify reported
+   US annual CO2 emissions from large power plants (>= 5 MtCO(2) yr(-1))
+   with a systematic error of less than similar to 4.9\% and a random error
+   of less than similar to 6.7\% for 50\% of all the power plants. For 90\%
+   of all the power plants, the systematic error was less than similar to
+   12.4\% and the random error was less than similar to 13 \%. We
+   additionally investigated two different satellite configurations using a
+   combination of 5 CarbonSats. One achieves global coverage everyday but
+   only samples the targets at fixed local times. The other configuration
+   samples the targets five times at two-hour intervals approximately every
+   6th day but only achieves global coverage after 5 days. From the
+   statistical analyses, we found, as expected, that the random errors
+   improve by approximately a factor of two if 5 satellites are used. On
+   the other hand, more satellites do not result in a large reduction of
+   the systematic error. The systematic error is somewhat smaller for the
+   CarbonSat constellation configuration achieving global coverage
+   everyday. Therefore, we recommend the CarbonSat constellation
+   configuration that achieves daily global coverage.}},
+DOI = {{10.5194/amt-4-2809-2011}}}
+
+@article{ ASCENDS,
+Author = {Abshire, James B. and Riris, Haris and Allan, Graham R. and Weaver,
+   Clark J. and Mao, Jianping and Sun, Xiaoli and Hasselbrack, William E.
+   and Yu, Anthony and Amediek, Axel and Choi, Yonghoon and Browell, Edward
+   V.},
+Title = {{A Lidar Approach to Measure CO$_2$ Concentrations from Space for the
+   ASCENDS Mission}},
+journal = {{SPIE}},
+Year = {{2010}},
+Volume = {{7832}},
+Abstract = {{We report on a lidar approach to measure atmospheric CO2 column
+   concentration being developed as a candidate for NASA's ASCENDS mission.
+   It uses a pulsed dual-wavelength lidar measurement based on the
+   integrated path differential absorption (IPDA) technique. We
+   demonstrated the approach using the CO2 measurement from aircraft in
+   July and August 2009 over various locations. The results show clear CO2
+   line shape and absorption signals, which follow the expected changes
+   with aircraft altitude from 3 to 13 km. The column absorption
+   measurements show altitude dependence in good agreement with column
+   number density estimates calculated from airborne in-situ measurements.
+   The approaches for O-2 measurements and for scaling the technique to
+   space are discussed.}},
+DOI = {{10.1117/12.868567}},
+pages = {78320D}}
+
+
+
+@article{AIRS,
+  doi = {10.1016/j.atmosenv.2016.07.023},
+  year  = {2016},
+  month = {oct},
+  publisher = {Elsevier {BV}},
+  volume = {142},
+  pages = {229--237},
+  author = {K. Ravi Kumar and Vinu Valsala and Yogesh K. Tiwari and J.V. Revadekar and Prasanth Pillai and Supriyo Chakraborty and Raghu Murtugudde},
+  title = {Intra-seasonal variability of atmospheric {CO} 2  concentrations over India during summer monsoons},
+  journal = {Atmospheric Environment}
+}
+
+
+
+
+
+@article{ 09HaTrTo.CO2,
+Author = {Hartmann, J. -M. and Tran, H. and Toon, G. C.},
+Title = {{Influence of line mixing on the retrievals of atmospheric CO$_2$ from spectra in the 1.6 and 2.1 $\mu$m regions}},
+Journal = {Atmos. Chem. Phys.},
+Year = {{2009}},
+Volume = {{9}},
+Pages = {7303-7312},
+Abstract = {{We present the first study of the influence of line mixing among CO2
+   lines on the remote sensing retrieval of atmospheric carbon dioxide.
+   This is done in the bands near 1.6 and 2.1 mu m which will be used by
+   the Greenhouse Gases Observatory Satellite (GOSAT) instrument and
+   eventual successors of the Orbiting Carbon Observatory (OCO). A purely
+   theoretical analysis is first made, based on simulations of atmospheric
+   spectra. It shows that line mixing cannot be neglected since
+   disregarding this process induces significant errors in the calculated
+   absorption coefficients, leading to systematic structures in the
+   spectral fit residuals and airmass-dependent biases in the retrieved CO2
+   amounts. These theoretical predictions are then confirmed by using
+   atmospheric solar-absorption spectra measured by a ground-based Fourier
+   transform spectrometer. It is first shown that including line mixing in
+   the forward model used for the inversion leads to a very significant
+   reduction of the residuals in the 2.1 mu m region. Secondly, the
+   inclusion of line mixing reduces the dependence of the retrieved CO2 on
+   the airmass and greatly improves the consistency between values obtained
+   independently from spectra in the 1.6 and 2.1 mu m bands. These results
+   open promising prospects for various ground-based and space-borne
+   experiments monitoring the carbon dioxide atmospheric amounts.}}}
+
+@article{11WuWeTo.CO2,
+  doi = {10.5194/acp-11-12317-2011},
+  year  = {2011},
+  month = {dec},
+  publisher = {Copernicus {GmbH}},
+  volume = {11},
+  number = {23},
+  pages = {12317--12337},
+  author = {D. Wunch and P. O. Wennberg and G. C. Toon and B. J. Connor and B. Fisher and G. B. Osterman and C. Frankenberg and L. Mandrake and C. O{\textquotesingle}Dell and P. Ahonen and S. C. Biraud and R. Castano and N. Cressie and D. Crisp and N. M. Deutscher and A. Eldering and M. L. Fisher and D. W. T. Griffith and M. Gunson and P. Heikkinen and G. Keppel-Aleks and E. Kyr\"{o} and R. Lindenmaier and R. Macatangay and J. Mendonca and J. Messerschmidt and C. E. Miller and I. Morino and J. Notholt and F. A. Oyafuso and M. Rettinger and J. Robinson and C. M. Roehl and R. J. Salawitch and V. Sherlock and K. Strong and R. Sussmann and T. Tanaka and D. R. Thompson and O. Uchino and T. Warneke and S. C. Wofsy},
+  title = {A method for evaluating bias in global measurements of {CO}$\less$sub$\greater$2$\less$/sub$\greater$ total columns from space},
+  journal = {Atmospheric Chemistry and Physics}
+}
+
+@article{JWST1,
+  doi = {10.1088/0004-637x/815/2/110},
+  year  = {2015},
+  month = {dec},
+  publisher = {{IOP} Publishing},
+  volume = {815},
+  number = {2},
+  pages = {110},
+  author = {Caroline V. Morley and Jonathan J. Fortney and Mark S. Marley and Kevin Zahnle and Michael Line and Eliza Kempton and Nikole Lewis and Kerri Cahoy},
+  title = {{THERMAL} {EMISSION} {AND} {REFLECTED} {LIGHT} {SPECTRA} {OF} {SUPER} {EARTHS} {WITH} {FLAT} {TRANSMISSION} {SPECTRA}},
+  journal = {The Astrophysical Journal}
+}
+
+@article{16WuWeOs.CO2,
+  doi = {10.5194/amt-2016-227},
+  year  = {2016},
+  month = {aug},
+  publisher = {Copernicus {GmbH}},
+  pages = {1--45},
+  author = {Debra Wunch and Paul O. Wennberg and Gregory Osterman and Brendan Fisher and Bret Naylor and Coleen M. Roehl and Christopher O'Dell and Lukas Mandrake and Camille Viatte and David W. Griffith and Nicholas M. Deutscher and Voltaire A. Velazco and Justus Notholt and Thorsten Warneke and Christof Petri and Martine De Maziere and Mahesh K. Sha and Ralf Sussmann and Markus Rettinger and David Pollard and John Robinson and Isamu Morino and Osamu Uchino and Frank Hase and Thomas Blumenstock and Matthaeus Kiel and Dietrich G. Feist and Sabrina G. Arnold and Kimberly Strong and Joseph Mendonca and Rigel Kivi and Pauli Heikkinen and Laura Iraci and James Podolske and Patrick W. Hillyard and Shuji Kawakami and Manvendra K. Dubey and Harrison A. Parker and Eliezer Sepulveda and Omaira E. G. Rodriguez and Yao Te and Pascal Jeseck and Michael R. Gunson and David Crisp and Annmarie Eldering},
+  title = {Comparisons of the Orbiting Carbon Observatory-2 ({OCO}-2) measurements with {TCCON}},
+  journal = {Atmospheric Measurement Techniques Discussions}
+}
+
+@article{16TaChDe.CO2,
+  doi = {10.5194/amt-9-973-2016},
+  year  = {2016},
+  month = {mar},
+  publisher = {Copernicus {GmbH}},
+  volume = {9},
+  number = {3},
+  pages = {973--989},
+  author = {Thomas E. Taylor and Christopher W. O'Dell and Christian Frankenberg and Philip T. Partain and Heather Q. Cronk and Andrey Savtchenko and Robert R. Nelson and Emily J. Rosenthal and Albert Y. Chang and Brenden Fisher and Gregory B. Osterman and Randy H. Pollock and David Crisp and Annmarie Eldering and Michael R. Gunson},
+  title = {Orbiting Carbon Observatory-2 ({OCO}-2) cloud screening algorithms: validation against collocated {MODIS} and {CALIOP} data},
+  journal = {Atmospheric Measurement Techniques}
+}
+
+@article{12BaAlMi.CO2,
+  doi = {10.1038/nature11299},
+  year  = {2012},
+  month = {aug},
+  publisher = {Springer Nature},
+  volume = {488},
+  number = {7409},
+  pages = {70--72},
+  author = {A. P. Ballantyne and C. B. Alden and J. B. Miller and P. P. Tans and J. W. C. White},
+  title = {Increase in observed net carbon dioxide uptake by land and oceans during the past 50 years},
+  journal = {Nature}
+}
+
+@article{06ToBrMi.CO2,
+  doi = {10.1016/j.jms.2006.08.001},
+  year  = {2006},
+  month = {oct},
+  publisher = {Elsevier {BV}},
+  volume = {239},
+  number = {2},
+  pages = {221--242},
+  author = {R.A. Toth and L.R. Brown and C.E. Miller and V. Malathy Devi and D. Chris Benner},
+  title = {Line strengths of 12C16O2: 4550-7000cm-1},
+  journal = {Journal of Molecular Spectroscopy}
+}
+
+
+@article{17HoPcVe.CO2,
+  doi = {10.1088/1555-6611/aa64b8},
+  year  = {2017},
+  month = {apr},
+  publisher = {{IOP} Publishing},
+  volume = {27},
+  number = {5},
+  pages = {055701},
+  author = {J Hovorka and P {\v{C}}erm{\'{a}}k and P Veis},
+  title = {Optimization of data retrieval process for spectroscopic {CO}2 isotopologue ratio measurements},
+  journal = {Laser Physics}
+}
+
+
+
+@article{Gamache2013,
+  doi = {10.1016/j.jqsrt.2013.05.021},,
+  year  = {2013},
+  month = {nov},
+  publisher = {Elsevier {BV}},
+  volume = {130},
+  pages = {158--171},
+  author = {Robert R. Gamache and Julien Lamouroux},
+  title = {Predicting accurate line shape parameters for {CO}2 transitions},
+  journal = {Journal of Quantitative Spectroscopy and Radiative Transfer}
+}
+
+@article{Sabine2004,
+  doi = {10.1126/science.1097403},
+  year  = {2004},
+  month = {jul},
+  publisher = {American Association for the Advancement of Science ({AAAS})},
+  volume = {305},
+  number = {5682},
+  pages = {367--371},
+  author = {C. L. Sabine},
+  title = {The Oceanic Sink for Anthropogenic {CO}2},
+  journal = {Science}
+}
+
+@article{Chevallier2011,
+  doi = {10.1029/2011gl049899},
+  year  = {2011},
+  month = {dec},
+  publisher = {Wiley-Blackwell},
+  volume = {38},
+  number = {24},
+  pages = {n/a--n/a},
+  author = {F. Chevallier and N. M. Deutscher and T. J. Conway and P. Ciais and L. Ciattaglia and S. Dohe and M. Fr\"{o}hlich and A. J. Gomez-Pelaez and D. Griffith and F. Hase and L. Haszpra and P. Krummel and E. Kyr\"{o} and C. Labuschagne and R. Langenfelds and T. Machida and F. Maignan and H. Matsueda and I. Morino and J. Notholt and M. Ramonet and Y. Sawa and M. Schmidt and V. Sherlock and P. Steele and K. Strong and R. Sussmann and P. Wennberg and S. Wofsy and D. Worthy and D. Wunch and M. Zimnoch},
+  title = {Global {CO}2fluxes inferred from surface air-sample measurements and from {TCCON} retrievals of the {CO}2total column},
+  journal = {Geophysical Research Letters}
+}
+
+@article{Masarie1995,
+  doi = {10.1029/95jd00859},
+  year  = {1995},
+  publisher = {Wiley-Blackwell},
+  volume = {100},
+  number = {D6},
+  pages = {11593},
+  author = {Kenneth A. Masarie and Pieter P. Tans},
+  title = {Extension and integration of atmospheric carbon dioxide data into a globally consistent measurement record},
+  journal = {Journal of Geophysical Research}
+}
+
+
+@article{ NDACC,
+Author = {Hase, F.},
+Title = {{Improved instrumental line shape monitoring for the ground-based,
+   high-resolution FTIR spectrometers of the Network for the Detection of
+   Atmospheric Composition Change}},
+Journal = {Atmos. Meas. Tech.},
+Year = {{2012}},
+Volume = {{5}},
+Pages = {603-610},
+Abstract = {{We propose an improved monitoring scheme for the instrumental line shape
+   (ILS) of high-resolution, ground-based FTIR (Fourier Transform InfraRed)
+   spectrometers used for chemical monitoring of the atmosphere by the
+   Network for Detection of Atmospheric Composition Change (NDACC). Good
+   ILS knowledge is required for the analysis of the recorded mid-infrared
+   spectra. The new method applies a sequence of measurements using
+   different gas cells instead of a single calibration cell. Three cells
+   are used: cell C1 is a refillable cell offering 200 mm path length and
+   equipped with a pressure gauge (filled with 100 Pa N2O), cells C2 and C3
+   are sealed cells offering 75 mm path length. C2 is filled with 5 Pa of
+   pure N2O. Cell C3 is filled with 16 Pa N2O in 200 hPa technical air, so
+   provides pressure-broadened N2O lines. We demonstrate that an ILS
+   retrieval using C1 improves significantly the sensitivity of the ILS
+   retrieval over the current calibration cells used in the network,
+   because this cell provides narrow fully saturated N2O lines. The N2O
+   columns derived from C2 and C3 allow the performance of a highly
+   valuable closure experiment: adopting the ILS retrieved from C1, the N2O
+   columns of C2 and C3 are derived. Because N2O is an inert gas, both
+   columns should be constant on long timescales. Apparent changes in the
+   columns would immediately attract attention and indicate either
+   inconsistent ILS results or instrumental problems of other origin. Two
+   different cells are applied for the closure experiment, because the
+   NDACC spectrometers observe both stratospheric and tropospheric gases:
+   C2 mimics signatures of stratospheric gases, whereas C3 mimics
+   signatures of tropospheric gases.}}}
+
+@ARTICLE{14SiBoNa.CO2,
+   author = {{Sioris}, C. E. and {Boone}, C. D. and {Nassar}, R. and {Sutton}, K. J. and 
+	{Gordon}, I. E. and {Walker}, K. A. and {Bernath}, P. F.},
+    title = "{Retrieval of carbon dioxide vertical profiles from solar occultation observations and associated error budgets for ACE-FTS and CASS-FTS}",
+Journal = {Atmos. Meas. Tech.},
+Year = {{2014}},
+   volume = {7},
+    pages = {2243-2262},
+    abstract = {{An algorithm is developed to retrieve the vertical profile of carbon dioxide in the 5 to 25 km altitude range using mid-infrared solar occultation spectra from the main instrument of the ACE (Atmospheric Chemistry Experiment) mission, namely the Fourier transform spectrometer (FTS). The main challenge is to find an atmospheric phenomenon which can be used for accurate tangent height determination in the lower atmosphere, where the tangent heights (THs) calculated from geometric and timing information are not of sufficient accuracy. Error budgets for the retrieval of CO2 from ACE-FTS and the FTS on a potential follow-on mission named CASS (Chemical and Aerosol Sounding Satellite) are calculated and contrasted. Retrieved THs have typical biases of 60 m relative to those retrieved using the ACE version 3.x software after revisiting the temperature dependence of the N2 CIA (collision-induced absorption) laboratory measurements and accounting for sulfate aerosol extinction. After correcting for the known residual high bias of ACE version 3.x THs expected from CO2 spectroscopic/isotopic inconsistencies, the remaining bias for tangent heights determined with the N2 CIA is -20 m. CO2 in the 5-13 km range in the 2009-2011 time frame is validated against aircraft measurements from CARIBIC (Civil Aircraft for the Regular Investigation of the atmosphere Based on an Instrument Container), CONTRAIL (Comprehensive Observation Network for Trace gases by Airline), and HIPPO (HIAPER Pole-to-Pole Observations), yielding typical biases of -1.7 ppm in the 5-13 km range. The standard error of these biases in this vertical range is 0.4 ppm. The multi-year ACE-FTS data set is valuable in determining the seasonal variation of the latitudinal gradient which arises from the strong seasonal cycle in the Northern Hemisphere troposphere. The annual growth of CO2 in this time frame is determined to be 2.6 ± 0.4 ppm year-1, in agreement with the currently accepted global growth rate based on ground-based measurements. }},
+      doi = {10.5194/amt-7-2243-2014}}
+
+@article{ OCO,
+Author = {Crisp, D and Atlas, R M and Breon, F M and Brown, L R and Burrows, J P and
+   Ciais, P and Connor, B J and Doney, S C and Fung, I Y and Jacob, DJ and
+   Miller, C E and O'Brien, D and Pawson, S and Randerson, J T and Rayner, P
+   and Salawitch, R J and Sander, S P and Sen, B and Stephens, G L and Tans,
+   P P and Toon, G C and Wennberg, P O and Wofsy, S C and Yung, Y L and Kuang,
+   Z M and Chudasama, B and Sprague, G and Weiss, B and Pollock, R and
+   Kenyon, D and Schroll, S},
+journal = {Adv. Space Res.},
+title = {{The Orbiting Carbon Observatory (OCO) mission}},
+Year = {{2004}},
+Volume = {{34}},
+Pages = {700-709},
+Abstract = {{The Orbiting Carbon Observatory (OCO) mission will make the first
+   global, space-based measurements of atmospheric carbon dioxide (CO(2))
+   with the precision, resolution, and coverage needed to characterize
+   CO(2) sources and sinks on regional scales. The measurement approach and
+   instrument specifications were determined through an analysis of
+   existing carbon cycle data and a series of observing system simulation
+   experiments. During its 2-year mission, OCO will fly in a 1: 15 PM
+   sun-synchronous orbit with a 16-day ground-track repeat time, just ahead
+   of the EOS Aqua platform. It will carry a single instrument that
+   incorporates three bore-sighted high-resolution spectrometers designed
+   to measure reflected sunlight in the 0.76-mum O(2) A-band and in the
+   CO(2) bands at 1.61 and 2.06 mum. Soundings recorded in these three
+   bands will be used to retrieve the column-averaged CO(2) dry air mole
+   fraction (X(CO2)). A comprehensive validation program was included in
+   the mission to ensure that the space-based X(CO2) measurements have
+   precisions of similar to0.3\% (1 ppm) on regional scales. OCO
+   measurements will be used in global synthesis inversion and data
+   assimilation models to quantify CO(2) sources and sinks. While OCO will
+   have a nominal lifetime of only 2 years, it will serve as a pathfinder
+   for future long-term CO(2) monitoring missions. }},
+DOI = {{10.1016/j.asr.2003.08.062}}}
+
+@article{ 08CoBoTo.CO2,
+Author = {Connor, Brian J. and Boesch, Hartmut and Toon, Geoffrey and Sen, Bhaswar
+   and Miller, Charles and Crisp, David},
+Title = {{Orbiting carbon observatory: Inverse method and prospective error
+   analysis}},
+Journal = JGR,
+Year = {{2008}},
+Volume = {{113}},
+pages = {D05305},
+Abstract = {{The objective, design, and implementation of the OCO inverse method are
+   presented. The inverse method is the algorithm which finds the
+   profile-weighted mean mixing ratio, X-CO2, which best fits the measured
+   spectrum, given a ``forward model'' which calculates the spectrum for a
+   given atmospheric state, surface, and instrument properties. Minimizing
+   bias among comparative values of X-CO2 is a critical objective. The
+   algorithm uses an ``optimal,'' maximum a posteriori inverse method, with
+   weak a priori constraint, and employs a state vector containing
+   atmospheric and surface properties expected to vary significantly
+   between soundings. An extensive operational characterization and error
+   analysis will be employed, producing quantities designed to aid
+   atmospheric modelers in use of the OCO data. In particular, comparison
+   to inverse models of surface CO2 flux will require use of the OCO column
+   averaging kernel and a priori state vector. An off-line error analysis
+   has also been developed for more detailed error studies, and its use is
+   illustrated by prospective application to case studies of nadir
+   observations in summer and winter at three sites. Uncertainties due to
+   noise, geophysical variability, and spectroscopic parameters are
+   considered in detail. At low and midlatitudes, the single-sounding
+   errors due to these sources are expected to be similar to 0.7-0.8 ppm
+   for high-sun conditions and similar to 1.5-2.5 ppm for low sun (winter).
+   Errors from the same sources in semimonthly regional averages are
+   predicted to be < 1 ppm for all conditions.}},
+DOI = {{10.1029/2006JD008336}}}
+
+@Article{92WaRoxx.CO2,
+author = {R. B. Wattson and L. S. Rothman},
+journal = JQSRT,
+volume = {48},
+year = {1992},
+DOI = {10.1016/0022-4073(92)90140-Y},
+title = {DIRECT NUMERICAL DIAGONALIZATION - WAVE OF THE FUTURE},
+pages = {763-780}}
+
+@article{ 94DaMaBa.CO2,
+Author = {Dana, V and Mandin, J Y and Barbe, A and Plateaux, J J and Rothman, L S and
+   Wattson, R B},
+Title = {{$^{12}$C$^{16}$O$_2$} LINE-INTENSITIES IN THE 4.8 $\mu$m SPECTRAL REGION},
+Journal = JQSRT,
+Year = {{1994}},
+Volume = {{52}},
+Pages = {333-340},
+Abstract = {{In the 4.8 mu m spectral region, intensities of lines belonging to the 3
+   following perpendicular bands of (CO2)-C-12-O-16 have been measured: the
+   Pi <-- Sigma cold band 11101-00001 centered at 2076.856 cm(-1), the
+   Delta <-- Pi hot band 12201-01101 centered at 2093.345 cm(-1), and the
+   Sigma <-- Pi hot band 20001-01101 centered at 2129.756 cm(-1). Fourier
+   transform spectra, under a resolution limit of about 0.0023 cm(-1), have
+   been used. For each band, the square of the vibrational dipole-moment
+   matrix element and the Herman-Wallis coefficients have been determined.
+   These results are compared with the previous experimental results
+   included in the last edition of the HITRAN molecular database, as well
+   as with new results obtained by the Direct Numerical Diagonalization
+   method.}},
+DOI = {10.1016/0022-4073(94)90163-5}}
+
+@article{92TeSuPe.CO2,
+Author = {Teffo, J L and Sulakshina, O N and Perevalov, V I},
+Title = {EFFECTIVE {H}AMILTONIAN FOR ROVIBRATIONAL ENERGIES AND LINE-INTENSITIES OF
+   CARBON-DIOXIDE},
+Journal = JMS,
+Year = {{1992}},
+Volume = {{156}},
+Pages = {48-64},
+DOI = {10.1016/0022-2852(92)90092-3}}
+
+@article{ 12EvFaCl.CO2,
+Author = {Evseev, Vadim and Fateev, Alexander and Clausen, Sonnik},
+Title = {{High-resolution transmission measurements of CO$_2$ at high temperatures
+   for industrial applications}},
+Journal = JQSRT,
+Year = {{2012}},
+Volume = {{113}},
+Pages = {{2222-2233}},
+Abstract = {{High-resolution transmission spectra of CO2 in the 2.7, 4.3 and 15 mu m
+   regions at temperatures up to 1773 K and at approximately atmospheric
+   pressure (1.00 +/- 0.01 atm) are measured and compared with line-by-line
+   calculations based on the HITEMP-1995, HITEMP-2010, CDSD-HITEMP and
+   CDSD-4000 databases. The spectra have been recorded in a
+   high-temperature flow gas cell and using a Fourier transform infrared
+   (FTIR) spectrometer at a nominal resolution of 0.125 cm(-1). The volume
+   fractions of CO2 in the measurements were 1, 10 and 100\%. The
+   measurements have been validated by comparison with medium-resolution
+   data obtained by Bharadwaj and Modest {[}6]. The deviations between the
+   experimental spectra and the calculations at 1773 K and the vibrational
+   energy exchange and thermal dissociation of CO2 at high temperatures are
+   discussed.}},
+DOI = {10.1016/j.jqsrt.2012.07.015}}
+
+@article{ 15LaReTh.CO2,
+Author = {Lamouroux, J. and Regalia, L. and Thomas, X. and Vander Auwera, J. and
+   Gamache, R. R. and Hartmann, J. -M.},
+Title = {{CO$_2$ line-mixing database and software update and its tests in the 2.1 mu
+   m and 4.3 $\mu$m regions}},
+Journal =JQSRT,
+Year = {{2015}},
+Volume = {{151}},
+Pages = {88-96},
+Abstract = {{An update of the former version of the database and software for the
+   calculation of CO2-air absorption coefficients taking line-mixing into
+   account {[}Lamouroux et al. J Quant Spectrosc Radiat Transf
+   2010;111:2321] is described. In this new edition, the data sets were
+   constructed using parameters from the 2012 version of the HITRAN
+   database and recent measurements of line-shape parameters. Among other
+   improvements, speed-dependent profiles can now be used if line-mixing is
+   treated within the first order approximation. This new package is tested
+   using laboratory spectra measured in the 2.1 mu m and 4.3 mu m spectral
+   regions for various pressures, temperatures and CO2 concentration
+   conditions. Despite improvements at 4.3 mu m at room temperature, the
+   conclusions on the quality of this update are more ambiguous at low
+   temperature and in the 2.1 mu m region. Further tests using laboratory
+   and atmospheric spectra are thus required for the evaluation of the
+   performances of this updated package.}},
+DOI = {{10.1016/j.jqsrt.2014.09.017}},
+}
+
+@article{  13LaHaTr.CO2,
+Author = {Lamouroux, J. and Hartmann, J. -M. and Tran, H. and Lavorel, B. and
+   Snels, M. and Stefani, S. and Piccioni, G.},
+Title = {{Molecular dynamics simulations for CO$_2$ spectra. IV. Collisional
+   line-mixing in infrared and Raman bands}},
+Journal = JCP,
+Year = {{2013}},
+Volume = {{138}},
+Abstract = {{Ab initio calculations of the shapes of pure CO2 infrared and Raman
+   bands under (pressure) conditions for which line-mixing effects are
+   important have been performed using requantized classical molecular
+   dynamics simulations. This approach provides the autocorrelation
+   functions of the dipole vector and isotropic polarizability whose
+   Fourier-Laplace transforms yield the corresponding spectra. For that,
+   the classical equations of dynamics are solved for each molecule among
+   several millions treated as linear rigid rotors and interacting through
+   an anisotropic intermolecular potential. Two of the approximations used
+   in the previous studies have been corrected, allowing the consideration
+   of line-mixing effects without use of any adjusted parameters. The
+   comparisons between calculated and experimental spectra under various
+   conditions of pressure and temperature demonstrate the quality of the
+   theoretical model. This opens promising perspectives for first principle
+   ab initio predictions of line-mixing effects in absorption and
+   scattering spectra of various systems involving linear molecules.}},
+DOI = {{10.1063/1.4811518}},
+pages = {244310}}
+
+@article{ 10LaTrLa.CO2,
+Author = {Lamouroux, J. and Tran, H. and Laraia, A. L. and Gamache, R. R. and
+   Rothman, L. S. and Gordon, I. E. and Hartmann, J. -M.},
+Title = {{Updated database plus software for line-mixing in CO$_2$ infrared spectra
+   and their test using laboratory spectra in the 1.5-2.3 $\mu$m region}},
+Journal =JQSRT,
+Year = {{2010}},
+Volume = {{111}},
+Pages = {2321-2331},
+Abstract = {{In a previous series of papers, a model for the calculation of CO2-air
+   absorption coefficients taking line-mixing into account and the
+   corresponding database/software package were described and widely
+   tested. In this study, we present an update of this package, based on
+   the 2008 version of HITRAN, the latest currently available. The
+   spectroscopic data for the seven most-abundant isotopologues are taken
+   from HITRAN. When the HITRAN data are not complete up to J `'=70, the
+   data files are augmented with spectroscopic parameters from the CD5D-296
+   database and the high-temperature CDSD-1000 if necessary. Previously
+   missing spectroscopic parameters, the air-induced pressure shifts and
+   CO2 line broadening coefficients with H2O, have been added. The quality
+   of this new database is demonstrated by comparisons of calculated
+   absorptions and measurements using CO2 high-pressure laboratory spectra
+   in the 1.5-2.3 mu m region. The influence of the imperfections and
+   inaccuracies of the spectroscopic parameters from the 2000 version of
+   HITRAN is clearly shown as a big improvement of the residuals is
+   observed by using the new database. The very good agreements between
+   calculated and measured absorption coefficients confirm the necessity of
+   the update presented here and further demonstrate the importance of
+   line-mixing effects, especially for the high pressures investigated
+   here. The application of the updated database/software package to
+   atmospheric spectra should result in an increased accuracy in the
+   retrieval of CO2 atmospheric amounts. This opens improved perspectives
+   for the space-borne detection of carbon dioxide sources and sinks.}},
+DOI = {{10.1016/j.jqsrt.2010.03.006}},
+}
+
+
+@article{ 00PePaxx.CO2,
+Author = {Pearson, P N and Palmer, M R},
+Title = {{Atmospheric carbon dioxide concentrations over the past 60 million years}},
+Journal = {{Nature}},
+Year = {{2000}},
+Volume = {{406}},
+Pages = {695-699},
+Abstract = {{Knowledge of the evolution of atmospheric carbon dioxide concentrations
+   throughout the Earth's history is important for a reconstruction of the
+   links between climate and radiative forcing of the Earth's surface
+   temperatures. Although atmospheric carbon dioxide concentrations in the
+   early Cenozoic era (about 60 Myr ago) are widely believed to have been
+   higher than at present, there is disagreement regarding the exact carbon
+   dioxide levels, the timing of the decline and the mechanisms that are
+   most important for the control of CO2 concentrations over geological
+   timescales. Here we use the boron-isotope ratios of ancient planktonic
+   foraminifer shells to estimate the pH of surface-layer sea water
+   throughout the past 60 million years, which can be used to reconstruct
+   atmospheric CO2 concentrations. We estimate CO2 concentrations of more
+   than 2,000 p.p.m. for the late Palaeocene and earliest Eocene periods
+   (from about 60 to 52 Myr ago), and rnd an erratic decline between 55 and
+   40 Myr ago that may have been caused by reduced CO2 outgassing from
+   ocean ridges, volcanoes and metamorphic belts and increased carbon
+   burial. Since the early Miocene (about 24 Myr ago), atmospheric CO2
+   concentrations appear to have remained below 500 p.p.m. and were more
+   stable than before, although transient intervals of CO2 reduction may
+   have occurred during periods of rapid cooling approximately 15 and 3 Myr
+   ago.}},
+DOI = {10.1038/35021000}}
+
+@article{16KiShKo.CO2,
+Author = {Kireev, S. V. and Shnyrev, S. L. and Kondrashov, A. A.},
+Title = {{Development of laser noninvasive on-line diagnostics of oncological
+   diseases based on the absorption method in the 4860-4880 cm(-1) spectral
+   range}},
+Journal = {Laser Phys.},
+Year = {{2016}},
+Volume = {{26}},
+Abstract = {{A novel method for noninvasive on-line diagnostics of gastrointestinal
+   oncological diseases using a diode laser in the 4860-4880 cm(-1)
+   frequency range is proposed. The method is based on measuring the
+   concentration of C-13 during expiration. The accuracy of the method
+   allows performing early diagnostics of diseases.}},
+DOI = {{10.1088/1054-660X/26/7/075601}},
+pages = {075601}}
+
+@article{95GrMaDr.CO2,
+title = "The Microwave Spectrum of Carbon Dioxide 17OCO and 18OCO",
+journal = JMS,
+volume = "172",
+pages = "430 - 434",
+year = "1995",
+doi = "10.1006/jmsp.1995.1190",
+author = "J. Gripp and H. Mader and H. Dreizler and J. L. Teffo",
+abstract = "The J = 1-0 ground state pure rotational transitions of monosubstituted carbon dioxide-17O (17OCO) and -18O (18OCO) isotopomers have been investigated using a waveguide Fourier transform microwave spectrometer especially designed for measurement of very weak signals. Rotational constants could be obtained for 17OCO, B0 = 11 350.539(5) MHz and for 18OCO, B0 = 11 037.887(4) MHz. The 17O quadrupole coupling constant has been determined as −3.92(9) MHz and has been compared with results from quantum chemical calculations."
+}
+
+
+@article{Huang2017,
+  doi = {10.1016/j.jqsrt.2017.04.026},
+  year  = {2017},
+  month = {apr},
+  publisher = {Elsevier {BV}},
+  author = {Xinchuan Huang  and David W. Schwenke and Richard S. Freedman and Timothy J. Lee},
+  title = {Ames-2016 line lists for 13 isotopologues of {CO} 2 : Updates,  consistency,  and remaining issues},
+  journal = {Journal of Quantitative Spectroscopy and Radiative Transfer}
+}
+
+@book{9780387270487,
+  Author = {Editors: Ehleringer James R. and Cerling Thure and Dearing M. Denise },
+  Title = {A History of Atmospheric CO2 and Its Effects on Plants, Animals, and Ecosystems (Ecological Studies)},
+  Publisher = {Springer},
+  Year = {2006},
+  ISBN = {978-0-387-27048-7},
+}
+
+@article{Keeling2004,
+  doi = {10.1029/2004gb002227},
+  year  = {2004},
+  month = {oct},
+  publisher = {Wiley-Blackwell},
+  volume = {18},
+  number = {4},
+  pages = {n/a--n/a},
+  author = {Charles D. Keeling and Holger Brix and Nicolas Gruber},
+  title = {Seasonal and long-term dynamics of the upper ocean carbon cycle at Station {ALOHA} near Hawaii},
+  journal = {Global Biogeochemical Cycles}
+}
+
+
+@article{Bouttes2011,
+  doi = {10.1029/2010gl044499},
+  year  = {2011},
+  month = {jan},
+  publisher = {Wiley-Blackwell},
+  volume = {38},
+  number = {2},
+  pages = {n/a--n/a},
+  author = {N. Bouttes and D. Paillard and D. M. Roche and V. Brovkin and L. Bopp},
+  title = {Last Glacial Maximum {CO}2 and 13C successfully reconciled},
+  journal = {Geophysical Research Letters}
+}
+
+@article{February1999,
+  doi = {10.1006/qres.1999.2057},
+  year  = {1999},
+  month = {sep},
+  publisher = {Cambridge University Press ({CUP})},
+  volume = {52},
+  number = {02},
+  pages = {229--236},
+  author = {Edmund C. February and William D. Stock},
+  title = {Declining Trend in the 13C/12C Ratio of Atmospheric Carbon Dioxide from Tree Rings of South African Widdringtonia cedarbergensis},
+  journal = {Quaternary Research}
+}
+
+@article{Kireev2014,
+  doi = {10.1088/1612-2011/11/12/125703},
+  year  = {2014},
+  month = {nov},
+  publisher = {{IOP} Publishing},
+  volume = {11},
+  number = {12},
+  pages = {125703},
+  author = {S V Kireev and S L Shnyrev and I V Sobolevsky and A A Kondrashov},
+  title = {Development of an on-line {CO}2isotopologues' detection method based on a diode laser in gaseous media},
+  journal = {Laser Physics Letters}
+}
+
+@article{Kireev2016,
+  doi = {10.1088/1612-2011/13/6/065702},
+  year  = {2016},
+  month = {may},
+  publisher = {{IOP} Publishing},
+  volume = {13},
+  number = {6},
+  pages = {065702},
+  author = {S V Kireev and A A Kondrashov and S L Shnyrev},
+  title = {Applying the diode laser spectroscopy method for high sensitivity on-line control of 13{C} contained in the gaseous mixture with 12C},
+  journal = {Laser Physics Letters}
+}
+
+@article{Tipple2010,
+  doi = {10.1029/2009pa001851},
+  year  = {2010},
+  month = {jul},
+  publisher = {Wiley-Blackwell},
+  volume = {25},
+  number = {3},
+  author = {Brett J. Tipple and Stephen R. Meyers and Mark Pagani},
+  title = {Carbon isotope ratio of Cenozoic {CO}2: A comparative evaluation of available geochemical proxies},
+  journal = {Paleoceanography}
+}
+
+@article{Stuiver1984,
+  doi = {10.1029/jd089id07p11731},
+  year  = {1984},
+  publisher = {Wiley-Blackwell},
+  volume = {89},
+  number = {D7},
+  pages = {11731},
+  author = {M. Stuiver and R. L. Burk and P. D. Quay},
+  title = {13C/12C ratios in tree rings and the transfer of biospheric carbon to the atmosphere},
+  journal = {Journal of Geophysical Research}
+}
+
+@article{17HoCeVe.CO2,
+  author={J Hovorka and P Cermak and P Veis},
+  title={Optimization of data retrieval process for spectroscopic CO 2 isotopologue ratio measurements},
+  journal={Laser Physics},
+  volume={27},
+  pages={055701},
+  year={2017},
+  abstract={In this work, a numerical model was developed for critical evaluation of the 13 CO 2 / 12 CO 2 ratio retrievals ( ##IMG## [http://ej.iop.org/images/1555-6611/27/5/055701/lpaa64b8ieqn001.gif] {$ \Delta \delta $} value) from laser absorption spectra. The goal of the analysis was to determine the dependency of the absolute error of δ on different experimental parameters, in order to find the optimal conditions for isotopic ratio retrievals without using calibrated reference samples. In our study, the target precision for ##IMG## [http://ej.iop.org/images/1555-6611/27/5/055701/lpaa64b8ieqn002.gif] {$ \Delta \delta $} was set at a level of ##IMG## [http://ej.iop.org/images/1555-6611/27/5/055701/lpaa64b8ieqn003.gif] {$\leqslant 1$} \%. The analysis was performed in the spectral range of the ##IMG## [http://ej.iop.org/images/1555-6611/27/5/055701/lpaa64b8ieqn004.gif] {${{\nu}_{1}}+{{\nu}_{3}}$} CO 2 band at 1.6 μ m, with the theoretical data originating from the HITRAN database. The proposed fitting algorithm allowed efficient compensation of the interference from weak transitions which are not well recognizable in a single spectrum. This effect was found to make a dominant contribution to the ##IMG## [http://ej.iop.org/images/1555-6611/27/5/055701/lpaa64b8ieqn005.gif] {$ \Delta \delta $} value. Next, the optimal conditions for such an experiment regarding the pressure, spectral range and spectrum noise were found and discussed from the perspective of widely tunable laser applications.}
+}
+
+
+@Article{ 17MoZoIl,
+author= {Moskalenko, N. I.
+and Zotov, O. V.
+and Il'in, Yu. A.
+and Parzhin, S. N.
+and Khamidullina, M. S.},
+title= {Complex Investigation of the Absorption and Emission Spectra of Carbon Dioxide},
+journal= {Russ. Phys. J.},
+year= {2017},
+pages= {1--8},
+abstract= {Absorption and emission spectra of carbon dioxide are measured and analyzed for temperatures 220--2500 K in the spectral range 1--25 $\mu$m. Intensities and half-widths of the spectral lines are determined and hightemperature atlas of the spectral lines' parameters is compiled. Based on the developed mathematical model, the parameters of spectral transmission functions of СО2 are obtained at different temperatures in the vibration-rotation and pressure-induced bands of СО2. Practical application of the obtained radiative characteristics is considered for solving problems of radiative heat exchange in planetary atmospheres and high-temperature media and designing optoelectronic systems intended for aero carriers monitoring.},
+issn= {1573-9228},
+doi= {10.1007/s11182-017-1009-7},
+url= {http://dx.doi.org/10.1007/s11182-017-1009-7}
+}
+@article{15Grxxxx.CO2,
+  doi = {10.1073/pnas.1504467112},
+  year  = {2015},
+  month = {jul},
+  publisher = {Proceedings of the National Academy of Sciences},
+  volume = {112},
+  number = {31},
+  pages = {9542--9545},
+  author = {Heather D. Graven},
+  title = {Impact of fossil fuel emissions on atmospheric radiocarbon and various applications of radiocarbon over this century},
+  journal = {Proceedings of the National Academy of Sciences}
+}
+
+@article{17HuScFr.CO2,
+title = "Ames-2016 Line Lists for 13 Isotopologues of CO2: Updates, Consistency, and Remaining Issues ",
+journal = JQSRT,
+volume = "",
+number = "",
+pages = " - ",
+year = "2017",
+doi = "10.1016/j.jqsrt.2017.04.026",
+author = "Xinchuan Huang and David W. Schwenke and Richard S. Freedman and Timothy J. Lee",
+keywords = "Carbon Dioxide",
+keywords = "Infrared Intensity",
+keywords = "Line List",
+keywords = "Isotopologues",
+keywords = "Semi-empirical Refinement",
+keywords = "Spectroscopic Database",
+keywords = "Potential Energy Surface",
+keywords = "Dipole Moment Surface",
+keywords = "Rovibrational ",
+abstract = "Abstract A new 626-based Ames-2 \{PES\} refinement and Ames-2016 line lists for 13 \{CO2\} isotopologues are reported. A consistent σRMS=±0.02 cm−1 is established for hundreds of isotopologue band origins using the Ames-2 PES. Ames-2016 line lists are computed at 296K, 1000K and 4000K using the Ames-2 \{PES\} and the same DMS-N2 dipole surface used previously, with J up to 150, E’ up to 24,000 cm−1 or 18,000 cm−1 and appropriate intensity cutoffs. The lists are compared to the CDSD-296, CDSD-4000 databases, \{UCL\} line lists, and a few recent highly accurate \{CO2\} intensity measurements. Both agreements and discrepancies are discussed. Compared to the old Ames \{CO2\} lists, the Ames-2016 line lists have line position deviations reduced by 50\% or more, which consequently leads to more reliable intensities. The line shape parameters in the Ames-2016 line lists are predicted using the newly assigned conventional vibrational polyad quantum numbers for rovibrational levels below 12,000 cm−1 so the quality of the line shape parameters is similar to that of \{CDSD\} or HITRAN. This study further proves that a semi-empirically refined \{PES\} (Ames-1 and Ames-2) coupled with a high quality ab initio \{DMS\} (DMS-N2 and UCL) may generate \{IR\} predictions with consistent accuracy and is thus helpful in the analysis of laboratory spectra and simulations of various isotopologues. The Ames-2016 lists based on DMS-N2 have reached the ∼1\% intensity prediction accuracy level for the recent 626 30013-00001 and 20013-00001 bands, but further quantification and future improvements requires sub-percent or sub-half-percent accurate experimental intensities. The inter-isotopologue consistency of the intensity prediction accuracies should have reached better than 1-3\% for regular bands not affected by resonances. Since the Effective Dipole Models (EDM) in \{CDSD\} and \{HITRAN\} have 1 – 20\% or even larger uncertainties, we show that the Ames lists can provide better alternative \{IR\} data for many hard-to-determine isotopologue bands. Comparison at 4000 K suggests that the Ames-4000K 12C16O2 line list is reliable and consistent within the current cutoffs of J ≤150 and E’ ≤24,000 cm−1, but intensity contributions involving higher energy levels should not be omitted and future computations need to be converged up to at least 32,000 cm−1 or higher. The remaining issues are discussed regarding the source of energy level discrepancies, intensity underestimations by ∼50\% for some weak bands, etc. and also future work. "
+}
+
+@article{ 17GhLiFl.CO2,
+Author = {Ghysels, Melanie and Liu, Qingnan and Fleisher, Adam J. and Hodges,
+   Joseph T.},
+Title = {{A variable-temperature cavity ring-down spectrometer with application to
+   line shape analysis of CO2 spectra in the 1600 nm region}},
+Journal = APB-LO,
+Year = {{2017}},
+Volume = {{123}},
+Abstract = {{We present a new cavity ring-down spectroscopy system which was
+   developed for variable-temperature absorption measurements (220-290 K)
+   of atmospheric gases. This laser spectrometer was developed in the
+   framework of the NASA Orbiting Carbon Observatory-2 project to improve
+   our understanding of line shape parameters for carbon dioxide and
+   oxygen. The apparatus consists of a monolithic, fixed-mirror ring-down
+   cavity within a temperature- regulated enclosure, which is interrogated
+   by a tunable, single-frequency diode laser. We experimentally
+   characterize and model the dependence of the spectrum detuning axis at
+   each setpoint temperature, and show that absolute frequencies are stable
+   to within 200 kHz over several hours, corresponding to temperature
+   stabilities better than 1 mK. We measure the R16e (30013-0001)
+   (CO2)-C-12-O-16 transition and carry out multi-spectrum analyses using
+   two line profiles incorporating speed-dependent (quadratic
+   approximation) and Dicke narrowing (hard collision assumption) effects.
+   The resulting broadening coefficient and temperature exponent are in
+   excellent agreement (0.05\% level) with previous high-resolution
+   Fourier-transform spectroscopy measurements, and the speed dependent
+   broadening parameter is within 3\% of the theoretical value.}},
+DOI = {{10.1007/s00340-017-6686-y}},
+pages = {124}}
+

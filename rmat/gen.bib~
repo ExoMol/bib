@@ -1,0 +1,1621 @@
+@COMMENT(Merge bibliography of non r-matrix stuff)
+@string{acr={Acc.\ Chem.\ Res.}}
+@string{acp={Adv.\ Chem.\ Phys.}}
+@string{aamop={Adv.\ At.\ Mol.\ Opt.\ Phys.}}
+@string{ap={Ann.\ Phys.}}
+@string{arpc={Ann.\ Rev.\ Phys.\ Chem.}}
+@string{cmp={Comm.\ Math.\ Phys.}}
+@string{comp={J.~Comp.\ Phys.}}
+@string{cp={Chem.\ Phys.}}
+@string{cpc={Computer Phys.\ Comm.}}
+@string{cpl={Chem.\ Phys.\ Lett.}}
+@string{cpr={Computer Phys.\ Rep.}}
+@string{cr={Chem.\ Res.}}
+@string{dfs={Discuss.\ Farad.\ Soc.}}
+@string{fdcs={Faraday Discuss.\ Chem.\ Soc.}}
+@string{ft={J.~Chem.\ Soc., Faraday Trans.}}
+@string{ijck={Int.\ J.\ Chem.\ Kinet.}}
+@string{ijqc={Int.\ J.\ Quant.\ Chem.}}
+@string{irpc={Int.\ Rev.\ Phys.\ Chem.}}
+@string{jacs={J.~Am.\ Chem.\ Soc.}}
+@string{jcs={J.\ Chem.\ Soc.}}
+@string{jcsft={J.\ Chem.\ Soc.\ Faraday.\ Trans.}}
+@string{jcp={J.~Chem.\ Phys.}}
+@string{jmp={J.~Math.\ Phys.}}
+@string{jms={J.~Mol.\ Struct.\ (Theochem)}}
+@string{jmsp={J.~Mol.\ Spec.}}
+@string{jpa={J.~Phys.~A}}
+@string{jpb={J.~Phys.~B: At.\ Mol.\ Opt.\ Phys.}}
+@string{jpbo={J.~Phys.~B: At.\ Mol.\ Phys.}}
+@string{jpc={J.~Phys.\ Chem.}}
+@string{jpca={J.~Phys.\ Chem.~A}}
+@string{jpcb={J.~Phys.\ Chem.~B}}
+@string{jpcrd={J.~Phys.\ Chem. ~Ref. ~Data}}
+@string{laa={Lin.\ Alg.\ Appl.}}
+@string{ma={Math.\ Ann.}}
+@string{mp={Mol.\ Phys.}}
+@string{pams={Proc.\ Amer.\ Math.\ Soc.}}
+@string{plb={Phys.\ Lett.~B}}
+@string{pr={Phys.\ Rep.}}
+@string{pra={Phys.\ Rev.~A}}
+@string{prb={Phys.\ Rev.~B}}
+@string{prc={Phys.\ Rep.~C}}
+@string{prd={Phys.\ Rev.~D}}
+@string{pre={Phys.\ Rev.~E}}
+@string{prl={Phys.\ Rev.\ Lett.}}
+@string{psa={Physica}}
+@string{pss={Progr.\ Surf.\ Sci.}}
+@string{ptp={Progr.\ Theor.\ Phys.}}
+@string{rmp={Rev.\ Mod.\ Phys.}}
+@string{sa={Spectrochimica Acta}}
+@string{sci={Science}}
+@string{ss={Surf.\ Sci.}}
+@string{tca={Theor.\ Chim.\ Acta}}
+@string{zpb={Z.~Phys.~B}}
+@string{zpd={Z.~Phys.~D}}
+@string{upjd={Eur. Phys. J. D.}}
+@string{aa  = "Astron. Astrophys."}
+@string{adndt    = "At. Data  Nucl. Data"}
+@string{af  = "Arkiv Fysik"}
+@string{aj  = "Astrophys. J"}
+@string{cp  = "Chem. Phys."}
+@string{jpsj= "J. Phys. Soc. Jap."}
+@string{mnras= "Mon. Not. R. Astr. Soc."}
+@string{rpp = "Rep. Prog. Phys."}
+@string{rpc     = "Rad. Phys. Chem."}
+
+@article{ tbc16,
+Author = {Tanaka, H. and Brunger, M. J. and Campbell, L. and Kato, H. and Hoshino,
+   M. and Rau, A. R. P.},
+Title = {{Scaled plane-wave Born cross sections for atoms and molecules}},
+Journal = rmp,
+Year = {{2016}},
+Volume = {{88}},
+Abstract = {{Integral cross sections for optically allowed electronic-state
+   excitations of atoms and molecules by electron impact, by applying
+   scaled plane-wave Born models, are reviewed. Over 40 years ago, Inokuti
+   presented an influential review of charged-particle scattering, based on
+   the theory pioneered by Bethe forty years earlier, which emphasized the
+   importance of reliable cross-section data from low eV energies to high
+   keV energies that are needed in many areas of radiation science with
+   applications to astronomy, plasmas, and medicine. Yet, with a couple of
+   possible exceptions, most computational methods in electron-atom
+   scattering do not, in general, overlap each other's validity range in
+   the region from threshold up to 300 eV and, in particular, in the
+   intermediate region from 30 to 300 eV. This is even more so for
+   electron-molecule scattering. In fact this entire energy range is of
+   great importance and, to bridge the gap between the two regions of low
+   and high energy, scaled plane-wave Born models were developed to provide
+   reliable, comprehensive, and absolute integral cross sections, first for
+   ionization by Kim and Rudd and then extended to optically allowed
+   electronic-state excitation by Kim. These and other scaling models in a
+   broad, general application to electron scattering from atoms and
+   molecules, their theoretical basis, and their results for cross sections
+   along with comparison to experimental measurements are reviewed. Where
+   possible, these data are also compared to results from other
+   computational approaches.}},
+DOI = {{10.1103/RevModPhys.88.025004}},
+pages = {025004}}
+
+@article{bch00,
+author={B. Bouda\"iffa and P. Cloutier and D. Hunting and M. A. Huels and L. Sanche},
+title={{Resonanant formation of DNA strand breaks by low-energy (3 to 20 eV) electrons}},
+journal = sci,
+volume={287},
+pages={1658-1660},
+year={2000}}
+
+
+@article{leh08,
+author = {A. Luque and U. Ebert and W. Hundsdorfer},
+title = {Interaction of Streamer Discharges in Air and Other Oxygen-Nitrogen Mixtures},
+year = {2008},
+journal = prl,
+volume = {101},
+pages = {075005},
+doi = {10.1103/PhysRevLett.101.075005}
+}
+
+@article{asp01,
+Author = {Ajello, J M and Shemansky, D E and Pryor, W R and Stewart, A I and Simmons, K E and Majeed, T and Waite, J H and Gladstone, G R and Grodent, D},
+Title = {{Spectroscopic evidence for high-altitude Aurora at Jupiter from Galileo xtreme Ultraviolet Spectrometer and Hopkins Ultraviolet Telescope Observations}},
+Journal = {Icarus},
+Year = {{2001}},
+Volume = {{152}},
+Pages = {151-171}}
+
+@article{hbf08,
+Author = {Huestis, David L. and Bougher, Stephen W. and Fox, Jane L. and Galand,
+   Marina and Johnson, Robert E. and Moses, Julianne I. and Pickering,
+   Juliet C.},
+Title = {{Cross Sections and Reaction Rates for Comparative Planetary Aeronomy}},
+Journal = {Space Sci. Rev.},
+Year = {{2008}},
+Volume = {{139}},
+Pages = {63-105}}
+
+@article{ gl08,
+Author = {Geppert, W. D. and Larsson, M.},
+Title = {{Dissociative recombination in the interstellar medium and planetary
+   ionospheres}},
+Journal = mp,
+Year = {{2008}},
+Volume = {{106}},
+Pages = {2199-2226}} 
+
+@article{ fm06,
+Author = {Florescu-Mitchell, A. I. and Mitchell, J. B. A.},
+Title = {{Dissociative recombination}},
+Journal = pr,
+Year = {{2006}},
+Volume = {{430}},
+Pages = {277-374}}
+
+@article{ hg69,
+Author = {William J. Hunt and William A. {Goddard III}},
+Title = {{Excited States of H2O using improved virtual orbitals}},
+Journal = cpl,
+Year = {{1969}},
+Volume = {{3}},
+Pages = {414-418}}
+
+@article{ ylz03,
+Author = {Xinzheng Yang and Meirong Lin and Baozheng Zhang},
+Title = {{MR-AQCC study on the ground and low-lying excited states of GaI}},
+Journal = cpl,
+Year = {{2003}},
+Volume = {{382}},
+Pages = {160-166}}
+
+
+@ARTICLE{fmr79,
+   author = {{Fliflet}, A.~W. and {McKoy}, V. and {Rescigno}, T.~N.},
+    title = "{Cross sections for excitation of the B 3 Pi g, C 3 Pi u, and E 3 Sigma g + states of N2 by low-energy electron impact in the distorted-wave approximation}",
+  journal = jpbo,
+     year = 1979,
+   volume = 12,
+    pages = {3281-3293},
+      doi = {10.1088/0022-3700/12/19/013}}
+
+@book{ arpack,
+Author = {Richard B. Lehoucq and Danny C. Sorensen and Chao Yang},
+title = {{ARPACK users' guide: solution of large-scale eigenvalue problems withimplicitly restarted Arnoldi methods}},
+Publisher = {SIAM},
+Year = 1998}
+
+
+@inproceedings{ parpack,
+Author = {K J Maschhoff and D C Sorensen},
+Editor = {J Wasniewski and J Dongarra and K Madson and D Olsen},
+title = {P_ARPACJ},
+booktitle = {Appled parallel computing in industrial problems and optimization},
+Year = {{1996}},
+volume = {1184},
+series = {Lecture notes in computer science},
+Publisher = {Spriger-Verlag}}
+
+@book{ lo08,
+Author = {Mats Larsson and Ann E. Orel},
+title = {{Dissociative recombination of Molecular Ions}},
+Publisher = {Cambridge University Press},
+Year = 2008}
+
+@book{ ch00,
+Author = {M. Charlton and J. W. Humberston},
+title = {{Positron Physics}},
+Publisher = {Cambridge University Press},
+Year = 2000}
+
+@book{ OP1,
+Author = {{The Opacity Project Team} and M J Seaton},
+title = {The Opacity Project, volume 1},
+Publisher = {Insitute of Physics Publishing},
+Year = 1995}
+
+@book{ OP2,
+Author = {{The Opacity Project Team} and K A Berrington},
+title = {The Opacity Project, volume 2},
+Publisher = {Insitute of Physics Publishing},
+Year = 1994}
+
+
+@article{ 07Seaton,
+Author = {Seaton, M. J.},
+Title = {{Updated Opacity Project radiative accelerations}},
+Journal = MNRAS,
+Year = {{2007}},
+Volume = {{382}},
+Pages = {245-250},
+Abstract = {{Updated data for the calculation of radiative accelerations, g(rad),
+   referred to as OP 2005, have been made generally available on the Web.
+   They differ from the earlier 1997 OP data mainly in the inclusion of
+   contributions from inner- shell processes. The frequency resolution used
+   for OP 2005 is shown to be satisfactory except for extreme cases of low
+   concentrations and low densities. The 2005 data are in reasonably good
+   agreement with results from OPAL, given by Richer et al. in graphical
+   form, for a model with T(eff) = 10(4) and log (R)=-3. They are in less
+   good agreement with OPAL results of Turcotte et al. for the solar
+   radiative interior.}},
+DOI = {10.1111/j.1365-2966.2007.12345.x}}
+
+
+
+@article{ bb02a,
+Author = {Brunger, M J and Buckman, S J},
+Title = {{Electron-molecule scattering cross-sections. I. Experimental techniques and data for diatomic molecules}},
+Journal = pr,
+Year = {{2002}},
+Volume = {{357}},
+Pages = {215-458}}
+
+@article{ chh04,
+Author = {Champion, C and Hanssen, J and Hervieux, P A},
+Title = {{Differential and total (e,2e) cross sections of simple polyatomic
+   molecules}},
+Journal = jcp,
+Year = {{2004}},
+Volume = {{121}},
+Pages = {9423-9429}}
+
+@article{ wm00,
+Author = {Winstead, C and {McKoy}, V},
+Title = {{Electron-molecule collisions in low-temperature plasmas - The role of
+   theory}},
+Journal = aamp,
+Year = {{2000}},
+Volume = {{43}},
+Pages = {111-145}}
+
+@article{ M88,
+Author = {M A Morrison},
+Title = {{Near-threshold electron-molecule scattering}},
+Journal = aamp,
+Year = {{1988}},
+Volume = {{24}},
+Pages = {51-156}}
+
+@article{ ls92,
+Author = {Lynch, D L and Schneider, B I},
+Title = {{MOLECULAR PHOTOIONIZATION USING THE COMPLEX KOHN VARIATIONAL METHOD}},
+Journal = pra,
+Year = {{1992}},
+Volume = {{45}},
+Pages = {4494-4498},
+Abstract = {{We have applied the complex Kohn variational method to the study of
+   molecular-photoionization processes.  This requires electron-ion
+   scattering calculations enforcing incoming boundary conditions.  The
+   sensitivity of these results to the choice of the cutoff function in
+   the Kohn method has been studied and we have demonstrated that a simple
+   matching of the irregular function to a linear combination of regular
+   functions produces accurate scattering phase shifts.}},
+ISSN = {{1050-2947}},
+}
+
+@ARTICLE{sr88,
+   author = {{Schneider}, B.~I. and {Rescigno}, T.~N.},
+    title = "{Complex Kohn variational method: Application to low-energy electron-molecule collisions}",
+  journal = pra,
+     year = 1988,
+   volume = 37,
+    pages = {3749-3754},
+      doi = {10.1103/PhysRevA.37.3749}}
+
+@article{ wsh92,
+Author = {Winstead, C and Sun, Q Y and Hipes, P G and Lima, M A P and {McKoy}, V},
+Title = {{STUDIES OF ELECTRON MOLECULE COLLISIONS ON DISTRIBUTED-MEMORY PARALLEL
+   COMPUTERS}},
+Journal = {Australian J. Phys.},
+Year = {{1992}},
+Volume = {{45}},
+Pages = {325-336}}
+
+@article{ tm81,
+Author = {Takatsuka, K and {McKoy}, V},
+Title = {EXTENSION OF THE SCHWINGER VARIATIONAL PRINCIPLE BEYOND THE STATIC-EXCHANGE APPROXIMATION},
+Journal = pra,
+Year = {{1981}},
+Volume = {{24}},
+Pages = {2473-2480}}
+
+
+@article{ tm84,
+Author = {Takatsuka, K and {McKoy}, V},
+Title = {THEORY OF ELECTRONICALLY INELASTIC-SCATTERING OF ELECTRONS BY MOLECULES},
+Journal = pra,
+Year = {{1984}},
+Volume = {{30}},
+Pages = {1734-1740}}
+
+@article{ ISI:A1986AXU6700001,
+Author = {Lucchese, R R and Takatsuka, K and {McKoy}, V},
+Title = {{APPLICATIONS OF THE SCHWINGER VARIATIONAL PRINCIPLE TO ELECTRON MOLECULE COLLISIONS AND MOLECULAR PHOTOIONIZATION}},
+Journal = pr,
+Year = {{1986}},
+Volume = {{131}},
+Pages = {147-221}}
+
+
+
+@article{ lgh85,
+Author = {Lima, M A P and Gibson, T L and Huo, W M and {McKoy}, V},
+Title = {{CROSS-SECTIONS FOR ELECTRON-IMPACT EXCITATION OF THE B3-SIGMA-U+ STATE
+   OF H-2 - AN APPLICATION OF THE SCHWINGER MULTICHANNEL VARIATIONAL METHOD}},
+Journal = jpb,
+Year = {{1985}},
+Volume = {{18}},
+Pages = {L865-L870}}
+
+@article{D91,
+Author = {Domcke, W},
+Title = {{THEORY OF RESONANCE AND THRESHOLD EFFECTS IN ELECTRON MOLECULE
+   COLLISIONS - THE PROJECTION-OPERATOR APPROACH}},
+Journal = pr,
+Year = {{1991}},
+Volume = {{208}},
+Pages = {97-188},
+Abstract = {{A review is given of the development of the projection-operator
+   formalism of Feshbach towards a comprehensive theory of resonance and
+   threshold effects in electron-molecule collisions. The definition and
+   explicit construction of the appropriate projectors is discussed. The
+   threshold behavior of the singularities of the analytically continued
+   fixed-nuclei electron-molecule scattering matrix is analyzed in order
+   to characterize threshold effects in vibrational excitation by electron
+   impact and dissociative electron attachment. The theory of the dynamics
+   of electron-molecule collision complexes (vibration, dissociation, and
+   autodetachment) is developed, using the methods of time-independent
+   scattering theory as well as a time-dependent wave-packet description.
+   The present stage of development of the theory is illustrated by the
+   review of a few representative applications.}}}
+
+@article{Ket90,
+Author = {W Ketterle},
+Title = {{Theories of reactive scattering}},
+Journal = jcp,
+Year = {{1990}},
+Volume = {93},
+pages = {6935-6941}}
+
+@article{hu06,
+Author = {Hu, Wenfang and Schatz, George C.},
+Title = {{Theories of reactive scattering}},
+Journal = jcp,
+Year = {{2006}},
+Volume = {{125}},
+pages = {132301},
+Abstract = {{This paper is an overview of the theory of reactive scattering, with
+   emphasis on fully quantum mechanical theories that have been developed
+   to describe simple chemical reactions, especially atom-diatom
+   reactions. We also describe related quasiclassical trajectory
+   applications, and in all of this review the emphasis is on methods and
+   applications concerned with state-resolved reaction dynamics. The
+   review first provides an overview of the development of the theory,
+   including a discussion of computational methods based on coupled
+   channel calculations, variational methods, and wave packet methods.
+   Choices of coordinates, including the use of hyperspherical coordinates
+   are discussed, as are basis set and discrete variational
+   representations. The review also summarizes a number of applications
+   that have been performed, especially the two most comprehensively
+   studied systems, H+H-2 and F+H-2, along with brief discussions of a
+   large number of other systems, including other hydrogen atom transfer
+   reactions, insertion reactions, electronically nonadiabatic reactions,
+   and reactions involving four or more atoms. For each reaction we
+   describe the method used and important new physical insight extracted
+   from the results.}}}
+
+@article{wl80,
+Author = {Walker, R B and Light, J C},
+Title = {{REACTIVE MOLECULAR-COLLISIONS}},
+Journal = {Ann. Rev. Phys. Chem.},
+Year = {{1980}},
+Volume = {{31}},
+Pages = {401-433}}
+
+@article{ hc08,
+Author = {Huang, Patrick and Carter, Emily A.},
+Title = {{Advances in correlated electronic structure methods for solids,
+   surfaces, and nanostructures}},
+Year = {{2008}},
+Volume = {{59}},
+Pages = {261-290},
+Abstract = {{Calculations of the electronic structure of solids began decades ago,
+   but only recently have solid-state quantum techniques become
+   sufficiently reliable that their application is nearly as routine as
+   quantum chemistry is for molecules. We aim to introduce chemists to the
+   pros and cons of first-principles methods that can provide atomic-scale
+   insight into the properties and chemistry of bulk materials,
+   interfaces, and nanostructures. The techniques we review include the
+   ubiquitous density functional theory (DFT), which is often sufficient,
+   especially for metals; extensions such as DFT + U and hybrid DFT, which
+   incorporate exact exchange to rid DFT of its spurious self-interactions
+   (critical for some semiconductors and strongly correlated materials);
+   many-body Green's function (GW and Bethe-Salpeter) methods for excited
+   states; quantum Monte Carlo, in principle an exact theory but for which
+   forces (hence structure optimization and dynamics) are problematic; and
+   embedding theories that locally refine the quantum treatment to improve
+   accuracy.}},
+Journal = {Ann. Rev. Phys. Chem.}
+}
+
+@Book{J99,
+  author =       {F. Jensen },
+  title =        {Introduction to Computational Chemistry},
+  publisher =    {Wiley},
+  year =         {1999},
+  OPTkey =       {},
+  OPTeditor =    {},
+  volume =       {},
+  OPTnumber =    {},
+  OPTseries =    {},
+  address =      {Chircester},
+  OPTedition =   {},
+  OPTmonth =     {},
+  OPTnote =      {},
+  OPTannote =    {}
+}
+
+@Book{m89,
+  author =       {R. McWeeny},
+  title =        {Methods of Molecular Quantum Mechanics},
+  publisher =    {Academic Press},
+  year =         {1989},
+  OPTkey =       {},
+  OPTeditor =    {},
+  volume =       {},
+  OPTnumber =    {},
+  OPTseries =    {},
+  address =      {London},
+  edition =   {2nd edition},
+  OPTmonth =     {},
+  OPTnote =      {},
+  OPTannote =    {}
+}
+
+@ARTICLE{D72,
+   author = {{Davidson}, E.~R.},
+    title = "{Properties and Uses of Natural Orbitals}",
+  journal = rmp,
+     year = 1972,
+   volume = 44,
+    pages = {451-464},
+      doi = {10.1103/RevModPhys.44.451}}
+
+@article{B80,
+author = {Charles W. {Bauschlicher Jr.}},
+title = {The construction of modified virtual orbitals (MVO's) which are suited for configuration interaction calculations},
+year = {1980},
+journal = jcp,
+volume = {72},
+pages = {880-885},
+doi = {10.1063/1.439243}
+}
+
+@article{bwm00,
+author = {M. H. F. Bettega and C. Winstead and V. {McKoy}},
+title = {Elastic scattering of low-energy electrons by benzene},
+year = {2000},
+journal = jcp,
+volume = {112},
+pages = {8806-8812},
+doi = {10.1063/1.481529}
+}
+
+@article{ck87,
+author = {Cooper, D L and Kirby, K},
+title = {Theoretical study of low-lying 1Sigma+ and 1Pi states of CO. I. Potential energy curves and dipole moments},
+year = {1987},
+journal = jcp,
+volume = {87},
+pages = {424-432}}
+
+@article{smi60,
+   author    = {F T Smith},
+   title     = {LIFETIME MATRIX IN COLLISION THEORY},
+   journal   = {Phys. Rev.},
+   year      = {1960},
+   volume    = {114},
+   pages     = {349-356}
+}
+
+@article{bw36,
+   title = {Capture of Slow Neutrons},
+  author = {Breit, G.  and Wigner, E.},
+  journal = {Phys. Rev.},
+  volume = {49},
+  pages = {519--531},
+  year = {1936}
+}
+
+
+@article{haz79,
+  title = {Behavior of the eigenphase sum near a resonance},
+  author = {Hazi, A. U.},
+  journal = {Phys. Rev. A},
+  volume = {19},
+  pages = {920--922},
+  year = {1979},
+  doi = {10.1103/PhysRevA.19.920},
+}
+
+@article{ht70,
+  title = {},
+  author = {Hazi, A. U.and Taylor, H S},
+  journal = {Phys. Rev. A},
+  volume = {1},
+  pages = {1109},
+  year = {1970},
+}
+
+@article{ hrm08,
+Author = {Houfek, Karel and Rescigno, T. N. and McCurdy, C. W.},
+Title = {{Probing the nonlocal approximation to resonant collisions of electrons
+   with diatomic molecules}},
+Journal = pra,
+Year = {{2008}},
+Volume = {{77}},
+ pages = {012710},
+Abstract = {{A numerically solvable two-dimensional model introduced by the authors
+   {[}Phys. Rev. A 73, 032721 (2006)] is used to investigate the validity
+   of the nonlocal approximation to the dynamics of resonant collisions of
+   electrons with diatomic molecules. The nonlocal approximation to this
+   model is derived in detail, all underlying assumptions are specified,
+   and explicit expressions for the resonant and nonresonant (background)
+   T matrix for the studied processes are given. Different choices of the
+   so-called discrete state, which fully determines the nonlocal
+   approximation, are discussed, and it is shown that a physical choice of
+   this state can in general give poorer results than other choices that
+   minimize the nonadiabatic effects and/or the background terms of the T
+   matrix. Background contributions to the T matrix, which are usually not
+   considered in the resonant theory of electron-molecule collisions, can
+   contribute significantly not only to elastic but also to vibrational
+   excitation cross sections. Dissociative attachment cross sections,
+   however, are found to be properly described in the nonlocal model with
+   any choice of discrete state that minimizes the importance of
+   nonadiabatic effects and goes to the proper limit at large internuclear
+   separation.}}}
+
+@Article{McKoy,
+  title = {Electronic excitation of $H2$O by low-energy electron impact},
+  author = {Pritchard, H. P. and {McKoy}, V.  and Lima, M. A. P.},
+  journal = pra,
+  volume = {41},
+  pages = {546--549},
+  year = {1990},
+  doi = {10.1103/PhysRevA.41.546}}
+
+@article{ ad60,
+Author = {Arthurs, A M and Dalgarno, A},
+Title = {{THE THEORY OF SCATTERING BY A RIGID ROTATOR}},
+journal   = {Proc. Phys. Soc. London A},
+Year = {{1960}},
+Volume = {{256}},
+Pages = {540-551}}
+
+@article{ nd89,
+Author = {Neufeld, D A  and Dalgarno, A},
+Title = {{}},
+journal   = pra,
+Year = {{1989}},
+Volume = {{40}},
+Pages = {633-637}}
+
+@article{ rlm92,
+Author = {Rescigno, T N and {Lengsfield III}, B H and McCurdy, C W and Parker, S D},
+Title = {{ABINITIO DESCRIPTION OF POLARIZATION IN LOW-ENERGY ELECTRON COLLISIONS
+   WITH POLAR-MOLECULES - APPLICATION TO ELECTRON-NH3 SCATTERING}},
+Journal = pra,
+Year = {{1992}},
+Volume = {{45}},
+Pages = {7800-7809},
+Abstract = {{We report the results of a theoretical study of low-energy electron-NH3
+   SCattering in which target polarization effects are included by using
+   an ab initio optical potential. The calculations employ the complex
+   Kohn variational technique and are undertaken at both the
+   static-exchange and polarized-self-consistent-field levels. Particular
+   attention is paid to the complications attending electron scattering
+   from target molecules that possess a permanent dipole moment. We
+   describe the steps necessary to extract meaningful differential cross
+   sections from fixed-nuclei calculations that ignore the rotational
+   motion of the target. Good agreement is found between our results and
+   recent experimental measurements.}}}
+
+@Article{lrm91,
+  title = {Ab initio study of low-energy electron-methane scattering},
+  author = {{Lengsfield III}, B. H. and Rescigno, T. N. and McCurdy, C. W.},
+  journal = pra,
+  volume = {44},
+  pages = {4296--4308},
+  numpages = {12},
+  year = {1991}}
+
+
+@article{ glm94,
+Author = {Gil, T J and {Lengsfield III}, B H and McCurdy, C W and Rescigno, T N},
+Title = {{AB-INITIO COMPLEX KOHN CALCULATIONS OF DISSOCIATIVE EXCITATION OF
+   METHANE - CLOSE-COUPLING CONVERGENCE STUDIES}},
+Journal = pra,
+Year = {{1994}},
+Volume = {{49}},
+Pages = {2551-2560},
+Abstract = {{Results of close-coupling calculations using the complex Kohn method
+   are reported for excitation of the methane molecule into electronically
+   dissociative states. The excited states in question are of Rydberg
+   nature and are classified by analogy with the isoelectronic Ne atom as
+   2p --> 3s, 2p --> 3p, and 2p --> 3d transitions, i.e., single
+   excitations of the valence 2p electron into the n = 3 Rydberg manifold.
+   On the basis of optical selection rules, one expects large excitation
+   probabilities to analogues of 1P odd-parity states. Our calculations in
+   the energy range 11-60 eV show a more complex picture of the excitation
+   dynamics and detect large excitation probabilities for triplet and
+   even-parity (2p --> 3p) states. A similar result is obtained for the
+   excitation of the Ne atom. Although, to the authors's knowledge, these
+   are the largest close-coupling electron-polyatomic-molecule scattering
+   calculations to date, the results lead to questions concerning the
+   convergence of the close-coupling approach in the case of Rydberg-state
+   excitation. Conclusions are drawn in the context of earlier results for
+   electron-impact excitation of the H, He, and Ne atoms.}}}
+
+@article{grm94,
+Author = {Gil, T J and Rescigno, T N and McCurdy, C W and {Lengsfield III}, B H},
+title = {{AB-INITIO COMPLEX KOHN CALCULATIONS OF DISSOCIATIVE EXCITATION OF WATER}},
+Journal = pra,
+Year = {{1994}},
+Volume = {{49}},
+Pages = {{2642-2650}},
+Abstract = {{We report the results of close-coupling complex Kohn calculations of
+   cross sections for electron-impact excitation of the water molecule
+   into electronically dissociative states in the energy range from 8 to
+   30 eV. We have coupled five channels including the 1A1 ground state and
+   excited singlet and triplet states formed by promoting the occupied 3a1
+   and 1b1 electrons to the lowest unoccupied 4a1 orbital. These states
+   have theoretical vertical energies in the range from 8 to 12 eV and are
+   known to be dissociative. Our calculations have confirmed the existence
+   of Feshbach resonances related to the A1 and B1 excited states which
+   are responsible for dissociative attachment in water at rather high
+   energies. We found that these resonances indeed correspond to
+   configurations 3a(1)4a1(2) and 1b(1)4a1(2). Our results include both
+   total and differential cross sections. We also make comparison between
+   theory and available experimental data.}}}
+
+@article{B68,
+  author={J N Bardsley},
+  title={The theory of dissociative recombination},
+  journal=jpbo,
+  volume={1},
+  pages={365-380},
+  year={1968},
+  abstract={It is suggested that there are two distinct modes of dissociative recombination, which are called direct and indirect. The direct mechanism, first described by Bates, involves a single radiationless transition, whereas the indirect mode occurs through an intermediate Rydberg state of the molecule. The recombination rate for ground-state ions should decrease with increasing temperature for both processes, but the rate of decrease is faster for the indirect process. Complete calculations of the recombination rate do not seem possible yet, but it is shown that spectroscopic data can be used to give estimates of these rates. The method is illustrated by a partial calculation of the rate of direct recombination in nitric oxide.}
+}
+
+@article{ hzm04,
+Author = {Haxton, D J and Zhang, Z Y and McCurdy, C W and Rescigno, T N},
+Title = {{Complex potential surface for the B-2(1) metastable state of the water
+   anion}},
+Journal = pra,
+Year = {{2004}},
+Volume = {{69}},
+pages = {062713},
+Abstract = {{The potential-energy surface corresponding to the complex resonance
+   energy of the B-2(1) Feshbach resonance state of the water anion is
+   constructed in its full dimensionality. Complex Kohn variational
+   scattering calculations are used to compute the resonance width, while
+   large-scale configuration interaction calculations are used to compute
+   the resonance energy. Near the equilibrium geometry, an accompanying
+   ground-state potential surface is constructed from configuration
+   interaction calculations that treat correlation at a level similar to
+   that used in the calculations on the anion.}},
+DOI = {{10.1103/PhysRevA.69.062713}}}
+
+@article{ hrm05,
+Author = {Haxton, D J and Rescigno, T N and McCurdy, C W},
+title = {{Topology of the adiabatic potential energy surfaces for the resonance
+   states of the water anion}},
+Journal = pra,
+Year = {{2005}},
+Volume = {{72}},
+pages = {022705},
+Abstract = {{The potential energy surfaces corresponding to the long-lived
+   fixed-nuclei electron scattering resonances of H2O relevant to the
+   dissociative electron attachment process are examined using a
+   combination of ab initio scattering and bound-state calculations. These
+   surfaces have a rich topology, characterized by three main features: a
+   conical intersection between the (2)A(1) and B-2(2) Feshbach resonance
+   states; charge-transfer behavior in the OH ((2)Pi)+H- asymptote of the
+   B-2(1) and (2)A(1) resonances; and an inherent double-valuedness of the
+   surface for the B-2(2) state the C-2v geometry, arising from a
+   branch-point degeneracy with a B-2(2) shape resonance. In total, eight
+   individual seams of degeneracy among these resonances are identified.}},
+DOI = {{10.1103/PhysRevA.72.022705}}}
+
+@article{ hrm08b,
+Author = {Haxton, Daniel J. and Rescigno, Thomas N. and McCurdy, C. William},
+title = {{Three-body breakup in dissociative electron attachment to the water
+   molecule}},
+Journal = pra,
+Year = {{2008}},
+Volume = {{78}},
+pages = {040702},
+Abstract = {{We report the results of ab initio calculations on dissociative
+   electron attachment to water that demonstrate the importance of
+   including three-body breakup in the dissociation dynamics. While
+   three-body breakup is ubiquitous in the analogous process of
+   dissociative recombination, its importance in low-energy dissociative
+   electron attachment to a polyatomic target has not previously been
+   quantified. Our calculations indicate that three-body breakup is a
+   major component of the observed O- cross section. Our studies suggest
+   that the local complex potential model provides a generally accurate
+   picture of the experimentally observed features in this polyatomic
+   system.}},
+DOI = {{10.1103/PhysRevA.78.040702}}}
+
+@article{ hrm07,
+Author = {Haxton, Daniel J. and Rescigno, T. N. and McCurdy, C. W.},
+title = {{Dissociative electron attachment to the H2O molecule. II. Nuclear
+   dynamics on coupled electronic surfaces within the local complex
+   potential model}},
+Journal = pra,
+Year = {{2007}},
+Volume = {{75}},
+pages= {012711},
+Abstract = {{We report the results of a first-principles study of dissociative
+   electron attachment to H2O. The cross sections were obtained from
+   nuclear dynamics calculations carried out in full dimensionality within
+   the local complex potential model by using the multiconfiguration
+   time-dependent Hartree method. The calculations employ our previously
+   obtained global, complex-valued, potential-energy surfaces for the
+   three (B-2(1), (2)A(1), and B-2(2)) electronic Feshbach resonances
+   involved in this process. These three metastable states of H2O- undergo
+   several degeneracies, and we incorporate both the Renner-Teller
+   coupling between the B-2(1) and (2)A(1) states as well as the conical
+   intersection between the (2)A(1) and B-2(2) states into our treatment.
+   The nuclear dynamics are inherently multidimensional and involve
+   branching between different final product arrangements as well as
+   extensive excitation of the diatomic fragment. Our results successfully
+   mirror the qualitative features of the major fragment channels
+   observed, but are less successful in reproducing the available results
+   for some of the minor channels. We comment on the applicability of the
+   local complex potential model to such a complicated resonant system.}},
+DOI = {{10.1103/PhysRevA.75.012711}}}
+
+@article{ bs92,
+Author = {Bray, I and Stelbovics, A T},
+Title = {{CONVERGENT CLOSE-COUPLING CALCULATIONS OF ELECTRON-HYDROGEN SCATTERING}},
+Journal = pra,
+Year = {{1992}},
+Volume = {{46}},
+Pages = {6995-7011},
+Abstract = {{The convergence of the close-coupling formalism is studied by expanding
+   the target states in an orthogonal L2 Laguerre basis. The theory is
+   without approximation, and convergence is established by simply
+   increasing the basis size. We present convergent elastic, 2s, and 2p
+   differential cross sections, spin asymmetries, and angular-correlation
+   parameters for the 2p excitation at 35, 54.4, and 100 eV. Integrated
+   and total cross sections as well as T-matrix elements for the first
+   five partial waves are also given.}}}
+
+@article{ fb97,
+Author = {Fursa, D V and Bray, I},
+Title = {{Convergent close-coupling calculations of electron-helium scattering}},
+Journal = jpb,
+Year = {{1997}},
+Volume = {{30}},
+Pages = {757-785},
+Abstract = {{We present a review of the recent electron-helium calculations and
+   experiments concentrating on the extensive application of the
+   convergent close-coupling (CCC) method. Elastic, excitation, and
+   ionization processes are considered, as well as excitation of the
+   metastable states. The present status of agreement between theory and
+   experiment for elastic and discrete excitations of the ground-state is,
+   in our view, quite satisfactory. However, discrepancies for excitation
+   of the metastable states are substantial and invite urgent attention.
+   Application of the CCC method to the calculation of differential
+   ionization cross sections is encouraging, but also shows some
+   fundamental difficulties.}}}
+
+@ARTICLE{CCC, 
+   author = "I. Bray and D. V. Fursa and A. S. Kheifets and A. T. Stelvobics",
+   year = "2002",
+   journal = jpb,
+   volume = "35",
+   pages = "R117"}
+
+@Article{TDCC,
+  author = 	 {M. S. Pinzola and F. J. Robicheaux},
+  journal = 	 pra,
+  year = 	 {2000},
+  volume = 	 {61},
+  pages = 	 {052707}}
+
+@article{ prl07,
+Author = {Pindzola, M. S. and Robicheaux, F. and Loch, S. D. and Berengut, J. C.
+   and Topcu, T. and Colgan, J. and Foster, M. and Griffin, D. C. and
+   Ballance, C. P. and Schultz, D. R. and Minami, T. and Badnell, N. R.
+   and Witthoeft, M. C. and Plante, D. R. and Mitnik, D. M. and Ludlow, J.
+   A. and Kleiman, U.},
+title = {{The time-dependent close-coupling method for atomic and molecular
+   collision processes}},
+Journal = jpb,
+Year = {{2007}},
+Volume = {{40}},
+Pages = {R39-R60},
+Abstract = {{We review the development of the time-dependent close-coupling method
+   to study atomic and molecular few body dynamics. Applications include
+   electron and photon collisions with atoms, molecules, and their ions.}}}
+
+@article{ prc05,
+Author = {Pindzola, MS and Robicheaux, F and Colgan, J},
+title = {{Electron-impact ionization of H-2(+) using a time-dependent
+   close-coupling method}},
+Journal = jpb,
+Year = {{2005}},
+Volume = {{38}},
+Pages = {L285-L290},
+Abstract = {{The first application of the time-dependent close-coupling method to
+   electron-molecule scattering is used to calculate electron-impact
+   ionization cross sections for H-2(+). The time-dependent Schrodinger
+   equation for the six-dimensional wavefunction is reduced to a set of
+   close-coupled equations on a four-dimensional numerical lattice in
+   (r(1), theta(1), r(2), theta(2)) centre-of-mass spherical polar
+   coordinates. When the non-perturbative close-coupling results for low
+   lM angular momenta are combined with perturbative distorted-wave
+   results for high lM angular momenta, the resulting ab initio ionization
+   cross sections are found to be in excellent agreement with experimental
+   measurements in the intermediate energy range.}}}
+
+@article{cch07,
+Author = {Cooper, G. and Christensen, E. and Hitchcock, A. P.},
+Title = {{Quasielastic electron scattering from methane, methane-d4, methane-d2,
+   ethylene, and 2-methylpropane}},
+Journal = jcp,
+Year = {{2007}},
+Volume = {{127}},
+pages = {084315},
+Abstract = {{Quasielastic electron scattering from gaseous species at high momentum
+   transfer was recently reported for the first time {[}Cooper , J.
+   Electron Spectrosc. Relat. Phenom. 155, 28 (2007)]. The first results
+   for CH4 and CD4 were well explained by a classical electron Compton
+   scattering picture in which the electron scatters independently from
+   each atom rather than the molecule as a whole. However, an alternative
+   possible interpretation in terms of nondipole molecular vibrational
+   excitation is suggested by previously published quantum mechanical
+   calculations on high momentum transfer electron scattering from
+   diatomic molecules {[}Bonham and de Souza, J. Chem. Phys. 79, 134
+   (1983)]. In order to determine which of these two interpretations best
+   fits the experimental results, we have measured the quasielastic
+   spectra of gaseous 2-methylpropane, ethylene, methane, and two
+   isotopically substituted methanes, CH2D2 and CD4, at a momentum
+   transfer of similar to 20 a.u. (2.25 keV impact energy and 100 degrees
+   scattering angle). The experimental spectra are found to be composed of
+   as many peaks as there are different atomic isotopes in the molecule
+   (two for CH4, C2H4, 2-methylpropane, and CD4 and three for CH2D2). The
+   peak positions are predicted accurately by the independent atom
+   electron Compton scattering model, and the relative intensities are in
+   reasonable agreement. The experimental results thus support classical
+   electron Compton scattering as the origin of the signal.}}}
+
+@article{orl90,
+   author    = {A~E Orel and T~N Rescigno and B~H {Lengsfield III}},
+   title     = {Theoretical Study of Electron-Impact Excitation of {N}$_2^+$},
+   journal   = pra,
+   year      = 1990,
+   volume    = 42,
+   pages     = {5292}
+}
+
+
+@article{orl91,
+   author    = {A~E Orel  and T~N Rescigno and B~H {Lengsfield~III}},
+   title     = {DISSOCIATIVE EXCITATION OF HEH+ BY ELECTRON-IMPACT  },
+   journal   = pra,
+   year      = {1991},
+   volume    = {44},
+   pages     = {4328-4335}
+}
+
+@Article{tor03,
+  title = {Ab initio study of low-energy electron collisions with ethylene},
+  author = {Trevisan, C. S. and Orel, A. E. and Rescigno, T. N.},
+  journal = {Phys. Rev. A},
+  volume = {68},
+  pages = {062707},
+  numpages = {9},
+  year = {2003}}
+
+@article{win06,
+author={ C. Winstead and V. {McKoy}},
+title={Low-energy electron collisions with gas-phase uracil},
+journal=jcp,volume={125},pages={174304},year={2006}}
+
+
+
+@article{par+91,
+   author    = {Parker, S. D. and McCurdy, C. W. and Rescigno, T. N. and {Lengsfield~III}, B. H.},
+   title     = { },
+   journal   = pra,
+   year      = {1991},
+   volume    = {43},
+   pages     = {3514}
+}
+
+@article{tfb84,
+  author={G Theodorakopoulos and S C Farantos and R J Buenker and S D Peyerimhoff},
+  title={MRD-CI calculations on the potential energy curves of the ground and excited electronic states of the noble-gas hydrides, HeH, NeH and ArH},
+  journal=jpbo,
+  volume={17},
+  pages={1453-1462},
+  year={1984},
+  abstract={MRD-CI calculations have been carried out for the ground- and some excited-state potential curves of He+H, Ne+H and Ar+H. Deep minima are obtained for the excited states at internuclear distances similar to those of the corresponding cations. The B2 Pi to A2 Sigma + computed transition energies do not support a previous assignment to this transition in ArH, at 7670 AA.}
+}
+
+@article{ ptb90,
+Author = {I. D. Petsalakis AND G. Theodorakopoulos and R. J. Buenker},
+Title = {{THEORETICAL TREATMENT OF PREDISSOCIATION IN THE A2 SIGMA+, B 2-PI, AND
+   C2-SIGMA+ STATES OF HEH}},
+Journal = jcp,
+Year = {{1990}},
+Volume = {{92}},
+Pages = {4920-4923}}
+
+@article{vHp91,
+author = {Marc C. {van Hemert} and Sigrid D. Peyerimhoff},
+title = {Resonances and bound rovibrational levels in the interacting X, A, C, and D states of HeH, HeD, [sup 3]HeH, and [sup 3]HeD},
+year = {1991},
+journal = jcp,
+volume = {94},
+pages = {4369-4383},
+keywords = {HELIUM HYDRIDES; POTENTIAL ENERGY SURFACES; BOUND STATE; ROTATIONAL STATES; VIBRATIONAL STATES; ELECTRONIC STRUCTURE; CONFIGURATION INTERACTION; BORNOPPENHEIMER APPROXIMATION; CLOSE COUPLING APPROXIMATION; DEUTERIUM COMPOUNDS; EMISSION SPECTRA},
+doi = {10.1063/1.460624}
+}
+
+@inproceedings{ bfk08,
+Author = {Bray, I. and Fursa, D. V. and Kadyrov, A. S. and Stelbovics, A. T.},
+Editor = {{Ge, ML and Oh, CH and Phua, KK}},
+title = {{RECENT PROGRESS IN ATOMIC IONISATION THEORY}},
+booktitle = {Statistical physics, high energy, condensed matter and mathematical physics},
+Year = {{2008}},
+Pages = {486-497},
+Abstract = {{We give a brief review of the considerable progress made recently in
+   the field of electron-impact ionisation of atoms. Such processes
+   require the solution of three (or more) particles interacting via the
+   Coulomb potential. Though historically the formulation of such problems
+   has been particularly difficult, the calculated fully differential
+   cross sections are in remarkable agreement with experiment for both H
+   and He from near threshold through to high energies.}},
+Publisher = {World Scientific}}
+
+@article{ rbi99,
+Author = {Rescigno, T N and Baertschy, M and Isaacs, W A and McCurdy, C W},
+title = {{Collisional breakup in a quantum system of three charged particles}},
+Journal = sci,
+Year = {{1999}},
+Volume = {{286}},
+Pages = {2474-2479},
+Abstract = {{Since the invention of quantum mechanics, even the simplest example of
+   the collisional breakup of a system of charged particles, e(-) + H -->
+   H+ + e(-) + e(-) (where e(-) is an electron and H is hydrogen), has
+   resisted solution and is now one of the Last unsolved fundamental
+   problems in atomic physics. A complete solution requires calculation of
+   the energies and directions for a final state in which all three
+   particles are moving away from each other. Even with supercomputers,
+   the correct mathematical description of this state has proved difficult
+   to apply, A framework for solving ionization problems in many areas of
+   chemistry and physics is finally provided by a mathematical
+   transformation of the Schrodinger equation that makes the final state
+   tractable, providing the key to a numerical solution of this problem
+   that reveals its full dynamics.}}}
+
+@ARTICLE{EVEN,
+   author = "M. W. Schmidt and K. Ruedenberg",
+   year = "1992",
+   journal = jcp,
+   volume = "71",
+   pages = "3951-3962"
+}
+
+@article{ Wil80,
+Author = {Wilson, S},
+title = {{SYSTEMATIC SEQUENCES OF EVEN-TEMPERED GAUSSIAN PRIMITIVES IN ELECTRON
+   CORRELATION STUDIES USING MANY-BODY PERTURBATION-THEORY}},
+Journal = {{Theoretica Chimica Acta}},
+Year = {{1980}},
+Volume = {{57}},
+Pages = {53-61}}
+
+@article{ mbr04,
+Author = {McCurdy, C W and Baertschy, M and Rescigno, T N},
+title = {{Solving the three-body Coulomb breakup problem using exterior complex
+   scaling}},
+Journal = jpb,
+Year = {{2004}},
+Volume = {{37}},
+Pages = {R137-R187},
+Abstract = {{Electron-impact ionization of the hydrogen atom is the prototypical
+   three-body Coulomb breakup problem in quantum mechanics. The
+   combination of subtle correlation effects and the difficult boundary
+   conditions required to describe two electrons in the continuum have
+   made this one of the outstanding challenges of atomic physics. A
+   complete solution of this problem in the form of a `reduction to
+   computation' of all aspects of the physics is given by the application
+   of exterior complex scaling, a modem variant of the mathematical tool
+   of analytic continuation of the electronic coordinates into the complex
+   plane that was used historically to establish the formal analytic.
+   properties of the scattering matrix. This review first discusses the
+   essential difficulties of the three-body Coulomb breakup problem in
+   quantum mechanics. It then describes the formal basis of exterior
+   complex scaling of electronic coordinates as well as the details of its
+   numerical implementation using a variety of methods including finite
+   difference, finite elements, discrete variable representations and
+   B-splines. Given these numerical implementations of exterior complex
+   scaling, the scattering wavefunction can be generated with arbitrary
+   accuracy on any finite volume in the space of electronic coordinates,
+   but there remains the fundamental problem of extracting the breakup
+   amplitudes from it. Methods are described for evaluating these
+   amplitudes. The question of the volume-dependent overall phase that
+   appears in the formal theory of ionization is resolved. A summary is
+   presented of accurate results that have been obtained for the case of
+   electron-impact ionization of hydrogen as well as a discussion of
+   applications to the double photoionization of helium.}}}
+
+@ARTICLE{BED,
+   author = "W. M. Huo",
+title={Convergent series representation for the generalized oscillator strength of electron-impact ionization and an improved binary-encounter-dipole model},
+abstract={{The use of the Bethe cross section in the binary-encounter-dipole (BED) model for electron-impact ionization is studied. While the dipole contribution in the Born approximation accounts for the longest-range interaction in electron-neutral atom/molecule inelastic collisions at any incident energy. the Bethe formula is applicable only at high energies. To derive a suitable representation of the Born cross section for dipole-allowed transitions. a convergent series representation for the generalized oscillator strength (GOS) of electron-impact ionization is studied. It is shown that by transforming to a new variable determined by the location of the singularities of the GOS on the complex plane of momentum transfer K, a series representation for the GOS is obtained that is convergent at all physically attainable values of K. An approximate representation of the GOS that truncates the series representation to the first three terms is also given. The approximate GOS describes the interaction of the electron with a shielded dipole potential and satisfies both Lassettre's limit theorem at K = 0 and the asymptotic behavior at large K derived by Rau and Fano [A. R P. Rau and U. Fano, Phys. Rev. 162, 68 (1967)]. The dipole-Born cross section so obtained is applicable at all incident energies and goes to the Bethe cross section at the high-energy limit. It provides a more suitable representation of the dipole contribution in the BED model than the Bethe cross section and is valid over the entire energy range. A similar analysis of the optical-oscillator strength (OOS) as a function of the complex momentum for the ejected electron k(p), plus the requirement that the OOS satisfies both the low- and high-k(p) limits produces an analogous series representation for the OOS. An approximate one-term representation of the OOS is also developed that can be used in modeling calculations. Numerical examples of total ionization cross sections of N-2, H2O, CO2, CH4, and CF4 using the new analytical representation are presented to illustrate the applicability of the improved BED model.}},
+   year = "2001",
+   journal = pra,
+   volume = "64",
+   pages = "042719"
+}
+
+@ARTICLE{BEf,
+  author = {Kim, Y K},
+  title = {Scaling of plane-wave Born cross sections for electron-impact excitation
+        of neutral atoms},
+  journal = PRA,
+  year = {2001},
+  volume = {64},
+  pages = {032713},
+}
+
+
+
+@ARTICLE{BEB,
+   author = "Y. K. Kim and M. E. Rudd",
+  title = {BINARY-ENCOUNTER-DIPOLE MODEL FOR ELECTRON-IMPACT IONIZATION},
+    year = "1994",
+   journal = pra,
+   volume = "50",
+   pages = "3945"
+}
+
+@Article{DM,
+  author = {H. Deutsch and K. Becker and S. Matt and T. D. M\"{a}rk},
+  journal = 	 {Int. J. Mass Spec.},
+  year = 	 {2000},
+  volume = 	 {197},
+  pages = 	 {37},
+}
+
+
+@article{ htk09,
+Author = {Hoefener, Sebastian and Tew, David P. and Klopper, Wim and Helgaker,
+   Trygve},
+title = {{The geminal basis in explicitly correlated wave functions}},
+Journal = cp,
+Year = {{2009}},
+Volume = {{356}},
+Pages = {{25-30}},
+Abstract = {{In 1985 Kutzelnigg showed that a large percentage of the electron
+   correlation energy for helium can be recovered using a single
+   explicitly correlated basis function, chosen to fit the cusp at the
+   correlation hole. In particular the simple wave function Psi = (1 +
+   1/2r(12))Phi returned more than 80\% of the correlation energy. In this
+   paper we return to Kutzelnigg's simple ansatz and remove the
+   conventional double excitations in explicitly correlated CC2 theory
+   (denoted as CCS(F12)), applying all established developments in modern
+   F12 theory, such as replacing linear r(12) With f(r(12)) = exp(-gamma
+   r(12)) and the use of auxiliary basis sets for the standard RI
+   approximation in R12 theory. Analysing different approximations we show
+   that in general the CCS(F12) approach yields 80-95\% of the CC2
+   correlation energy, which is astonishingly large considering the small
+   number and restricted form of the geminal basis functions.}}}
+
+@article{ kmt06,
+Author = {Klopper, Wim and Manby, Frederick R. and Ten-No, Seiichiro and Valeev,
+   Edward F.},
+title = {{R12 methods in explicitly correlated molecular electronic structure
+   theory}},
+Journal = irpc,
+Year = {{2006}},
+Volume = {{25}},
+Pages = {{427-468}},
+Abstract = {{The past few years have seen a particularly rich period in the
+   development of the explicitly correlated R12 theories of electron
+   correlation. These theories bypass the slow convergence of conventional
+   methods, by augmenting the traditional orbital expansions with a small
+   number of terms that depend explicitly on the interelectronic distance
+   r(12). Amongst the very numerous discoveries and developments that we
+   will review here, two stand out as being of particular interest. First,
+   the fundamental numerical approximations of the R12 methods withstand
+   the closest scrutiny: Kutzelnigg's use of the resolution of the
+   identity and the generalized Brillouin condition to avoid
+   many-electronic integrals remains sound. Second, it transpires that
+   great gains in accuracy can be made by changing the dependence on the
+   interelectronic coordinate from linear ( r(12)) to some suitably chosen
+   short-range form (e.g., exp (-alpha r(12))). Modern R12 ( or F12)
+   methods can deliver MP2 energies ( and beyond) that are converged to
+   chemical accuracy ( 1 kcal/mol) in triple- or even double-zeta basis
+   sets. Using a range of approximations, applications to large molecules
+   become possible. Here, the major developments in the field are
+   reviewed, and recommendations for future directions are presented. By
+   comparing with commonly used extrapolation techniques, it is shown that
+   modern R12 methods can deliver high accuracy dramatically faster than
+   by using conventional methods.}}}
+
+@article{mp79,
+author = {Glenn O. Morell and Robert G. Parr},
+title = {Estimates of helium l-limit energies},
+year = {1979},
+journal = jcp,
+volume = {71},
+pages = {4139-4141}}
+
+@Article{c84,
+  title = {Eigenphase sum in electron scattering by polar molecules},
+  author = {Clark, Charles W.},
+  journal = pra,
+  volume = {30},
+  pages = {750--757},
+  year = {1984},
+  doi = {10.1103/PhysRevA.30.750}}
+
+@article{cs03,
+Author = {Caron, L G and Sanche, L},
+title = {{Low-energy electron diffraction and resonances in DNA and other helical
+   macromolecules}},
+Journal = prl,
+Year = {{2003}},
+Volume = {{91}},
+Abstract = {{We propose a framework to calculate the intermolecular multiple elastic
+   scattering of low-energy electrons from helical macromolecules and
+   indicate how it affects the resonant capture cross section. Using a
+   model of DNA, an appreciable enhancement of the elastic and resonant
+   capture cross sections is predicted at incident energies below 15 eV.
+   These results may qualitatively explain the observed prominence of
+   low-energy resonances in strand breaking of plasmid DNA.}},
+DOI = {{10.1103/PhysRevLett.91.113201}},
+pages= {113201}}
+
+@article{ cs04,
+Author = {Caron, L and Sanche, L},
+title = {{Diffraction in resonant electron scattering from helical
+   macromolecules: A- and B-type DNA}},
+Journal = pra,
+Year = {{2004}},
+Volume = {{70}},
+Abstract = {{We elaborate our theoretical framework to treat low-energy electron
+   scattering from helical macromolecules. A model of simple scatterers
+   organized into a helical structure is proposed with application to
+   base-pair arrangements in DNA. We extend our analysis to A-type DNA as
+   well as nonperiodic arrangements in B-type DNA. Diffraction patterns
+   due to base-pair spacing are observed under all conditions. We discuss
+   the role of electron diffraction in electron attachment to the bases
+   leading to the formation of shape and core-excited resonances. The
+   decay of such transient anions into dissociative-state channels
+   producing DNA strand breaks is also described. We find A-type DNA to be
+   much more sensitive to low-energy electrons than B type.}},
+DOI = {{10.1103/PhysRevA.70.032719}},
+pages= {032719}}
+
+@Article{fd72,
+  title = {Angular Momentum Transfer in the Theory of Angular Distributions},
+  author = {Fano, U.  and Dill, Dan },
+  journal = pra,
+  volume = {6},
+  pages = {185--192},
+  year = {1972},
+  doi = {10.1103/PhysRevA.6.185}}
+
+@article{ cf85,
+Author = {Campbell, D M and Farago, P S},
+title = {{SPIN-DEPENDENT ELECTRON-SCATTERING FROM OPTICALLY-ACTIVE MOLECULES}},
+Journal = {Nature},
+Year = {{1985}},
+Volume = {{318}},
+Pages = {52-53}}
+
+@article{ bt98,
+Author = {Blum, K and Thompson, DG},
+title = {{Chiral effects in electron scattering by molecules}},
+journal = aamop,
+Year = {{1998}},
+Volume = {{38}},
+Pages = {39-86}}
+
+@article{ nc07,
+Author = {Niikura, Hiromichi and Corkum, P. B.},
+title = {{Attosecond and Angstrom science}},
+journal = aamop,
+Year = {{2007}},
+Volume = {{54}},
+Pages = {511-548},
+Abstract = {{When a strong laser field ionizes atoms (or molecules), the electron
+   wave packet that tunnels from the molecule moves under the influence of
+   the strong field and can re-collide with its parent ion. The maximum
+   re-collision electron kinetic energy depends on the laser wavelength.
+   Timed by the laser field oscillations, the re-colliding electron
+   interferes with the bound state wave function from which it tunneled.
+   The oscillating dipole caused by the quantum interference produces
+   attosecond optical pulses. Interference can characterize both
+   interfering beams-their wavelength, phase and spatial structure. Thus,
+   written on the attosecond pulse is an image of the bound state orbital
+   and the wave function at the re-collision electron. In addition to
+   interfering, the re-collision electron can elastically or inelastically
+   scatter from its parent ion, diffracting from the ion, and exciting or
+   even exploding it. We review attosecond technology while emphasizing
+   the underlying electron-ion re-collision physics.}}}
+
+@article{ tjg96,
+Author = {Trantham, K W and Johnston, M E and Gay, T J},
+title = {{Failure to observe electron circular dichroism in camphor}},
+Journal = {Can. J. Phys.},
+Year = {{1996}},
+Volume = {{74}},
+Pages = {925-928},
+Abstract = {{Analogous to optical circular dichroism, it is possible to have
+   electron circular dichroism, the preferential transmission of
+   longitudinally polarized electrons through a chiral medium. Using
+   stereoisomers of camphor vapor as a scattering target, we looked for
+   this effect at incident electron energies of 1, 3, 5, 7, or 10 eV.
+   Within our detection limit (similar to 0.02\%) we have not observed a
+   spin-dependent asymmetric transmission.}}}
+
+@Article{mk95,
+  title = {Experimental Verification of Electron Optic Dichroism},
+  author = {Mayer, Stefan  and Kessler, Joachim },
+  journal = prl,
+  volume = {74},
+  pages = {4803--4806},
+  year = {1995},
+  doi = {10.1103/PhysRevLett.74.4803}}
+
+@article{ gk06,
+Author = {Greene, Chris H. and Kokoouline, V.},
+title = {{Theoretical progress and challenges in H-3(+) dissociative recombination}},
+journal = {Phil.  Trans.  Royal Soc.  London A},
+Year = {{2006}},
+Volume = {{364}},
+Pages = {2965-2980},
+Abstract = {{We discuss the Jahn-Teller mechanism for dissociative recombination in
+   low energy collisions between electrons and H-3(+) ions, in energy
+   ranges relevant to the processes underway in interstellar clouds. While
+   theory has become capable of predicting recombination rates in
+   reasonable agreement with storage ring experiments, some discrepancies
+   remain with them, and a long-standing discrepancy with stationary
+   afterglow measurements remains troubling. Speculations about the
+   desirable improvements in both theory and experiment are presented.}}}
+
+@Article{kg03,
+  title = {Unified theoretical treatment of dissociative recombination of $D3h$ triatomic ions: Application to $H3+$ and $D3+$ },
+  author = {Kokoouline, Viatcheslav  and Greene, Chris H.},
+  journal = pra,
+  volume = {68},
+  pages = {012703},
+  year = {2003},
+  doi = {10.1103/PhysRevA.68.012703}}
+
+@article{lej09,
+  author={J Lecointre and M O Abdellahi {El Ghazaly} and J J Jureta and D S Belic and X Urbain and P Defrance},
+  title={Absolute cross-sections and kinetic energy release distributions for electron-impact dissociation of D+3},
+  journal=jpb,
+  volume={42},
+  pages={075201},
+  year={2009},
+  abstract={Absolute cross-sections for electron-impact dissociation of D+3 leading to the formation of D+ and D+2 products have been measured by applying the animated electron-ion beam method in the energy range from the respective thresholds up to 2.5 keV. The maximum total cross-sections are observed to be (13.9 +- 1.1) x 10[?]17 cm2 and (8.2 +- 0.1) x 10[?]17 cm2 (around 50 eV) for D+ and for D+2 fragments, respectively. The present results are in a satisfactory agreement with those of experiments performed at storage ring facilities in the low energy range ($<$30 eV). The data of D+ formation especially show resonant dissociative excitation playing a significant role in the collision energy range below the vertical excitation energy for the lowest electronic transition. The yields of fast D+ and D+2 ions have been measured; these energetic dissociations are mainly ascribed to dissociative ionization. For each fragment, absolute cross-sections are determined separately for dissociative excitation and for dissociative ionization processes. Kinetic energy release distributions are seen to extend from 0 to 16 eV both for D+ and for D+2 fragments. Present energy thresholds and kinetic energy release results are compared with available published data, allowing in some cases identification of fragmentation patterns and of molecular states contributing to observed processes.}}
+}
+
+@Article{ok93,
+  title = {Resonant dissociative recombination of $H3+$},
+  author = {Orel, A. E. and Kulander, K. C.},
+  journal = prl,
+  volume = {71},
+  pages = {4315--4318},
+  year = {1993},
+  doi = {10.1103/PhysRevLett.71.4315}}
+
+@article{ogg05,
+Author = {Oka, T and Geballe, T R and Goto, M and Usuda, T and McCall, B J},
+title = {{Hot and diffuse clouds near the galactic center probed by metastable
+   H-3(+)1,2,3}},
+Journal = {Astrophys.\ J.},
+Year = {{2005}},
+Volume = {{632}},
+Pages = {882-893},
+Abstract = {{Using an absorption line from the metastable (J; K) ( 3; 3) level of
+   H-3(+) together with other lines of H-3(+) and CO observed along
+   several sight lines, we have discovered a vast amount of
+   high-temperature (T similar to 250 K) and low-density (n similar to 100
+   cm(-3)) gas with a large velocity dispersion in the central molecular
+   zone (CMZ) of the Galaxy, i. e., within 200 pc of the center.
+   Approximately three-fourths of the H-3(+) along the line of sight to
+   the brightest source we observed, the Quintuplet object GCS 3-2, is
+   inferred to be in the CMZ, with the remaining H-3(+) located in
+   intervening spiral arms. About half of the H-3(+) in the CMZ has
+   velocities near similar to -100 km s(-1), indicating that it is
+   associated with the 180 pc radius expanding molecular ring, which
+   approximately forms the outer boundary of the CMZ. The other half, with
+   velocities of similar to -50 and similar to 0 km s(-1), is probably
+   closer to the center. CO is not very abundant in these clouds. Hot and
+   diffuse gas in which the (3, 3) level is populated was not detected
+   toward several dense clouds and diffuse clouds in the Galactic disk
+   where large column densities of colder H-3(+) have been reported
+   previously. Thus, the newly discovered environment appears to be unique
+   to the CMZ. The large observed H-3(+) column densities in the CMZ
+   suggest an ionization rate much higher than in the diffuse interstellar
+   medium in the Galactic disk. Our finding that the H-3(+) in the CMZ is
+   almost entirely in diffuse clouds indicates that the reported volume
+   filling factor (f >= 0.1) for n >= 10(4) cm(-3) clouds in the CMZ is an
+   overestimate by at least an order of magnitude.}}}
+
+@Article{nmf03,
+  title = {Vibrational relaxation and dissociative recombination of $H2+$ induced by slow electrons},
+  author = {Ngassam, V.  and Motapon, O.  and Florescu, A.  and Pichl, L.  and Schneider, I. F. and Suzor-Weiner, A. },
+  journal = pra,
+  volume = {68},
+  pages = {032704},
+  year = {2003},
+  doi = {10.1103/PhysRevA.68.032704}}
+
+@Article{kab00,
+  title = {Electron-induced vibrational deexcitation of $H2+$ },
+  author = {Krohn, S.  and Amitay, Z.  and Baer, A.  and Zajfman, D.  and Lange, M.  and Knoll, L.  and Levin, J.  and Schwalm, D.  and Wester, R.  and Wolf, A. },
+  journal = pra,
+  volume = {62},
+  pages = {032713},
+  year = {2000},
+  doi = {10.1103/PhysRevA.62.032713}}
+
+@article{ mtu08,
+Author = {Motapon, Ousmanou and Tamo, Francois Olivier Waffeu and Urbain, Xavier
+   and Schneider, Ioan F.},
+title = {{Decisive role of rotational couplings in the dissociative recombination
+   and superelastic collisions of H-2(+) with low-energy electrons}},
+Journal = pra,
+Year = {{2008}},
+Volume = {{77}},
+Abstract = {{The multichannel quantum-defect theory is used to investigate the role
+   of the numerous couplings between rovibrational states in the
+   dissociative recombination and superelastic collisions of H-2(+) with
+   low-energy electrons, within different molecular electronic symmetries.
+   All the paths accessible are considered. In the case of the singlet
+   gerade symmetry of the neutral system, for example, not only the
+   dominant path, (1)Sigma(+)(g), is taken into account, but also
+   (1)Pi(+)(g), rotationally coupled to (1)Sigma(+)(g), via a frame
+   transformation from the interaction region to the external one. The
+   initial vibrational states investigated are upsilon(+)(i)=0-4. The
+   final rate coefficients are obtained as weighted sums including the
+   so-called ortho-para effect, at room temperature, over all the relevant
+   rotational initial states N-i(+), which vary from 0 to 12. The results
+   show that the consideration of rotational effects give a much better
+   overall agreement of the dissociative recombination rate coefficients
+   with experiment, and that, for superelastic collisions, these effects
+   can be used to account, at least partly, for the discrepancies between
+   our former calculations and experiment, which showed a strong
+   vibrational relaxation of H-2(+).}},
+DOI = {{10.1103/PhysRevA.77.052711}},
+pages = {052711}}
+
+@article{im05,
+   author = {Y Itikawa and N Mason},
+    title = {},
+     year = 2005,
+  journal = jpcrd,
+   volume = {34},
+    pages = {1-22}}
+
+
+@article{cho04,
+   author = {H Cho and  Y-S Park and H Tanaka and S J Buckman},
+    title = {},
+     year = 2004,
+  journal = jpb,
+   volume = {37},
+    pages = {625}}
+
+@article{ksm08,
+   author = {Khakoo, M A and Silva, H and Muse, J and  Lopes, M C A and Winstead, C and {McKoy} V}, 
+    title = {},
+     year = 2008,
+  journal = pra,
+   volume = {78},
+    pages = {052710}}
+
+@article{jam+82,
+   author = {K Jung and Th Antoni and R M\"uller and K-H Kochem and H Ehrhardt},    
+  title = {},
+     year = 1982,
+  journal = jpb,
+   volume = {15},
+    pages = {3535-3555}}
+
+@article{tor06,
+Author = {Trevisan, C. S. and Orel, A. E. and Rescigno, T. N.},
+title = {{Elastic scattering of low-energy electrons by tetrahydrofuran}},
+Journal = jpb,
+Year = {{2006}},
+Volume = {{39}},
+Pages = {L255-L260},
+Abstract = {{We present the results of ab initio calculations for elastic electron
+   scattering by tetrahydrofuran (THF) using the complex Kohn variational
+   method. We carried out fixed-nuclei calculations at the equilibrium
+   geometry of the target molecule for incident electron energies up to 20
+   eV. The calculated momentum transfer cross sections clearly reveal the
+   presence of broad shape resonance behaviour in the 8-10 eV energy
+   range, in agreement with recent experiments. The calculated
+   differential cross sections at 20 eV, which include the effects of the
+   long-range electron-dipole interaction, are also found to be in
+   agreement with the most recent experimental findings.}},
+DOI = {{10.1088/0953-4075/39/12/L01}}}
+
+@string{molpro_address="Cardiff, UK"}
+@string{molpro_url="http://www.molpro.net"}
+
+@misc{molpro,
+title={MOLPRO, version 2008.1, a package of ab initio programs},
+author={
+H.-J. Werner and
+P. J. Knowles and
+R. Lindh and
+F. R. Manby and
+M. {Sch\"{u}tz} and
+others
+},
+note={see }#molpro_url,
+address=molpro_address,
+year=2008,
+}
+
+@article{ srm98,
+Author = {Sommerfeld, T and Riss, U V and Meyer, H D and Cederbaum, L S and Engels, B and Suter, H U},
+title = {{Temporary anions - calculation of energy and lifetime by absorbing
+   potentials: the N-2(-) (2)Pi(g) resonance}},
+Journal = jpb,
+Year = {{1998}},
+Volume = {{31}},
+Pages = {4107-4122},
+Abstract = {{The calculation of energies and lifetimes of metastable molecules
+   requires the treatment of both the continuum and correlation effects.
+   We describe the complex absorbing potential approach incorporated
+   within a configuration-interaction framework. The absorbing potential
+   method allows a very efficient solution of the continuum problem,
+   making possible a detailed study of the correlation effects that turn
+   out to be surprisingly strong. The famous N-2(-) (2)Pi(g) resonance is
+   studied as a test case and much attention is paid to an internally
+   balanced treatment of the metastable state. Our findings are
+   rationalized within a simple model that is then used to understand the
+   results of various previous studies.}}}
+
+@article{ rab07,
+Author = {Roellig, M. and Abel, N. P. and Bell, T. and Bensch, F. and Black, J.
+   and Ferland, G. J. and Jonkheid, B. and Kamp, I. and Kaufman, M. J. and
+   {Le Bourlot}, J. and {Le Petit}, F. and Meijerink, R. and Morata, O. and
+   Ossenkopf, V. and Roueff, E. and Shaw, G. and Spaans, M. and Sternberg,
+   A. and Stutzki, J. and Thi, W.-F. and {van Dishoeck}, E. F. and {van Hoof},
+   P. A. M. and Viti, S. and Wolfire, M. G.},
+title = {{A photon dominated region code comparison study}},
+Journal = aa,
+Year = {{2007}},
+Volume = {{467}},
+Pages = {187-206},
+Abstract = {{Aims. We present a comparison between independent computer codes,
+   modeling the physics and chemistry of interstellar photon dominated
+   regions (PDRs). Our goal was to understand the mutual differences in
+   the PDR codes and their effects on the physical and chemical structure
+   of the model clouds, and to converge the output of different codes to a
+   common solution.
+   Methods. A number of benchmark models have been created, covering low
+   and high gas densities n = 10(3), 10(5.5) cm(-3) and far ultraviolet
+   intensities chi = 10, 10(5) in units of the Draine field (FUV: 6 < h nu
+   < 13.6 eV). The benchmark models were computed in two ways: one set
+   assuming constant temperatures, thus testing the consistency of the
+   chemical network and photo-processes, and a second set determining the
+   temperature self consistently by solving the thermal balance, thus
+   testing the modeling of the heating and cooling mechanisms accounting
+   for the detailed energy balance throughout the clouds.
+   Results. We investigated the impact of PDR geometry and agreed on the
+   comparison of results from spherical and plane-parallel PDR models. We
+   identified a number of key processes governing the chemical network
+   which have been treated differently in the various codes such as the
+   effect of PAHs on the electron density or the temperature dependence of
+   the dissociation of CO by cosmic ray induced secondary photons, and
+   defined a proper common treatment. We established a comprehensive set
+   of reference models for ongoing and future PDR model bench-marking and
+   were able to increase the agreement in model predictions for all
+   benchmark models significantly. Nevertheless, the remaining spread in
+   the computed observables such as the atomic fine-structure line
+   intensities serves as a warning that there is still a considerable
+   uncertainty when interpreting astronomical data with our models.}}}
+
+
+@article{bdg89,
+   author = {R W Brankin and J R Dormand and I Gladwell and P Prince and W L Seward},    
+  title = {ALGORITHM 670: A Runge-Kutte-Nystrom Code},
+     year = 1989,
+  journal = {ACM Trans. Math. Soft.},
+   volume = {15},
+    pages = {31-40}}
+
+@article{bhm13,
+Author = {Brunton, J. R. and Hargreaves, L. R. and Maddern, T. M. and Buckman, S.
+   J. and Garcia, G. and Blanco, F. and Zatsarinny, O. and Bartschat, K.
+   and Jones, D. B. and da Silva, G. B. and Brunger, M. J.},
+Title = {{Differential cross sections for low-energy elastic electron scattering
+   from the CF3 radical}},
+Journal = jpb,
+Year = {{2013}},
+Volume = {{46}},
+Abstract = {{We report measurements of differential cross sections for elastic
+   electron scattering from CF3. These experiments were performed at nine
+   incident electron energies in the range 7-50 eV and over a scattered
+   electron angular range of 20 degrees-135 degrees. Where possible,
+   results from the present measurements are compared with those from
+   earlier R-matrix and Schwinger multichannel computations, as well as
+   those from an extended independent atom model approach that were
+   calculated as a part of the present study. Agreement with theory is
+   generally good at energies above 20 eV, but for 20 eV and below the
+   magnitude of the measured differential cross sections are significantly
+   larger than those predicted by all the theories.}},
+DOI = {{10.1088/0953-4075/46/24/245203}},
+pages = {245203}}
+
+@article{basis_set,
+        author = {T.H. Dunning},
+        title = {Gaussian basis sets for use in correlated molecular calculations. I. The atoms boron through neon and hydrogen},
+        journal =  {J. Chem. Phys.},
+        volume = {90},
+        year =   {1989},
+        DOI =    {http://dx.doi.org/10.1063/1.456153},
+        pages = {1007-1023},
+}
+
+@article{slater1951simplification,
+  title={A simplification of the Hartree-Fock method},
+  author={Slater, John C},
+  journal={Phys. Rev.},
+  volume={81},
+  pages={385},
+  year={1951},
+}
+
+@article{werner1988efficient,
+  title={An efficient internally contracted multiconfiguration--reference configuration interaction method},
+  author={Werner, Hans-Joachim and Knowles, Peter J},
+  journal=JCP,
+  volume={89},
+  pages={5803--5814},
+  year={1988},
+}
+
+@article{Yip2010,
+Author = {Yip, F. L. and McCurdy, C. W. and Rescigno, T. N.},
+Title = {{Hybrid orbital and numerical grid representation for electronic
+   continuum processes: Double photoionization of atomic beryllium}},
+Journal = PRA,
+Year = {{2010}},
+Volume = {{81}},
+Abstract = {{A general approach for ab initio calculations of electronic continuum
+   processes is described in which the many-electron wave function is
+   expanded using a combination of orbitals at short range and the
+   finite-element discrete-variable representation (FEM-DVR) at larger
+   distances. The orbital portion of the basis allows efficient
+   construction of many-electron configurations in which some of the
+   electrons are bound, but because the orbitals are constructed from an
+   underlying FEM-DVR grid, the calculation of two-electron integrals
+   retains the efficiency of the primitive FEM-DVR approach. As an example,
+   double photoionization of beryllium is treated in a calculation in which
+   the 1s(2) core is frozen. This approach extends the use of exterior
+   complex scaling (ECS), successfully applied to helium and H(2), to
+   calculations with two active electrons on more complicated targets.
+   Integrated, energy-differential and triply-differential cross sections
+   are exhibited, and the results agree well with other theoretical
+   investigations.}},
+DOI = {{10.1103/PhysRevA.81.053407}},
+pages = {053407}}

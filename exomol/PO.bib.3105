@@ -1,0 +1,96 @@
+﻿
+@article{ 13LiShSu.PO,
+Author = {Liu, Hui and Shi, Deheng and Sun, Jinfeng and Zhu, Zunlue},
+Title = {{Calculations on thirteen Lambda-S states of PO radical: Electronic
+   structure, spectroscopy and spin-orbit coupling}},
+Journal = JQSRT,
+Year = {{2013}},
+Volume = {{121}},
+Pages = {9-22},
+DOI = {{10.1016/j.jqsrt.2013.02.021}},
+}
+
+
+@article{ 12SuWaSh.PO,
+Author = {Sun, Jin-Feng and Wang, Jie-Min and Shi, De-Heng},
+Title = {{Multireference configuration interaction study on spectroscopic
+   parameters and molecular constants of PO and PO}},
+Journal = IJQC,
+Year = {{2012}},
+Volume = {{112}},
+Pages = {{672-682}},
+DOI = {{10.1002/qua.23040}}}
+
+@article{ 03MiOuDe.PO,
+Author = {Moussaoui, Y and Ouamerali, O and De Mare, G R},
+Title = {{Properties of the phosphorus oxide radical, PO, its cation and anion in
+   their ground electronic states: comparison of theoretical and
+   experimental data}},
+Journal = {Int. Rev. Phys. Chem.},
+Year = {{2003}},
+Volume = {{22}},
+Pages = {641-675},
+DOI = {{10.1080/01442350310001617011}},
+}
+
+@article{ 03MePaMa.PO
+Author = {Metropoulos, A and Papakondylis, A and Mavridis, A},
+Title = {{Ab initio investigation of the ground state properties of PO, PO+, and
+   PO-}},
+Journal = JCP,
+Year = {{2003}},
+Volume = {{119}},
+Pages = {5981-5987},
+DOI = {{10.1063/1.1599341}},
+}
+
+@article{ 02BaBoDe.PO,
+Author = {Bailleux, S and Bogey, M and Demuynck, C and Liu, Y and Walters, A},
+Title = {{Millimeter-wave spectroscopy of PO in excited vibrational states up to
+   v=7}},
+Journal = JMS,
+Year = {{2002}},
+Volume = {{216}},
+Pages = {465-471},
+DOI = {{10.1006/jmsp.2002.8665}},
+}
+
+@article{ 99Dexxxx.PO,
+Author = {de Brouckere, G},
+Title = {{Configuration interaction calculations of miscellaneous properties of
+   the X (2)Pi(r) ground state, the C ` (2)Delta excited state and related
+   C ` (2)Delta-X (2)Pi(r) transition bands of PO: I. X (2)Pi(r) ground
+   state}},
+Journal = JPB,
+Year = {{1999}},
+Volume = {{32}},
+Pages = {5415-5435},
+}
+
+@article{ 95Qixxxx.PO,
+Author = {Qian, H B},
+Title = {{Molecular constants of PO (X(2)Pi) from microwave and infrared laser
+   spectroscopy}},
+Journal = JMS,
+Year = {{1995}},
+Volume = {{174}},
+Pages = {599-602},
+DOI = {{10.1006/jmsp.1995.0027}},
+}
+
+
+
+  	
+@article{ 16RiFoBe.PO,
+  author={V. M. Rivilla and F. Fontani and M. T. Beltrán and A. Vasyunin and P. Caselli and J. Martín-Pintado and R. Cesaroni},
+  title={The First Detections of the Key Prebiotic Molecule PO in Star-forming Regions},
+  journal=ApJ,
+  volume={826},
+  number={2},
+  pages={161},
+  url={http://stacks.iop.org/0004-637X/826/i=2/a=161},
+  year={2016},
+  abstract={Phosphorus is a crucial element in biochemistry, in particular the P−O bond, which is key in the formation of the backbone of deoxyribonucleic acid. So far, PO has only been detected toward the envelope of evolved stars, but never toward star-forming regions. We report the first detection of PO toward two massive star-forming regions, W51 e1/e2 and W3(OH), using data from the IRAM 30 m telescope. PN has also been detected toward the two regions. The abundance ratio PO/PN is 1.8 and 3 for W51 and W3(OH), respectively. Our chemical model indicates that the two molecules are chemically related and are formed via gas-phase ion–molecule and neutral–neutral reactions during cold collapse. The molecules freeze out onto grains at the end of the collapse and desorb during the warm-up phase once the temperature reaches ∼35 K. Similar abundances of the two species are expected during a period of ∼5 × 10 4 yr at the early stages of the warm-up phase, when the temperature is in the range 35–90 K. The observed molecular abundances of 10 −10 are predicted by the model if a relatively high initial abundance of 5 × 10 −9 of depleted phosphorus is assumed.}
+}
+
+	

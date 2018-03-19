@@ -1,0 +1,375 @@
+﻿
+@article{ 12RiGoRo.H2,
+Author = {Richard, C. and Gordon, I. E. and Rothman, L. S. and Abel, M. and
+   Frommhold, L. and Gustafsson, M. and Hartmann, J. -M. and Hermans, C.
+   and Lafferty, W. J. and Orton, G. S. and Smith, K. M. and Tran, H.},
+Title = {New section of the HITRAN database: Collision-induced absorption (CIA)},
+Journal = JQSRT,
+Year = {2012},
+Volume = {113},
+Pages = {1276-1285},
+Abstract = {This paper describes the addition of Collision-Induced Absorption (CIA)
+   into the HITRAN compilation. The data from different experimental and
+   theoretical sources have been cast into a consistent format and
+   formalism. The implementation of these new spectral data into the HITRAN
+   database is invaluable for modeling and interpreting spectra of telluric
+   and other planetary atmospheres as well as stellar atmospheres. In this
+   implementation for HITRAN, CIAs of N-2, H-2, O-2, CO2, and CH4 due to
+   various collisionally interacting atoms or molecules are presented. Some
+   CIA spectra are given over an extended range of frequencies, including
+   several H-2 overtone bands that are dipole-forbidden in the
+   non-interacting molecules. Temperatures from tens to thousands of Kelvin
+   are considered, as required, for example, in astrophysical analyses of
+   objects, including cool white dwarfs, brown dwarfs. M dwarfs, cool main
+   sequence stars, solar and extra-solar planets, and the formation of
+   so-called first stars.},
+DOI = {10.1016/j.jqsrt.2011.11.004},
+Journal-ISO = {J. Quant. Spectrosc. Radiat. Transf.},
+}
+
+@article{ 12CaKaPa.H2,
+Author = {Campargue, Alain and Kassi, Samir and Pachucki, Krzysztof and Komasa,
+   Jacek},
+Title = {The absorption spectrum of H-2: CRDS measurements of the (2-0) band,
+   review of the literature data and accurate ab initio line list up to
+   35000 cm(-1)},
+Journal = PCCP,
+Year = {2012},
+Volume = {14},
+Pages = {802-815},
+Abstract = {Five very weak transitions-O(2), O(3), O(4), O(5) and Q(5)-of the first
+   overtone band of H-2 are measured by very high sensitivity CW-Cavity
+   Ring Down Spectroscopy (CRDS) between 6900 and 7920 cm (1). The noise
+   equivalent absorption of the recordings is on the order of alpha(min)
+   approximate to 5 x 10(-11) cm(-1) allowing for the detection of the O(5)
+   transition with an intensity of 1.1 x 10(-30) cm per molecule, the
+   smallest intensity value measured so far for an H-2 absorption line. A
+   Galatry profile was used to reproduce the measured line shape and derive
+   the line strengths. The pressure shift of the O(2) and O(3) lines was
+   accurately determined from a series of recordings with pressure ranging
+   between 10 and 700 Torr. From an exhaustive review of the literature
+   data, the list of H2 absorption lines detected so far has been
+   constructed. It includes a total of 39 transitions ranging from the S(0)
+   pure rotational line near 354 cm(-1) up to the S(1) transition of the
+   (5-0) band near 18 908 cm(-1). These experimental values are compared to
+   a highly accurate theoretical line list constructed for pure H-2 at 296
+   K (0-35 000 cm(-1), intensity cut off of 1 x 10(-34) cm per molecule).
+   The energy levels and transition moments were computed from high level
+   quantum mechanics calculations. The overall agreement between the
+   theoretical and experimental values is found to be very good for the
+   line positions. Some deviations for the intensities of the high overtone
+   bands (V > 2) are discussed in relation with possible pressure effects
+   affecting the retrieved intensity values. We conclude that the hydrogen
+   molecule is probably a unique case in rovibrational spectroscopy for
+   which first principles theory can provide accurate spectroscopic
+   parameters at the level of the performances of the state of the art
+   experimental techniques.},
+DOI = {10.1039/c1cp22912e},
+Journal-ISO = {Phys. Chem. Chem. Phys.},
+}
+
+@article{ 11AbFrLi.H2,
+Author = {Abel, Martin and Frommhold, Lothar and Li, Xiaoping and Hunt, Katharine
+   L. C.},
+Title = {Collision-Induced Absorption by H-2 Pairs: From Hundreds to Thousands of
+   Kelvin},
+Journal = JPCA,
+Year = {2011},
+Volume = {115},
+Pages = {6805-6812},
+Abstract = {An interaction-induced dipole surface (IDS) and a potential energy
+   surface (PES) of collisionally interacting molecular hydrogen pairs
+   H-2-H-2 was recently obtained using quantum chemical methods (Li, X.; et
+   al. Computational Methods in Science and Engineering, ICCMSE. AIP Conf.
+   Proc. 2009,; see also Li, X.; et al. Int. J. Spectrosc. 2010, ID
+   371201). The data account for substantial rotovibrational excitations of
+   the H-2 molecules, as encountered at temperatures of thousands of kelvin
+   (e.g., in the atmospheres of ``cool{''} stars). In this work we use
+   these results to compute the binary collision-induced absorption (CIA)
+   spectra of dense hydrogen gas in the infrared at temperatures up to
+   several thousand kelvin. The principal interest of the work is in the
+   spectra at such higher temperatures, but we also compare our
+   computations with existing laboratory measurements of CIA spectra of
+   dense hydrogen gas and find agreement.},
+DOI = {10.1021/jp109441f},
+Journal-ISO = {J. Phys. Chem. A},
+}
+
+@article{ 84DaHexx.H2,
+Author = {Dabrowski, I and Herzberg, G},
+Title = {THE ALPHA-3SIGMA-G+-C3-PIU AND C3-PIU-ALPHA-3SIGMA-G+ SYSTEMS IN THE
+   INFRARED-SPECTRUM OF H2 AND D2},
+Journal = {Acta Phys. Hungarica},
+Year = {1984},
+Volume = {55},
+Pages = {219-228},
+}
+
+@article{ 77TuKiDa.H2,
+Author = {Turner, J and Kirbydocken, K and Dalgarno, A},
+Title = {QUADRUPOLE VIBRATION-ROTATION TRANSITION-PROBABILITIES OF
+   MOLECULAR-HYDROGEN},
+Journal = ApJS,
+Year = {1977},
+Volume = {35},
+Number = {3},
+Pages = {281-292},
+DOI = {10.1086/190481},
+Journal-ISO = {Astrophys. J. Suppl. Ser.},
+}
+
+@article{15AsLaxx.H2,
+   author = {Astashkevich, S. A. and Lavrov, B. P.},
+   title = {Lifetimes of Vibro-Rotational Levels in Excited Electronic States of Diatomic Hydrogen Isotopologues},
+   journal = {Journal of Physical and Chemical Reference Data},
+   year = {2015},
+   volume = {44},
+   number = {2}, 
+   eid = 023105,
+   pages = {-},
+   url = {http://scitation.aip.org/content/aip/journal/jpcrd/44/2/10.1063/1.4921434},
+   doi = {http://dx.doi.org/10.1063/1.4921434}
+}
+
+
+@article{68LeBexx.H2,
+author  = {R. J. {Le Roy} and R. B. Bernstein},
+journal = JCP,
+title   = {Dissociation Energy and Vibrational Terms of Ground-State ($X$~ $^1\Sigma_g^+$) Hydrogen},
+volume  = {49},
+year    = {1968},
+pages   = {4312}
+}
+
+@Article{kw63,
+  author =       {W. Kolos AND L. Wolniewicz},
+  title =        {{Nonadiabatic Theory for Diatomic Molecules and Its Application to the Hydrogren Molecule}},
+  journal =      RMP,
+  year =         {1963},
+   volume =       {35},
+  pages =        {473},
+}
+
+@article{ 13DiNiSa.H2,
+Author = {Dickenson, G. D. and Niu, M. L. and Salumbides, E. J. and Komasa, J. and
+   Eikema, K. S. E. and Pachucki, K. and Ubachs, W.},
+Title = {{Fundamental Vibration of Molecular Hydrogen}},
+Journal = PRL,
+Year = {{2013}},
+Volume = {{110}},
+pages = {193601},
+Abstract = {{The fundamental ground tone vibration of H-2, HD, and D-2 is determined
+   to an accuracy of 2 x 10(-4) cm(-1) from Doppler-free laser spectroscopy
+   in the collisionless environment of a molecular beam. This rotationless
+   vibrational splitting is derived from the combination difference between
+   electronic excitation from the X-1 Sigma(+)(g), v = 0, and v = 1 levels
+   to a common EF1 Sigma(+)(g), v = 0 level. Agreement within 1 sigma
+   between the experimental result and a full ab initio calculation
+   provides a stringent test of quantum electrodynamics in a chemically
+   bound system.}},
+DOI = {{10.1103/PhysRevLett.110.193601}}}
+
+@article{ 13PaYexx.H2,
+Author = {Pachucki, Krzysztof and Yerokhin, Vladimir A.},
+Title = {{Application of the fully correlated basis of exponential functions for
+   molecular hydrogen}},
+Journal =PRA,
+Year = {{2013}},
+Volume = {{87}},
+Abstract = {{Precision tests with the hydrogen molecule are presently limited by
+   unknown higher-order quantum electrodynamical effects. These corrections
+   are represented by matrix elements of some effective operators, most of
+   which are singular. The evaluation of matrix elements of singular
+   operators puts high demands on the quality of the representation of the
+   nonrelativistic wave functions. The basis of fully correlated
+   exponential functions is well suited for representing the H-2 wave
+   function, as it has the correct properties both at coalescent points and
+   at asymptotic distances. Moreover, the matrix elements of all operators
+   can be conveniently obtained in this basis via integration or
+   differentiation with respect to nonlinear parameters. In this work we
+   develop an approach that paves the way to practical calculations with
+   this basis.}},
+DOI = {{10.1103/PhysRevA.87.062508}},
+pages = {062508}}
+
+@article{ 14PaKoxx.H2,
+Author = {Pachucki, Krzysztof and Komasa, Jacek},
+Title = {{Accurate adiabatic correction in the hydrogen molecule}},
+Journal = JCP,
+Year = {{2014}},
+Volume = {{141}},
+Abstract = {{A new formalism for the accurate treatment of adiabatic effects in the
+   hydrogen molecule is presented, in which the electronic wave function is
+   expanded in the James-Coolidge basis functions. Systematic increase in
+   the size of the basis set permits estimation of the accuracy. Numerical
+   results for the adiabatic correction to the Born-Oppenheimer interaction
+   energy reveal a relative precision of 10(-12) at an arbitrary
+   internuclear distance. Such calculations have been performed for 88
+   internuclear distances in the range of 0 < R <= 12 bohrs to construct
+   the adiabatic correction potential and to solve the nuclear Schrodinger
+   equation. Finally, the adiabatic correction to the dissociation energies
+   of all rovibrational levels in H-2, HD, HT, D-2, DT, and T-2 has been
+   determined. For the ground state of H-2 the estimated precision is 3 x
+   10(-7) cm(-1), which is almost three orders of magnitude higher than
+   that of the best previous result. The achieved accuracy removes the
+   adiabatic contribution from the overall error budget of the present day
+   theoretical predictions for the rovibrational levels.}},
+DOI = {{10.1063/1.4902981}},
+pages = {224103}}
+
+@article{ 11KoPiLa.H2,
+Author = {Komasa, Jacek and Piszczatowski, Konrad and Lach, Grzegorz and
+   Przybytek, Michal and Jeziorski, Bogumil and Pachucki, Krzysztof},
+Title = {{Quantum Electrodynamics Effects in Rovibrational Spectra of Molecular
+   Hydrogen}},
+ journal = {J Chem. Theory Comput.},
+Year = {{2011}},
+Volume = {{7}},
+Pages = {3105-3115},
+Abstract = {{The dissociation energies from all rovibrational levels of H-2 and D-2
+   in the ground electronic state are calculated with high accuracy by
+   including relativistic and quantum electrodynamics (QED) effects in the
+   nonadiabatic treatment of the nuclear motion. For D-2, the obtained
+   energies have theoretical uncertainties of 0.001 cm(-1). For H-2 theta,
+   similar uncertainties are for the lowest levels, while for the higher
+   ones the uncertainty increases to 0.005 cm-1. Very good agreement with
+   recent high-resolution measurements of the rotational v = 0 levels of
+   H-2, including states with large angular momentum J, is achieved. This
+   agreement would not have been possible without accurate evaluation of
+   the relativistic and QED contributions and may be viewed as the first
+   observation of the QED effects, mainly the electron self-energy, in a
+   molecular spectrum. For several electric quadrupole transitions, we
+   still observe certain disagreement with experimental results, which
+   remains to be explained.}},
+DOI = {10.1021/ct200438t}}
+
+@article{08StKeBu.H2,
+   author = "Stanke, Monika and Kedziera, Dariusz and Bubin, Sergiy and Molski, Marcin and Adamowicz, Ludwik",
+   title = "Orbit-orbit relativistic corrections to the pure vibrational non-Born-Oppenheimer energies of H2",
+   journal = JCP,
+   year = "2008",
+   volume = "128",
+   pages = "114313",
+   doi = "http://dx.doi.org/10.1063/1.2834926" 
+}
+
+@article{10Pachuc.H2,
+  title = {Born-Oppenheimer potential for ${\mathrm{H}}_{2}$},
+  author = {Pachucki, Krzysztof},
+  journal = PRA,
+  volume = {82},
+  pages = {032509},
+  year = {2010},
+  doi = {10.1103/PhysRevA.82.032509},
+}
+
+@article{09PaKoxx.H2,
+   author = "Pachucki, Krzysztof and Komasa, Jacek",
+   title = "Nonadiabatic corrections to rovibrational levels of H2",
+   journal = JCP,
+   year = "2009",
+   volume = "130",
+   pages = "164113",
+   doi = "http://dx.doi.org/10.1063/1.3114680" 
+}
+
+
+@article{ 16UbKoEi.H2,
+Author = {Ubachs, W. and Koelemeij, J. C. J. and Eikema, K. S. E. and Salumbides,
+   E. J.},
+Title = {{Physics beyond the Standard Model from hydrogen spectroscopy}},
+Journal = JMS,
+Year = {{2016}},
+Volume = {{320}},
+Pages = {1-12},
+Abstract = {{Spectroscopy of hydrogen can be used for a search into physics beyond
+   the Standard Model. Differences between the absorption spectra of the
+   Lyman and Werner bands of H-2 as observed at high redshift and those
+   measured in the laboratory can be interpreted in terms of possible
+   variations of the proton electron mass ratio mu = m(p)/m(e) over
+   cosmological history. Investigation of ten such absorbers in the
+   redshift range z = 2.0-4.2 yields a constraint of vertical bar Delta
+   mu/mu vertical bar < 5 x 10(-6) at 3 sigma. Observation of H-2 from the
+   photospheres of white dwarf stars inside our Galaxy delivers a
+   constraint of similar magnitude on a dependence of on a gravitational
+   potential 104 times as strong as on the Earth's surface. While such
+   astronomical studies aim at finding quintessence in an indirect manner,
+   laboratory precision measurements target such additional quantum fields
+   in a direct manner. Laser-based precision measurements of dissociation
+   energies, vibrational splittings and rotational level energies in H2
+   molecules and their deuterated isotopomers HD and D-2 produce values for
+   the rovibrational binding energies fully consistent with quantum ab
+   initio calculations including relativistic and quantum electrodynamical
+   (QED) effects. Similarly, precision measurements of high-overtone
+   vibrational transitions of HD+ ions, captured in ion traps and
+   sympathetically cooled to mK temperatures, also result in transition
+   frequencies fully consistent with calculations including QED
+   corrections. Precision measurements of inter-Rydberg transitions in H-2
+   can be extrapolated to yield accurate values for level splittings in the
+   H-2(+)-ion. These comprehensive results of laboratory precision
+   measurements on neutral and ionic hydrogen molecules can be interpreted
+   to set bounds on the existence of possible fifth forces and of higher
+   dimensions, phenomena describing physics beyond the Standard Model.}},
+DOI = {10.1016/j.jms.2015.12.003}}
+
+@article{ 16UbBaSa.H2,
+Author = {Ubachs, W. and Bagdonaite, J. and Salumbides, E. J. and Murphy, M. T.
+   and Kaper, L.},
+Title = {{Colloquium: Search for a drifting proton-electron mass ratio from H-2}},
+Journal = RMP,
+Year = {{2016}},
+Volume = {{88}},
+Abstract = {{An overview is presented of the H-2 quasar absorption method to search
+   for a possible variation of the proton-electron mass ratio mu =
+   m(p)/m(e) on a cosmological time scale. The method is based on a
+   comparison between wavelengths of absorption lines in the H-2 Lyman and
+   Werner bands as observed at high redshift with wavelengths of the same
+   lines measured at zero redshift in the laboratory. For such comparison
+   sensitivity coefficients to a relative variation of mu are calculated
+   for all individual lines and included in the fitting routine deriving a
+   value for Delta mu/mu. Details of the analysis of astronomical spectra,
+   obtained with large 8-10 m class optical telescopes, equipped with
+   high-resolution echelle grating based spectrographs, are explained. The
+   methods and results of the laboratory molecular spectroscopy of H-2, in
+   particular, the laser-based metrology studies for the determination of
+   rest wavelengths of the Lyman and Werner band absorption lines, are
+   reviewed. Theoretical physics scenarios delivering a rationale for a
+   varying mu are discussed briefly, as well as alternative spectroscopic
+   approaches to probe variation of mu, other than the H-2 method. Also a
+   recent approach to detect a dependence of the proton-to-electron mass
+   ratio on environmental conditions, such as the presence of strong
+   gravitational fields, are highlighted. Currently some 56 H-2 absorption
+   systems are known and listed. Their usefulness to detect mu variation is
+   discussed, in terms of column densities and brightness of background
+   quasar sources, along with future observational strategies. The
+   astronomical observations of ten quasar systems analyzed so far set a
+   constraint on a varying proton-electron mass ratio of vertical bar Delta
+   mu/mu vertical bar < 5 x 10(-6) (3 sigma), which is a null result,
+   holding for redshifts in the range z = 2.0-4.2. This corresponds to
+   look-back times of (10-12.4) x 10(9) years into cosmic history. Attempts
+   to interpret the results from these ten H-2 absorbers in terms of a
+   spatial variation of mu are currently hampered by the small sample size
+   and their coincidental distribution in a relatively narrow band across
+   the sky.}},
+DOI = {{10.1103/RevModPhys.88.021003}},
+pages = {021003}}
+
+@article{02Drake.He,
+Author = {Drake, GWF},
+Title = {{Progress in helium fine-structure calculations and the fine-structure
+   constant}},
+Journal = CJP,
+Year = {{2002}},
+Volume = {{80}},
+Pages = {1195-1212},
+Abstract = {{The long-term goal of this work is to determine the fine-structure
+   constant alpha from a comparison between theory and experiment for the
+   fine-structure splittings of the helium 1s2p P-3(J) states. All known
+   terms of order alpha(5) a.u. (alpha(7) mc(2)) arising from the
+   electron-electron interaction, and recoil corrections of order alpha(4)
+   mu/M a.u. are evaluated and added to previous tabulation. The predicted
+   energy splittings are nu(0,1) = 29 616.946 42(18) MHz and nu(1,2) =
+   2291.154 62(31) MHz. Although the computational uncertainty is much less
+   than +/-1 kHz, there is an unexplained discrepancy between theory and
+   experiment of 19.4(1.4) kHz for nu(1,2).}},
+DOI = {{10.1139/P02-111}}}

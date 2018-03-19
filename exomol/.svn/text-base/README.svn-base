@@ -1,0 +1,5 @@
+to checkout:
+svn co file:///nfs/workspaces/exomol/bibliography-svn/trunk .
+
+to commit:
+svn commit -m "Your message"

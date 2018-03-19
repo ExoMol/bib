@@ -1,0 +1,10 @@
+@article{17KrWeBaNa,
+author = {O. Krechkivska and B. A. Welsh and G. B. Bacskay and K. Nauta and S. H. Kable and T. W. Schmidt},
+title = {{First observation of the 3 $^3\Pi_g$ state of C$_2$: Born-Oppenheimer breakdown}},
+journal = JCP,
+volume = {146},
+pages = {134306},
+year = {2017},
+doi = {10.1063/1.4979293},
+abstract = {{The 33Πg state of the dicarbon molecule, C2, has been identified for the first time by a combination of resonant ionization spectroscopy, mass spectrometry, and high-level ab initio quantum chemical calculations. This marks the discovery of the final valence triplet state of C2 spectroscopically accessible from the lowest triplet state. It is found to be vibronically coupled to the recently discovered 43Πg state, necessitating vibronic calculations beyond the Born-Oppenheimer approximation to reconcile calculated rotational constants with observations. The 33Πg state of C2 is observed to have a much shorter fluorescence lifetime than expected, possibly pointing to predissociation by coupling to the unbound d3Πg state.}},
+}

@@ -1,0 +1,2172 @@
+@article{ 11LeRoHa.MLR,
+Author = {Le Roy, Robert J. and Haugen, Carl C. and Tao, Jason and Li, Hui},
+Title = {Long-range damping functions improve the short-range behaviour of `MLR'
+   potential energy functions},
+Journal = MP,
+Year = {2011},
+Volume = {109},
+Pages = {435-446},
+Abstract = {The recently introduced {[}Mol. Phys. 105, 663 (2007)]
+   `Morse/long-range' (or MLR) potential energy function is a very
+   flexible form which explicitly incorporates the theoretically predicted
+   inverse-power-sum long-range tail, is smooth and differentiable
+   everywhere, and includes the well depth D-e, equilibrium distance r(e),
+   and long-range interaction coefficients C-m as explicit parameters.
+   This form is being used increasingly commonly in direct-potential-fit
+   analyses of experimental data. The present work shows that the MLR form
+   can readily accommodate the inclusion of `damping functions' in the
+   description of the long-range potential tail, and that inclusion of
+   such terms leads to much more realistic short-range extrapolation
+   behaviour. Illustrative applications to the ground electronic states of
+   MgH, Li-2 and ArXe are presented.},
+DOI = {10.1080/00268976.2010.527304},
+Journal-ISO = {Mol. Phys.},
+Unique-ID = {ISI:000287298100011},
+}
+
+@article{ 08QuTaZh.SpinOrbit,
+Author = {Li, Qui-Xia and Gao, Tao and Zhang, Yun-Guang},
+Title = {The splitting of low-lying or low excited states for hydride molecules
+   (cations) of the third period under spin-orbit coupling},
+Journal = {Chinese Phys. B},
+Year = {2008},
+Volume = {17},
+Pages = {2040-2047},
+Abstract = {This paper reports that the splitting of potential energy curves for
+   the low-lying or low excited states for hydride molecules (cations)
+   (MgH, AlH+, SiH, PH+, SH,CIH+) of the third period under Spin-Orbit
+   Coupling has been calculated by using the Spin-Orbit
+   Multi-Configuration Quasi-Degenerate Perturbation Theory (SO-MCQDPT)
+   method. Then, spectroscopic constants of the split states have been
+   derived from the Murrell-Sorbie function. The calculated dissociation
+   energies for the spectrum branch terms have been given, respectively.
+   The spectroscopic constants and dissociation energies for the spectrum
+   branch terms are given for the first time in this paper.},
+Journal-ISO = {Chin. Phys. B},
+Unique-ID = {ISI:000257167400018},
+}
+
+
+@article{29Pearse.MgH,
+author = {Pearse, R. W. B.},
+title = {The Ultra-Violet Spectrum of Magnesium Hydride. 1. The Band at $ \lambda $ 2430},
+volume = {122},
+pages = {442-455},
+year = {1929},
+doi = {10.1098/rspa.1929.0033},
+journal = {Proceedings of the Royal Society of London. Series A}
+}
+
+@article{ 71Sotiro.MgH,
+Author = {Sotirovski, P.},
+Title = {Molecular Spectrum of Sunspot Umbrae},
+Journal = AA,
+Year = {1971},
+Volume = {14},
+Pages = {319-336},
+Subject-Category = {Astronomy \& Astrophysics},
+Journal-ISO = {Astron. Astrophys.},
+}
+
+@article{ 08LiZhLi.MgH,
+Author = {Lu, Bing and Zhou, Xun and Linghu, Rong-Feng and Yang, Xiang-Dong and Zhu,
+   Zheng-He},
+Title = {Analytical potential energy function for the electronic states X-2
+   Sigma(+) , A(2)pi and B-2 Sigma(+) of MgH molecule},
+Journal = {ACTA PHYSICA SINICA},
+Year = {2008},
+Volume = {57},
+Pages = {816-821},
+Abstract = {The equilibrium geometries of three electronic states X-2 Sigma(+),
+   A(2)pi and B-2 Sigma(+) of MgH molecule have been calculated using the
+   SAC-Cl and QCISD ( T) methods with the basis sets cc-pVQZ, aug-cc-pVTZ,
+   6-311 ++ G and 6-311 ++ G(3df, 2pd). Comparing the above mentioned four
+   basis sets,the conclusion is obtained that the basis set 6-311 ++ G
+   (3df,2pd) is the most suitable for the energy calculation of MgH
+   molecule. The whole potential curves for three electronic states are
+   further scanned using QCISD (T)/6-311 ++ G (3df,2pd) method for the
+   ground state and SAC-CI/6-311 ++ G (3df,2pd) method for the excited
+   states. The potential energy functions and relevant spectrum constants
+   omega(e), omega(e)x(e), B-e, alpha(e) of these states are obtained by
+   fitting to the Murrell-Sorbie function and the modified Murrell-Sorbie
+   + C-6 function, respectively. The results showed that the spectral
+   constants derived from the modified Murrell-Sorbie + C-6 function are
+   in very good agreement with the experimental data, and the modified
+   Murrell-Sorbie + C-6 function can correctly describe the potential
+   energy function of the ground state and the first degenerate state of
+   MgH molecule.},
+Journal-ISO = {Acta Phys. Sin.},
+Unique-ID = {ISI:000253432100030},
+}
+
+@article{ 03WeScSt.MgHcontinuum,
+Author = {Weck, P F and Schweitzer, A and Stancil, P C and Hauschildt, P H and
+   Kirby, K},
+Title = {The molecular continuum opacity of (MgH)-Mg-24 in cool stellar
+   atmospheres},
+Journal = ApJ,
+Year = {2003},
+Volume = {584},
+Pages = {459-464},
+Abstract = {The opacity due to photodissociation of (MgH)-Mg-24 in the atmospheres
+   of cool stars is investigated. The lowest two electronic transitions A
+   (2)Pi<--X (2)Sigma(+) and B' (2)Sigma(+)<--X (2)Sigma(+) are
+   considered, where the cross sections for the latter were published
+   previously (Weck, Stancil, \& Kirby) and the former are presented in
+   this work. Model atmospheres calculated with the PHOENIX code are used
+   to investigate the effect of the photodissociation opacity on spectra
+   of cool stars. The A (2)Pi<--X (2)Sigma(+) photodissociation cross
+   sections are obtained using a combination of ab initio and
+   experimentally derived potential curves and dipole transition moments.
+   Partial cross sections have been evaluated over the accessible
+   wavelength range 1770-4560 Angstrom for all rotational transitions from
+   the vibrational levels v{''}=0-11. Assuming a Boltzmann distribution of
+   the rovibrational levels of the X (2)Sigma(+) state, LTE
+   photodissociation cross sections are presented for temperatures between
+   1000 and 5000 K. Shape resonances, arising from rotational
+   predissociation of quasi-bound levels of the A (2)Pi state near
+   threshold, characterize the LTE photodissociation cross sections. A sum
+   rule is proposed as a check on the accuracy of the photodissociation
+   calculations.},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:000180706000036},
+}
+
+
+@article{ 03WeScSt.MgHline,
+Author = {Weck, P F and Schweitzer, A and Stancil, P C and Hauschildt, P H and Kirby, K},
+Title = {The molecular line opacity of MgH in cool stellar atmospheres},
+Journal = ApJ,
+Year = {2003},
+Volume = {582},
+Pages = {1059-1065},
+Abstract = {A new, complete, theoretical rotational and vibrational line list for
+   the A (2)Pi<--X (2)Sigma(+) electronic transition in MgH is presented.
+   The list includes transition energies and oscillator strengths for all
+   possible allowed transitions and was computed using the best available
+   theoretical potential energies and dipole transition moment function
+   with the former adjusted to account for experimental data. The A<--X
+   line list as well as new line lists for the B' (2)Sigma(+)<--X
+   (2)Sigma(+) and the X (2)Sigma(+)<--X (2)Sigma(+) (pure rovibrational)
+   transitions were included in comprehensive stellar atmosphere models for
+   M, L, and T dwarfs and solar-type stars. The resulting spectra, when
+   compared to models lacking MgH, show that MgH provides significant
+   opacity in the visible between 4400 and 5600 Angstrom. Further
+   comparison of the spectra obtained with the current line list to spectra
+   obtained using the line list constructed by Kurucz show that the Kurucz
+   list significantly overestimates the opacity due to MgH, particularly
+   for the bands near 5150 and 4800 Angstrom, with the discrepancy
+   increasing with decreasing effective temperature.},
+DOI = {10.1086/344722},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:000180282700041},
+}
+
+
+
+
+@article{ 82SvKuKu.MgH,
+Author = {Svyatkin, I A and Kuznetsova, L A and Kuzyakov, Y Y},
+Title = {THE AND A2-PI-X2-SIGMA AND C2-PI-X2-SIGMA ELECTRONIC-TRANSITION
+   STRENGTH OF THE MGH MOLECULE},
+Journal = {VESTNIK MOSKOVSKOGO UNIVERSITETA SERIYA 2 KHIMIYA},
+Year = {1982},
+Volume = {23},
+Pages = {446-448},
+Journal-ISO = {Vestn. Mosk. Univ. Seriya 2 Khimiya},
+Unique-ID = {ISI:A1982PQ22500005},
+}
+
+@article{ 76SiBaHe.MgH,
+Author = {Sink, M L and Bandrauk, A D and Henneker, W H and Lefebvrebrion, H and   Raseev, G},
+Title = {THEORETICAL-STUDY OF LOW-LYING ELECTRONIC STATES OF MGH},
+Journal = CPL,
+Year = {1976},
+Volume = {39},
+Pages = {505-510},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:A1976BS72900027},
+}
+
+@article{ 74PatelG.MgH,
+Author = {Patel, G K},
+Title = {TRUE AND MORSE POTENTIAL FOR A2PI AND X2SIGMA ELECTRONIC STATES OF MGH
+   MOLECULE},
+Journal = {INDIAN JOURNAL OF PHYSICS AND PROCEEDINGS OF THE INDIAN ASSOCIATION FOR
+   THE CULTIVATION OF SCIENCE},
+Year = {1974},
+Volume = {48},
+Pages = {1055-1056},
+Unique-ID = {ISI:A1974V440800016},
+}
+
+@article{ 71Poxxxx.MgH,
+Author = {Popkie, H E},
+Title = {THEORETICAL ELECTRONIC TRANSITION PROBABILITIES IN DIATOMIC MOLECULES
+   .3. BEH AND MGH (A2PI-X2SIGMA+) SYSTEMS},
+Journal = JCP,
+Year = {1971},
+Volume = {54},
+Pages = {4597-\&},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1971J517200012},
+}
+
+@article{ 03DaYDaL.MgH,
+Author = {Yong, D and Lambert, D L and Ivans, I I},
+Title = {Magnesium isotopic abundance ratios in cool stars},
+Journal = ApJ,
+Year = {2003},
+Volume = {599},
+Pages = {1357-1371},
+Abstract = {From high-resolution spectra of 61 cool dwarfs and giants, Mg isotopic
+   abundance ratios Mg-24 : Mg-25 : Mg-26 are derived from spectral
+   synthesis of the MgH A-X lines near 5140 Angstrom. Our sample spans the
+   range -2.5 less than or equal to {[}Fe/H] less than or equal to 0.1,
+   including the first measurements of Mg isotope ratios in stars with
+   metallicities below {[}Fe/H] = -2.0. We confirm the decrease in
+   Mg-25/Mg-24 and Mg-26/Mg-24 with decreasing {[}Fe/H], as predicted by
+   recent models of Galactic chemical evolution in which the Mg isotopes
+   are produced in massive stars. A subset of kinematically identified
+   thin-disk stars have Mg isotope ratios in excellent agreement with the
+   predictions. Within the measurement uncertainties, these thin-disk
+   stars show no scatter about the predictions. Several of our stars are
+   likely members of the thick disk, and their high Mg isotopic ratios may
+   reflect the nucleosynthetic history of the thick disk, which is
+   distinct from the predictions for, and observations of, the thin disk.
+   For thick-disk and halo stars we find a scatter in (25)g/Mg-24 and
+   Mg-26/Mg-24 exceeding our measurement uncertainties and increasing with
+   increasing metallicity. Our data suggest that an additional source of
+   Mg-25 and Mg-26 is required. Intermediate-mass asymptotic giant branch
+   stars are likely candidates.},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:000187451500048},
+}
+
+
+@article{ 03WeStKi.MgH,
+Author = {Weck, P F and Stancil, P C and Kirby, K},
+Title = {B ` <- X rovibrationally resolved photodissociation of (MgH)-Mg-24},
+Journal = ApJ,
+Year = {2003},
+Volume = {582},
+Pages = {1263-1268},
+Abstract = {New accurate photodissociation cross sections have been obtained for the
+   B' (2)Sigma(+) <-- X (2)Sigma(+) transition of (MgH)-Mg-24 using a
+   combination of ab initio and experimentally derived potential curves and
+   dipole transition moments. The partial cross sections have been
+   evaluated for all rotational transitions from the vibrational levels
+   v{''}=0-11 and over the entire accessible wavelength range
+   lambdalambda1770-4560 Angstrom. In particular, all shape resonances
+   arising from rotational predissociation of quasi-bound levels of the B'
+   state have been obtained near threshold. Assuming a Boltzmann
+   distribution of the rovibrational levels of the X (2)Sigma(+), LTE
+   photodissociation cross sections are presented for temperatures between
+   1000 and 10,000 K.},
+DOI = {10.1086/344672},
+}
+
+@article{ 83SaKiLi.MgH.Erratum,
+author = {Roberta P. Saxon and K. Kirby and B. Liu},
+title = {Erratum: Ab initio configuration interaction study of the low-lying electronic states of MgH
+[J. Chem. Phys. [bold 69], 5301 (1978)]},
+publisher = {AIP},
+year = {1983},
+journal = JCP,
+volume = {78},
+pages = {7507-7507},
+doi = {10.1063/1.445494}
+}
+
+@ARTICLE{   76BaCaxx.MgH,
+   author = {{Balfour}, W. J. and {Cartwright}, H. M.},
+    title = "{The A2 pi-X2 Sigma/+/ system and dissociation energy of magnesium hydride}",
+  journal = {\aaps},
+ keywords = {DISSOCIATION, MAGNESIUM COMPOUNDS, METAL HYDRIDES, MOLECULAR ENERGY LEVELS, MOLECULAR SPECTRA, SOLAR SPECTRA, GROUND STATE, MOLECULAR ROTATION, SPECTRAL BANDS, TABLES (DATA)},
+     year = 1976,
+   volume = 26,
+    pages = {389-397},
+}
+
+@article{ 11ShBexx.MgH,
+Author = {Shayesteh, Alireza and Bernath, Peter F.},
+Title = {Rotational analysis and deperturbation of the A (2)Pi -> X (2)Sigma(+)
+   and B ` (2)Sigma(+) -> X (2)Sigma(+) emission spectra of MgH},
+Journal = JCP,
+Year = {2011},
+Volume = {135},
+Abstract = {Deperturbation analysis of the A (2)Pi -> X (2)Sigma(+) and B'
+   (2)Sigma(+) -> X (2)Sigma(+) emission spectra of (24)MgH is reported.
+   Spectroscopic data for the v = 0 to 3 levels of the A (2)Pi state and
+   the v = 0 to 4 levels of the B' (2)Sigma(+) state were fitted together
+   using a single Hamiltonian matrix that includes (2)Pi and (2)Sigma(+)
+   matrix elements, as well as off-diagonal elements coupling several
+   vibrational levels of the two states. A Dunham-type fit was performed
+   and the resulting Y(l,0) and Y(l,1) coefficients were used to generate
+   Rydberg-Klein-Rees (RKR) potential curves for the A (2)Pi and the B'
+   (2)Sigma(+) states. Vibrational overlap integrals were computed from the
+   RKR potentials, and the off-diagonal matrix elements coupling the
+   electronic wavefunctions (a(+) and b) were determined. Zero point
+   dissociation energies (D(0)) of the A (2)Sigma and B' (2)Sigma(+) states
+   of (24)MgH were determined to be 12 957.5 +/- 0.5 and 10 133.6 +/- 0.5
+   cm(-1), respectively. Using the Y(0,1) coefficients, the equilibrium
+   internuclear distances (r(e)) of the A (2)Pi and B' (2)Sigma(+) states
+   were determined to be 1.67827(1) angstrom and 2.59404(4) angstrom,
+   respectively. (C) 2011 American Institute of Physics. {[}doi:
+   10.1063/1.3631341]},
+DOI = {10.1063/1.3631341}}
+
+@article{ 11TaGiYu.MgH,
+Author = {Tacconi, M. and Gianturco, F. A. and Yurtsever, E. and Caruso, D.},
+Title = {Cooling and quenching of (24)MgH(+)(X(1)Sigma(+)) by (4)He((1)S) in a
+   Coulomb trap: A quantum study of the dynamics},
+Journal = PRA,
+Year = {2011},
+Volume = {84},
+Abstract = {The quantum dynamics of the rotational quenching of the
+   (24)MgH(+)(X(1)Sigma(+)) molecular cation interacting with (4)He((1)S)
+   as a buffer gas, at relative temperatures ranging from 1 K down to
+   millikelvins, is described by accurate close coupling scattering
+   calculations on an ab initio potential energy surface. The efficiency of
+   the process is quantitatively analyzed by employing the ab initio
+   quenching rates and cross sections and effective decay rate values are
+   obtained from simple unimolecular kinetics over a broad range of trap
+   conditions.},
+DOI = {10.1103/PhysRevA.84.013412},
+pages = {013412},
+Journal-ISO = {Phys. Rev. A},
+Unique-ID = {ISI:000292690700010},
+}
+
+@article{ 10ViLoFe.MgH,
+Author = {Visscher, Channon and Lodders, Katharina and Fegley, Jr., Bruce},
+Title = {ATMOSPHERIC CHEMISTRY IN GIANT PLANETS, BROWN DWARFS, AND LOW-MASS DWARF
+   STARS. III. IRON, MAGNESIUM, AND SILICON},
+Journal = ApJ,
+Year = {2010},
+Volume = {716},
+Pages = {1060-1075},
+Abstract = {We use thermochemical equilibrium calculations to model iron, magnesium,
+   and silicon chemistry in the atmospheres of giant planets, brown dwarfs,
+   extrasolar giant planets (EGPs), and low-mass stars. The behavior of
+   individual Fe-, Mg-, and Si-bearing gases and condensates is determined
+   as a function of temperature, pressure, and metallicity. Our equilibrium
+   results are thus independent of any particular model atmosphere. The
+   condensation of Fe metal strongly affects iron chemistry by efficiently
+   removing Fe- bearing species from the gas phase. Monatomic Fe is the
+   most abundant Fe- bearing gas throughout the atmospheres of EGPs and L
+   dwarfs, and in the deep atmospheres of giant planets and T dwarfs. Mg-
+   and Si-bearing gases are effectively removed from the atmosphere by
+   forsterite (Mg(2)SiO(4)) and enstatite (MgSiO(3)) cloud formation.
+   Monatomic Mg is the dominant magnesium gas throughout the atmospheres of
+   EGPs and L dwarfs and in the deep atmospheres of giant planets and T
+   dwarfs. Silicon monoxide (SiO) is the most abundant Si-bearing gas in
+   the deep atmospheres of brown dwarfs and EGPs, whereas SiH(4) is
+   dominant in the deep atmosphere of Jupiter and other gas giant planets.
+   Several other Fe-, Mg-, and Si-bearing gases become increasingly
+   important with decreasing effective temperature. In principle, a number
+   of Fe, Mg, and Si gases are potential tracers of weather or diagnostic
+   of temperature in substellar atmospheres.},
+DOI = {10.1088/0004-637X/716/2/1060},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:000278459000013},
+}
+
+@article{ 10GuSpFe.MgH,
+Author = {Guitou, M. and Spielfiedel, A. and Feautrier, N.},
+Title = {Accurate potential energy functions and non-adiabatic couplings in the
+   Mg plus H system},
+Journal = CPL,
+Year = {2010},
+Volume = {488},
+Pages = {145-152},
+Abstract = {Potential energy functions of the MgH molecule are investigated by the
+   MRCI method using large active space and basis sets. The calculations
+   are performed up to the Mg(3s3d, 1D) + H dissociation limit. The
+   molecular constants compare well with the available data. The dipole
+   moment functions exhibit a series of crossings due to the strong
+   interactions between the states. Radial and rotational couplings among
+   these states are also calculated, with a state-averaged MCSCF approach.
+   This work will enable calculations of collisional cross sections and
+   rate coefficients, important for the modelling of stellar spectra when
+   collisions compete with radiative processes in non-LTE conditions. (C)
+   2010 Elsevier B. V. All rights reserved.},
+DOI = {10.1016/j.cplett.2010.02.031}}
+
+@article{ 10HaJaFe.MgH,
+Author = {Hammami, K. and Jaidane, N. and Feautrier, N. and Spielfiedel, A. and
+   Lique, F.},
+Title = {Tensor cross sections and collisional depolarization of MgH by He atoms},
+Journal = CPL,
+Year = {2010},
+Volume = {484},
+Pages = {148-153},
+Abstract = {Tensor cross sections for collisions of MgH (X(2)Sigma(+)) molecule with
+   helium atom are computed using a newaccurate ab initio potential energy
+   surface calculated at the RCCSD (T) level. In the calculations, the MgH
+   bond length is fixed at its experimental value (3.269 bohr). Basis set
+   superposition error is corrected and bond functions are placed at
+   mid-distance between the MgH mass centre and the He atom, for a better
+   description of the van der Waals interaction. The global minimum of the
+   PES is 12.2 cm(-1). State-to-state tensor and depolarization cross
+   sections are calculated. The tensor cross sections and depolarizing
+   cross sections are computed for kinetic energies up to E(c) <= 1000
+   cm(-1). The tensor cross sections are found to decrease with increasing
+   values of K. (C) 2009 Elsevier B.V. All rights reserved.},
+DOI = {10.1016/j.cplett.2009.11.027}}
+
+@article{ 09AyGuSa.MgH,
+Author = {Aymar, M. and Guerout, R. and Sahlaoui, M. and Dulieu, O.},
+Title = {Electronic structure of the magnesium hydride molecular ion},
+Journal = JPB,
+Year = {2009},
+Volume = {42},
+Abstract = {In this paper, using a standard quantum chemistry approach based on
+   pseudopotentials for atomic core representation, Gaussian basis sets and
+   effective core polarization potentials, we investigate the electronic
+   properties of the MgH(+) ion. We first determine potential energy curves
+   for several states using different basis sets and discuss their
+   predicted accuracy by comparing our values of the well depths and
+   position with other available results. We then calculate permanent and
+   transition dipole moments for several transitions. Finally, for the
+   first time, we calculate the static dipole polarizability of MgH(+) as a
+   function of the interatomic distance. This study represents the first
+   step towards the modelling of collisions between trapped cold Mg(+) ions
+   and H(2) molecules.},
+DOI = {10.1088/0953-4075/42/15/154025},
+pages = {154025},
+Journal-ISO = {J. Phys. B-At. Mol. Opt. Phys.},
+Unique-ID = {ISI:000268043300026},
+}
+
+@article{ 09BeNaJa.MgH,
+Author = {Ben Abdallah, D. and Najar, F. and Jaidane, N. and Ben Lakhdar, Z. and
+   Feautrier, N. and Spielfiedel, A. and Lique, F.},
+Title = {Ab initio potential energy surfaces for the (1)A ` and (3)A ` states of
+   the MgH(X(2)Sigma(+)) + H((2)S) system},
+Journal = CPL,
+Year = {2009},
+Volume = {473},
+Pages = {39-42},
+Abstract = {The two potential energy surfaces (PESs) associated to the (1)A' and
+   (3)A' states correlating to the interacting MgH(X(2)Sigma(+)) + H((2)S)
+   system were determined from ab initio calculations. They were obtained
+   using the aug-cc-pVQZ basis set for the H atom and the cc-pV5Z basis set
+   for the Mg atom and multireference internally contracted
+   configuration-interaction (MRCI) method including Davidson correction.
+   The MgH distance was kept fixed at its experimental equilibrium distance
+   in the X(2)Sigma ground state. The ab initio calculated interaction
+   energies of the two PESs were. fitted analytically on the basis of
+   Legendre polynomials for future collisional rotational excitation study.
+   The (1)A' and (3)A' adiabats both present very deep well corresponding
+   to the MgH(2) complex. (C) 2009 Elsevier B. V. All rights reserved.},
+DOI = {10.1016/j.cplett.2009.03.056},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:000265270800008},
+}
+
+@article{ 09MePuSo.MgH,
+Author = {Mestdagh, J. -M. and de Pujo, P. and Soep, B. and Spiegelman, F.},
+Title = {Ab-initio calculation of the ground and excited states of MgH using a
+   pseudopotential approach},
+Journal = CPL,
+Year = {2009},
+Volume = {471},
+Pages = {22-28},
+Abstract = {The electronic structure of the MgH molecule is investigated using a
+   pseudopotential description of the Mg(2+) core, complemented by a core
+   polarization operator. The electronic problem is treated by the
+   Internally Contracted Multi-Reference Configuration Interaction method
+   (IC-MRCI). The potential energy curves and the molecular constants are
+   calculated for all MgH molecular states dissociating up to the excited
+   atomic configurations Mg(3s3d(1)D) + H(1s(2)S). A good agreement with
+   the available experimental data is found. These calculations help to
+   clarify the very complicated spectroscopy of MgH in the 3500046000
+   cm(-1) excitation range, where many states correlated with the 3s3p,
+   3s4s and 3s3d atomic configurations cross one another. For instance, the
+   predissociation mechanism of the B(2)Sigma(1) state is enlighten. Both
+   the doublet and quartet systems are documented. (C) 2009 Elsevier B.V.
+   All rights reserved.},
+DOI = {10.1016/j.cplett.2009.01.078},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:000264068200004},
+}
+
+@article{ 08GoBoYu.MgH,
+Author = {Gonzalez-Sanchez, L. and Bodo, E. and Yurtsever, E. and Gianturco, F. A.},
+Title = {Quenching efficiency of ``hot{''} polar molecules by He buffer gas at
+   ultralow energies: quantum results for MgH and LiH rotations},
+Journal = {EUROPEAN PHYSICAL JOURNAL D},
+Year = {2008},
+Volume = {48},
+Pages = {75-82},
+Abstract = {Rotationally superelastic collisions are computed from quantum dynamical
+   calculations for the two title systems, down to the very low collision
+   energies of interest in cold trap experiments. The results are obtained
+   via ab initio interaction potentials, the one for the MgH-He system
+   being given here for the first time and discussed in details in the
+   present paper. The calculations show marked differences in behaviour for
+   both cooling efficiency rates at vanishing temperatures and individual
+   cross sections between levels, and their origin is related to target
+   structural properties and with specific features of the two potentials.},
+DOI = {10.1140/epjd/e2008-00072-8},
+Journal-ISO = {Eur. Phys. J. D},
+Unique-ID = {ISI:000256325200010},
+}
+
+@article{ 08LiGaZh.MgH,
+Author = {Li Qui-Xia and Gao Tao and Zhang Yun-Guang},
+Title = {The splitting of low-lying or low excited states for hydride molecules
+   (cations) of the third period under spin-orbit coupling},
+Journal = {CHINESE PHYSICS B},
+Year = {2008},
+Volume = {17},
+Pages = {2040-2047},
+Abstract = {This paper reports that the splitting of potential energy curves for the
+   low-lying or low excited states for hydride molecules (cations) (MgH,
+   AlH(+), SiH, PH(+), SH,CIH(+)) of the third period under Spin-Orbit
+   Coupling has been calculated by using the Spin-Orbit Multi-Configuration
+   Quasi-Degenerate Perturbation Theory (SO-MCQDPT) method. Then,
+   spectroscopic constants of the split states have been derived from the
+   Murrell-Sorbie function. The calculated dissociation energies for the
+   spectrum branch terms have been given, respectively. The spectroscopic
+   constants and dissociation energies for the spectrum branch terms are
+   given for the first time in this paper.},
+DOI = {10.1088/1674-1056/17/6/018},
+Journal-ISO = {Chin. Phys. B},
+Unique-ID = {ISI:000257167400018},
+}
+
+@article{ 08MiZhxx.MgH,
+Author = {Mitroy, J. and Zhang, J. Y.},
+Title = {Long range dispersion interactions of the low lying states of mg with H,
+   He, Ne, Ar, Kr and Xe},
+Journal = MP,
+Year = {2008},
+Volume = {106},
+Pages = {127-132},
+Abstract = {The dispersion coefficients for the van der Waals interactions for the
+   low lying states of magnesium (3s(2) S-1(e), 3s3p P-3(o), 3s3p P-1(o),
+   3s4s S-3(e), 3s4s S-1(e), 3s3d D-3(e) and 3s3d D-1(e)) interacting with
+   H, He, Ne, Ar, Kr and Xe are determined using sum rules of reduced
+   matrix elements over pseudo-state representations of the atomic
+   excitation spectra. The sets of transition matrix elements were taken
+   from previous investigations of the van der Waals interactions of the
+   Mg-2 dimer and an investigation of the van der Waals interaction for
+   alkali atoms interacting with rare gases.},
+DOI = {10.1080/00268970701834641}}
+
+@article{ 07ShHeLe.MgH,
+Author = {Shayesteh, Alireza and Henderson, Robert D. E. and Le Roy, Robert J. and
+   Bernath, Peter F.},
+Title = {Ground state potential energy curve and dissociation energy of MgH},
+Journal = JPCA,
+Year = {2007},
+Volume = {111},
+Pages = {12495-12505},
+Abstract = {New high-resolution visible emission spectra of the MgH molecule have
+   been recorded with high signal-to-noise ratios using a Fourier transform
+   spectrometer. Many bands of the A (II)-I-2 -> X (2)Sigma(+) and B'
+   (2)Sigma(+) -> X (2)Sigma(+) electronic transitions of (MgH)-Mg-24 were
+   analyzed; the new data span the v' = 0-3 levels of the A (II)-I-2 and
+   B'(2)Sigma(+) excited states and the v `' = 0-11 levels of the X
+   (2)Sigma(+) ground electronic state. The vibration-rotation energy
+   levels of the perturbed A (II)-I-2 and B' (2)Sigma(+) states were fitted
+   as individual term values, while those of the X (2)Sigma(+) ground state
+   were fitted using the direct-potential-fit approach. A new analytic
+   potential energy function that imposes the theoretically correct
+   attractive potential at long-range, and a radial Hamiltonian that
+   includes the spin-rotation interaction were employed, and a
+   significantly improved value for the ground state dissociation energy of
+   MgH was obtained. The v `' = 11 level of the X (2)Sigma(+) ground
+   electronic state was found to be the highest bound vibrational level of
+   24 MgH, lying only about 13 cm(-1) below the dissociation asymptote. The
+   equilibrium dissociation energy for the X (2)Sigma(+) ground state of
+   (MgH)-Mg-24 has been determined to, be D-e = 11104.7 +/- 0.5 cm(-1)
+   (1.37681 +/- 0.00006 eV), whereas the zero-point energy (v `' = 0) is
+   739.11 +/- 0.01 cm(-1). The zero-point dissociation energy is therefore
+   D-0 = 10365.6 +/- 0.5 cm(-1) (1.28517 +/- 0.00006 eV). The uncertainty
+   in the new experimental dissociation energy of MgH is more than 2 orders
+   of magnitude smaller than that for the best value available in the
+   literature. MgH is now the only hydride molecule other than H-2 itself
+   for which all bound vibrational levels of the ground electronic state
+   are observed experimentally and for which the dissociation energy is
+   determined with subwavenumber accuracy.},
+DOI = {10.1021/jp075704a},
+Journal-ISO = {J. Phys. Chem. A},
+Unique-ID = {ISI:000251518000044},
+}
+
+@article{ 07Irxxxx.MgH,
+Author = {Irikura, Karl K.},
+Title = {Experimental vibrational zero-point energies: Diatomic molecules},
+Journal = JPCRD,
+Year = {2007},
+Volume = {36},
+Pages = {389-397},
+Abstract = {Vibrational zero-point energies (ZPEs), as determined from published
+   spectroscopic constants, are derived for 85 diatomic molecules. Standard
+   uncertainties are also provided, including estimated contributions from
+   bias as well as the statistical uncertainties propagated from those
+   reported in the spectroscopy literature. This compilation will be
+   helpful for validating theoretical procedures for predicting ZPEs, which
+   is a necessary step in the ab initio prediction of molecular energetics.
+   (C) 2007 by the U. S. Secretary of Commerce on behalf of the United
+   States. All rights reserved.},
+DOI = {10.1063/1.2436891},
+Journal-ISO = {J. Phys. Chem. Ref. Data},
+Unique-ID = {ISI:000246842800001},
+}
+
+@article{ 06BoDeFe.MgH,
+Author = {Bommier, V. and Degl'Innocenti, E. Landi and Feautrier, N. and Molodij,
+   G.},
+Title = {Collisional influence on the differential Hanle effect method applied to
+   the second solar spectrum of the A(2)Pi-X-2 Sigma(+) (0,0) band of MgH},
+Journal = AA,
+Year = {2006},
+Volume = {458},
+Pages = {625-633},
+Abstract = {Aims. This paper presents an analysis of the Q(1,2)( 6-12) lines of the
+   Q band of the A(2)Pi-X-2 Sigma(+) ( 0, 0) transition of MgH, whose
+   linear polarization was measured 4 arcsec inside the solar limb in a
+   quiet region ( North Pole) with THEMIS on 21 November 2004.
+   Methods. This analysis is performed as follows: a) the Hanle effect
+   Gamma(H) parameter is derived by applying the differential Hanle effect
+   method between the two extreme pairs of lines. Assuming no depolarizing
+   collisions, a magnetic field strength follows, which is found to be 9.2
+   Gauss, in agreement with previous observations of the same kind; b) this
+   GH parameter is entered in a code solving the NLTE polarized radiative
+   transfer equations, and the other depolarizing parameter, namely the
+   depolarizing collision rate, is then derived by adjusting the computed
+   polarization to the observed one. Thus an average value of the rate per
+   colliding hydrogen atom a( 2) = 1.20 x 10(-9) cm(3) s(-1) is obtained
+   for the upper levels of the 12 lines ( standard deviation 0.21 x 10(-9)
+   cm(3) s(-1)). The corresponding model-dependent depolarizing rate is D(
+   2) = ( 4.2 +/- 0.7) x 10(7) s(-1) at h = 200 km; c) this depolarizing
+   rate is now introduced in the conversion of the GH parameter in terms of
+   magnetic field strength: an average turbulent field strength of 29 +/-
+   12 Gauss is derived as the final value, at height h = 200 +/- 80 km
+   where the polarization is formed. The Honl-London factors of the lines
+   under interest have been recalculated, leading to detect an error of a
+   factor 2 in the recent literature.
+   Results. The derived value B = 29 +/- 12 Gauss at h = 200 +/- 80 km is
+   in fairly good agreement with the previous determinations based on the
+   interpretation of the Sr I 4607 angstrom limb polarization, which has
+   led to fields in the range 35-60 Gauss.
+   Conclusions. Given the error bars, it seems unnecessary to put forward
+   different formation regions for the Sr I and MgH lines.},
+DOI = {10.1051/0004-6361:20054591},
+Journal-ISO = {Astron. Astrophys.},
+Unique-ID = {ISI:000241162200032},
+}
+
+
+
+@article{ 05RaBuxx.MgH,
+Author = {Ramos, A A and Bueno, J T},
+Title = {Evidence for collisional depolarization in the MgH lines of the second
+   solar spectrum},
+Journal = ApJ,
+Year = {2005},
+Volume = {635},
+Pages = {L109-L112},
+Abstract = {The analysis of the Hanle effect in solar molecular lines allows us to
+   obtain empirical information on hidden, mixed-polarity magnetic fields
+   at subresolution scales in the (granular) upflowing regions of the
+   ``quiet{''} solar photosphere. Here we report that collisions seem to be
+   very efficient in depolarizing the rotational levels of MgH lines. This
+   has the interesting consequence that in the upflowing regions of the
+   quiet solar photosphere the strength of the hidden magnetic field cannot
+   be much larger than 10 G, assuming the simplest case of a single-valued
+   microturbulent field that fills the entire upflowing photospheric
+   volume. Alternatively, an equally good theoretical fit to the observed
+   scattering polarization amplitudes can be achieved by assuming that the
+   rate of depolarizing collisions is an order of magnitude smaller than in
+   the previous collisionally dominated case, but then the required
+   strength of the hidden field in the upflowing regions turns out to be
+   unrealistically high. These constraints reinforce our previously
+   obtained conclusion that there is a vast amount of hidden magnetic
+   energy and unsigned magnetic flux localized in the (intergranular)
+   downflowing regions of the quiet solar photosphere.},
+DOI = {10.1086/499043},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:000233929700028},
+}
+
+@article{ 04WaAnxx.MgH,
+Author = {Wang, X F and Andrews, L},
+Title = {Infrared spectra of magnesium hydride molecules, complexes, and solid
+   magnesium dihydride},
+Journal = JPCA,
+Year = {2004},
+Volume = {108},
+Pages = {11511-11520},
+Abstract = {Laser-ablated Mg atoms react with molecular hydrogen to give magnesium
+   hydrides during condensation in excess hydrogen and neon for
+   characterization by matrix infrared spectroscopy. The observed
+   absorptions are identified by isotopic substitution and theoretical
+   calculations of vibrational fundamentals and assigned to the MgH, MgH2,
+   Mg2H, Mg2H2, Mg2H3, and Mg2H4 Molecules. Subsequent UV irradiation
+   excites Mg to the P-1 state, which inserts into H-2 and markedly
+   increases the yield of MgH2 and Mg2H4. Interesting MgH2(H-2), complexes
+   are formed with high yield in solid hydrogen. Mg2H4 is a dibridged
+   molecule analogous to dialane. Sample annealing gives MgH2 polymers,
+   which favor single bridge-bond linkages. Warming above 8 K allows the
+   H-2 matrix to evaporate and solid MgH2 to form with broad 1160 and 560
+   cm(-1) absorptions that remain on the window at 300 K. Thus, we have
+   reacted the elements to give the stable MgH2 molecule, formed its dimer
+   and tetramer, and finally obtained the ultimate polymer, solid MgH2,
+   which is of interest for hydrogen storage.},
+DOI = {10.1021/jp046410h},
+Journal-ISO = {J. Phys. Chem. A},
+Unique-ID = {ISI:000225924800006},
+}
+
+@article{ 04ShApGo.MgH,
+Author = {Shayesteh, A and Appadoo, D R T and Gordon, I and Le Roy, R J and Bernath,  P F},
+Title = {Fourier transform infrared emission spectra of MgH and MgD},
+Journal = JCP,
+Year = {2004},
+Volume = {120},
+Pages = {10002-10008},
+Abstract = {High resolution Fourier transform infrared emission spectra of MgH and
+   MgD have been recorded. The molecules were generated in an emission
+   source that combines an electrical discharge with a high temperature
+   furnace. Several vibration-rotation bands were observed for all six
+   isotopomers in the X (2)Sigma(+) ground electronic state: v=1-->0 to
+   4-->3 for (MgH)-Mg-24, v=1-->0 to 3-->2 for (MgH)-Mg-25 and (MgH)-Mg-26,
+   v=1-->0 to 5-->4 for (MgD)-Mg-24, v=1-->0 to 4-->3 for (MgD)-Mg-25 and
+   (MgD)-Mg-26. The new data were combined with the previous ground state
+   data, obtained from diode laser vibration-rotation measurements and pure
+   rotation spectra, and spectroscopic constants were determined for the
+   v=0 to 4 levels of (MgH)-Mg-24 and the v=0 to 5 levels of (MgD)-Mg-24.
+   In addition, Dunham constants and Born-Oppenheimer breakdown correction
+   parameters were obtained in a combined fit of the six isotopomers. The
+   equilibrium vibrational constants (omega(e)) for (MgH)-Mg-24 and
+   (MgD)-Mg-24 were found to be 1492.776(7) cm(-1) and 1077.298(5) cm(-1),
+   respectively, while the equilibrium rotational constants (B-e) are 5.825
+   523(8) cm(-1) and 3.034 344(4) cm(-1). The associated equilibrium bond
+   distances (r(e)) were determined to be 1.729 721(1) A for (MgH)-Mg-24
+   and 1.729 157(1) A for (MgD)-Mg-24. (C) 2004 American Institute of
+   Physics.},
+DOI = {10.1063/1.1724821},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000221404500015},
+}
+
+@article{ 03SkWeSt.MgH,
+Author = {Skory, S and Weck, P F and Stancil, P C and Kirby, K},
+Title = {New theoretical line list for the B ` (2)Sigma(+)<- X (2)Sigma(+) system
+   of (MgH)-Mg-24},
+Journal = ApJS,
+Year = {2003},
+Volume = {148},
+Pages = {599-606},
+Abstract = {Fully quantum-mechanical techniques have been applied to compute the
+   complete line list for the B' (2)Sigma(+) <-- X (2)Sigma(+) system of
+   (MgH)-Mg-24. The list includes transition energies and oscillator
+   strengths over the wavelength range 11,850-32,130 cm(-1), for all
+   possible allowed transitions from the ground electronic state
+   vibrational levels upsilon{''} = 0-11. This list was computed using the
+   best available ab initio potential energies and dipole transition moment
+   function, with the former adjusted to account for experimental data. The
+   agreement of the current calculations with previous theoretical results
+   and the line list of Kurucz is discussed. Although spectroscopic
+   accuracy for a particular line cannot be claimed for our calculations,
+   comparison is made with the recent astronomical measurements of Wallace
+   et al. A line list for pure rovibrational transitions in the X
+   (2)Sigma(+) state is also presented.},
+DOI = {10.1086/376834},
+Journal-ISO = {Astrophys. J. Suppl. Ser.},
+Unique-ID = {ISI:000185676300017},
+}
+
+@article{ 03BrGrxx.MgH,
+Author = {Bruna, P J and Grein, F},
+Title = {Hyperfine coupling constants, electron-spin g-factors and vertical
+   spectra of the X-2 Sigma(+) radicals BeH, MgH, CaH and BZ(+), AlZ(+),
+   GaZ(+) (Z = H, Li, Na, K). A theoretical study},
+Journal = PCCP,
+Year = {2003},
+Volume = {5},
+Pages = {3140-3153},
+Abstract = {Hyper. ne coupling constants (hfcc), electron-spin g-factors, excitation
+   energies ( DE) and oscillator strengths (f-values) are calculated for
+   the X(2)Sigma(+) (1sigma(2)2sigma) radicals YH (Y = Be, Mg, Ca) and
+   BZ(+), AlZ(+), GaZ(+) (Z = H, Li, Na, K). Single reference ab initio and
+   density functional theory methods are used for the hfcc's, and
+   multireference configuration interaction wavefunctions for DeltaE's,
+   f-values and g-shifts. In XZ(+) (X = B to Ga; Z = Li to K), the 2sigma
+   unpaired electron is 60-90\% p(sigma)(X), resulting in
+   \textbackslash{}A(perpendicular to)\textbackslash{} being one order of
+   magnitude larger than \textbackslash{}Ak(parallel to)\textbackslash{}.
+   The Deltag(perpendicular to)'s are relatively large for just 3 valence
+   electrons, from -3300 to -6100 ppm for BZ(+), -14 100 to -29 600 ppm for
+   AlZ(+), and -93 700 to -198 300 ppm for GaZ(+). Such large
+   Deltag(perpendicular to)(XZ(+))'s relate to the strong coupling between
+   the close-lying X(2)Sigma(+) and I(2)Pi(2sigma --> 1pi) states, which
+   results from the splitting of the P-2(s(2)p) state of X due to its
+   interaction with Z(+). ESR spectra are not available for any of the
+   XZ(+)'s. Calculation on the hydrides YH/XH+ reproduce well the
+   experimental hfcc's and g factors, except for AlH+, which appears to be
+   strongly perturbed in Ar matrices. Several transitions X(2)Sigma(+) -->
+   n(2)Sigma(+) and X(2)Sigma(+) --> n(2)Pi in XZ(+) have large oscillator
+   strengths, mainly caused by intramolecular charge-transfer processes X
+   <----> Z and atomic-like s(g) <----> p(u) excitations.},
+DOI = {10.1039/b303698g},
+Journal-ISO = {Phys. Chem. Chem. Phys.},
+Unique-ID = {ISI:000184186500009},
+}
+
+@article{ 01AlDoxx.MgH,
+Author = {Aldridge, S and Downs, A J},
+Title = {Hydrides of the main-group metals: New variations on an old theme},
+Year = {2001},
+Volume = {101},
+Pages = {3305-3365},
+DOI = {10.1021/cr960151d},
+Journal = {Chem. Rev.},
+Unique-ID = {ISI:000172248700004},
+}
+
+@article{ 01HuLixx.MgH,
+Author = {Hung, Y M and Lin,  K C},
+Title = {Quasiclassical trajectory calculations of Mg(3s3p(1)P(1))+H-2 (v=0, N=1)
+   -> MgH (v, N)+H: Trajectory and angular momentum analysis on improved ab
+   initio potential energy surfaces},
+Journal = JPCA,
+Year = {2001},
+Volume = {105},
+Pages = {41-47},
+Abstract = {In the reaction of Mg(3s3p(1)P(1)) with H-2, we have constructed a new
+   version of ab initio potential energy surfaces (PESs) for 2A' and 1A'
+   states and their corresponding fit energy functions, on which 50 000
+   trajectory calculations are performed. The improvement of the current
+   quasiclassical trajectory (QCT) calculations has made dynamical
+   parameters more reliable than those reported previously. For instance,
+   the obtained bimodal rotational distribution of MgH (v = 0), with a peak
+   ratio of ca. 2:1 for the high-N to low-N components, is consistent with
+   the experimental findings. The evaluated vibrational population ratio of
+   ca. 0.52 for v = 1 to v = 0 is also within the range of observation, 0.7
+   +/- 0.2. In addition, this work provides new information about the
+   formation of MgH rotational levels via the angular momentum analysis.
+   The trajectory calculations reveals the relation of the rotational
+   distribution to the impact parameter, b, and the relative angle,
+   epsilon, between the orbital and rotational angular momenta of the
+   products. The MgH is preferentially populated in the high-Ar levels at
+   small b but favors the low-N distribution at acute-angle (<90<degrees>)
+   epsilon. The analysis of vector correlation provides insight into the
+   behavior of the MgH rotational population.},
+DOI = {10.1021/jp002352y},
+Journal-ISO = {J. Phys. Chem. A},
+Unique-ID = {ISI:000166324500007},
+}
+
+@article{ 00BeFrSo.MgH,
+Author = {Berdyugina, S V and Frutiger, C and Solanki, S K and Livingstone, W},
+Title = {Successful spectral synthesis of Zeeman-split molecular bands in sunspot
+   spectra},
+Journal = AA,
+Year = {2000},
+Volume = {364},
+Pages = {L101-L104},
+Abstract = {We present the first spectral synthesis of Zeeman-split Stokes profiles
+   of the MgH A(2)II-X(2)Sigma green system and TiO gamma -system. The
+   calculations involve different regimes of the molecular Zeeman effect,
+   up to the complete Paschen-Back effect for individual lines. The
+   synthetic spectra are compared with observations of Stokes I and V in
+   sunspot umbrae. We find that although the Stokes I spectra are
+   reasonably reproduced, some lines are obviously still missing from the
+   employed line lists. The Stokes V spectra turn out to be much cleaner
+   since the missing lines do not appear to be Zeeman-split. We thus
+   provide the first good fit to Zeeman-split molecular lines, including
+   profiles with unconventional Stokes V shapes, determined by the
+   Paschen-Back effect.},
+Journal-ISO = {Astron. Astrophys.},
+Unique-ID = {ISI:000166998400008},
+}
+
+@article{ 00Wexxxx.MgH,
+Author = {Wenthold, P G},
+Title = {A computational study of the hydride affinities of Group I and Group II
+   metals},
+Year = {2000},
+Volume = {195},
+Pages = {319-325},
+Abstract = {A computational study of the hydride affinities of Group I and Group TI
+   metals is described. Hydride affinities are reported for MH and M (M =
+   Li, Na) and MH2 and MH (M = Be, Mg). Calculated hydride affinities range
+   from similar to 35 kcal mol(-1) for Na to similar to 67 kcal/mol for
+   BeH, The unusually high hydride affinity for BeH is shown to reflect the
+   high Be-H bond energy in BeH2. Where comparisons are possible, the
+   results obtained using the MPI, MP4, BLYP, and B3LYP methods with a
+   6-311++G(3df,3pd) basis set are in good agreement with experimental of
+   high level theoretical values. Hydride affinities calculated using the
+   G2 approach are too high because of the G3 energy for hydride ion. More
+   reasonable values are obtained from the G2 calculations using the exact
+   energy for the hydride ion. (C) 2000 Elsevier Science B.V.},
+DOI = {10.1016/S1387-3806(99)00179-7},
+Journal = {Int. J. Mass Spectrom.},
+Unique-ID = {ISI:000084927100028},
+}
+
+@article{ 99UkGaxx.MgH,
+Author = {Ukegawa, S and Gallagher, A},
+Title = {A discharge lamp based on MgH radiation},
+Year = {1999},
+Volume = {86},
+Pages = {5365-5371},
+Abstract = {We report the efficacy and spectrum of an inductively-coupled,
+   radio-frequency discharge in mixtures of magnesium (Mg), hydrogen (H-2),
+   and argon vapor. The predominantly green emission is dominated by the
+   A-X band of MgH, plus some Mg lines. The discharge operates in a
+   frit-sealed, similar to 600 degrees C alumina cell with a sapphire
+   window, at pressures of 200-600 Pa. The plasma impedance is established
+   from the impedance of the matching network parameters, and the electron
+   temperature is determined from line intensity ratios. Assuming isotropic
+   emission, a maximum energy efficiency (eta) of similar to 10\% (efficacy
+   similar to 90 lm per watt) is achieved, where eta is the ratio of
+   visible emission to power delivered to the matching network. (C) 1999
+   American Institute of Physics. {[}S0021-8979(99)08021-4].},
+DOI = {10.1063/1.371533},
+Journal = {J. Appl. Phys.},
+Unique-ID = {ISI:000083435900006},
+}
+
+@article{ 99RaRaxx.MgH,
+Author = {Rao, D M and Rangarajan, K E},
+Title = {Molecular line polarization in the solar atmosphere: MgH lines},
+Journal = ApJ,
+Year = {1999},
+Volume = {524},
+Pages = {L139-L142},
+Abstract = {The polarimetric observations of the quiet Sun show linear polarization
+   in molecular lines of C-2, MgH, etc. The molecular lines are very faint
+   in the intensity spectrum. We propose that the polarization is caused by
+   coherent scattering processes in the solar atmosphere as in the case of
+   atomic lines. The intensity and polarization profiles of MgH lines are
+   calculated using the quiet-Sun model by Vernazza, Avrett, \& Loeser.
+   This procedure allows us to estimate the oscillator strengths (f), the
+   inelastic collisional rates (Gamma(l)), and the depolarizing elastic
+   collision rates (D-(2)) for the molecular line transitions in the solar
+   atmosphere. It is found that for the line lambda 5165.933, f = 0.04,
+   Gamma(l) = 1.85 x 10(7) s(-1), and D-(2) = 9.52 x 10(6) s(-1). The line
+   lambda 5168.147 fits the observations for f = 0.05, Gamma(l) = 2.91 x
+   10(7) s(-1), and D-(2) = 3.69 x 10(7) s(-1).},
+DOI = {10.1086/312312},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:000083136300015},
+}
+
+@article{ 99WaHiLi.MgH,
+Author = {Wallace, L and Hinkle, K and Li, G and Bernath, P},
+Title = {The MgHB ` (2)Sigma(+)-x (2)Sigma(+) transition: A new tool for studying
+   magnesium isotope abundances},
+Journal = ApJ,
+Year = {1999},
+Volume = {524},
+Pages = {454-461},
+Abstract = {We have identified lines from the 0-3, 0-4, 0-5, 0-6, 0-7, 1-3, 1-4,
+   1-7, and 1-8 bands of the (MgH)-Mg-24 B' (2)Sigma(+)-X (2)Sigma(+)
+   transition in sunspot umbral spectra. Lines of the 0-7 and 1-8 bands in
+   the uncluttered 7500 Angstrom region are the most obvious, but B'
+   (2)Sigma(+) -X (2)Sigma(+) lines have been tracked as far to the blue as
+   5300 Angstrom. In combination with weak lines of the 0-7 bands of the
+   (MgH)-Mg-25 and (MgH)-Mg-26 isotopes, the solar isotope ratio
+   Mg-24:Mg-25:Mg-26 has been measured as 76:12:12, in agreement with the
+   much better determined terrestrial ratio 79:10:11. The intensity
+   distribution of bands with nu `` from 4 to 8 has been measured and found
+   to show no anomalies; the excitation temperature of 3100 K agrees well
+   with a value of 3200 K determined from SiO in a sunspot spectrum. The
+   lines of the MgH B' (2)Sigma(+)-X (2)Sigma(+) transition are much more
+   cleanly separated and much less blended than lines from the stronger A
+   (2)Pi-X (2)Sigma(+) transition. The B' (2)Sigma(+)-X (2)Sigma(+) lines
+   should prove useful in isotopic abundance analyses for stars where the A
+   (2)Pi-X (2)Sigma(+) transition is too strong to yield useful results.},
+DOI = {10.1086/307798},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:000082957600035},
+}
+
+@article{ 99OuHuLi.MgH,
+Author = {Ou, Y R and Hung, Y H and Lin, K C},
+Title = {Quasiclassical trajectory study of Mg(3s3p(1)P(1)) plus H-2 reaction on
+   fitted ab initio surfaces},
+Journal = JPCA,
+Year = {1999},
+Volume = {103},
+Pages = {7938-7948},
+Abstract = {Quasi-classical trajectory calculations for the reaction of
+   Mg(3s3p(1)P(1)) with H-2 are performed on two potential energy surfaces
+   (PES), the excited state (1)A' (or B-1(2) in the C-2v symmetry) in the
+   entrance channel and the ground state (1)A' (or (1)A(1)) in the exit
+   channel. A many-body expansion procedure is adopted for the construction
+   of the analytical fit functions from the ab initio results. The title
+   reaction involves a nonadiabatic transition between the two potential
+   surfaces. For simplicity, the transition probability is assumed to be
+   unity when the trajectory goes through the region of surface crossing
+   and changes to the lower surface. The calculated total collisional
+   deactivation and reaction cross sections decrease with the increase of
+   translational collision energy. The calculated rotational product
+   distributions are characterized by a bimodal feature both fur the MgH v
+   = 0 and 1 states. The trend of bimodality is consistent with the
+   observation reported in experimental studies. Our inspection of
+   individual trajectories reveals that the low-rotational and
+   high-rotational populations are caused by two distinct reaction
+   pathways. This observation supports our previous expectation for the
+   microscopic branching via the PES anisotropy. The angular product
+   distribution indicates that the reaction proceeds predominantly via a
+   linear collision complex. An increase of the collision energy from 2.026
+   to 8.104 kcal/mol has resulted in a shift of the distribution toward
+   forward direction. The vibrational product distribution tends to
+   decrease with the quantum numbers. The ratio of MgH(v = 1) to MgH(v = 0)
+   yields a value of similar to 0.3, which is nevertheless underestimated
+   as compared with the observation of 0.7 +/- 0.2. The reasons for the
+   discrepancy are also discussed.},
+DOI = {10.1021/jp9907589},
+Journal-ISO = {J. Phys. Chem. A},
+Unique-ID = {ISI:000083151200003},
+}
+
+@article{ 98SeCaxx.MgH,
+Author = {Serrano, A and Canuto, S},
+Title = {Calculated polarizabilities and gradients: Rayleigh and Raman scattering
+   activities for the MgH molecule},
+Journal = THEOCHEM,
+Year = {1998},
+Volume = {432},
+Pages = {69-74},
+Abstract = {Dipole moment, static dipole polarizability and hyperpolarizability are
+   calculated for MgH with high-order many-body perturbation theory and
+   coupled-cluster methods using large basis sets. At the highest levels,
+   CCSD(T), the calculated values are 0.533 a.u. (dipole moment), 65.3 a.u.
+   (average polarizability), -10.3 a.u. (polarizability anisotropy) and
+   580.7 a.u. (first hyperpolarizability). The derivatives of the dipole
+   moment and dipole polarizability with respect to the internuclear
+   separation are also calculated. These gradients are used to predict the
+   infrared absorption intensity. Raman scattering activity and Rayleigh
+   and Raman depolarizations of light scattering by diatomic MgH. The cross
+   section for Raman scattering is predicted. The degree of depolarization
+   of the Raman scattered light is found to be very large for natural,
+   planar and circular polarizations. (C) 1998 Elsevier Science B.V.},
+DOI = {10.1016/S0166-1280(98)00058-X},
+Journal-ISO = {Theochem-J. Mol. Struct.},
+Unique-ID = {ISI:000073441700008},
+}
+
+@article{ 97KoSaYa.MgH,
+Author = {Kobayashi, T and Sasagane, K and Yamaguchi, K},
+Title = {Calculation of frequency-dependent polarizabilities for open-shell
+   systems at the second-order Moller-Plesset perturbation theory level
+   based on the quasi-energy derivative method},
+Journal = IJQC,
+Year = {1997},
+Volume = {65},
+Pages = {665-677},
+Note = {37th Annual Sanibel Symposium, UNIV FLORIDA, PONCE DE LEON CONF CTR, ST
+   AUGUSTINE, FL, MAR 01-07, 1997},
+Abstract = {We extended the dynamic response theory in the Moller-Plesset
+   perturbation theory (MPPT) based on the quasi-energy derivative (QED)
+   method for closed-shell systems to that for open-shell systems. In this
+   study we perform the calculations of frequency-dependent
+   polarizabilities alpha(-omega; omega) for nondegenerate open-shell
+   doubler systems (Li, Na, and K atoms and BeH, MgH, CaH, CN, and NH2
+   molecules) in the second-order Moller-Plesset perturbation theory (MP2)
+   starting with time-dependent restricted open-shell Hartree-Fock (TDROHF)
+   approximation. (C) 1997 John Wiley \& Sons, Inc.},
+DOI = {10.1002/(SICI)1097-461X(1997)65:5<665::AID-QUA33>3.0.CO;2-Z},
+Journal-ISO = {Int. J. Quantum Chem.},
+Unique-ID = {ISI:A1997YG65000033},
+}
+
+@article{ 97LiLixx.MgH,
+Author = {Liu, D K and Lin, K C},
+Title = {Nascent rotational distributions of MgH in reaction of Mg(4s(1)S(0))
+   with H-2 and HD},
+Year = {1997},
+Volume = {44},
+Pages = {463-468},
+Abstract = {The nascent rotational distributions of MgH(X-2 Sigma(+), v `' = 0,1)
+   resulting from the reaction of Mg(4s(1)S(0)) with H-2 and HD have been
+   determined by using the laser pump-probe technique. Like the case of
+   Mg(P-1(1)), the distributions appear to be bimodal which peak: mainly at
+   high N(26) with minor peaks at low N(6). There are no apparent
+   differences when the escaping mass is doubled. The similarity between
+   product rotational distributions from the 4S state and those from the 3P
+   state, and no evidence of a kinematic isotope effect, reveal that a
+   harpoon-type mechanism may be operative. Our ab initio calculations
+   reveal that in the entrance channel on the 3(1)A(1) surface in C-2v
+   symmetry or (1) Sigma(+) surface in C-infinity v symmetry for 4S state,
+   the reaction may take place via a series of non-adiabatic curve
+   crossings with the ionic Mg+H2- potential surface.},
+Journal = {J. Chin. Chem. Soc.},
+Unique-ID = {ISI:A1997YG42300002},
+}
+
+@article{ 97QiMcTo.MgH,
+Author = {Qin, W and McCoy, D G and Torop, L and Blake, A J},
+Title = {Intermediate coupling strength pre-dissociation of diatomic molecules:
+   transition from diabatic to adiabatic case},
+Journal = CP,
+Year = {1997},
+Volume = {221},
+Pages = {77-84},
+Abstract = {Many diatomic molecular systems have overlapping potential curves and it
+   is well known that if the electronic states are of the same symmetry
+   then the adiabatic curves undergo an avoided crossing. Photo-absorption
+   to these states have interesting spectroscopic properties including Fano
+   profile line shapes and the possibility of very narrow line widths above
+   the dissociation limit. A novel interpretation of the change in
+   resonance structure between the diabatic and adiabatic limit based on
+   combined bound vibrational functions is presented and compared with
+   results obtained by the Siegert-complex energy method for a model MgH
+   system. (C) 1997 Elsevier Science B.V.},
+DOI = {10.1016/S0301-0104(97)00124-9},
+Journal-ISO = {Chem. Phys.},
+Unique-ID = {ISI:A1997XU93100008},
+}
+
+
+
+@article{ 95LiPaxx.MgH,
+Author = {Li, X Z and Paldus, J},
+Title = {SPIN-ADAPTED OPEN-SHELL STATE-SELECTIVE COUPLED-CLUSTER APPROACH AND
+   DOUBLET STABILITY OF ITS HARTREE-FOCK REFERENCE},
+Journal = JCP,
+Year = {1995},
+Volume = {102},
+Pages = {2013-2023},
+DOI = {10.1063/1.468766},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1995QD54200016},
+}
+
+@article{ 94LiChLi.MgH,
+Author = {Liu, D K and Chin, T L and Lin, K C},
+Title = {VIBRATIONAL AND ROTATIONAL POPULATION-DISTRIBUTIONS OF MGH(UPSILON''=0
+   AND 1) PRODUCED IN THE REACTION OF MG(3S3P-P-1(1)) WITH H-2},
+Journal = PRA,
+Year = {1994},
+Volume = {50},
+Pages = {4891-4898},
+DOI = {10.1103/PhysRevA.50.4891},
+Journal-ISO = {Phys. Rev. A},
+Unique-ID = {ISI:A1994PX17900052},
+}
+
+@article{ 94TaAnxx.MgH,
+Author = {Tague, T J and Andrews, L},
+Title = {PULSED-LASER EVAPORATED MAGNESIUM ATOM REACTIONS WITH HYDROGEN -
+   INFRARED-SPECTRA OF 5 MAGNESIUM HYDRIDE MOLECULES},
+Year = {1994},
+Volume = {98},
+Pages = {8611-8616},
+Abstract = {Pulsed laser ablated magnesium atoms have been codeposited with mixtures
+   of hydrogen and argon onto a 10 K substrate. Assignments to product
+   molecules have been made on the basis of broad-band photolysis and
+   annealing behavior, deuterium and Mg-26 isotopic substitution, and ab
+   initio calculations. The predominant reaction products are MgH (infrared
+   absorption at 1422.1 cm(-1)) and linear MgH2 (nu(3) = 1571.9 cm(-1) and
+   nu(2) = 439.8 cm(-1)). Absorptions attributed to the two lowest energy
+   MgH dimers HMgMgH (1491.8 cm(-1)) and the rhombic dimer (MgH)(2) (1022.8
+   and 605.4 cm(-1)) are evident as well as the bridged MgH2 dimer
+   HMg(H)(2)-MgH (1531.0, 1164.2, 1013.7, and 613.9 cm(-1)). An increase of
+   HMgMgH and (MgH)2 dimer formation on photolysis indicates
+   photoactivation of Mg-2, allowing reaction with H-2 Annealing of the
+   matrix yielded little increase in dimer, which is indicative of limited
+   mobility of magnesium hydrides in the matrix. However, H-2 complexes
+   with both MgH and MgH2 increased on annealing.},
+DOI = {10.1021/j100086a004},
+Journal = {J. Phys. Chem.},
+Unique-ID = {ISI:A1994PE35900004},
+}
+
+@article{ 94AvBeCu.MgH,
+Author = {Avery, L W and Bell, M B and Cunningham, C T and Feldman, P A and Hayward,
+   R H and Macleod, J M and Matthews, H E and Wade, J D},
+Title = {SUBMILLIMETER MOLECULAR LINE OBSERVATIONS OF IRC+10216 - SEARCHES FOR
+   MGH, SIH2, AND HCO+, AND DETECTION OF HOT HCN},
+Journal = ApJ,
+Year = {1994},
+Volume = {426},
+Pages = {737-741},
+Abstract = {Sensitive searches have been carried out under good observing conditions
+   for submillimeter-wavelength lines of MgH and SiH2 in the circumstellar
+   envelope of IRC + 10216. Upper limits for the column densities are
+   N((MgH)-Mg-24) less-than-or-equal-to 6 x 10(12) cm-2 and N(SiH2)
+   less-than-or-equal-to 3.5 x 10(11) cm-2. A deep search has also been
+   made without success for HCO+. The upper limit for the column density is
+   N(HCO+) less-than-or-equal-to 1.4 x 10(11) cm-2, which corresponds to
+   X{[}HCO+] = 1.8 x 10(-11) for a mass-loss rate of 4 x 10(-5) M. yr-1.
+   This is an order of magnitude lower than the predicted theoretical
+   abundance of X{[}HCO+] = 4.5 x 10(-10) (Glassgold et al. 1987).
+   The J = 4-3 rotational lines have been observed from four vibrational
+   states of HCN, all with higher excitation energies than have previously
+   been reported. These are the (03(3)0), (11(1d)0), (12(0)10), and
+   (01(1d)1) states, with excitation energies of 3000, 4000, 5100, and 5800
+   K, respectively. The line profiles are narrower than that of the
+   (HCN)-N-15 ground-state line which was observed simultaneously. This
+   suggests the hot HCN emission is not cospatial with the lower excitation
+   lines.},
+DOI = {10.1086/174110},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1994NK03200029},
+}
+
+@article{ 93BoBexx.MgH,
+Author = {Bonnell, J T and Bell, R A},
+Title = {FURTHER DETERMINATIONS OF THE GRAVITIES OF COOL GIANT STARS USING MG-I
+   AND MGH FEATURES},
+Journal = MNRAS,
+Year = {1993},
+Volume = {264},
+Pages = {334-344},
+Abstract = {Surface gravities are deduced for Arcturus and five other cool giant
+   stars. A temperature and an overall abundance are adopted for each
+   object and the surface gravity is then found by requiring the magnesium
+   abundance derived from Mg I features to match that derived from MgH. The
+   contamination of the MgH features by lines of the C2 system is allowed
+   for. The values obtained by this method are compared with those found by
+   other spectroscopic methods that use Fe ionization equilibria and the
+   pro files of strong lines. The errors inherent in the molecular
+   equilibrium methods are discussed. The surface gravities found from
+   radii derived from parallaxes and angular diameters, and an assumed mass
+   of 1 M., are compared with the spectroscopic results. The results for
+   Arcturus are also compared with those found from the molecular
+   equilibrium method applied to oxygen features. All the determinations
+   discussed here use a consistent set of theoretical, LTE, flux-constant,
+   line-blanketed model atmospheres, and the differences in the results are
+   taken to be evidence for non-LTE effects. It is suggested that these
+   comparisons indicate a range of spectral types for which non-LTE effects
+   are important.
+   A supplemental abundance analysis for one of the giant stars (phi2Ori)
+   is also presented.},
+Journal-ISO = {Mon. Not. Roy. Astron. Soc.},
+Unique-ID = {ISI:A1993LX32600007},
+}
+
+@article{ 93ZiBaAn.MgH,
+Author = {Ziurys, L M and Barclay, W  L and Anderson, M A},
+Title = {THE MILLIMETER-WAVE SPECTRUM OF THE MGH AND MGD RADICALS},
+Journal = ApJ,
+Year = {1993},
+Volume = {402},
+Pages = {L21-L24},
+Abstract = {The pure rotational spectrum of the MgH radical (X 2SIGMA+) in its
+   ground state v = 0 and v = 1 vibrational modes has been observed in the
+   laboratory using millimeter/submillimeter direct absorption
+   spectroscopy. The rotational spectra of two isotopically substituted
+   species, MgD and (MgH)-Mg-26, have been detected as well. These free
+   radicals were produced by the reaction of magnesium, vaporized in a
+   Broida-type oven, with hydrogen atoms generated in a microwave
+   discharge. All six hyperfine components of the N = 0 --> 1 transition of
+   MgH in its v = 0 and v = 1 states have been directly measured to an
+   accuracy of + 50 kHz, and five components have been observed for
+   (MgH)-Mg-26. The N = 0 --> 1 and N = 1 --> 2 transitions of MgD have
+   also been detected. Rotational, fine structure, and hyperfine constants
+   were determined for all species from a nonlinear least-squares fit to
+   the data using a 2SIGMA Hamiltonian. Measurement of these frequencies
+   for MgH should greatly aid in establishing its presence in interstellar
+   space.},
+DOI = {10.1086/186690},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1993KD94700006},
+}
+
+
+
+@article{ 92BeSaxx.MgH,
+Author = {Berdyugina, S V and Savanov, I S},
+Title = {THE DETERMINATION OF THE PARAMETERS OF RED GIANTS ATMOSPHERES - MGH AS A
+   LUMINOSITY CRITERION},
+Journal = {Astron. Zh.},
+Year = {1992},
+Volume = {69},
+Pages = {829-841},
+Abstract = {The possibility of using MgH lines as a gravity criterion for red giant
+   atmospheres is considered. High-resolution spectra of twelve K0-K3
+   giants were obtained with the CCD camera in the coude spectrograph of
+   the Shajn telescope. The effective temperatures T(ef) of these giants
+   have been determined from (Y-K) colors, and the gravities 1g g have been
+   obtained from the comparison of observed and calculated equivalent
+   widths if MgH features with the wavelengths 5134,6; 5138,7, 5140,2
+   angstrom angstrom. The results of the investigation of the influence of
+   some parameters (micro- and macroturbulence, metallicity, abundance of
+   Mg etc.) on the calculated MgH line profiles are discussed. The values
+   of T(ef) and Ig g are compared with those obtained by other methods and
+   published ones. The calibration diagrams for the determination of
+   gravities of red giants with T(ef) from 4000 K to 5000 K from the
+   equivalent widths and the central intensities of MgH lines are proposed.},
+Journal-ISO = {Astron. Zhurnal},
+Unique-ID = {ISI:A1992JV29500014},
+}
+
+@article{ 92Kuxxxx.MgH,
+Author = {Kurucz, R L},
+Title = {ATOMIC AND MOLECULAR-DATA FOR OPACITY CALCULATIONS},
+Year = {1992},
+Volume = {23},
+Pages = {45-48},
+Note = {WORKSHOP ON ASTROPHYSICAL OPACITIES, IBM VENEZUELA SCI CTR, CARACAS,
+   VENEZUELA, JUL 15-19, 1991},
+Abstract = {I am attempting to produce line lists for all atoms and diatomic
+   molecules that are important in stars. I collect all published data on
+   spectrum analysis and oscillator strengths. I compute the energy levels,
+   wavelengths, gf values, and damping constants that are not available
+   from the literature. Line lists have been computed for diatomic
+   molecules H-2, CH, NH, OH, MgH, SiH, CN, C2, CO, SiO, and TiO, and for
+   the iron group atoms Ca I-IX to Ni I-IX. These lists total 58 million
+   lines. These calculations are being revised as new laboratory data
+   become available. The work is being extended to other diatomic
+   molecules, to lighter and heavier elements, and to higher stages of
+   ionization.},
+Journal = {Rev. Mex. Astron. Astrofis.},
+Unique-ID = {ISI:A1992HV96700004},
+}
+
+@article{ 91BeTrxx.MgH,
+Author = {Bell, R A and Tripicco, M J},
+Title = {MOLECULAR EQUILIBRIA AND THE LUMINOSITY CLASSIFICATION OF G-STARS AND
+   K-STARS},
+Journal = ApJ,
+Year = {1991},
+Volume = {102},
+Pages = {777-786},
+Abstract = {Two accompanying papers have used synthetic spectra to discuss the
+   calibration of CO band indices and the C(41-42), C(42-45) and C(45-48),
+   C(42-45) diagrams of the DDO photometric system.  The band passes of the
+   latter system are strongly influenced by lines of CN, CH, MgH, and SiH,
+   with the SiH lines affecting the 41 pass band in dwarfs.  Simple
+   formulas which make predictions of the strengths of these lines are
+   discussed.  The results of these formulas are compared with approximate
+   calculations of the ratio of line to continuous absorption coefficients
+   in the stellar atmospheres.  Some discussion of the depth dependence of
+   the different molecular abundances is also given.  The luminosity
+   dependence of the CO bands is shown to be a consequence of the lower
+   continuous absorption coefficient in giant star atmospheres as compared
+   to dwarfs.  The lesser depletion of carbon by CO formation and lower
+   continuous opacity in giants with T(eff) < 4500 K leads to them having
+   stronger CN and CH bands than the corresponding dwarfs.  The need to
+   include an enhanced nitrogen abundance to explain the observed CN band
+   strengths in the hotter giants can be understood.  The relative
+   importance of CH as a continuous opacity source is considered.  The SiH
+   lines are shown to vary strongly with T(eff) and log g, in a manner
+   similar to that of the MgH lines.},
+DOI = {10.1086/115909},
+Journal-ISO = {Astron. J.},
+Unique-ID = {ISI:A1991FY25500026},
+}
+
+@article{ 90HsLuLi.MgH,
+Author = {Hsiao, T C and Luo, Y L and Lin, K C and Luh, W T},
+Title = {LASER SPECTROSCOPY ON THE MGH A2-PI-X2-SIGMAT BAND SYSTEM},
+Year = {1990},
+Volume = {37},
+Pages = {473-478},
+Journal = {J. Chin. Chem. Soc.},
+Unique-ID = {ISI:A1990ED72800008},
+}
+
+@article{ 90ZiJeEv.MgH,
+Author = {Zink, L R and Jennings, D A and Evenson, K M and Leopold, K R},
+Title = {LABORATORY MEASUREMENTS FOR THE ASTROPHYSICAL IDENTIFICATION OF MGH},
+Journal = ApJ,
+Year = {1990},
+Volume = {359},
+Pages = {L65-L66},
+DOI = {10.1086/185796},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1990DT68200008},
+}
+
+@article{ 88LaMuDi.MgH,
+Author = {Laaksonen, L and Mullerplathe, F and Diercksen, G H F},
+Title = {FULLY NUMERICAL RESTRICTED HARTREE-FOCK CALCULATIONS ON OPEN-SHELL
+   HYDRIDES - ON THE BASIS-SET TRUNCATION ERROR},
+Journal = JCP,
+Year = {1988},
+Volume = {89},
+Pages = {4903-4908},
+DOI = {10.1063/1.455660},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1988T019400054},
+}
+
+@article{ 88LeDeDe.MgH,
+Author = {Lemoine, B and Demuynck, C and Destombes, J L and Davies, P B},
+Title = {INFRARED DIODE-LASER SPECTRA OF MGH AND MGD (X 2-SIGMA+)},
+Journal = JCP,
+Year = {1988},
+Volume = {89},
+Pages = {673-677},
+DOI = {10.1063/1.455188},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1988P260600006},
+}
+
+
+
+@article{ 87CzFeRo.MgH,
+Author = {Czarny, J and Felenbok, P and Roueff, E},
+Title = {A SEARCH FOR INTERSTELLAR NAH AND MGH IN DIFFUSE CLOUDS},
+Journal = AA,
+Year = {1987},
+Volume = {188},
+Pages = {155-158},
+Journal-ISO = {Astron. Astrophys.},
+Unique-ID = {ISI:A1987L241300023},
+}
+
+@article{ 87RiShMc.MgH,
+Author = {Richman, K W and Shi, Z G and Mccullough, E A},
+Title = {CALCULATION OF THE HYPERFINE SPLITTING CONSTANTS FOR DIATOMIC-MOLECULES
+   USING NUMERICAL WAVE-FUNCTIONS},
+Journal = CPL,
+Year = {1987},
+Volume = {141},
+Pages = {186-192},
+DOI = {10.1016/0009-2614(87)85006-6},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:A1987K801200006},
+}
+
+@article{ 87FuReSt.MgH,
+Author = {Fuentealba, P and Reyes, O and Stoll, H and Preuss, H},
+Title = {GROUND-STATE PROPERTIES OF ALKALI AND ALKALINE-EARTH HYDRIDES},
+Journal = JCP,
+Year = {1987},
+Volume = {87},
+Pages = {5338-5345},
+DOI = {10.1063/1.453653},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1987K583500035},
+}
+
+@article{ 87BrWaxx.MgH,
+Author = {Breckenridge, W H and Wang, J H},
+Title = {DYNAMICS OF THE REACTIONS OF MG(3S3P1P1) WITH H2, HD, AND D2 -
+   ROTATIONAL QUANTUM STATE DISTRIBUTIONS OF MGH (MGD) PRODUCTS},
+Journal = CPL,
+Year = {1987},
+Volume = {137},
+Pages = {195-200},
+DOI = {10.1016/0009-2614(87)80204-X},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:A1987J174500001},
+}
+
+@article{ 86MoKoxx.MgH,
+Author = {Mohlenkamp, R and Korsch, H J},
+Title = {SEMICLASSICAL COMPLEX-ENERGY QUANTIZATION FOR COUPLED EQUATIONS -
+   FESHBACH RESONANCES AND PREDISSOCIATION},
+Journal = PRA,
+Year = {1986},
+Volume = {34},
+Pages = {4716-4721},
+DOI = {10.1103/PhysRevA.34.4716},
+Journal-ISO = {Phys. Rev. A},
+Unique-ID = {ISI:A1986E945100023},
+}
+
+
+
+@article{ 86LeZiEv.MgH,
+Author = {Leopold, K R and Zink, L R and Evenson, K M and Jennings, D A and Mizushima, M},
+Title = {THE FAR INFRARED-SPECTRUM OF MAGNESIUM HYDRIDE},
+Journal = JCP,
+Year = {1986},
+Volume = {84},
+Pages = {1935-1937},
+DOI = {10.1063/1.450445},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1986AYW3400115},
+}
+
+@article{ 85JeBrxx.MgH,
+Author = {Jenc, F and Brandt, B A},
+Title = {THE GROUND-STATE REDUCED POTENTIAL CURVES (RPC) OF THE METAL-HYDRIDES
+   CUH AND MGH},
+Year = {1985},
+Volume = {41},
+Pages = {1211-1214},
+DOI = {10.1016/0584-8539(85)80132-X},
+Journal = {Spectroc. Acta   A},
+Unique-ID = {ISI:A1985ASZ7500012},
+}
+
+@article{ 85BeBlBr.MgH,
+Author = {Bernath, P F and Black, J H and Brault, J W},
+Title = {THE SPECTRUM OF MAGNESIUM HYDRIDE},
+Journal = ApJ,
+Year = {1985},
+Volume = {298},
+Pages = {375-381},
+DOI = {10.1086/163620},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1985ATN6400038},
+}
+
+@article{ 84BrUmxx.MgH,
+Author = {Breckenridge, W H and Umemoto, H},
+Title = {NASCENT INTERNAL ENERGY-DISTRIBUTIONS OF MGH PRODUCED IN THE REACTION OF
+   MG(3S3P1P1) WITH A VARIETY OF POLYATOMIC-MOLECULES},
+Journal = JCP,
+Year = {1984},
+Volume = {81},
+Pages = {3852-3865},
+DOI = {10.1063/1.448169},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1984TS41400016},
+}
+
+@article{ 84BrUmx1.MgH,
+Author = {Breckenridge, W H and Umemoto, H},
+Title = {NASCENT INTERNAL ENERGY-DISTRIBUTIONS OF MGH(MGD) PRODUCED IN THE
+   REACTION OF MG(3S3P1P1) WITH H2(D2)},
+Journal = JCP,
+Year = {1984},
+Volume = {80},
+Pages = {4168-4176},
+DOI = {10.1063/1.447245},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1984SQ65600033},
+}
+
+@article{ 83BhBaxx.MgH,
+Author = {Bhattacharyya, S S and Basu, D},
+Title = {SHAPE RESONANCES AND THE PHOTO-DISSOCIATION CROSS-SECTION OF MGH NEAR
+   THRESHOLD},
+Journal = CP,
+Year = {1983},
+Volume = {79},
+Pages = {129-135},
+DOI = {10.1016/0301-0104(83)85145-3},
+Journal-ISO = {Chem. Phys.},
+Unique-ID = {ISI:A1983RF33700013},
+}
+
+@article{ 83LaLixx.MgH,
+Author = {Laurenzi, B J and Litto, C},
+Title = {ISOELECTRONIC MOLECULES - THE 13-ELECTRON AND 22-ELECTRON SEQUENCES OF
+   DIATOMICS},
+Journal = JCP,
+Year = {1983},
+Volume = {78},
+Pages = {6808-6823},
+DOI = {10.1063/1.444627},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1983QR63100057},
+}
+
+@article{ 83DaBaSa.MgH,
+Author = {Datta, K K and Basu, D and Saha, S and Barua, A K},
+Title = {PHOTO-DISSOCIATION OF MGH IN THE SOLAR ATMOSPHERE},
+Journal = JPB,
+Year = {1983},
+Volume = {16},
+Pages = {2377-2384},
+DOI = {10.1088/0022-3700/16/13/011},
+Journal-ISO = {J. Phys. B-At. Mol. Opt. Phys.},
+Unique-ID = {ISI:A1983QY55100011},
+}
+
+@article{ 82BrUmxx.MgH,
+Author = {Breckenridge, W H and Umemoto, H},
+Title = {REACTION OF MG(3S3P1P1) WITH A VARIETY OF ALKYL C-H BONDS - IDENTICAL
+   INITIAL MGH(X2-SIGMA+, V=O) ROTATIONAL QUANTUM STATE DISTRIBUTIONS},
+Journal = JCP,
+Year = {1982},
+Volume = {77},
+Pages = {4464-4468},
+DOI = {10.1063/1.444394},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1982PM91500029},
+}
+
+@article{ 82Coxxxx.MgH,
+Author = {Cooper, D L},
+Title = {SPIN SPLITTING IN THE X2-SIGMA(+) STATE OF MGH},
+Journal = JCP,
+Year = {1982},
+Volume = {76},
+Pages = {3692-3693},
+DOI = {10.1063/1.443407},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1982NH94300043},
+}
+
+
+@article{ 81BrUmxx.MgH,
+Author = {Breckenridge, W H and Umemoto, H},
+Title = {BIMODAL ROTATIONAL QUANTUM STATE DISTRIBUTION OF MGH(X2SIGMA+,V=O) IN
+   THE REACTION OF MG(3S3P P-1C1) WITH H-2 - EVIDENCE FOR MICROSCOPIC
+   BRANCHING},
+Journal = JCP,
+Year = {1981},
+Volume = {75},
+Pages = {4153-4155},
+DOI = {10.1063/1.442503},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1981MH38900061},
+}
+
+@article{ 80Baxxxx.MgH,
+Author = {Balfour, W J},
+Title = {MGH AND MGD SPECTRA IN THE 230-NM 235-NM REGION},
+Journal = JMS,
+Year = {1980},
+Volume = {79},
+Pages = {507-511},
+DOI = {10.1016/0022-2852(80)90229-5},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:A1980JA63600017},
+}
+
+@article{ 80RoWexx.MgH,
+Author = {Rosmus, P and Werner, H-J},
+Title = {EINSTEIN TRANSITION-PROBABILITY COEFFICIENTS IN THE ELECTRONIC
+   GROUND-STATES OF THE DIATOMIC HYDRIDES},
+Year = {1980},
+Volume = {60},
+Pages = {405-408},
+DOI = {10.1016/0022-2860(80)80099-8},
+Journal = {J. Mol. Struct.},
+Unique-ID = {ISI:A1980JK06400075},
+}
+
+@article{ 80ToLaxx.MgH,
+Author = {Tomkin, J and Lambert, D L},
+Title = {ISOTOPIC ABUNDANCES OF MAGNESIUM IN 5 G-DWARFS AND K-DWARFS},
+Journal = ApJ,
+Year = {1980},
+Volume = {235},
+Pages = {925-938},
+DOI = {10.1086/157697},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1980JH86600027},
+}
+
+@article{ 79SiBaxx.MgH,
+Author = {Sink, M L and Bandrauk, A D},
+Title = {THEORETICAL-STUDY OF THE B'2-SIGMA-+-X2-SIGMA-+ BAND SYSTEM IN MGH AND
+   MGD},
+Year = {1979},
+Volume = {57},
+Pages = {1178-1184},
+Journal = {Can. J. Phys.},
+Unique-ID = {ISI:A1979HK01700017},
+}
+
+@article{ 79PaShxx.MgH,
+Author = {Patel, G K and Sheth, B I},
+Title = {RKRV CURVES FOR A AND X STATES OF MGH AND MGD MOLECULES},
+Journal = {INDIAN JOURNAL OF PHYSICS AND PROCEEDINGS OF THE INDIAN ASSOCIATION FOR
+   THE CULTIVATION OF SCIENCE-PART B},
+Year = {1979},
+Volume = {53},
+Pages = {159-162},
+Unique-ID = {ISI:A1979JF67500010},
+}
+
+@article{ 79KiSaLi.MgH,
+Author = {Kirby, K and Saxon, R P and Liu, B},
+Title = {OSCILLATOR-STRENGTHS AND PHOTO-DISSOCIATION CROSS-SECTIONS IN THE X-]A
+   AND X-]B' BAND SYSTEMS IN MGH},
+Journal = ApJ,
+Year = {1979},
+Volume = {231},
+Pages = {637-641},
+DOI = {10.1086/157226},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1979HE44200036},
+}
+
+@article{ 79KlMaxx.MgH,
+Author = {Klynning, L and Martin, H},
+Title = {IONIC BONDS IN THE GROUP-IIA HYDRIDES},
+Year = {1979},
+Volume = {20},
+Pages = {594-598},
+DOI = {10.1088/0031-8949/20/5-6/006},
+Journal = {Phys. Scr.},
+Unique-ID = {ISI:A1979HW87300006},
+}
+
+@article{ 79TrGaxx.MgH,
+Author = {Tripathi, B M and Gaur, V P},
+Title = {PARTITION-FUNCTIONS AND DISSOCIATION-CONSTANTS FOR MGH},
+Journal = JQSRT,
+Year = {1979},
+Volume = {22},
+Pages = {407-409},
+DOI = {10.1016/0022-4073(79)90078-5},
+Journal-ISO = {J. Quant. Spectrosc. Radiat. Transf.},
+Unique-ID = {ISI:A1979HQ55600011},
+}
+
+@article{ 78NeDuxx.MgH,
+Author = {Nedelec, O and Dufayard, J},
+Title = {LIFETIMES OF MGH (MGD) AND HGH (HGD) A-PI-2 STATE EXCITED BY A PULSED
+   DYE-LASER},
+Journal = JCP,
+Year = {1978},
+Volume = {69},
+Pages = {1833-1835},
+DOI = {10.1063/1.436843},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1978FQ69500005},
+}
+
+@article{ 78SaKiLi.MgH,
+Author = {Saxon, R P and Kirby, K and Liu, B},
+Title = {ABINITIO CONFIGURATION INTERACTION STUDY OF LOW-LYING ELECTRONIC STATES
+   OF MGH},
+Journal = JCP,
+Year = {1978},
+Volume = {69},
+Pages = {5301-5309},
+DOI = {10.1063/1.436556},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1978GA64600011},
+}
+
+@article{ 78BaLixx.MgH,
+Author = {Balfour, W J and Lindgren, B},
+Title = {HIGH-RESOLUTION EMISSION-SPECTRA OF MGH AND MGD IN 600 TO 850 NM
+   WAVELENGTH REGION},
+Year = {1978},
+Volume = {56},
+Pages = {767-779},
+Journal = {Can. J. Phys.},
+Unique-ID = {ISI:A1978FC79300022},
+}
+
+@article{ 77PaShxx.MgH,
+Author = {Patel, G K and Sheth, B I},
+Title = {EFFECTIVENESS OF MORSE AND LIPPINCOTT POTENTIAL FUNCTIONS FOR A AND X
+   STATES OF MGH},
+Journal = {PRAMANA},
+Year = {1977},
+Volume = {9},
+Pages = {457-460},
+DOI = {10.1007/BF02846250},
+Unique-ID = {ISI:A1977EC41100002},
+}
+
+@article{ 77MaSixx.MgH,
+Author = {Maciel, W J and Singh, P D},
+Title = {(MGH)-MG-24 MOLECULE IN ATMOSPHERES OF LATE TYPE STARS -
+   TRANSITION-PROBABILITIES, OSCILLATOR-STRENGTHS, AND FINE-STRUCTURES OF
+   ROTATION-VIBRATION BANDS},
+Journal = AA,
+Year = {1977},
+Volume = {54},
+Pages = {417-424},
+Journal-ISO = {Astron. Astrophys.},
+Unique-ID = {ISI:A1977CT79000011},
+}
+
+@article{ 76BaCax1.MgH,
+Author = {Balfour, W J and Cartwright, H M},
+Title = {B'2SIGMA+ -]SIGMAX2SIGMA+ SYSTEMS OF MGH AND MGD},
+Year = {1976},
+Volume = {54},
+Pages = {1898-1904},
+Journal = {Can. J. Phys.},
+Unique-ID = {ISI:A1976CE29700011},
+}
+
+
+@article{ 75MeRoxx.MgH,
+Author = {Meyer, W and Rosmus, P},
+Title = {PNO-CL AND CEPA STUDIES OF ELECTRON CORRELATION EFFECTS .3.
+   SPECTROSCOPIC CONSTANTS AND DIPOLE-MOMENT FUNCTIONS FOR GROUND-STATES OF
+   FIRST-ROW AND SECOND-ROW DIATOMIC HYDRIDES},
+Journal = JCP,
+Year = {1975},
+Volume = {63},
+Pages = {2356-2375},
+DOI = {10.1063/1.431665},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1975AQ26100013},
+}
+
+@article{ 75BaCax1.MgH,
+Author = {Balfour, W J and Cartwright, H M},
+Title = {GROUND-STATE AND A2II EXCITED-STATE OF MAGNESIUM DEUTERIDE},
+Year = {1975},
+Volume = {53},
+Pages = {1477-1482},
+Journal = {Can. J. Phys.},
+Unique-ID = {ISI:A1975AR24500011},
+}
+
+@article{ 75RaRaRa.MgH,
+Author = {Rao, K B and Rao, D V K and Rao, P T},
+Title = {FRANK-CONDON FACTORS AND R-CENTROIDS OF C-X SYSTEM OF MGH},
+Year = {1975},
+Volume = {44},
+Pages = {734},
+Journal = {Curr. Sci.},
+Unique-ID = {ISI:A1975AT79300005},
+}
+
+@article{ 75BaCaxx.MgH,
+Author = {Balfour, W J and Cartwright, H M},
+Title = {LOW-LYING ELECTRONIC STATES OF MAGNESIUM HYDRIDE},
+Journal = CPL,
+Year = {1975},
+Volume = {32},
+Pages = {82-85},
+DOI = {10.1016/0009-2614(75)85173-6},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:A1975AA03600019},
+}
+
+@article{ 74Paxxxx.MgH,
+Author = {Patel, G K},
+Title = {TRUE AND MORSE POTENTIAL FOR A2PI AND X2SIGMA ELECTRONIC STATES OF MGH
+   MOLECULE},
+Journal = {INDIAN JOURNAL OF PHYSICS AND PROCEEDINGS OF THE INDIAN ASSOCIATION FOR
+   THE CULTIVATION OF SCIENCE},
+Year = {1974},
+Volume = {48},
+Pages = {1055-1056},
+Unique-ID = {ISI:A1974V440800016},
+}
+
+@article{ 70Baxxxx.MgH,
+Author = {Balfour, W J},
+Title = {ELECTRONIC SPECTRUM OF MAGNESIUM HYDRIDE AND MAGNESIUM DEUTERIDE},
+Journal = {JOURNAL OF PHYSICS PART B ATOMIC AND MOLECULAR PHYSICS},
+Year = {1970},
+Volume = {3},
+Pages = {1749-\&},
+DOI = {10.1088/0022-3700/3/12/019},
+Unique-ID = {ISI:A1970I481300021},
+}
+
+@article{ 65SpWoxx.MgH,
+Author = {Spinrad, H and Wood, D B},
+Title = {MAGNESIUM HYDRIDE IN COOL STARS AND GALAXIES},
+Journal = ApJ,
+Year = {1965},
+Volume = {141},
+Pages = {109-\&},
+DOI = {10.1086/148092},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A19656147100008},
+}
+
+
+
+@article{ 00GaLaxx.MgH,
+Author = {Gay, P L and Lambert, D L},
+Title = {The isotopic abundances of magnesium in stars},
+Journal = ApJ,
+Year = {2000},
+Volume = {533},
+Pages = {260-270},
+Abstract = {Isotopic abundance ratios (24)Mg:(25)Mg:(26)Mg are derived for 20 stars
+   from high-resolution spectra of the MgH A-X 0-0 band at 5140 Angstrom.
+   With the exception of the weak G-band giant HR 1299, the stars are
+   dwarfs that sample the metallicity range - 1.8 < {[}Fe/H] < 0.0. The
+   abundance of (25)Mg and (26)Mg relative to the dominant isotope (24)Mg
+   decreases with decreasing {[}Fe/H] in fair accord with predictions from
+   a recent model of Galactic chemical evolution in which the Mg isotopes
+   are synthesized by massive stars. Several stars appear especially
+   enriched in the heavier Mg isotopes, suggesting contamination by
+   material from the envelopes of intermediate-mass asymptotic giant branch
+   stars.},
+DOI = {10.1086/308653},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:000086789900023},
+}
+
+@article{ 88McLaxx.MgH,
+Author = {McWilliam, A and Lambert, D L},
+Title = {ISOTOPIC MAGNESIUM ABUNDANCES IN STARS},
+Journal = MNRAS,
+Year = {1988},
+Volume = {230},
+Pages = {573-585},
+Journal-ISO = {Mon. Not. Roy. Astron. Soc.},
+Unique-ID = {ISI:A1988M038900007},
+}
+
+@article{ 86LaMcxx.MgH,
+Author = {Lambert, D L and Mcwilliam, A},
+Title = {ISOTOPIC ABUNDANCES OF MAGNESIUM IN THE METAL-POOR SUBGIANT NU-INDI},
+Journal = ApJ,
+Year = {1986},
+Volume = {304},
+Pages = {436-442},
+DOI = {10.1086/164178},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1986A980900039},
+}
+
+@article{ 85DeBaxx.MgH,
+Author = {{de Bievre}, P and Barnes, I L},
+Title = {TABLE OF THE ISOTOPIC COMPOSITION OF THE ELEMENTS AS DETERMINED BY
+   MASS-SPECTROMETRY},
+Year = {1985},
+Volume = {65},
+Pages = {211-230},
+DOI = {10.1016/0168-1176(85)85065-5},
+Journal = {Int. J. Mass Spectrom. Ion Process.},
+Unique-ID = {ISI:A1985ALB9700016},
+}
+
+@article{ 78Coxxxx.MgH,
+Author = {Cottrell, P L},
+Title = {EXTREME SUBDWARFS .1. MOLECULAR BAND STRENGTHS - THEORETICAL APPROACH},
+Journal = ApJ,
+Year = {1978},
+Volume = {223},
+Pages = {544-551},
+DOI = {10.1086/156289},
+Unique-ID = {ISI:A1978FG97700021},
+}
+
+@article{ 71LaMaPe.MgH,
+Author = {Lambert, D L and Mallia, E A and Petford, A D},
+Title = {MAGNESIUM HYDRIDE IN SUN},
+Journal = MNRAS,
+Year = {1971},
+Volume = {154},
+Pages = {265-\&},
+Journal-ISO = {Mon. Not. Roy. Astron. Soc.},
+Unique-ID = {ISI:A1971K741500001},
+}
+
+@article{ 85BeEdGu.MgH,
+Author = {Bell, R A and Edvardsson, B and Gustafsson, B},
+Title = {THE SURFACE GRAVITY OF ARCTURUS FROM MGH LINES, STRONG METAL LINES AND
+   THE IONIZATION EQUILIBRIUM OF IRON},
+Journal = MNRAS,
+Year = {1985},
+Volume = {212},
+Pages = {497-515},
+Journal-ISO = {Mon. Not. Roy. Astron. Soc.},
+Unique-ID = {ISI:A1985AAW6800001},
+}
+
+
+@article{ 61Wyxxxx.MgH,
+Author = {Wyller, A A},
+Title = {ROTATIONAL TEMPERATURES OF C2, CH, AIH, MGH, AND SIH IN BETA PEGASI},
+Journal = ApJ,
+Year = {1961},
+Volume = {134},
+Pages = {805-808},
+DOI = {10.1086/147208},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1961WC91300015},
+}
+
+
+
+@article{ 01AlHaAl.MgH,
+Author = {Allard, F and Hauschildt, P H and Alexander, D R and Tamanai, A and
+   Schweitzer, A},
+Title = {The limiting effects of dust in brown dwarf model atmospheres},
+Journal = ApJ,
+Year = {2001},
+Volume = {556},
+Pages = {357-372},
+Abstract = {We present opacity sampling model atmospheres, synthetic spectra, and
+   colors for brown dwarfs and very low mass stars in the following two
+   limiting cases of dust grain formation: (1) Inefficient gravitational
+   settling (i.e., the dust is distributed according to the chemical
+   equilibrium predictions) and (2) efficient gravitational settling (i.e.,
+   the dust forms and depletes refractory elements from the gas, but their
+   opacity does not affect the thermal structure). The models include the
+   formation of over 600 gas-phase species and 1000 liquids and crystals
+   and the opacities of 30 different types of grains including corundum the
+   magnesium aluminum spinel MgAl2O4, iron, enstatite (MgSiO3), forsterite
+   (Mg2SiO4), amorphous carbon, SiC, and a number of calcium silicates. The
+   models extend from the beginning of the grain formation regime well into
+   the condensation regime of water ice (T-eff = 3000-100 K) and encompass
+   the range of log g = 2.5-6.0 at solar metallicity. We find that silicate
+   dust grains can form abundantly in the outer atmospheric layers of red
+   and brown dwarfs with a spectral type later than M8. The greenhouse
+   effects of dust opacities provide a natural explanation for the
+   peculiarly red spectroscopic distribution of the latest M dwarfs and
+   young brown dwarfs. The grainless (cond) models, on the other hand,
+   correspond closely to methane brown dwarfs such as Gliese 229B. We also
+   discover that the lambda lambda 5891, 5897 Na I D and lambda lambda
+   7687, 7701 K I resonance doublets play a critical role in T dwarfs, in
+   which their red wings define the pseudocontinuum from the I to the Z
+   bandpass.},
+DOI = {10.1086/321547},
+Unique-ID = {ISI:000170317900030},
+}
+
+@article{ 90KuDeKn.MgH,
+Author = {Kulaczewski, J and Degenhardt, D and Kneer, F},
+Title = {MGH AS A DIAGNOSTIC-TOOL FOR FLUCTUATIONS IN THE SOLAR PHOTOSPHERE},
+Journal = AA,
+Year = {1990},
+Volume = {234},
+Pages = {530-534},
+Journal-ISO = {Astron. Astrophys.},
+Unique-ID = {ISI:A1990DT49400068},
+}
+
+@article{ 13BuZixx.MgH,
+author = {Bucchino, Matthew P. and Ziurys, Lucy M.},
+title = {Terahertz Spectroscopy of 25MgH (X2Σ+) and 67ZnH (X2Σ+): Bonding in Simple Metal Hydrides},
+journal = JPCA,
+volume = {117},
+pages = {9732-9737},
+year = {2013},
+doi = {10.1021/jp3123743},
+abstract = { Pure rotational spectra of 25MgH (X2Σ+) and 67ZnH (X2Σ+) were recorded using direct absorption techniques. These free radicals were synthesized by the reaction of metal vapor, generated in a Broida-type oven, with H2 in a dc discharge. The N = 0 → 1 and N = 1 → 2 transitions were recorded for both species in the frequency range 342–789 GHz. Spin–rotation and metal and proton hyperfine interactions were resolved in the spectra. From these data, rotational, fine structure, and hyperfine constants were determined, including the Fermi contact, dipolar, and electric quadrupole parameters of the 25Mg and 67Zn nuclei. Comparison of the metal and proton hyperfine terms suggests that the unpaired electron resides in a σ molecular orbital that has significant s contributions from both the metal and the hydrogen atoms. The dipolar terms for both metals are relatively large, in contrast to those of the proton, and indicate spσ and possibly sdσ (zinc only) orbital hybridization. The quadrupole constants arise principally from the p/d orbital character of the unpaired electron, although there is a non-negligible polarization contribution. These results suggest significant covalent character in both MgH and ZnH, in contrast to their fluoride analogs. }
+}
+
+@article{ 13HiWaRa.MgH,
+Author = {Hinkle, Kenneth H. and Wallace, Lloyd and Ram, Ram S. and Bernath, Peter
+   F. and Sneden, Christopher and Lucatello, Sara},
+Title = {{THE MAGNESIUM ISOTOPOLOGUES OF MgH IN THE A(2)Pi-X-2 Sigma(+) SYSTEM}},
+Journal = ApJS,
+Year = {{2013}},
+Volume = {{207}},
+Abstract = {{Using laboratory hollow cathode spectra we have identified lines of the
+   less common magnesium isotopologues of MgH, (MgH)-Mg-25 and (MgH)-Mg-26,
+   in the A(2)Pi-X-2 Sigma(+) system. Based on the previous analysis of
+   (MgH)-Mg-24, molecular lines have been measured and molecular constants
+   derived for (MgH)-Mg-25 and (MgH)-Mg-26. Term values and linelists, in
+   both wavenumber and wavelength units, are presented. The A(2)Pi-X-2
+   Sigma(+) system of MgH is important for measuring the magnesium isotope
+   ratios in stars. Examples of analysis using the new linelists to derive
+   the Mg isotope ratio in a metal poor dwarf and giant are shown.}},
+DOI = {{10.1088/0067-0049/207/2/26}},
+}
+
+@article{ 13GhShBe.MgH,
+Author = {GharibNezhad, Ehsan and Shayesteh, Alireza and Bernath, Peter F.},
+Title = {{Einstein A coefficients for rovibronic lines of the A (2) -> X
+   (2)Sigma(+) and B' (2)Sigma(+)-> X (2) Sigma(+) transitions of MgH}},
+Journal = MNRAS,
+Year = {{2013}},
+Volume = {{432}},
+Pages = {2043-2047},
+Abstract = {{Einstein A coefficients have been calculated for rovibronic lines of the
+   A (2) -> X (2)Sigma(+) and B-' (2)Sigma(+) -> X (2)Sigma(+) transitions
+   of (MgH)-Mg-24. Using the experimentally determined analytic potential
+   energy curve for the X (2)Sigma(+)state, and the Rydberg-Klein-Rees
+   potentials for the A (2) and B-' (2)Sigma(+)states, combined with the
+   most recent ab initio transition dipole moments, rovibronic transition
+   moments were computed. The rovibronic transition frequencies were
+   obtained accurately by subtracting the published term values of the X
+   (2)Sigma(+), A (2) and B-' (2)Sigma(+) states. Using the rovibronic
+   transition dipole moments, transition frequencies and the Honl-London
+   factors, the Einstein A coefficients were calculated individually for
+   similar to 30 000 rovibronic lines of the A (2) -> X (2)Sigma(+) and B-'
+   (2)Sigma(+) -> X (2)Sigma(+) transitions of (MgH)-Mg-24.}},
+DOI = {{10.1093/mnras/stt510}},
+}
+
+@article{ 13HeShTa.MgH,
+Author = {Henderson, Robert D. E. and Shayesteh, Alireza and Tao, Jason and
+   Haugen, Carl C. and Bernath, Peter F. and Le Roy, Robert J.},
+Title = {{Accurate Analytic Potential and Born-Oppenheimer Breakdown Functions for
+   MgH and MgD from a Direct-Potential-Fit Data Analysis}},
+Journal = JPCA,
+Year = {{2013}},
+Volume = {{117}},
+Pages = {13373-13387},
+Abstract = {{New high-resolution visible Fourier transform emission spectra of the A
+   2 coproduct ->-1 x Sigma, and B' 2E+ > X 2r systems of 24MgD and of the
+   B' 2r x 25,26. 25,26 systems of mgD and MgH have been combined with
+   earlier results for 24MgH in a multi-isotopologue direct-potential-fit
+   analysis to yield improved analytic potential energy and
+   Born-Oppenheimer breakdown functions for the ground X 2r state of MgH.
+   Vibrational levels of the ground state of 24MgD were observed up to
+   v{''} = 15, which is bound by only 30.6 +/- 0.10 cm(-1). Including
+   deuteride and minor magnesium isotopologue data allowed us also to
+   determine the adiabatic Born-Openheimer breakdown effects in this
+   molecule. The fitting procedure used the recently developed
+   Morse/Long-Range (MLR) potential energy function, whose asymptotic
+   behavior incorporates the correct inverse-power form. A spin-splitting
+   radial correction function to take account of the 2E spin-rotation
+   interaction was also determined. Our refined value for the ground-state
+   dissociation energy of the dominant isotopologue (24MgH) is De = 11
+   104.25 +/- 0.8 cm(-1) I, in which the uncertainty also accounts for the
+   model dependence of the fitted De values for a range of physically
+   acceptable fits. We were also able to determine the marked difference in
+   the well depths of 24MgH and (24)/MgD (with the deuteride potential
+   curve being 7.58 +/- 0.30 cm(-1) deeper than that of the hydride) as
+   well as smaller well-depth differences for the minor Mg-25'26
+   isotopologues. This analytic potential function also predicts that the
+   highest bound level of (MgD)-Mg-24 is v{''} = 16 and that it is bound by
+   only 2.73 +/- 0.10 cm(-1.)}},
+DOI = {{10.1021/jp406680r}},
+}
+
+@article{ 14ZhStxx.MgH,
+Author = {Zhang, Ruohan and Steimle, Timothy C.},
+Title = {{OPTICAL ZEEMAN SPECTROSCOPY OF THE (0,0) A (2)Pi-X (2)Sigma(+) BAND
+   SYSTEM OF MAGNESIUM HYDRIDE}},
+Journal = ApJ,
+Year = {{2014}},
+Volume = {{781}},
+Abstract = {{The Zeeman effect on lines in the (0, 0) A (2)Pi-X (2)Sigma(+) band
+   system of a cold molecular beam sample of magnesium hydride, MgH, has
+   been recorded at high resolution (FWHM congruent to 60 MHz) and
+   analyzed. The lines associated with the lowest rotational levels are
+   detected for the first time. The field-free spectrum was analyzed to
+   produce spectroscopic parameters for the A (2)Pi (v = 0) state. The
+   experimentally observed magnetic tuning of the low-rotational spectral
+   features at field strengths comparable to those found in sunspots is
+   accurately modeled by assuming that the electronic spin and orbital
+   magnetic g-factors, g(S) and g(L), of the A (2)Pi and X (2)Sigma(+)
+   states are 2.002 and 1.000, respectively, and g(l) is -0.0023 for the X
+   (2)Sigma(+).}},
+DOI = {{10.1088/0004-637X/781/1/51}},
+pages = {51}}
+
+@article{ 15SzCsxx.MgH,
+author = {Szidarovszky, Tamas and Cs\'{a}sz\'{a}r, Attila G},
+year = {2015},
+title = {{ Toward accurate thermochemistry of the $^{24}$MgH, $^{25}$MgH and $^{26}$MgH molecules at elevated 
+temperatures: corrections due to unbound states}},
+volume = {142},
+pages = {014103},
+journal = JCP,
+doi = {10.1063/1.4904858},
+}
+
+
+@article{ 14GaGaxx.MgH,
+  title = {Laser cooling of the alkaline-earth-metal monohydrides: Insights from an     \textit{ab initio}   theory study},
+  author = {Gao, Yufeng and Gao, Tao},
+  journal = PRA,
+  volume = {90},
+  pages = {052506},
+  year = {2014},
+  doi = {10.1103/PhysRevA.90.052506},
+}
+
+@article{ 14StZhWa.MgH,
+Author = {Steimle, Timothy C. and Zhang, Ruohan and Wang, Hailing},
+Title = {{The electric dipole moment of magnesium deuteride, MgD}},
+Journal = JCP,
+Year = {{2014}},
+Volume = {{140}},
+Abstract = {{The (0,0) A(2)Pi-X-2 Sigma(+) band of a cold molecular beam sample of
+   magnesium monodeuteride, MgD, has been recorded field-free and in the
+   presence of a static electric field of up to 11 kV/cm. The lines
+   associated with the lowest rotational levels are detected for the first
+   time. The field-free spectrum was analyzed to produce an improved set of
+   fine structure parameters for the A(2)Pi (upsilon = 0) state. The
+   observed electric field induced splittings and shifts were analyzed to
+   produce permanent electric dipole moments, (mu) over right arrow (el) of
+   2.567(10) D and 1.31(8) D for A(2)Pi (upsilon = 0) and X-2 Sigma(+)
+   (upsilon = 0) states, respectively. The recommended value for (mu) over
+   right arrow (el)(X-2 Sigma(+) (upsilon = 0)) for MgH, based upon the
+   measured value for MgD, is 1.32(8)D..}},
+DOI = {{10.1063/1.4878414}},
+pages = {224308}}

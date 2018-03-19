@@ -1,0 +1,31 @@
+@ARTICLE{01LiHeWa.SiH4,
+  author = {Lin, Hai and He, Sheng-Gui and Wang, Xiao-Gang and Yuan, Lan-Feng
+	and Burger, Hans and D{'}Eu, Jean-Francois and Reuter, Nathalie and
+	Thiel, Walter},
+  title = {The vibrational overtones of SiH4 isotopomers: experimental wavenumbers{,}
+	assignment{,} ab initio dipole moment surfaces and intensities},
+  journal = PCCP,
+  year = {2001},
+  volume = {3},
+  pages = {3506-3517},
+  abstract = {The overtone spectra of SiHD{,} SiHD and SiHD in the range 2000-9000
+	cm have been measured up to 720000 Pa m using a Bruker 120HR interferometer.
+	The transition frequencies and intensities are reported. The observed
+	band centers are found to be in good agreement with the predictions
+	from high order canonical Van Vleck perturbation theory (CVPT) calculations.
+	A four-dimensional Si-H stretching dipole moment surface (DMS) has
+	been determined from coupled cluster [CCSD(T)] methods and expanded
+	using a bond dipole model and a Cartesian model. The band intensities
+	of the Si-H and Si-D stretching transitions have been computed employing
+	these expansions and a local mode force field optimized to the observed
+	band centers. The calculations agree reasonably well with observations
+	for most bands. The vibrational intensity anomaly in the third local
+	mode manifolds is partly reproduced and is attributed to the cancellation
+	of linear and quadratic terms in the DMS.},
+  doi = {10.1039/B104487G},
+  issue = {17},
+  owner = {sibarey},
+  publisher = {The Royal Society of Chemistry},
+  timestamp = {2013.03.24},
+  url = {http://dx.doi.org/10.1039/B104487G}
+}

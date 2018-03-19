@@ -1,0 +1,1237 @@
+
+@Article{T11,
+  author = 	 {J J Thomson},
+  title = 	 {},
+  journal = 	 {Phil. Mag.},
+  year = 	 {1911},
+  volume = 	 {21},
+  pages = 	 {235}
+}
+
+@Article{T12,
+  author = 	 {J J Thomson},
+  title = 	 {},
+  journal = 	 {Phil. Mag.},
+  year = 	 {1912},
+  OPTkey = 	 {},
+  volume = 	 {24},
+  OPTnumber = 	 {},
+  pages = 	 {209},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{MO00,
+  author = 	 {B. J. McCall AND T. Oka},
+  title = 	 {{H$_{3}^{+}$} -- {an Ion with Many Talents}},
+  journal = 	 {Science},
+  year = 	 {2000},
+  OPTkey = 	 {},
+  volume = 	 {287},
+  OPTnumber = 	 {},
+  pages = 	 {1941},
+  OPTmonth = 	 {MAR},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{MB86,
+  author = 	 {W.  Meyer AND P. Botschwina AND P. Burton},
+  title = 	 {Ab initio calculations of near-equilibrium potential and multipole moment surfaces and vibration frequencies of {H$_{3}^{+}$} and its isomers
+},
+  journal = 	 {J. Chem. Phys.},
+  year = 	 {1986},
+  volume = 	 {82},
+  pages = 	 {891},
+  OPTannote = 	 {}
+}
+
+
+@Article{T80,
+  author = 	 {T.  Oka},
+  title = 	 {{Observation of the Infrared Spectrum of H$_{3}^+$}},
+  journal = 	 {Phys. Rev. Lett.},
+  year = 	 {1980},
+  volume = 	 {45},
+  OPTnumber = 	 {7},
+  pages = 	 {531},
+  OPTmonth = 	 {August}
+}
+
+
+@Article{CB82,
+  author = 	 {A. Carrington AND J. Buttenshaw AND R. A Kennedy},
+  title = 	 {Observation of the infrared spectrum of {H$_3^+$} ion at its near dissciation limit},
+  journal = 	 {Mol. Phys.},
+  year = 	 {1982},
+  OPTkey = 	 {},
+  volume = 	 {45},
+  OPTnumber = 	 {},
+  pages = 	 {753-758},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{CK84,
+  author = 	 {A. Carrington AND R. A. Kennedy},
+  title = 	 {Infrared predissociation limit of the {H$_3^+$} ion},
+  journal = 	 {J. Chem. Phys.},
+  year = 	 {1984},
+  OPTkey = 	 {},
+  volume = 	 {81},
+  OPTnumber = 	 {},
+  pages = 	 {91-112},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Book{BS79,
+  author = 	 {D. M. Brink AND G. R. Satchler},
+  title = 	 {{Angular Momentum}},
+  publisher = 	 {Clarendon Press},
+  year = 	 {1979},
+  OPTkey = 	 {},
+  volume = 	 {},
+  OPTnumber = 	 {},
+  OPTseries = 	 {},
+  address = 	 {Oxford},
+  OPTedition = 	 {},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{sl92,
+  author = 	 {V. Szalay AND S. Lane},
+  title = 	 {Derivation of rotational-vibrartional Hamiltonian matrices of real elements},
+  journal = 	 {Mol. Phys.},
+  year = 	 {1992},
+  OPTkey = 	 {},
+  volume = 	 {75},
+  OPTnumber = 	 {4},
+  pages = 	 {781},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{cm89,
+  author = 	 {A. Carrington AND I. R. McNab},
+  title = 	 {{The Infraread Predissocation Spectrum of H$_3^+$}},
+  journal = 	 {Accounts of Chemical Research},
+  year = 	 {1989},
+  OPTkey = 	 {},
+  volume = 	 {22},
+  OPTnumber = 	 {},
+  pages = 	 {218},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{kw63,
+  author = 	 {W. Kolos AND L. Wolniewicz},
+  title = 	 {{Nonadiabatic Theory for Diatomic Molecules and Its Application to the Hydrogren Molecule}},
+  journal = 	 {Reviews of Modern Physics},
+  year = 	 {1963},
+  OPTkey = 	 {},
+  volume = 	 {35},
+  OPTnumber = 	 {},
+  pages = 	 {473},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{m93,
+  author = 	 {I. R. McNab},
+  title = 	 {{The Spectroscopy of H$_3^+$}},
+  journal = 	 {Adv. Chem. Phys.},
+  year = 	 {1995},
+  OPTkey = 	 {},
+  volume = 	 {89},
+  OPTnumber = 	 {},
+  pages = 	 {1-87},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{LM01,
+  author = 	 {C. M. Lindsay AND B. J. McCall},
+  title = 	 {{Comprehensive Evaluation of {H$_3^+$} Spectroscopy}},
+  journal = 	 {J. Mol. Spectrosc.},
+  year = 	 {2001},
+  volume = 	 {210},
+  OPTnumber = 	 {},
+  pages = 	 {60},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+
+@Article{mh02,
+  author = 	 {B. J. McCall AND K. H. Hinkle AND T. R. Geballe AND G. H. Moriarty-Schieven AND N. J. Evans {II} AND  K. Kawaguchi AND S. Takano AND V. V. Smith AND T. Oka},
+  title = 	 {{Observations  H$_{3}^+$ of in the diffuse interstellar medium}},
+  journal = 	 {Astrophys. J.},
+  year = 	 {2002},
+  volume = 	 {567},
+  pages = 	 {391}
+}
+
+@PhdThesis{m01,
+  author = 	 {B. J. McCall},
+  title = 	 {Spectroscopy of H$_{3}^+$ in Laboratory and Astrophysical plasas},
+  school = 	 {University of Chicago},
+  year = 	 {2001},
+  OPTannote = 	 {}}
+
+@PhdThesis{82Shy,
+  author = 	 {J T Shy},
+  title = 	 {Obervatio of the infrared spectra of deuterated triatomic hydrogen molecule ions: H$_2$D$^+$, D$_2$H$^+$ and D$_3^+$,  
+  school = 	 {University of Arizona},
+  year = 	 {1982},
+  OPTannote = 	 {}}
+
+@Article{mg98,
+  author = 	 {B. J. McCall AND T. R. Geballe AND K. H. Hinkle AND T. Oka},
+  title = 	 {Detection of {H$_{3}^+$} in the Diffuse Interstellar Medium Toward {Cygnus OB2 No. 12}},
+  journal = 	 {Science},
+  year = 	 {1998},
+  volume = 	 {279},
+  OPTnumber = 	 {},
+  pages = 	 {1910},
+  OPTannote = 	 {}
+}
+
+@Article{g96,
+  author = 	 {T. R. Geballe AND T. Oka},
+  title = 	 {{Detection of H$_{3}^+$ in interstellar space}},
+  journal = 	 {Nature},
+  year = 	 {1996},
+  OPTkey = 	 {},
+  volume = 	 {384},
+  OPTnumber = 	 {},
+  pages = 	 {334},
+  OPTmonth = 	 {November},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{h84,
+  author = 	 {Eric J. Heller},
+  title = 	 {Bound-State Eigenfunctions of Classically Chaotic Hamiltonian Systems: Scars of Periodic Orbits},
+  journal = 	 {Phys. Rev. Lett.},
+  year = 	 {1984},
+  OPTkey = 	 {},
+  volume = 	 {53},
+  OPTnumber = 	 {16},
+  pages = 	 {1515},
+  month = 	 {October},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+
+@Article{fa01,
+  author = 	 {Oliver Friedrich AND Alexander Alijah AND ZongRong Xu AND Antonio J. C. Varandas},
+  title = 	 {Bound Ro-Vibronic States of Triplet H$_{3}^+$},
+  journal = 	 {Phys. Rev. Lett.},
+  year = 	 {2001},
+  OPTkey = 	 {},
+  volume = 	 {86},
+  OPTnumber = 	 {7},
+  pages = 	 {1183-1186},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{93GeJaOk.H3+,
+  author = 	 {T. R. Geballe AND M. F. Jagod AND T. Oka},
+  title = 	 {},
+  journal = 	 ApJ,
+  year = 	 {1993},
+  volume = 	 {408},
+  pages = 	 {L109},
+  doi = {{10.1086/186843}},
+}
+
+@Article{rkw+94,
+  author = 	 {Robert {R\"{o}hse} AND Werner Kutzelnigg AND Ralph Jaquet AND Wim Klopper},
+  title = 	 {Potential energy surface of the {H$_{3}^{+}$} ground state in the neighborhood of the minimum with microhartree accuracy and the vibration
+  frequencies derived from it.},
+  journal = 	 {J. Chem. Phys.},
+  year = 	 {1994},
+  OPTkey = 	 {},
+  volume = 	 {101},
+  OPTnumber = 	 {3},
+  pages = 	 {2231-2243},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{fmw86,
+  author = 	 {S. C. Foster AND A. R. W. McKellar AND J. K. G. Watson},
+  title = 	 { Observation and analysis of the $\nu_2$ and $\nu_3$ fundamental bands of the {D$_{2}$H$^{+}$} ion},
+  journal = 	 {J. Chem. Phys.},
+  year = 	 {1986},
+  volume = 	 {85},
+  pages = 	 {664},
+  OPTannote = 	 {}
+}
+
+@Article{pm89,
+  author = 	 {O. L. Polyansky AND A. R. W. McKellar},
+  title = 	 {Improved analysis of the infrared spectrum of {D$_{2}$H$^{+}$}},
+  journal = 	 {J. Chem. Phys.},
+  year = 	 {1989},
+  volume = 	 {92},
+  pages = 	 {4039},
+  OPTannote = 	 {}
+}
+
+
+@Article{car80,
+  author = 	 {G. D. Carney},
+  title = 	 {Rotation energies for deuterated {H$_{3}^{+}$} oscillators in zero-point states of vibrartion},
+  journal = 	 {Chem. Phys.},
+  year = 	 {1980},
+  OPTkey = 	 {},
+  volume = 	 {54},
+  OPTnumber = 	 {},
+  pages = 	 {103-107},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{jsb86,
+  author = 	 {P. Jensen AND V. \v{S}pirko AND P.~R. Bunker},
+  title = 	 {A new morse-oscillator based Hamiltonian for {H$_{3}^{+}$}: Extension to {H$_{2}$D$^{+}$} and {D$_{2}$H$^{+}$}},
+  journal = 	 {J. Mol. Spectrosc.},
+  year = 	 {1986},
+  volume = 	 {115},
+  OPTnumber = 	 {},
+  pages = 	 {269-293},
+  OPTmonth = 	 {},
+  OPTnote = 	 {},
+  OPTannote = 	 {}
+}
+
+@Article{cmw92,
+  author = 	 {Alan Carrington AND Iain R. McNab AND Yvonne D. West},
+  title = 	 {Infrared predissociation spectrum of the {H$_{3}^{+}$} ion. II},
+  journal = 	 {J. Chem. Phys.},
+  year = 	 {1992},
+  volume = 	 {98},
+  OPTnumber = 	 {2},
+  pages = 	 {1073}
+}
+
+@ARTICLE{o80,
+    author = {{Oka}, T.},
+    title = "{Observation of the infrared spectrum of {H$_{3}^{+}$}}",
+    journal = {Phys. Rev. Lett.  },
+    year = 1980,
+    month = aug,
+    volume = 45,
+    pages = {531-534},
+    adsurl = {http://ukads.nottingham.ac.uk/cgi-bin/nph-bib_query?bibcode=1980PhRvL..45..531O&amp;db_key=AST},
+    adsnote = {Provided by the NASA Astrophysics Data System}
+}
+
+@ARTICLE{o81,
+    author = {{Oka}, T.},
+    title = "{A search for interstellar {H$_{3}^{+}$}}",
+    journal = {Royal Society of London Philosophical Transactions Series A},
+    year = 1981,
+    month = dec,
+    volume = 303,
+    pages = {543-549},
+    adsurl = {http://ukads.nottingham.ac.uk/cgi-bin/nph-bib_query?bibcode=1981RSPTA.303..543O&amp;db_key=AST},
+    adsnote = {Provided by the NASA Astrophysics Data System}
+}
+
+@Article{wfm87,
+  author = {J.K.G. Watson AND S.C. Foster AND A.R.W. Mckellar},
+  title = {The infrared-spectrum of the {$\upsilon_2$} fundamental-band of the
+     {D$_3^+$} molecular ion},
+  journal = {Can. J. Phys.},
+  volume = {65},
+  pages = {38--46},
+  year = {1987},
+  entrydate = {2004/05/13},
+  abstract = {}
+}
+
+@Article{94AmChCiMc,
+author = {T. Amano AND M.C. Chan AND S. Civi\v{s} AND A. R. W. McKellar AND W. A. Majewski AND D. Sadovsi\'{i} AND {J. K. G.} Watson},
+title = {The infrared vibration-rotation spectrum  of the {D$_3^+$} molecular ion:  extension to higher vibrational and rotational quantum numbers},
+journal = {Can. J. Phys.},
+volume = {72},
+pages = {1007--1015},
+year = {1994},
+entrydate = {2004/05/13},
+abstract = {ABSTRACT}
+}
+
+@ARTICLE{xgo90,
+   author = {{Xu}, L. and {Gabrys}, C. and {Oka}, T.},
+    title = "{Observation of the $2\nu_2(l = 2)-0$ overtone band of {H$_3^+$}}",
+  journal = {J. Chem. Phys.},
+     year = 1990,
+    month = nov,
+   volume = 93,
+    pages = {6210-6215},
+   adsurl = {http://ukads.nottingham.ac.uk/cgi-bin/nph-bib_query?bibcode=1990JChPh..93.6210X&amp;db_key=PHY},
+  adsnote = {Provided by the NASA Astrophysics Data System}
+}
+
+@ARTICLE{fmp86,
+   author = {{Foster}, S.~C. and {McKellar}, A.~R.~W. and {Peterkin}, I.~R. and 
+{Watson}, J.~K.~G. and {Pan}, F.~S.},
+    title = "{Observation and analysis of the {$\nu_2$} and {$\nu_3$} fundamental bands of the {H$_{2}$D$^{+}$} ion}",
+  journal = {J. Chem. Phys.},
+     year = 1986,
+    month = jan,
+   volume = 84,
+    pages = {91-99},
+   adsurl = {http://ukads.nottingham.ac.uk/cgi-bin/nph-bib_query?bibcode=1986JChPh..84...91F&amp;db_key=PHY},
+  adsnote = {Provided by the NASA Astrophysics Data System}
+}
+
+@ARTICLE{kpz88,
+   author = {{Kozin}, I.~N. and {Polyansky}, O.~L. and {Zobov}, N.~F.},
+    title = {Improved analysis of the experimental data on the {H$_{2}$D$^{+}$} and {D$_{2}$H$^{+}$} absorption spectra},
+  journal = {J. Mol. Spectrosc.},
+     year = 1988,
+    month = mar,
+   volume = 128,
+    pages = {126-134},
+   adsurl = {http://ukads.nottingham.ac.uk/cgi-bin/nph-bib_query?bibcode=1988JMoSp.128..126K&amp;db_key=PHY},
+  adsnote = {Provided by the NASA Astrophysics Data System}
+}
+
+
+@article{ pa097,
+Author = {Pavanello, Michele and Adamowicz, Ludwik},
+Title = {{High-accuracy calculations of the ground, 1 (1)A(1)('), and the 2
+   (1)A(1)('), 2 (3)A(1)('), and 1 E-1(') excited states of H-3(+)}},
+Journal = {J. Chem. Phys.},
+Year = {{2009}},
+Volume = {{130}},
+pages = {034104},
+Abstract = {{Accurate variational Born-Oppenheimer calculations of the 1 (1)A(1)('),
+   2 (1)A(1)('), 2 (3)A(1)('), and 1 E-1(') states of the H-3(+) ion at
+   the ground-state equilibrium geometry are reported. The wave functions
+   of the states are expanded in terms of explicitly correlated spherical
+   Gaussian functions with shifted centers. In the variational
+   optimization the analytical gradient of the energy with respect to the
+   nonlinear exponential parameters of the Gaussians has been employed.
+   The energies obtained in the calculations are the best variational
+   estimates ever calculated for the four states. One-electron densities
+   for the states, as well as a D-3h-restricted potential energy surface
+   of the ground state calculated around the equilibrium geometry, are
+   also presented and discussed.}}}
+
+@article{ptf09,
+Author = {Pavanello, Michele and Tung, Wei-Cheng and Leonarski, Filip and
+   Adamowicz, Ludwik},
+Title = {{New more accurate calculations of the ground state potential energy
+   surface of H-3(+)}},
+Journal = {J. Chem. Phys.},
+Year = {{2009}},
+Volume = {{130}},
+pages = {074105},
+Abstract = {{Explicitly correlated Gaussian functions with floating centers have
+   been employed to recalculate the ground state potential energy surface
+   (PES) of the H-3(+) ion with much higher accuracy than it was done
+   before. The nonlinear parameters of the Gaussians (i.e., the exponents
+   and the centers) have been variationally optimized with a procedure
+   employing the analytical gradient of the energy with respect to these
+   parameters. The basis sets for calculating new PES points were guessed
+   from the points already calculated. This allowed us to considerably
+   speed up the calculations and achieve very high accuracy of the results.}}}
+
+@ARTICLE{lf92,
+   author = {G. C. Lie AND D. Frye},
+    title = "{Vibrational analysis of a Hylleraas-configuration interaction potential for {H$_3^+$}}",
+  journal = {J. Chem. Phys.},
+     year = {1992},
+    OPTmonth = {may},
+   volume = {96},
+    pages = {6784-6790},
+}
+
+@article{mgo09,
+Author = {Morong, Christopher P. and Gottfried, Jennifer L. and Oka, Takeshi},
+Title = {{H-3(+) as the benchmark for rigorous ab initio theory}},
+Journal = {J. Mol. Spectrosc.},
+Year = {{2009}},
+Volume = {{255}},
+Pages = {13-23},
+Abstract = {{The observed ro-vibrational spectral lines of the simplest polyatomic
+   molecule, H-3(+), serve as the bench-mark to test the most rigorous ab
+   initio theory of intra-molecular dynamics. The ground state equilibrium
+   structure of H-3(+) is an equilateral triangle, but near the energies
+   of similar to 9913 cm(-1), the so called barrier to linearity, it
+   begins to sample linear configurations for which theoretical
+   calculations are challenging because of the singularity of the
+   Hamiltonian. We present here a continuation of the spectroscopy of
+   H-3(+) above the barrier to linearity using a Ti:sapphire laser based
+   high sensitivity spectrometer which all owed us to observe the spectrum
+   with near shot-noise limited sensitivity. 121 new lines have been
+   recorded from the near infrared 10300 cm(-1)-13700 cm(-1) entering the
+   visible region bringing the total number of transitions above 10000
+   cm(-1) to 143. The observed spectrum is compared with theoretical
+   predictions. The remaining discrepancies mostly due to vibrational and
+   rotational non-adiabatic effects are discussed. }}}
+
+@article{ gmo03,
+Author = {Gottfried, J L and McCall, B J and Oka, T},
+Title = {{Near-infrared spectroscopy of H-3(+) above the barrier to linearity}},
+Journal = {J. Chem. Phys.},
+Year = {{2003}},
+Volume = {{118}},
+Pages = {10890-10899},
+Abstract = {{The first H-3(+) transitions above the barrier to linearity have been
+   observed in absorption in the near infrared using a highly sensitive
+   dual-beam, double-modulation technique with bidirectional optical
+   multipassing. A total of 22 rovibrational transitions of H-3(+) have
+   been detected and assigned to the fourth and fifth overtone and
+   combination bands (5nu(2)(1), 5nu(2)(5), 2nu(1)+2nu(2)(2),
+   3nu(1)+nu(2)(1), nu(1)+4nu(2)(2), 2nu(1)+3nu(2)(1), and 6nu(2)(2)).
+   These transitions, which are more than 4600 times weaker than the
+   fundamental band, probe energy levels above 10 000 cm(-1), the regime
+   in which H-3(+) has enough energy to sample linear configurations.
+   Experimentally determined energy levels above the barrier to linearity
+   provide a critical test of ab initio calculations in this challenging
+   regime. The comparison between experimental energy levels and
+   theoretical energy levels from ab initio calculations in which the
+   adiabatic and relativistic corrections are incorporated reveals the
+   extent of higher-order effects such as nonadiabatic and radiative
+   corrections. We compare our results with several recent theoretical
+   calculations. }}}
+
+@article{ kbr08,
+Author = {Kreckel, Holger and Bing, Dennis and Reinhardt, Sascha and Petrignani,
+   Annemieke and Berg, Max and Wolf, Andreas},
+Title = {{Chemical probing spectroscopy of H-3(+) above the barrier to linearity}},
+Journal = JCP,
+Year = {{2008}},
+Volume = {{129}},
+pages = {164312},
+Abstract = {{We have performed chemical probing spectroscopy of H-3(+) ions trapped
+   in a cryogenic 22-pole ion trap. The ions were buffer gas cooled to
+   similar to 55 K by collisions with helium and argon. Excitation to
+   states above the barrier to linearity was achieved by a Ti: sapphire
+   laser operated between 11 300 and 13 300 cm(-1). Subsequent collisions
+   of the excited H-3(+) ions with argon lead to the formation of ArH+
+   ions that were detected by a quadrupole mass spectrometer with high
+   sensitivity. We report the observation of 17 previously unobserved
+   transitions to states above the barrier to linearity. Comparison to
+   theoretical calculations suggests that the transition strengths of some
+   of these lines are more than five orders of magnitude smaller than
+   those of the fundamental band, which renders them - to the best of our
+   knowledge - the weakest H-3(+) transitions observed to date. }}}
+
+
+
+
+@ARTICLE{Cencek1998,
+  AUTHOR =       {W. Cencek and J. Rychlewski and R. Jaquet and W. Kutzelnigg},
+  JOURNAL =      {J. Chem. Phys.},
+  YEAR =         {1998},
+  volume =       {108},
+  pages =        {2831}
+}
+
+@ARTICLE{Jaquet1998,
+  AUTHOR =       {R. Jaquet and W. Cencek and W. Kutzelnigg and J. Rychlewski},
+  JOURNAL =      {J. Chem. Phys.},
+  YEAR =         {1998},
+  volume =       {108},
+  pages =        {2837},
+}
+
+@ARTICLE{Jaquet2002,
+  AUTHOR =       {R. Jaquet},
+  JOURNAL =      {Spectrochim.~Acta, Part A},
+  YEAR =         {2002},
+  volume =       {58},
+  pages =        {691},
+}
+
+
+
+@ARTICLE{Meyer1986,
+  AUTHOR =       {W. Meyer and P. Botschwina and P. Burton},
+  JOURNAL =      {J. Chem. Phys.},
+  YEAR =         {1986},
+  volume =       {84},
+  pages =        {891},
+}
+
+@ARTICLE{Rohse1994,
+  AUTHOR =       {R. R\"{o}hse and W. Kutzelnigg and R. Jaquet and W. Klopper},
+  JOURNAL =      {J. Chem. Phys.},
+  YEAR =         {1994},
+  volume =       {101},
+  pages =        {2231},
+}
+
+@ARTICLE{Velilla2008,
+  AUTHOR =       {L. Velilla and B. Lepetit and A. Aguado and J. A. Beswick and M. Paniagua,},
+  title =        {The H$_3^+$ rovibrational spectrum revisited with a global electronic potential energy surface},
+  JOURNAL =      {J. Chem. Phys.},
+  YEAR =         {2008},
+  volume =       {129},
+  pages =        {084307}
+}
+
+@Article{97JePaSpSa,
+author = {P. Jensen AND I. Paidarova AND V. $\check{\mathrm{S}}$pirko AND S. P. A. Sauer},
+title = {{Theoretical calculations of the hyperfine structure in the spectra of H$_3^+$ and its deuterated isotopomers}},
+journal = {Mol. Phys.},
+year = {1997},
+volume = {91},
+pages = {319-332}}
+
+@Article{12SzFaCs,
+author = {T. Szidarovszky AND C. F\'abri AND A. G. Cs\'asz\'ar},
+title = {{The role of axis embedding on rigid rotor decomposition (RRD) analysis of variational rovibrational wave functions}},
+journal = {J. Chem. Phys.},
+year = {2012},
+volume = {136},
+pages = {174112}}
+
+@Article{94BrTrCaCo,
+author = {M.~J. Bramley AND J.~W. Tromp AND T. {Carrington Jr.} AND G.~C. Corey},
+journal = {J. Chem. Phys.},
+volume = {100},
+title = {},
+year = {1994},
+pages = {6175-6194}}
+
+@Article{13JaCa,
+author = {R. Jaquet AND T. {Carrington}},
+journal = {J. Phys. Chem. A},
+volume = {117},
+title = {},
+year = {2013},
+pages = {9493-9500},
+doi = {10.1021/jp312027s}}
+
+@Article{12Krogh,
+author = {H. Krogh},
+journal = {Phil. Trans. R. Soc. A},
+volume = {370},
+title = {},
+year = {2012},
+pages = {5225-5235}}
+
+@Article{12PoAlZoMi,
+author = {O.~L. Polyansky AND A. Alijah AND N.~F. Zobov AND I.~I. Mizus AND R.~I. Ovsyannikov AND J. Tennyson AND L. Lodi AND T. Szidarovszky AND A.~G. Cs\'asz\'ar},
+journal = {Phil. Trans. R. Soc. A},
+volume = {370},
+title = {Spectroscopy of H$_3^+$ based on a new high-accuracy global potential energy surface},
+year = {2012},
+pages = {5014-5027}}
+
+@Article{13DiMoAlPa,
+author = {L.~G. Diniz AND J.~R. Mohallem AND A. Alijah AND M. Pavanello AND L. Adamowicz AND O.~L. Polyansky AND J. Tennyson},
+journal = {Phys. Rev. A},
+volume = {88},
+title = {},
+year = {2013},
+pages = {032506}}
+
+@Article{08FeAlVa,
+author = {T.~M. Ferreira AND A. Alijah AND A. J. C. Varandas},
+journal = {J. Chem. Phys.},
+volume = {128},
+title = {},
+year = {2008},
+pages = {054301}}
+
+@Article{68WuEl,
+author = {Ay-Ju A. Wu AND Frank O. Ellison},
+journal = {J. Chem. Phys.},
+volume = {48},
+title = {Method of diatomics-in-molecules. VII. Excited singlet states of H$_3^+$},
+year = {1968},
+pages = {1491-1496}}
+
+@Article{96AlBe,
+author = {A. Alijah AND M. Beuger},
+journal = {Mol. Phys.},
+volume = {88},
+title = {Rotation-vibrational states of D$_2$H$^+$ computed using hyperspherical harmonics},
+year = {1996},
+pages = {497-516}}
+
+@Article{95AlHiWo,
+author = {A. Alijah AND J. Hinze AND L. Wolniewicz},
+journal = {Mol. Phys.},
+volume = {85},
+title = {},
+year = {1995},
+pages = {1105}}
+
+@Article{81ShFaWi,
+author = {J. T. Shy AND J. W. Farley AND W. H. Wing},
+journal = {Phys. Rev. A},
+volume = {24},
+title = {},
+year = {1981},
+pages = {1146}}
+
+@Article{80ShFaLaWi,
+author = {J. T. Shy AND J. W. Farley AND W. E. {Lamb Jr.} AND W. H. Wing},
+journal = {Phys. Rev. Lett.},
+volume = {45},
+title = {},
+year = {1980},
+pages = {535--537}}
+
+@Article{13WuLiLiLi,
+author = {K.-Y. Wu AND Y.-H. Liena AND C.-C. Liao AND Y.-R. Lin AND J.-T. Shy},
+journal = {Phys. Rev. A},
+volume = {88},
+title = {Measurement of the $\nu_2$ fundamental band of H$_3^+$},
+year = {2013},
+pages = {032507}}
+
+@Article{80Oka,
+author = {T. Oka},
+journal = {Phys. Rev. Lett.},
+volume = {45},
+title = {Observation of the infrared spectrum of H$_3^+$},
+year = {1980},
+pages = {531--534}}
+
+@Article{81Oka,
+author = {T. Oka},
+journal = {Phil. Trans. R. Soc. Lond. A},
+volume = {303},
+title = {A search for interstellar H$_3^+$},
+year = {1981},
+pages = {543--549}}
+
+@Article{84AmWa,
+author = {T. Amano AND J. K. G. Watson},
+journal = {J. Chem. Phys.},
+volume = {81},
+title = {Observation of the $\nu_1$ band of H$_2$D$^+$},
+year = {1984},
+pages = {2869--2871}}
+
+@Article{84BoDeDeDe,
+author = {M. Bogey AND C. Demuynck AND M. Denis AND J. L. Destombes AND B. Lemoine},
+journal = {Astron. Astrophys.},
+volume = {137},
+title = {Laboratory measurement of the $1_{10} - 1_{11}$ submillimeter line of H$_2$D$^+$},
+year = {1984},
+pages = {L15--L16}}
+
+@Article{84WaFoMcBe,
+author = {J. K. G. Watson AND S. C. Foster AND A.~R.~W. McKellar AND
+P. Bernath AND T. Amano AND F.~S. Pan AND M. W. Crofton AND R.~S. Altman AND 
+T. Oka},
+journal = {Can. J. Phys.},
+volume = {62},
+title = {The infrared spectrum of the $\nu_2$ fundamental band of the
+H$_3^+$ molecular ion},
+year = {1984},
+pages = {1875--1885}}
+
+@Article{85Amano,
+author = {T. Amano},
+journal = {J. Opt. Soc. Am. B},
+volume = {2},
+title = {Difference-frequency laser spectroscopy of molecular ions with a hollow-cathode cell: extended analysis of the $\nu_1$ band of H$_2$D$^+$},
+year = {1985},
+pages = {790--793}}
+
+@Article{85SaKaHi,
+author = {S. Saito AND K. Kawaguchi AND E. Hirota},
+journal = {J. Chem. Phys.},
+volume = {82},
+title = {The microwave spectrum of the H$_2$D$^+$ ion: the $2_{20} - 2_{21}$ transition},
+year = {1985},
+pages = {45--47}}
+
+@Article{86FoMcPeWa,
+author = {S. C. Foster AND A. R. W. McKellar AND I. R. Peterkin AND J. K. G. Watson AND F. S. Pan AND M. W. Crofton AND R. S. Altman AND T. Oka},
+journal = {J. Chem. Phys.},
+volume = {82},
+title = {Observation and analysis of the $\nu_2$ and $\nu_3$ fundamental bands of the H$_2$D$^+$ ion},
+year = {1986},
+pages = {91--99}}
+
+@Article{86FoMcWa,
+author = {S. C. Foster AND A. R. W. McKellar AND J. K. G. Watson},
+journal = {J. Chem. Phys.},
+volume = {85},
+title = {Observation and analysis of the $\nu_2$ and $\nu_3$ fundamental bands of the D$_2$H$^+$ ion},
+year = {1986},
+pages = {664--670}}
+
+@Article{87MaMaMcJo,
+author = {W.~A. Majewski AND M.~D. Marshall AND A.~R.~W. McKellar AND
+J.~W.~C. Johns AND J. K. G. Watson},
+journal = {J. Mol Spectrosc.},
+volume = {62},
+title = {Higher rotational lines in the $\nu_2$ fundamental of the
+H$_3^+$ molecular ion},
+year = {1987},
+pages = {341--355}}
+
+@Article{88KoPoZo,
+author = {I.~N. Kozin AND O. L. Polyansky AND N. F. Zobov},
+journal = {J. Mol. Spectrosc.},
+volume = {128},
+title = {Improved analysis of the experimental data on the H$_2$D$^+$ and D$_2$H$^+$ absorption spectra},
+year = {1988},
+pages = {126--134}}
+
+@Article{89MaFeWaMi,
+author = {W.~A. Majewski AND P.~A. Feldman AND J. K. G. Watson AND S. Miller
+AND J. Tennyson},
+journal = {Astrophys. J.},
+volume = {347},
+title = {Laboratory observation of the 2$\nu_2$ band of the
+H$_3^+$ molecular ion},
+year = {1989},
+pages = {L51--L54}}
+
+@Article{90NaItSuTa,
+author = {T. Nakanaga AND F. Ito AND K. Sugawara AND H. Takeo AND C. Matsumura},
+journal = {Chem. Phys. Lett.},
+volume = {169},
+title = {Observation of infrared absorption spectra of molecular ions, H$_3^+$ and HN$_2^+$, by FTIR spectroscopy},
+year = {1990},
+pages = {269--273}}
+
+@Article{90BaReOk,
+author = {M. G. Bawendi AND B. D. Rehfuss AND T. Oka},
+journal = {Chem. Phys. Lett.},
+volume = {93},
+title = {},
+year = {1990},
+pages = {6200--6209}}
+
+@Article{90XuGaOk,
+author = {L.-W. Xu AND Charles Gabrys AND T. Oka},
+journal = {J. Chem. Phys.},
+volume = {93},
+title = {Observation of the $2\nu_2 (l = 2) \leftarrow 0$ overtone band of  H$_3^+$},
+year = {1990},
+pages = {6210--6215}}
+
+@Article{91LeVeCaOk,
+author = {S. S. Lee AND B. F. Ventrudo AND D. T. Cassidy AND T. Oka AND S. Miller AND J. Tennyson},
+journal = {J. Mol. Spectrosc.},
+volume = {145},
+title = {Observation of the $3 \nu_2 \leftarrow 0$ overtone band of H$_3^+$},
+year = {1991},
+pages = {222--224}}
+
+@Article{91KaOkMiTe,
+author = {L. Kao AND T. Oka AND S. Miller AND J. Tennyson},
+journal = {Astrophys. J.},
+volume = {77},
+title = {A table of astronomically important ro-vibrational transitions for the H$_3^+$ molecular ion},
+year = {1991},
+pages = {317--329}}
+
+@Article{92XuRoGaOk,
+author = {L.-W. Xu AND M. R\"osslein AND C. M. Gabrys AND T. Oka},
+journal = {J. Mol. Spectrosc.},
+volume = {153},
+title = {Observation of infrared forbidden transitions of H$_3^+$},
+year = {1992},
+pages = {726--737}}
+
+@Article{92Oka,
+author = {T. Oka},
+journal = {Rev. Mod. Phys.},
+volume = {45},
+title = {The infrared spectrum of H$_3^+$ in laboratory and space plasmas},
+year = {1992},
+pages = {1141-1149}}
+
+@Article{13FuSzFaCs,
+author = {T. Furtenbacher AND T. Szidarovszky AND C. F\'abri AND A. G. Cs\'asz\'ar},
+journal = {Phys. Chem. Chem. Phys.},
+volume = {15},
+title = {MARVEL Analysis of the Rotational-Vibrational States of the Molecular Ions H$_2$D$^+$ and D$_2$H$^+$},
+year = {2013},
+pages = {10181-10193}}
+
+@Article{06AlHi,
+author = {A. Alijah AND J. Hinze},
+journal = {Phil. Trans. R. Soc. A},
+volume = {364},
+title = {Rotation-vibrational states of H$_3^+$ and the adiabatic approximation},
+year = {2006},
+pages = {2877-2888}}
+
+
+@Article{00JoKuJaOk,
+author = {S. Joo AND F. K\"uhnemann AND M.-F. Jagod AND T. Oka},
+journal = {poster at The Royal Society Discussion Meeting on Astronomy, Physics and Chemistry of H$_3^+$},
+volume = {},
+title = {},
+year = {2000},
+pages = {}}
+
+@Article{94VeCaGuJo,
+author = {B. F. Ventrudo AND D. T. Cassidy AND Z. Y. Guo AND S. Joo AND S. S. Lee AND T. Oka},
+journal = {J. Chem. Phys.},
+volume = {100},
+title = {},
+year = {1994},
+pages = {6263--6266}}
+
+@Article{94UyGaJaOk,
+author = {D. Uy AND M. Gabrys AND M.-F. Jagod AND T. Oka},
+journal = {J. Chem. Phys.},
+volume = {100},
+title = {},
+year = {1994},
+pages = {6267--6274}}
+
+@Article{94MaMcSaWa,
+author = {W. A. Majewski AND A. R. W. McKellar AND D. Sadovskii AND J. K. G. Watson},
+journal = {Can. J. Phys.},
+volume = {72},
+title = {},
+year = {1994},
+pages = {1016-1027}}
+
+@Article{95PoDiLeTe,
+author = {O. L. Polyansky AND B. M. Dinelli AND C. R. {Le~Sueur} AND J. Tennyson},
+journal = {J. Chem. Phys.},
+volume = {102},
+title = {Asymmetric adiabatic correction to the rotation-vibration levels of H$_2$D$^+$ and D$_2$H$^+$},
+year = {1995},
+pages = {9322-9326}}
+
+@Article{98McWa,
+author = {A. R. W. McKellar AND J. K. G. Watson},
+journal = {J. Mol. Spectrosc.},
+volume = {191},
+title = {},
+year = {1998},
+pages = {215-217}}
+
+@Article{01FrAlXuVa,
+  author =       {Oliver Friedrich AND Alexander Alijah AND ZongRong Xu AND Antonio J. C. Varandas},
+  title =        {Bound Ro-Vibronic States of Triplet H$_{3}^+$},
+  journal =      {Phys. Rev. Lett.},
+  year =         {2001},
+  volume =       {86},
+  pages =        {1183-1186},
+  OPTannote =    {}
+}
+
+@Article{00McOk1,
+author = {B. J. McCall and T. Oka},
+journal = {Science},
+volume = {287},
+title = {H$_3^+$ -- an ion with many talents},
+year = {2000},
+pages = {1941-1942}}
+
+@Article{00McOk,
+author = {B. J. McCall and T. Oka},
+journal = {J. Mol. Spectrosc},
+volume = {113},
+title = {Combination band spectroscopy of H$_3^+$},
+year = {2000},
+pages = {3104-3110}}
+
+@Article{01McCall,
+author = {B. J. McCall},
+journal = {Phil Trans. R. Soc. London A},
+volume = {358},
+title = {},
+year = {2001},
+pages = {2385-2401}}
+
+@Article{01LiRaOk,
+author = {C. M. Lindsay AND R. M. {Rade Jr.} AND T. Oka},
+journal = {J. Mol. Spectrosc.},
+volume = {210},
+title = {},
+year = {2001},
+pages = {51-59}}
+
+@Article{01LiMc,
+author = {C. M. Lindsay AND B. J. McCall},
+journal = {J. Mol. Spectrosc.},
+volume = {210},
+title = {Comprehensive evaluation and compilation of H$_3^+$ spectroscopy},
+year = {2001},
+pages = {60-83}}
+
+@Article{02FaDaKoPo,
+author = {M. Farnik AND S. Davis AND M. A. Kostin AND O. L. Polyansky AND J. Tennyson AND D. J. Nesbitt},
+journal = {J. Chem. Phys.},
+volume = {116},
+title = {Beyond the Born--Oppenheimer approximation: high-resolution overtone spectroscopy of  H$_2$D$^+$ and D$_2$H$^+$},
+year = {2002},
+pages = {6146--6158}}
+
+@Article{03GoMcOk,
+author = {J. L. Gottfried AND B. J. McCall AND T. Oka},
+journal = {J. Chem. Phys.},
+volume = {118},
+title = {},
+year = {2003},
+pages = {1--10}}
+
+@Article{04OkEp,
+author = {T. Oka AND E. Epp},
+journal = {Astrophys. J.},
+volume = {613},
+title = {},
+year = {2004},
+pages = {349--354}}
+
+@Article{05AmHi,
+author = {T. Amano and T. Hirao},
+journal = {J. Mol. Spectrosc.},
+volume = {233},
+title = {Accurate rest frequencies of submillimeter-wave lines of H$_2$D$^+$ and D$_2$H$^+$},
+year = {2005},
+pages = {7--14}}
+
+@Article{06Gottfrie,
+author = {Jennifer L. Gottfried},
+journal = {Phil. Trans. R. Soc. A},
+volume = {364},
+title = {Near-infrared spectroscopy of above the barrier to linearity},
+year = {2006},
+pages = {2917-2929}}
+
+@Article{06HlPlBaKo,
+author = {P. Hlavenka AND R. Plasil AND G. B\'an\'o AND I. Korolov and D. Gerlich AND J. Ramanlal AND J. Tennyson AND J. Glos\'ik},
+journal = {J. Mass. Spectrom.},
+volume = {255-256},
+title = {Near infrared second overtone cw-cavity ringdown spectroscopy of D$_2$H$^+$ ions},
+year = {2006},
+pages = {170-176}}
+
+@Article{07AsHuMuKu,
+author = {O. Asvany AND E. Hugo AND F. M\"uller AND F. K\"uhnemann and S. Schiller AND J. Tennyson AND S. Schlemmer},
+journal = {J. Chem. Phys.},
+volume = {127},
+title = {Overtone spectroscopy of H$_2$D$^+$ and D$_2$H$^+$ using laser induced reactions},
+year = {2007},
+pages = {154317}}
+
+@Article{09MoGoOk,
+author = {C. P. Morong AND J. L. Gottfried AND T. Oka},
+journal = {J. Mol. Spectrosc.},
+volume = {255},
+title = {H$_3^+$ as the benchmark for rigorous ab initio theory},
+year = {2009},
+pages = {13--23}}
+
+@Article{09YoMaMoTa,
+author = {T. Yonezu AND F. Matsushima AND Y. Moriwaki AND K. Takagi AND T. Amano},
+journal = {J. Mol. Spectrosc.},
+volume = {256},
+title = {THz spectroscopy of H$_2$D$^+$},
+year = {2009},
+pages = {238--241}}
+
+@Article{06CeDo,
+author = {C. Ceccarelli AND C. Dominik},
+journal = {Astrophys. J.},
+volume = {640},
+title = {},
+year = {2006},
+pages = {L131}}
+
+@Article{09PaAd,
+author = {M. Pavanello AND L. Adamowicz},
+journal = {J. Chem. Phys.},
+volume = {130},
+title = {High-accuracy calculations of the ground, 1~$^1A_1^'$, and the 
+2~$^1A_1^'$, 2~$^3A_1^'$, and 1~$^1E^'$ excited states of H$_3^+$},
+year = {2009},
+pages = {034104}}
+
+@Article{84WaCoPeWo,
+author = {H. E. Warner AND W.~T. Conner AND R.~H. Petrmichl AND R.~C. Woods},
+journal = {J. Chem. Phys.},
+volume = {81},
+title = {Laboratory identification of the $1_{10} \leftarrow 1_{11}$ submillimeter wave transition of the H$_2$D$^+$ ion},
+year = {1984},
+pages = {2514}}
+
+@Article{06Amano,
+author = {T. Amano},
+journal = {Phil. Trans. R. Soc. A},
+volume = {364},
+title = {Title},
+year = {2006},
+pages = {2943-2952}}
+
+@Article{97MaTa,
+author = {V. A. Mandelshtam AND H. S. Taylor},
+journal = {J. Chem. Phys.},
+volume = {106},
+title = {},
+year = {1997},
+pages = {5085-5090}}
+
+@Article{08AsRiMuWi,
+author = {O. Asvany AND O. Ricken AND H. S. P. M\"uller AND M. C. Wiedner AND T. F. Giesen AND S. Schlemmer},
+journal = {Phys. Rev. Lett.},
+volume = {100},
+title = {High-Resolution Rotational Spectroscopy in a Cold Ion Trap: H$_2$D$^+$ and D$_2$H$^+$},
+year = {2008},
+pages = {233004}}
+
+@Article{90PoMc,
+author = {O.~L. Polyansky AND A.~R.~W. McKellar},
+journal = {J. Chem. Phys.},
+volume = {92},
+title = {Improved analysis of the infrared spectrum of HD$_2^+$},
+year = {1990},
+pages = {4039--4043}}
+
+@Article{03HiAm,
+author = {T. Hirao AND T. Amano},
+journal = {Astrophys. J.},
+volume = {597},
+title = {Laboratory submillimeter-wave detection of D$_2$H$^+$: a new probe into multiple deuteration?},
+year = {2003},
+pages = {85--87}}
+
+@Article{06HlKoPlKo,
+author = {P. Hlavenka AND I. Korolov AND R. Plasil AND J. Varju AND T. Kotrik AND J. Glosik},
+journal = {Czech. J. Phys.},
+volume = {56},
+title = {Near infrared second overtone cw--cavity ringdown spectroscopy of H$_2$D$^+$ ions},
+year = {2006},
+pages = {B749--B760}}
+
+@Article{84LuAm,
+author = {K. G. Lubic AND T. Amano},
+journal = {Can. J. Phys.},
+volume = {62},
+title = {Observation of the $\nu_1$ fundamental band of D2H(+)},
+year = {1984},
+pages = {1886--1888}}
+
+@Article{12PaAdAlZo,
+author = {M. Pavanello AND L. Adamowicz AND A. Alijah AND  N. F. Zobov AND I. I. Mizus AND O. L. Polyansky 
+AND J. Tennyson AND T. Szidarovszky AND A.~G. Cs\'asz\'ar AND  M. Berg AND A. Petrignani AND A. Wolf},
+journal = {Phys. Rev. Lett.},
+volume = {108},
+title = {Precision Measurements and Computations of Transition Energies in Rotationally ld Triatomic Hydrogen Ions up to the Mid-Visible Spectral Range},
+year = {2012},
+pages = {023001}}
+
+@Article{12PaAdAlZo2,
+author = {M. Pavanello AND L. Adamowicz AND A. Alijah AND  N. F. Zobov AND I. I. Mizus AND O. L. Polyansky 
+AND J. Tennyson AND T. Szidarovszky AND A.~G. Cs\'asz\'ar},
+journal = {J. Chem. Phys.},
+volume = {136},
+title = {Calibration-quality adiabatic potential energy surfaces for H$_3^+$ and its isotopologues},
+year = {2012},
+pages = {184303}}
+
+@Article{97DiNePoTe,
+author = { B. M.  Dinelli AND L.  Neale AND O. L.  Polyansky AND J.  Tennyson},
+OPTfile_num = {193},
+title = {New assignments for the infrared spectrum of {H$_3^+$}},
+journal = {J.  Mol.  Spectrosc. },
+year  = {1997},
+volume  = {181},
+pages = {142-150}
+}
+
+@Article{12CrHoSiPe,
+author = {Kyle N. Crabtree AND James N. Hodges AND Brian M. Siller AND Adam J. Perry AND Joseph E. Kelly AND Paul A. Jenkins AND Benjamin J. McCall},
+title = {},
+journal = {Chem. Phys. Lett.},
+year  = {2012},
+volume  = {551},
+pages = {1-6}
+}
+
+@Article{04MiKrWePl,
+author = {J. Mikosch AND H. Kreckel AND R. Wester AND R. Plasil AND J. Glosik AND D. Gerlich AND D. Schwalm AND A. Wolf},
+title = {},
+journal = {J. Chem. Phys.},
+year  = {2004},
+volume  = {121},
+pages = {11030-11037}
+}
+
+@Article{08VeLeAgBe,
+author = {Luis Velilla AND Bruno Lepetit AND Alfredo Aguado AND J. Alberto Beswick AND Miguel Paniagua},
+title = {},
+journal = {J. Chem. Phys.},
+year  = {2008},
+volume  = {129},
+pages = {084307}
+}
+
+@Article{08KrBiRePe,
+author = {H. Kreckel AND D. Bing AND S. Reinhardt AND A. Petrignani AND M. Berg AND A. Wolf},
+title = {},
+journal = {J. Chem. Phys.},
+year  = {2008},
+volume  = {129},
+pages = {164312}
+}
+
+@Article{13FuSzMaFa,
+author = {T. Furtenbacher AND T. Szidarovszky AND E. M\'atyus AND C. F\'abri AND A. G. Cs\'asz\'ar},
+journal = {J. Chem. Theory Comput.},
+volume = {9},
+title = {Analysis of the Rotational-Vibrational States of the Molecular Ions H$_3^+$},
+year = {2013},
+pages = {5471-5478}}
+
+@Article{11FaMaFuMi,
+author = {C. F\'abri AND E. M\'atyus AND T. Furtenbacher AND B. Mih\'aly AND  T. Zolt\'ani AND L. Nemes AND A. G. Cs\'asz\'ar},
+title = {Analysis of the Rotational-Vibrational States of the Molecular Ions H$_3^+$},
+journal = {J. Chem. Phys.},
+volume = {135},
+year = {2011},
+pages = {094307}}
+
+
+% new entries not in the original MARBEL paper
+@article{15PeHoMaKo,
+title = "High-precision R-branch transition frequencies in the fundamental band of ",
+journal = JMS,
+volume = "317",
+number = "",
+pages = "71 - 73",
+year = "2015",
+doi = "http://dx.doi.org/10.1016/j.jms.2015.09.004",
+author = "Adam J. Perry and James N. Hodges and Charles R. Markus and G. Stephen Kocheril and Benjamin J. McCall",
+keywords = "Rovibrational spectroscopy",
+keywords = "High-precision spectroscopy",
+keywords = "Sub-Doppler spectroscopy",
+keywords = "Ion spectroscopy",
+keywords = "H 3 + ",
+abstract = "Abstract The H 3 + molecular ion has served as a long-standing benchmark for state-of-the-art ab initio calculations of molecular potentials and variational calculations of rovibrational energy levels. However, the accuracy of such calculations would not have been confirmed if not for the wealth of spectroscopic data that has been made available for this molecule. Recently, a new high-precision ion spectroscopy technique was demonstrated by Hodges et al., which led to the first highly accurate and precise (∼MHz) H 3 + transition frequencies. As an extension of this work, we present ten additional R-branch transitions measured to similar precision as a next step toward the ultimate goal of producing a comprehensive high-precision survey of this molecule, from which rovibrational energy levels can be calculated. "
+}
+

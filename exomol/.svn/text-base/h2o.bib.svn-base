@@ -1,0 +1,131 @@
+@article{  87BeKoPl.H2O,
+Author = {Belov, S P and Kozin, I N and Polyansky, O L and Tretyakov, M Y and Zobov,
+   N F},
+Title = {ROTATIONAL SPECTRUM OF THE (H2O)-O-16 MOLECULE IN THE (010) EXCITED
+   VIBRATIONAL-STATE},
+Journal = JMS,
+Year = {1987},
+Volume = {126},
+Pages = {113-117},
+DOI = {10.1016/0022-2852(87)90081-6},
+Journal-ISO = {J. Mol. Spectrosc.},
+}
+
+@article{sp00,
+    author  =  "D. W. Schwenke and H. Partridge",
+    title   =  "Convergence testing of the analytic representation of an ab initio dipole moment function for water: {I}mproved fitting yields improved intensities",
+    year    = "2000",
+    journal = JCP,
+    volume  = "113",
+    pages   = "6592-6597"
+}
+
+@Article{08GrMaZoSh,
+author = {M. Grechko AND P.~Maksyutenko and N.~F. Zobov and  S.~V. Shirin and O.~L. Polyansky and T.~R. Rizzo and O.~V. Boyarkin},
+title  = {Collisionally assisted spectroscopy of water from 27~000 to 34~000 cm$^{-1}$},
+journal = {J. Phys. Chem.~A},
+year  = {2008},
+volume  = {112},
+pages = {10539--10545}
+}
+
+@Article{07MaMuZoSh,
+author = {P.~Maksyutenko and N.~F.~Zobov and  S.~V. Shirin and  O.~L. Polyansky and  J.~S. Muenter and T.~R. Rizzo and O.~V. Boyarkin},
+title  = {Approaching the full set of energy levels of water},
+journal = {J. Chem. Phys.},
+year  = {2007},
+volume  = {126},
+pages = {241101}
+}
+
+@Article{Maksyutenko2006,
+author = {P. Maksyutenko and  T. R. Rizzo and O. V. Boyarkin},
+title  = {A direct measurement of the dissociation energy of water},
+journal = { J. Chem. Phys.},
+year  = {2006},
+volume  = {125},
+pages = {181101}
+}
+
+@Article{Grechko2010,
+author = {M. Grechko and P. Maksyutenko and T.~R. Rizzo and O.~V. Boyarkin},
+journal = {J. Chem. Phys.},
+title = {Communication: Feshbach resonances in the water molecule revealed by state-selective spectroscopy},
+year  = {2010},
+volume  = {133},
+pages = {081103}
+}
+
+@article{ ISI:000077776700024,
+Author = {Spaans, M and Neufeld, D and Lepp, S and Melnick, GJ and Stauffer, J},
+Title = {{Search for interstellar water in the translucent molecular cloud toward
+   HD 154368}},
+Journal = ApJ,
+Year = {{1998}},
+Volume = {{503}},
+Pages = {{780-784}},
+Abstract = {{We report an upper limit of 9 x 10(12) cm(-2) on the column density of
+   water in the translucent cloud along the line of sight toward HD 154368.
+   This result is based on a search for the C-X band of water near 1240
+   Angstrom carried out using the Goddard High-Resolution Spectrograph
+   (GHRS) of the Hubble Space Telescope. Our observational Limit on the
+   water abundance, together with detailed chemical models of translucent
+   clouds and previous measurements of OH along the line of sight,
+   constrains the branching ratio in the dissociative recombination of H3O+
+   to form water. We find at the 3 sigma level that no more than 30\% of
+   dissociative recombinations of H3O+ can lead to H2O. The observed
+   spectrum also yielded high-resolution observations of the Mg II doublet
+   at 1239.9 Angstrom and 1240.4 Angstrom, allowing the velocity structure
+   of the dominant ionization state of magnesium to be studied along the
+   line of sight. The Mg II spectrum is consistent with GHRS observations
+   at lower spectral resolution that were obtained previously but allow an
+   additional velocity component to be identified.}}}
+
+@article{ 93ChCoBr,
+Author = {Chan, W F and Cooper, G and Brion, CE},
+Title = {THE ELECTRONIC-SPECTRUM OF WATER IN THE DISCRETE AND CONTINUUM REGIONS -  ABSOLUTE OPTICAL OSCILLATOR-STRENGTHS FOR PHOTOABSORPTION (6-200 {eV})},
+Journal = CP,
+Year = {{1993}},
+Volume = {{178}},
+Pages = {387-400}},
+Abstract = {{The electronic excitation spectrum and the associated absolute optical
+   oscillator strengths for the photoabsorption of water have been
+   determined in the energy region 6-200 eV using low resolution dipole (e,
+   e) spectroscopy and TRK sum-rule normalization. In addition, detailed
+   studies of the absolute photoabsorption oscillator strengths for the
+   valence shell discrete electronic transitions of water have been made
+   using high resolution dipole (e, e) spectroscopy (0.048 eV fwhm), from
+   the first excitation threshold up to 30 eV. The present results are free
+   of `'line saturation'' (i.e. bandwidth/linewidth interaction) effects
+   which can lead to serious errors when absolute intensity measurements
+   are made using conventional Beer-Lambert law photoabsorption methods.}}}
+
+@ARTICLE{78SmPa,
+   author = {{Smith}, P.~L. and {Parkinson}, W.~H.},
+    title = "{Oscillator strengths for lines of the C 1B1 - X 1A1 band of H2O and the abundance of H2O in diffuse interstellar clouds}",
+  journal = ApJ,
+ keywords = {ABUNDANCE, INTERSTELLAR GAS, MOLECULAR EXCITATION, SPECTRAL BANDS, WATER, ABSORPTION SPECTRA, OSCILLATORS, TRANSITION PROBABILITIES},
+     year = 1978,
+   volume = 223,
+    pages = {L127-L130},
+      doi = {10.1086/182744},
+}
+
+
+@ARTICLE{93JoJexx.H2O,
+  author = {J{\o}rgensen, U G and Jensen, P},
+  title = {THE DIPOLE-MOMENT SURFACE AND THE VIBRATIONAL TRANSITION MOMENTS
+	OF H2O},
+  journal = JMS,
+  year = {1993},
+  volume = {161},
+  pages = {219-242},
+  number = {1},
+  month = {SEP},
+  doi = {10.1006/jmsp.1993.1228},
+  issn = {0022-2852},
+  journal-iso = {J. Mol. Spectrosc.},
+  owner = {sibarey},
+  times-cited = {40},
+  timestamp = {2013.03.30}
+}

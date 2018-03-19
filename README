@@ -1,0 +1,36 @@
+This file describes the convention for assigning keys to BibTex entries.
+
+ARTICLES
+========
+The general format is the following
+XYZ##a
+
+X = first author
+Y = second author
+Z = third author
+## = the last two digits of the year
+a = an increment used when more than one entry has the same key. starts with
+	"a" then "b" then "c", etc. This can omitted if it is not needed to
+	differentiate entries. 
+
+-If there is only one author, Y and Z are omitted
+-If there are only two authors, Z is omitted.
+-For pre 1920's papers the full year is to be used, ie #### instead of
+ ##
+
+
+JONATHAN'S PAPERS
+===============
+Jonathan has a separate BibTex file, jt.bib
+The key convention is jt#, where # is the number next to the paper
+entry of Jonathan's website.
+http://www.tampa.phys.ucl.ac.uk/jonny/pubs.html
+
+
+MANUALS
+=======
+The keys here are named after the program.
+
+
+Jayesh
+9/8/2002

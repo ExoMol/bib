@@ -1,0 +1,2640 @@
+
+@article{16VeLaDi.CaH,
+Author = {Velasco, A. M. and Lavin, C. and Diaz-Tinoco, Manuel and Ortiz, J. V.},
+Title = {{CaH Rydberg series, oscillator strengths and photoionization cross
+   sections from Molecular Quantum Defect and Dyson Orbital theories}},
+Journal = JQSRT,
+Year = {{2017}},
+Volume = {{187}},
+Pages = {161-166},
+Abstract = {{In this work, electron-propagator methods are applied to the calculation
+   of the ionization potential and vertical excitation energies for several
+   Rydberg series of the CaH molecule. The present calculations cover more
+   highly excited states than those previously reported. In particular,
+   excitation energies for ns (n > 5), np (n > 5), nd (n > 4) and of
+   Rydberg states are given. Oscillator strengths for electronic
+   transitions involving Rydberg states of CaH, as well as photoionization
+   cross sections for Rydberg channels, also have been determined by using
+   the Molecular Quantum Defect Orbital approach. Good agreement has been
+   found with the scarce comparative data that are available for oscillator
+   strengths. To our knowledge, predictions of photoionization cross
+   sections from the outermost orbital of CaH are made here for the first
+   time. A Cooper minimum and mixed atomic orbital character in some of the
+   Dyson orbitals are among the novel features of these present
+   calculations. }},
+DOI = {{10.1016/j.jqsrt.2016.09.024}},
+}
+
+@article{ 11RaTeGo.CaH,
+Author = {Ram, R. S. and Tereszchuk, K. and Gordon, I. E. and Walker, K. A. and
+   Bernath, P. F.},
+Title = {Fourier transform emission spectroscopy of the E-2 Pi-X-2 Sigma(+)
+   transition of CaH and CaD},
+Journal = JMS,
+Year = {2011},
+Volume = {266},
+Number = {2},
+Pages = {86-91},
+Month = {APR},
+Abstract = {The emission spectra of CaH and CaD have been recorded at high
+   resolution using a Fourier transform spectrometer and bands belonging
+   to the E-2 Pi-X-2 Sigma(+) transition have been measured in the 20
+   10020 700 cm(-1) region. A rotational analysis of 0-0 and 1-1 bands of
+   both the isotopologues has been carried out. The present measurements
+   have been combined with the previously available pure rotation and
+   vibration-rotation data to provide improved spectroscopic constants for
+   the E-2 Pi state. The constants Delta G(1/2) = 1199.8867(34) cm(-1),
+   B-e = 4.345032(49) cm(-1), alpha(e) = 0.122115(92) cm(-1), r(e) =
+   1.986633(11) angstrom for CaH, and Delta G(1/2)=868.7438(46) cm(-1),
+   B-e = 2.212496(51) cm(-1), alpha(e) = 0.036509(97) cm(-1), r(e) =
+   1.993396(23) angstrom for CaD have been determined. (C) 2011 Elsevier
+   Inc. All rights reserved.},
+DOI = {10.1016/j.jms.2011.03.009},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:000290923500004},
+}
+
+@article{ 07KeIoMa.CaH,
+Author = {Kerkines, Ioannis S. K. and Mavridis, Aristides},
+Title = {A theoretical study of calcium monohydride, CaH: Low-lying states and
+   their permanent electric dipole moments},
+Journal = JPCA,
+Year = {2007},
+Volume = {111},
+Number = {2},
+Pages = {371-374},
+Month = {JAN 18},
+Abstract = {Potential energy curves, energy parameters, and spectroscopic values
+   for the X (2)Sigma(+), A (2)Pi, B (2)Sigma(+), a (4)Pi, and b
+   (4)Sigma(+) states of CaH have been calculated using the multireference
+   configuration interaction and coupled cluster levels of theory, while
+   employing quantitative basis sets (of augmented quintuple-zeta quality)
+   and taking also into account core/valence correlation and one-electron
+   relativistic effects. For the ground (X (2)Sigma(+)) and the first two
+   following excited states (A (2)Pi, B (2)Sigma(+)) of CaH, the permanent
+   electric dipole moments have been calculated. Our best finite field
+   dipole moment of the A (2)Pi state of 2.425 D (upsilon = 0) is in very
+   good agreement with the experimental literature value of 2.372(12) D.
+   However, a discrepancy is observed in the dipole moment of the X
+   (2)Sigma(+) state. Our most extensive calculation gives mu = 2.623 D
+   (upsilon = 0), which is considerably smaller than the experimental
+   value of mu = 2.94(16) D (upsilon = 0). Small van der Waals minima were
+   found for both ``repulsive{''} quartet states. Spectroscopic constants
+   and energy parameters for all states are in remarkable agreement with
+   available experimental values.},
+DOI = {10.1021/jp064705k},
+Journal-ISO = {J. Phys. Chem. A},
+Unique-ID = {ISI:000243388500022},
+}
+
+
+
+@article{ 06ChGeSt.CaH,
+Author = {Chen, J H and Gengler, J and Steimle, T C and Brown, J M},
+Title = {Optical Zeeman spectroscopy of calcium monohydride},
+Journal = PRA,
+Year = {2006},
+Volume = {73},
+Number = {1},
+Month = {JAN},
+Abstract = {The Zeeman effect in the ground and low-lying excited electronic states
+   of calcium monohydride CaH has been experimentally investigated using
+   optical Zeeman spectroscopy of the (0,0) band of the B-2 Sigma(+)-X-2
+   Sigma(+) and the (0,0) band of the A(2)Pi-X-2 Sigma(+) systems. The
+   observed Zeeman-induced shifts and splittings of numerous branch
+   features recorded near the natural linewidth limit were successfully
+   modeled using a traditional effective Hamiltonian approach to account
+   for the interaction between the (v=0) A(2)Pi and (v=0) B-2 Sigma(+)
+   states and explicit inclusion of the interaction matrix elements for
+   the heterogeneous perturbations between the (v=1) A(2)Pi and (v=0) B-2
+   Sigma(+) states. The determined magnetic g factors for the X-2
+   Sigma(+), B-2 Sigma(+), and A(2)Pi states are compared with previously
+   assumed values and those predicted by perturbation theory.},
+DOI = {10.1103/PhysRevA.73.012502},
+Article-Number = {012502},
+Journal-ISO = {Phys. Rev. A},
+Unique-ID = {ISI:000235008900076},
+}
+
+@article{ 04StChG1.CaH,
+Author = {Steimle, T C and Chen, J H and Gengler, J},
+Title = {The permanent electric dipole moments of calcium monohydride, CaH},
+Journal = JCP,
+Year = {2004},
+Volume = {121},
+Number = {2},
+Pages = {829-834},
+Month = {JUL 8},
+Abstract = {Numerous branch features in the (0,0) A (2)Pi-X (2)Sigma(+) band system
+   of calcium monohydride CaH have been studied by optical Stark
+   spectroscopy. The Stark shifts, Stark splittings, and appearance of
+   electric-field-induced transitions in the high resolution laser-induced
+   fluorescence spectra are analyzed to produce values for the magnitude
+   of the permanent electric dipole moments
+   \textbackslash{}mu\textbackslash{} of 2.94(16) D and 2.372(12) D for
+   the X (2)Sigma(+)(v=0) and A (2)Pi(v=0) states, respectively. A
+   comparison with values predicted from a semiempirical electrostatic
+   model and previous ab initio calculations for
+   \textbackslash{}mu\textbackslash{} (X (2)Sigma(+)) is presented. The
+   change in \textbackslash{}mu\textbackslash{} upon excitation from the X
+   (2)Sigma(+) state to the A (2)Pi state is rationalized using a simple
+   molecular orbital description. (C) 2004 American Institute of Physics.},
+DOI = {10.1063/1.1759314},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000222265600027},
+}
+
+
+--
+@article{ 98WeDeGu.CaH,
+Author = {Weinstein, J D and deCarvalho, R and Guillet, T and Friedrich, B and
+   Doyle, J M},
+Title = {Magnetic trapping of calcium monohydride molecules at millikelvin
+   temperatures},
+Journal = {Nature},
+Year = {1998},
+Volume = {395},
+Number = {6698},
+Pages = {148-150},
+Month = {SEP 10},
+Abstract = {Recent advances(1-5) in the magnetic trapping and evaporative cooling
+   of atoms to nanokelvin temperatures have opened important areas of
+   research, such as Bose-Einstein condensation and ultracold atomic
+   collisions. Similarly, the ability to trap and cool molecules should
+   facilitate the study of ultracold molecular physics and collisions(6);
+   improvements in molecular spectroscopy could be anticipated. Also,
+   ultracold molecules could aid the search for electric dipole moments of
+   elementary particles(7). But although laser cooling (in the case of
+   alkali metals(1,8,9)) and cryogenic surface thermalization (in the case
+   of hydrogen(10,11)) are currently used to cool some atoms sufficiently
+   to permit their loading into magnetic trays, such techniques are not
+   applicable to molecules, because of the latter's complex internal
+   energy-level structure. (Indeed, most atoms have resisted trapping by
+   these techniques.) We have reported a more general loading
+   technique(12) based on elastic collisions with a cold buffer gas, and
+   have used it to trap atomic chromium and europium(13,14). Here we apply
+   this technique to magnetically trap a molecular species-calcium
+   monohydride (CaH). We use Zeeman spectroscopy to determine the number
+   of trapped molecules and their temperature, and set upper bounds on the
+   cross-sectional areas of collisional relaxation processes. The
+   technique should he applicable to many paramagnetic molecules and atoms.},
+Journal-ISO = {Nature},
+Unique-ID = {ISI:000075829900034},
+}
+--
+@article{ 95LeJexx.CaH,
+Author = {Leininger, T. and Jeung, G.H.},
+Title = {AB-INITIO CALCULATION OF ROVIBRONIC TRANSITION SPECTRA OF CAH},
+Journal = JCP,
+Year = {1995},
+Volume = {103},
+Number = {10},
+Pages = {3942-3949},
+Month = {SEP 8},
+Abstract = {The ground (1 (2) Sigma(+), X) and excited electronic states, 1 (2) Pi
+   (A), 2 (2) Sigma(+) (B,B'), 1 (2) Delta, 2 (2) Pi (E), 3 (2) Sigma(+)
+   (D), 4 (2) Sigma(+) (C), 5 (2) Sigma(+) (K), 3 (2) Pi (L), and 2 (2)
+   Delta, of CaH are studied by ab initio calculation, with extensive
+   configuration interactions. Calculated spectroscopic constants, in
+   particular, the excitation energies, are more accurate than in previous
+   calculations and agree well with the currently available experimental
+   data. This work confirms the existence of a single vibrational level,
+   v'=4, bound to the second well of the B state calculated from the
+   experimental data by Martin {[}J. Chem. Phys. 88, 1797 (1988)].
+   Calculated oscillator strengths for the B-X and D-X show irregular band
+   structures because of multiple avoided crossings of the potential
+   energy curves. The avoided crossing between the D and C states should
+   be taken into account to explain the apparent perturbations observed in
+   the experimental spectra. The wave functions, dipole moments, and
+   transition dipole moments of these states are discussed in detail. (C)
+   1995 American Institute of Physics.},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1995RU10900008},
+}
+--
+@article{ 92BoDaEl.CaH,
+Author = {Boutalib, A. and Daudey, J.P. and Elmouhtadi, M.},
+Title = {THEORETICAL-STUDY OF THE LOWEST ELECTRONIC STATES OF CAH AND CAH+ MOLECULES},
+Journal = CP,
+Year = {1992},
+Volume = {167},
+Number = {1-2},
+Pages = {111-120},
+Month = {NOV 1},
+Abstract = {The 15 lowest states of CaH and the 14 lowest states of CaH+ have been
+   calculated using a non-empirical effective core potential for the
+   Ne-like core electrons of Ca. Full valence configuration interaction
+   calculations were followed by the inclusion of intershell effects via a
+   recently proposed core polarization potential. This approach has been
+   shown to correctly reproduce the experimental spectra of both neutral
+   and ionized calcium atom and in the present work its efficiency is
+   assessed by comparisons with other theoretical and experimental
+   results. For instance, the remaining small discrepancy noted between
+   the calculated (R(e) = 3.744 au, D(e) = 1.66 eV, omega(e) = 1263 cm-1)
+   and experimental results for the ground state (R(e) = 3.78 au, D(e)
+   almost-equal-to 1.70 eV, omega(e) = 1298 cm-1) is attributed to
+   core-core correlation effects.},
+Journal-ISO = {Chem. Phys.},
+Unique-ID = {ISI:A1992JU45200008},
+}
+--
+@article{ 06HoUrxx.CaH,
+Author = {Holka, Filip and Urban, Miroslav},
+Title = {The dipole moment and molecular properties of CaH: A theoretical study},
+Journal = CPL,
+Year = {2006},
+Volume = {426},
+Number = {4-6},
+Pages = {252-256},
+Month = {AUG 4},
+Abstract = {Failure of the CCSD(T) method in accurately reproducing the
+   experimental dipole moment (2.94 Debye) of the calcium hydride is
+   analyzed. Extrapolations to the complete basis set limit, core
+   correlation, relativistic and vibrational contributions were
+   considered. Our best theoretical result, 2.617 D, underestimates the
+   experimental value by 11\%. Other theoretical properties of CaH agree
+   with experiment better. The bond length (1.9958 angstrom), harmonic
+   vibrational frequency (1298 cm(-1)), dissociation energy D-e (1.845
+   eV), photodetachement electron affinity (0.947 eV), and the vertical
+   ionization potential (5.686 eV) differ from experiment by 0.3\%, 0.0\%,
+   0.4\%, 1.8\% and 3.0\%, respectively. The CCSD amplitudes and CASPT2
+   calculations indicate no quasidegeneracy. (c) 2006 Elsevier B.V. All
+   rights reserved.},
+Publisher = {ELSEVIER SCIENCE BV},
+Address = {PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS},
+Type = {Article},
+Language = {English},
+Affiliation = {Urban, M (Reprint Author), Comenius Univ, Fac Nat Sci, Dept Phys \& Theoret Chem, SK-84215 Bratislava, Slovakia.
+   Comenius Univ, Fac Nat Sci, Dept Phys \& Theoret Chem, SK-84215 Bratislava, Slovakia.},
+DOI = {10.1016/j.cplett.2006.05.108},
+ISSN = {0009-2614},
+Keywords-Plus = {COUPLED-CLUSTER THEORY; LEVEL-CORRELATED CALCULATIONS; POTENTIAL-ENERGY
+   SURFACE; OPEN-SHELL SYSTEMS; ELECTRON CORRELATION; ALKALINE-EARTH;
+   SMALL RADICALS; BASIS-SETS; SPIN; POLARIZABILITIES},
+Subject-Category = {Chemistry, Physical; Physics, Atomic, Molecular \& Chemical},
+Author-Email = {urban@fns.uniba.sk},
+Number-of-Cited-References = {35},
+Times-Cited = {4},
+Journal-ISO = {Chem. Phys. Lett.},
+Doc-Delivery-Number = {070WB},
+Unique-ID = {ISI:000239555500004},
+}
+--
+@article{ 83PeSiIs.CaH,
+Author = {Pettersson, L G M  and Siegbahn, P E M and Ismail, S},
+Title = {CORE-VALENCE CORRELATION-EFFECTS IN CALCIUM HYDRIDE},
+Journal = CP,
+Year = {1983},
+Volume = {82},
+Number = {3},
+Pages = {355-368},
+Publisher = {ELSEVIER SCIENCE BV},
+Address = {PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS},
+Type = {Article},
+Language = {English},
+Affiliation = {PETTERSSON, LGM (Reprint Author), UNIV STOCKHOLM, INST THEORET PHYS, S-11346 STOCKHOLM, SWEDEN.
+   UNIV STOCKHOLM, INST PHYS, S-11346 STOCKHOLM, SWEDEN.},
+ISSN = {0301-0104},
+Subject-Category = {Chemistry, Physical; Physics, Atomic, Molecular \& Chemical},
+Number-of-Cited-References = {36},
+Times-Cited = {4},
+Journal-ISO = {Chem. Phys.},
+Doc-Delivery-Number = {RW307},
+Unique-ID = {ISI:A1983RW30700008},
+}
+--
+@article{ 03WeStKi.CaH,
+Author = {Weck, P F and Stancil, P C and Kirby, K},
+Title = {Theoretical study of the rovibrationally resolved transitions of CaH},
+Journal = JCP,
+Year = {2003},
+Volume = {118},
+Number = {22},
+Pages = {9997-10005},
+Month = {JUN 8},
+Abstract = {Comprehensive absorption line lists for (CaH)-Ca-40 have been
+   calculated for electronic transitions from the X(2)Sigma(+) ground
+   state to the A (2)Pi, B/B' (2)Sigma(+), and E (2)Pi low-lying excited
+   states. The lists include transition energies and oscillator strengths
+   for all possible allowed transitions and were computed using the most
+   recent set of theoretical potential energy curves and dipole transition
+   moment functions, with adjustments to account for experimental
+   dissociation energies and asymptotic limits. Good agreement with
+   previous calculations and available experimental data has been
+   obtained. Oscillator strengths for the transition from the X
+   (2)Sigma(+) state to the D (2)Sigma(+) state are also given, but due to
+   the large uncertainty of the available dipole transition moment
+   function the line list is highly uncertain. For the C (2)Sigma(+) <-- X
+   (2)\&USigma;(+) transition, a Franck-Condon approximation has been
+   used. (C) 2003 American Institute of Physics.},
+DOI = {10.1063/1.1573181},
+ISSN = {0021-9606},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000182993800012},
+}
+--
+@article{ 93BaScGr.CaH,
+Author = {Barbuy, B and Schiavon, R P and Gregoriohetem, J and Singh, P D and
+   Batalha, C},
+Title = {INTENSITY OF CAH LINES IN COOL DWARFS},
+Journal = AAS,
+Year = {1993},
+Volume = {101},
+Number = {2},
+Pages = {409-413},
+Month = {OCT},
+Abstract = {We have computed CaH bands at lambda 6800 angstrom in four cool
+   standard dwarfs and two Hyades cool dwarfs, in order to establish CaH
+   molecular constants. In particular, electronic oscillator strengths
+   f(el){[}CaH(A - X)] = 0.5 and f(el){[}CaH(B - X)] = 1.4 were derived.
+   The behaviour of CaH bands as a function of stellar temperatures and
+   gravities is also studied.},
+ISSN = {0365-0138},
+Journal-ISO = {Astron. Astrophys. Suppl. Ser.},
+Unique-ID = {ISI:A1993MC66000009},
+}
+--
+@article{ 93FrPixx.CaH,
+Author = {Frum, C I and Pickett, H M},
+Title = {HIGH-RESOLUTION INFRARED FOURIER-TRANSFORM EMISSION-SPECTROSCOPY OF
+   METAL-HYDRIDES - X(2)SIGMA+STATE OF CAH},
+Journal = JMS,
+Year = {1993},
+Volume = {159},
+Number = {2},
+Pages = {329-336},
+Month = {JUN},
+ISSN = {0022-2852},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:A1993LE31600003},
+}
+--
+@article{ 93FrOhCo.CaH,
+Author = {Frum, C I and Oh, J J and Cohen, E A and Pickett, H M},
+Title = {ROTATIONAL SPECTRA OF THE X2-SIGMA+ STATES OF CAH AND CAD},
+Journal = APJ,
+Year = {1993},
+Volume = {408},
+Number = {1, Part 2},
+Pages = {L61-L64},
+Month = {MAY 1},
+Abstract = {The rotational spectra of the 2SIGMA+ ground states of calcium
+   monohydride and monodeuteride have been recorded in absorption between
+   250 and 700 GHz. The ps phase free radicals have been produced in a
+   ceramic furnace by the reaction of elemental calcium with molecular
+   hydrogen or deuterium in the presence of an electrical discharge. The
+   molecular constants including the rotational constant, centrifugal
+   distortion constants, spin-rotation constants, and magnetic hyperfine
+   interaction constants have been extracted from the spectra.},
+ISSN = {0004-637X},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1993KY81100016},
+}
+
+
+@article{ 10AbKaHa.CaH,
+Author = {Abe, Minori and Kajita, Masatoshi and Hada, Masahiko and Moriwaki,
+   Yoshiki},
+Title = {Ab initio study on vibrational dipole moments of XH(+) molecular ions:
+   X=(24)Mg, (40)Ca, (64)Zn, (88)Sr, (114)Cd, (138)Ba, (174)Yb and (202)Hg},
+Journal = JPB,
+Year = {2010},
+Volume = {43},
+Number = {24},
+Month = {DEC 28},
+Abstract = {The vibrational matrix elements of electric dipole moments were
+   theoretically estimated for the electronic ground state of XH(+)
+   molecular ions (X = (24)Mg, (40)Ca, (64)Zn, (88)Sr, (114)Cd, (138)Ba,
+   (174)Yb and (202)Hg) using the complete active space second-order
+   perturbation theory method. Because of the large rotational constant and
+   zero X-nuclear spin, these molecules are advantageous to be localized to
+   a single (v, J, F) state, where v, J, F are quantum numbers of the
+   vibrational, rotational and hyperfine states, respectively. The
+   information of the dipole moments is very useful to discuss the period
+   to localize the molecular ion to the (v, J, F) = (0, 0, 1/2) state and
+   also the period to remain in this state, which is limited by the
+   interaction with the black body radiation. The agreement of experimental
+   and our theoretical spectroscopic constants ensures the accuracy of our
+   results. Vibrational permanent and transition dipole moments were
+   obtained with special care of accuracy in numerical integration.
+   Spontaneous emission rates were calculated from the vibrational dipole
+   moments and transition energies.},
+DOI = {10.1088/0953-4075/43/24/245102},
+Article-Number = {245102},
+ISSN = {0953-4075},
+Times-Cited = {1},
+Journal-ISO = {J. Phys. B-At. Mol. Opt. Phys.},
+Unique-ID = {ISI:000284833500003},
+}
+
+@article{ 10KuMaxx.CaH,
+Author = {Kulik, Heather J. and Marzari, Nicola},
+Title = {Systematic study of first-row transition-metal diatomic molecules: A
+   self-consistent DFT plus U approach},
+Journal = JCP,
+Year = {2010},
+Volume = {133},
+Number = {11},
+Month = {SEP 21},
+Abstract = {We present a systematic first-principles study of the equilibrium bond
+   lengths, harmonic frequencies, dissociation energies, ground state
+   symmetries, and spin state splittings of 22 diatomic molecules comprised
+   of a first-row 3d transition-metal and a main-group element (H, C, N, O,
+   or F). Diatomic molecules are building blocks of the key molecular
+   bonding motifs in biological and inorganic catalytic systems, but, at
+   the same time, their small size permits a thorough study by even the
+   most computationally expensive quantum chemistry approaches. The results
+   of several density-functional theory (DFT) approaches including hybrid,
+   generalized-gradient, and generalized-gradient augmented with Hubbard U
+   exchange-correlation functionals are presented. We compare these
+   efficiently calculated DFT results with the highly accurate but
+   computationally expensive post-Hartree-Fock approaches multireference
+   configuration interaction (MRCI) and coupled cluster {[}CCSD(T)] as well
+   as experimental values, where available. We show that by employing a
+   Hubbard U approach, we systematically reduce average errors in state
+   splittings and dissociation energies by a factor of 3. We are also able
+   to reassign the ground state of four molecules improperly identified by
+   hybrid or generalized-gradient approaches and provide correct assignment
+   of all ground state symmetries as compared against experimental
+   assignment and MRCI reference. By providing accuracy comparable to more
+   expensive quantum chemistry approaches with the robust scaling of the
+   generalized-gradient approximation, our DFT+U approach permits the study
+   of very large scale systems with vastly improved results. (c) 2010
+   American Institute of Physics. {[}doi:10.1063/1.3489110]},
+DOI = {10.1063/1.3489110},
+Article-Number = {114103},
+ISSN = {0021-9606},
+Times-Cited = {1},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000282047500007},
+}
+
+@article{ 10ChSuxx.CaH,
+Author = {Chang, Ye Won and Sun, Hosung},
+Title = {Spin-orbit splittings in the valence states of XH (X = K, Ca, Ga, Ge,
+   As, Se, and Br) by the effective Hamiltonian approach},
+Journal = CPL,
+Year = {2010},
+Volume = {493},
+Number = {4-6},
+Pages = {371-375},
+Month = {JUN 25},
+Abstract = {One advantage of the effective valence shell Hamiltonian method is that
+   the spin-orbit coupling energies of all valence states, regardless of
+   the number of valence electrons, are simultaneously determined with a
+   similar accuracy from a single computation of the effective spin-orbit
+   coupling operator. To assess the accuracy of the effective Hamiltonian
+   method extensively, calculations are performed for the spin-orbit
+   splittings in the valence states of fourth row diatomic monohydrides and
+   their ions. The calculated spin-orbit splittings are generally in good
+   agreement with known experiments or computations. Furthermore, the
+   spin-orbit splittings of valence states, for which neither experiment
+   nor theory is available, are predicted. (C) 2010 Elsevier B. V. All
+   rights reserved.},
+DOI = {10.1016/j.cplett.2010.05.005},
+ISSN = {0009-2614},
+Times-Cited = {0},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:000278650000035},
+}
+
+@article{ 09LiPaSj.CaH,
+Author = {Liu, M. and Pauchard, T. and Sjodin, M. and Launila, O. and van der
+   Meulen, P. and Berg, L-E.},
+Title = {Time-resolved study of the A(2)Pi state of CaH by laser spectroscopy},
+Journal = JMS,
+Year = {2009},
+Volume = {257},
+Number = {1},
+Pages = {105-107},
+Month = {SEP},
+Abstract = {A time-resolved experiment on the A(2)Pi state of gaseous calcium
+   hydride has been performed by applying laser spectroscopic methods. The
+   following zero-pressure lifetime was obtained for the CaH A(2)Pi state:
+   tau(nu=0) = 33.2 (+/- 3.2) ns and tau(nu=1) = 33.7 (+/- 5.2) ns. The
+   lifetime was found to be the same for the A(2)Pi(1/2) and
+   Delta(2)Pi(3/2) states. (C) 2009 Elsevier Inc. All rights reserved.},
+DOI = {10.1016/j.jms.2009.06.004},
+ISSN = {0022-2852},
+Times-Cited = {0},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:000273937700013},
+}
+
+@article{ 09AlTsKr.CaH,
+Author = {Alyabyshev, S. V. and Tscherbul, T. V. and Krems, R. V.},
+Title = {Microwave-laser-field modification of molecular collisions at low
+   temperatures},
+Journal = PRA,
+Year = {2009},
+Volume = {79},
+Number = {6},
+Month = {JUN},
+Abstract = {We present a rigorous study of low-temperature collisions of polar
+   molecules and atoms in a microwave laser field. Our calculations show
+   that inelastic relaxation of molecules in a microwave cavity may occur
+   through collision-induced absorption of photons stimulated by the
+   anisotropy of the atom-molecule interaction potential. Our results
+   indicate that molecular collisions at temperatures below 1 K can be
+   efficiently manipulated with microwave laser fields of moderate
+   strength.},
+DOI = {10.1103/PhysRevA.79.060703},
+Article-Number = {060703},
+ISSN = {1050-2947},
+Times-Cited = {6},
+Journal-ISO = {Phys. Rev. A},
+Unique-ID = {ISI:000267700100012},
+}
+
+@article{ 09Kaxxxx.CaH,
+Author = {Kajita, Masatoshi},
+Title = {Sensitive measurement of m(p)/m(e) variance using vibrational transition
+   frequencies of cold molecules},
+Journal = NJP,
+Year = {2009},
+Volume = {11},
+Month = {MAY 14},
+Abstract = {The pure vibrational transition frequencies of magnetically trapped cold
+   XH molecules are useful to detect the variance in the proton-to-electron
+   mass ratio beta (X: alkali-earth atom). This paper compares the buffer
+   gas cooling efficiency and accuracies of the vibrational transition
+   frequencies for different XH molecules. (9)BeH transition appears most
+   advantageous for the detection of variance in beta.},
+DOI = {10.1088/1367-2630/11/5/055010},
+Article-Number = {055010},
+ISSN = {1367-2630},
+Times-Cited = {5},
+Journal-ISO = {New J. Phys.},
+Unique-ID = {ISI:000266234500001},
+}
+
+@article{ 09LeFrxx.CaH,
+Author = {Lemeshko, Mikhail and Friedrich, Bretislav},
+Title = {Collisions of paramagnetic molecules in magnetic fields: An analytic
+   model based on Fraunhofer diffraction of matter waves},
+Journal = PRA,
+Year = {2009},
+Volume = {79},
+Number = {1},
+Month = {JAN},
+Abstract = {We investigate the effects of a magnetic field on the dynamics of
+   rotationally inelastic collisions of open-shell molecules ((2)Sigma,
+   (3)Sigma, and (2)Pi) with closed-shell atoms. Our treatment makes use of
+   the Fraunhofer model of matter wave scattering and its recent extension
+   to collisions in electric {[}M. Lemeshko and B. Friedrich, J. Chem.
+   Phys. 129, 024301 (2008)] and radiative fields {[}M. Lemeshko and B.
+   Friedrich, Int. J. Mass. Spec. 280, 19 (2009)]. A magnetic field aligns
+   the molecule in the space-fixed frame and thereby alters the effective
+   shape of the diffraction target. This significantly affects the
+   differential and integral scattering cross sections. We exemplify our
+   treatment by evaluating the magnetic-field-dependent scattering
+   characteristics of the He-CaH (X (2)Sigma(+)), He-O(2) (X (3)Sigma(-)),
+   and He-OH (X (2)Pi(Omega)) systems at thermal collision energies. Since
+   the cross sections can be obtained for different orientations of the
+   magnetic field with respect to the relative velocity vector, the model
+   also offers predictions about the frontal-versus-lateral steric
+   asymmetry of the collisions. The steric asymmetry is found to be almost
+   negligible for the He-OH system, weak for the He-CaH collisions, and
+   strong for the He-O(2). While odd Delta M transitions dominate the He-OH
+   {[}J=3/2,f -> J('),e/f] integral cross sections in a magnetic field
+   parallel to the relative velocity vector, even Delta M transitions
+   prevail in the case of the He-CaH (X(2)Sigma(+)) and He-O(2) (X
+   (3)Sigma(-)) collision systems. For the latter system, the magnetic
+   field opens inelastic channels that are closed in the absence of the
+   field. These involve the transitions N=1,J=0 -> N('), J(') with
+   J(')=N(').},
+DOI = {10.1103/PhysRevA.79.012718},
+Article-Number = {012718},
+ISSN = {1050-2947},
+Times-Cited = {5},
+Journal-ISO = {Phys. Rev. A},
+Unique-ID = {ISI:000262979000099},
+}
+
+@article{ 09ShSoMe.CaH,
+Author = {Shafizadeh, Niloufar and Soep, Benoit and Mestdagh, Jean Michel and
+   Breckenridge, W. H.},
+Title = {Charge transfer in metal-atom-containing molecules in the gas phase},
+Journal = {INTERNATIONAL REVIEWS IN PHYSICAL CHEMISTRY},
+Year = {2009},
+Volume = {28},
+Number = {3},
+Pages = {359-406},
+Abstract = {The presence of charge transfer (CT) is ubiquitous in
+   metal-atom-containing molecules in the gas phase. The states of interest
+   range from ground states to the lower excited states, given the
+   generally low ionisation potentials of metal atoms. This review is
+   written from an experimentalist's perspective, to describe the specifics
+   of CT states in stable molecules containing a metal atom or of transient
+   CT states in dynamical processes. The large body of experimental
+   evidence allows the description of such states in an empirical or
+   semi-empirical manner, including partial point charges and polarised
+   electron clouds on the ions. These simple models are compared with more
+   quantitative models, allowing the development of sophisticated
+   descriptions. The simple perspective deriving from experimental evidence
+   is justified, when it is possible via accurate quantum calculations and
+   allows building a rather complete framework for the ionic bond or
+   CT-induced dynamics.},
+DOI = {10.1080/01442350903052663},
+ISSN = {0144-235X},
+Times-Cited = {3},
+Journal-ISO = {Int. Rev. Phys. Chem.},
+Unique-ID = {ISI:000270737100001},
+}
+
+@article{ 08ChStTi.CaH,
+Author = {Chen, Jinhai and Steimle, Timothy C.},
+Title = {The permanent electric dipole moment of calcium monodeuteride},
+Journal = JCP,
+Year = {2008},
+Volume = {128},
+Number = {14},
+Month = {APR 14},
+Abstract = {The sub-Doppler laser induced fluorescence spectra of numerous branch
+   features in the B (2)Sigma(+) - X (2)Sigma(+)(0, 0) band of calcium
+   monodeuteride were recorded field-free and in the presence of a static
+   electric field of up to 7 kV/cm. The field-free spectra were analyzed to
+   produce an improved set of fine structure parameters for the B
+   (2)Sigma(+)(v = 0) state. The observed electric field induced splittings
+   and shifts were analyzed to produce permanent electric dipole moments of
+   2.57(3) -and 2.51(3) D for B (2)Sigma(+)(v = 0) and X (2)Sigma(+)(v = 0)
+   states, respectively. The permanent electric dipole moment for the X
+   (2)Sigma(+)(v = 0) state of CaH is estimated to be 2.53(3) D. (C) 2008
+   American Institute of Physics.},
+DOI = {10.1063/1.2899651},
+Article-Number = {144312},
+ISSN = {0021-9606},
+Times-Cited = {2},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000255470300034},
+}
+
+@article{ 08MiZhxx.CaH,
+Author = {Mitroya, J. and Zhang, J. -Y.},
+Title = {Properties and long range interactions of the calcium atom},
+Journal = JCP,
+Year = {2008},
+Volume = {128},
+Number = {13},
+Month = {APR 7},
+Abstract = {The properties of a number of states of calcium are determined from a
+   large basis configuration interaction calculation. The main focus is on
+   the polarizabilities of the low lying states (the 4s(2) (1)S(e), 4s3d
+   (1,3)D(e), 4s4p (1,3)P(o), and 4s5s (1,3)S(e) states) and the dispersion
+   interactions of those states with the calcium ground state, the hydrogen
+   atom, and the rare gases. (C) 2008 American Institute of Physics.},
+DOI = {10.1063/1.2841470},
+Article-Number = {134305},
+ISSN = {0021-9606},
+Times-Cited = {8},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000254778800016},
+}
+
+@article{ 08Kaxxxx.CaH,
+Author = {Kajita, Masatoshi},
+Title = {Prospects of detecting m(e)/m(p) variance using vibrational transition
+   frequencies of (2)Sigma-state molecules},
+Journal = PRA,
+Year = {2008},
+Volume = {77},
+Number = {1},
+Month = {JAN},
+Abstract = {This paper discusses the possibility of measuring the variance in the
+   electron-to-proton mass ratio beta using the vertical bar X (2)Sigma,
+   n(v)=0, N=0, J=1/2, F=1, M(F)=1 >->vertical bar X (2)Sigma, n(v)=1 or 2,
+   N=0, J=1/2, F=1,M(F)=1 > transition frequencies of magnetically trapped
+   cold (24)MgH or (40)CaH molecules. The uncertainty in this transition
+   frequency can potentially be lower than 10(-15), which makes it possible
+   to measure the variance in beta. The (24)MgH transition is more
+   advantageous for measurement than the (40)CaH transition, because of the
+   lower collision-loss rate, light shift, and collision shift.},
+DOI = {10.1103/PhysRevA.77.012511},
+Article-Number = {012511},
+ISSN = {1050-2947},
+Times-Cited = {13},
+Journal-ISO = {Phys. Rev. A},
+Unique-ID = {ISI:000252862000082},
+}
+
+@article{ 07ReHoHa.CaH,
+Author = {Reiners, A. and Homeier, D. and Hauschildt, P. H. and Allard, F.},
+Title = {A high resolution spectral atlas of brown dwarfs},
+Journal = AA,
+Year = {2007},
+Volume = {473},
+Number = {1},
+Pages = {245-255},
+Month = {OCT},
+Abstract = {We present a UVES/VLT high resolution atlas of three L dwarfs and one T
+   dwarf system, spectral classes at which most of the objects are brown
+   dwarfs. Our atlas covers the optical region from Ha up to the near
+   infrared at 1 mu m. We present spectral details of ultra-cool
+   atmospheres at very high resolution ( R similar to 33 000) and compare
+   the spectra to model calculations. Our comparison shows that molecular
+   features from VO and CaH, and atomic features from Cs and Rb are
+   reasonably well fit by current models. On the other hand, features due
+   to TiO, CrH, and water, and atomic Na and K reveal large discrepancies
+   between model calculations and our observations.},
+DOI = {10.1051/0004-6361:20077963},
+ISSN = {0004-6361},
+Times-Cited = {9},
+Journal-ISO = {Astron. Astrophys.},
+Unique-ID = {ISI:000249957800027},
+}
+
+@article{ 07AbTsKr.CaH,
+Author = {Abrahamsson, E. and Tscherbul, T. V. and Krems, R. V.},
+Title = {Inelastic collisions of cold polar molecules in nonparallel electric and
+   magnetic fields},
+Journal = JCP,
+Year = {2007},
+Volume = {127},
+Number = {4},
+Month = {JUL 28},
+Abstract = {The authors present a detailed study of low-temperature collisions
+   between CaD molecules and He atoms in superimposed electric and magnetic
+   fields with arbitrary orientations. Electric fields do not interact with
+   the electron spin of the molecules directly but modify their rotational
+   structure and, consequently, the spin-rotation interactions. The authors
+   examine molecular Stark and Zeeman energy levels as functions of the
+   angle between the fields and show that rotating fields may induce and
+   shift avoided crossings between the Zeeman levels of the rotationally
+   ground and rotationally excited states of the molecule. The dynamics of
+   molecular collisions are extremely sensitive to external fields near
+   these avoided crossings and it is shown that molecular collisions may be
+   controlled by varying both the strength and the relative orientation of
+   the fields. The effects observed in this study are due to interactions
+   of the isolated molecules with external fields so the conclusions should
+   be relevant for collisions of molecules with other atoms or collisions
+   of molecules with each other. This study demonstrates that electric
+   fields may be used to enhance or suppress spin-rotation interactions in
+   molecules. The spin-rotation interactions induce nonadiabatic couplings
+   between states of different total spins in systems of two open-shell
+   species and it is suggested that electric fields might be used for
+   controlling nonadiabatic spin transitions and spin-forbidden chemical
+   reactions of cold molecules in a magnetic trap. (C) 2007 American
+   Institute of Physics.},
+DOI = {10.1063/1.2748770},
+Article-Number = {044302},
+ISSN = {0021-9606},
+Times-Cited = {12},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000248485900013},
+}
+
+@article{ 06BeFlRa.CaH,
+Author = {Berdyugina, S. V. and Fluri, D. M. and Ramelli, R. and Bianda, M. and
+   Gisler, D. and Stenflo, J. O.},
+Title = {First polarimetric measurements and modeling of the Paschen-Back effect
+   in CaH transitions},
+Journal = APJ,
+Year = {2006},
+Volume = {649},
+Number = {1, Part 2},
+Pages = {L49-L52},
+Month = {SEP 20},
+Abstract = {We report the first spectropolarimetric observations and modeling of CaH
+   transitions in sunspots. We have detected strong polarization signals in
+   many CaH lines from the A-X system, and we provide the first successful
+   fit to the observed Stokes profiles using the previously developed
+   theory of the Paschen-Back effect in arbitrary electronic states of
+   diatomic molecules and polarized radiative transfer in molecular lines
+   in stellar atmospheres. We analyze the CaH Stokes profiles together with
+   quasi-simultaneous observations in TiO bands and conclude that CaH
+   provides a valuable diagnostic of magnetic fields in sunspots,
+   starspots, cool stars, and brown dwarfs.},
+DOI = {10.1086/508159},
+ISSN = {0004-637X},
+Times-Cited = {3},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:000240655100013},
+}
+
+@article{ 06DuOuNo.CaH,
+Author = {Dutta, C M and Oubre, C and Nordlander, P and Kimura, M and Dalgarno, A},
+Title = {Charge-transfer cross sections in collisions of ground-state Ca and H+},
+Journal = PRA,
+Year = {2006},
+Volume = {73},
+Number = {3},
+Month = {MAR},
+Abstract = {We have investigated collisions of Ca(4s(2)) with H+ in the energy range
+   of 200 eV/u-10 keV/u using the semiclassical molecular-orbital
+   close-coupling (MOCC) method with 18 coupled molecular states (11
+   (1)Sigma(+) and seven (1)Pi(+) states) to determine charge-transfer
+   cross sections. Except for the incoming channel 6 (1)Sigma(+), the
+   molecular states all correspond to charge-transfer channels. Inclusion
+   of Ca2+-H- is crucial in the configuration-interaction calculation for
+   generating the molecular wave functions and potentials. Because of the
+   Coulomb attraction, the state separating to Ca2+-H- creates many avoided
+   crossings, even though at infinite separation it lies energetically
+   above all other states that we included. Because of the avoided
+   crossings between the incoming channel 6 (1)Sigma(+) and the
+   energetically close charge-transfer channel 7 (1)Sigma(+) the
+   charge-transfer interaction occurs at long range. This makes
+   calculations of charge-transfer cross sections by the MOCC method very
+   challenging. The total charge-transfer cross sections increase
+   monotonically from 3.4x10(-15) cm(2) at 200 eV/u to 4.5x10(-15) cm(2) at
+   10 keV/u. Charge transfer occurs mostly to the excited Ca+(5p) state in
+   the entire energy range, which is the sum of the charge transfer to 7
+   (1)Sigma(+) and 4 (1)Pi(+). It accounts for similar to 47\% of the total
+   charge transfer cross sections at 200 eV/u. However, as the energy
+   increases, transfer to Ca+(4d) increases, and at 10 keV/u the
+   charge-transfer cross sections for Ca+(5p) and Ca+(4d) become
+   comparable, each giving similar to 38\% of the total cross section.},
+DOI = {10.1103/PhysRevA.73.032714},
+Article-Number = {032714},
+ISSN = {1050-2947},
+Times-Cited = {0},
+Journal-ISO = {Phys. Rev. A},
+Unique-ID = {ISI:000236467500100},
+}
+
+@article{ 06ChHsCh.CaH,
+Author = {Chen, L and Hsiao, M K and Chang, Y L and Lin, K C},
+Title = {Reaction dynamics of Ca(4s3d(1)D(2))+CH4 -> CaH(X-2 Sigma(+))+CH3:
+   Reaction pathway and energy disposal for the CaH product},
+Journal = JCP,
+Year = {2006},
+Volume = {124},
+Number = {2},
+Month = {JAN 14},
+Abstract = {The reaction pathway for Ca(4s3d D-1(2))+CH4-> CaH(X (2)Sigma(+))+CH3
+   has been investigated by using a pump-probe technique in combination
+   with potential-energy surface (PES) calculations. The nascent product
+   distributions of CaH have been characterized with Boltzmann rotational
+   temperatures of 1013 +/- 102 and 834 +/- 70 K for the v=0 and 1 levels,
+   respectively, and a Boltzmann vibrational temperature of 1313 +/- 173 K.
+   The rotational and vibrational energy partitions in CaH have been
+   estimated to be 461 +/- 45 and 252 +/- 15 cm(-1), respectively.
+   According to the PES calculations, the pathway favors an insertion
+   mechanism. Ca(3 D-1(2)) approaches CH4 along an attractive potential
+   surface in a C-2v (or C-s) symmetry and then the collision complex
+   undergoes nonadiabatic transition to the reactive ground-state surface.
+   An Arrhenius plot shows a potential-energy requirement of 2695 +/- 149
+   cm(-1), which accounts for the endothermicity of 2930 cm(-1) for the
+   reaction scheme. The Ca-C bond distance in the transition state
+   structure is short enough to allow for tight orbital overlap between CaH
+   and CH3. The strong coupling between the moieties renders the energy
+   transfer sufficient from CaH into the CH3 radical. As compared to the
+   Ca(4 P-1(1)) reaction, the dissociation lifetime of the intermediate
+   complex with less excess energy is prolonged so as to cause much less
+   vibrational energy disposal into CaH. (c) 2006 American Institute of
+   Physics.},
+DOI = {10.1063/1.2139092},
+Article-Number = {024304},
+ISSN = {0021-9606},
+Times-Cited = {2},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000234607700021},
+}
+
+@article{ 05HaSuWi.CaH,
+Author = {Haworth, N L and Sullivan, M B and Wilson, A K and Martin, J M L and Radom, L},
+Title = {Structures and thermochemistry of calcium-containing molecules},
+Journal = JPCA,
+Year = {2005},
+Volume = {109},
+Number = {40},
+Pages = {9156-9168},
+Month = {OCT 13},
+Abstract = {A variety of theoretical procedures, including the high-level ab initio
+   methods G3, G3{[}CC](dir,full), and W2C//ACQ, have been used to predict
+   the structures and heats of formation of several small
+   calcium-containing molecules (CaH, CaH2, CaO, CaOH, Ca(OH)(2), CaF,
+   CaF2, CaS, CaCl, and CaCl2) B3-LYP and CCSD(T) with both the
+   (aug-)cc-pWCVQZ and (aug-)cc-pWCVQ+dZ basis sets are found to give
+   molecular geometries that agree well with the experimental results. The
+   CCSD(T)(riv)/(aug-)cc-pWCVQ+dZ results are found to be the most
+   accurate, with a mean absolute deviation from experiment of just 0.008
+   angstrom. Zero-point vibrational energies (ZPVEs) and thermochemical
+   corrections are found to be relatively insensitive to the level of
+   theory, except in the case of molecules with highly anharmonic
+   calcium-centered bending modes (CaH2, Ca(OH)(2), CaF2, CaCl2), where
+   special procedures need to be employed in order to obtain satisfactory
+   results. Several potential improvements to the W2C method were
+   investigated, most of which do not produce significant changes in the
+   heats of formation. It was observed, however, that for CaO and CaS the
+   scalar relativistic corrections are unexpectedly large and highly basis
+   set dependent. In these cases, Douglas-Kroll CCSD(T)/(aug-)cc-pWCV5Z
+   calculations appear to give a converged result. The G3{[}CC](dir,full)
+   and best W2C-type heats of formation are both found generally to agree
+   well with experimental values recommended in recent critical compendia.
+   However, in some cases (CaO, Ca(OH)(2), and CaF2), they differ from one
+   another by more than their predicted error margins. The available
+   experimental data are not sufficiently precise to distinguish
+   definitively between the two sets of results although, in general, when
+   discrepancies exist the W2C heats of formation are lower in energy and
+   tend to be in better agreement with experiment. In the case of CaCl, the
+   W2C heat of formation (20.7 kJ mol(-1)) is similar to 20 kJ mol(-1)
+   lower than the G3{[}CC](dir, full) result and most of the experimental
+   data. Extensive investigation of possible refinements of the W2C method
+   has failed to reveal any weaknesses that could account for this
+   discrepancy. We therefore believe that the heat of formation of CaO is
+   likely to lie closer to the more recent direct experimental
+   determination of 27 kJ mol(-1) than to the value of similar to 40 kJ
+   mol(-1) recommended in recent thermochemical reviews.},
+DOI = {10.1021/jp052889h},
+ISSN = {1089-5639},
+Times-Cited = {6},
+Journal-ISO = {J. Phys. Chem. A},
+Unique-ID = {ISI:000232482400029},
+}
+
+@article{ 05ChChHs.CaH,
+Author = {Chang, Y L and Chen, L and Hsiao, M K and Chen, J J and Lin, K C},
+Title = {Reaction pathway for the nonadiabatic reaction of Ca(4s3d D-1)+H-2 ->
+   CaH(X (2)Sigma(+))+H},
+Journal = JCP,
+Year = {2005},
+Volume = {122},
+Number = {8},
+Month = {FEB 22},
+Abstract = {The reaction pathway and the nascent CaH product distribution in the
+   reaction Ca(4s3d D-1)+H-2-->CaH(X(2)Sigma(+))+H are obtained using a
+   pump-probe technique. The Ca atom is first prepared in the 3 D-1 state
+   by a two-photon absorption, and then in brief time delay the
+   laser-induced fluorescence of the reaction product CaH is monitored. The
+   CaH(v=0,1) distributions appear to be single peaked, as characterized by
+   Boltzmann rotational temperature of 807+/-38 K (v=0) and 684+/-77 K
+   (v=1). The vibrational population ratio of CaH(v=0)/CaH(v=1) is
+   determined to be 3.3+/-0.1, while the v=2 population is not detectable.
+   The fractions of the available energy partitioning into rotation,
+   vibration, and translation are estimated to be 0.36+/-0.05, 0.28+/-0.04,
+   and 0.36+/-0.05, respectively. With the aid of the potential energy
+   surfaces calculations, the current reaction should favor a near C-2v
+   collision configuration. The temperature dependence measurement yields a
+   positive slope, indicative of the reaction occurrence without any
+   potential barrier. The colliding species are anticipated to follow an
+   attractive 1B(2) (or 2A(')) surface and then transit nonadiabatically to
+   the reactive ground state surface. (C) 2005 American Institute of
+   Physics.},
+DOI = {10.1063/1.1850463},
+Article-Number = {084315},
+ISSN = {0021-9606},
+Times-Cited = {3},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000227372200037},
+}
+
+@article{ 04Dixxxx.CaH,
+Author = {Di Rosa, M D},
+Title = {Laser-cooling molecules - Concept, candidates, and supporting
+   hyperfine-resolved measurements of rotational lines in the A-X(0,0) band
+   of CaH},
+Journal = EPJD,
+Year = {2004},
+Volume = {31},
+Number = {2},
+Pages = {395-402},
+Month = {NOV},
+Abstract = {Certain molecules, it seems, may be laser cooled by methods technically
+   similar to those applied with abundant success in atomic. physics. We
+   discuss the spectroscopic criteria molecules should meet to make methods
+   of Doppler cooling technically feasible and identify diatomic
+   candidates. Some candidates, such as the alkaline-earth monohydrides
+   (e.g. BeH and CaH), are paramagnetic and amenable to magneto-optical
+   trapping. Our experimental study concentrates on CaH, and we present our
+   recent high-resolution, molecular-beam-based measurements of low-J
+   rotational lines within the A-X (0,0) band of CaH. From these
+   measurements we report hyperfine separations in the A-state, as
+   important to laser-cooling spectroscopy, and centroidal transition
+   frequencies for comparison with existing values. We conclude with an
+   outline of a possible magneto-optical trap for CaH.},
+DOI = {10.1140/epjd/e2004-00167-2},
+ISSN = {1434-6060},
+Times-Cited = {32},
+Journal-ISO = {Eur. Phys. J. D},
+Unique-ID = {ISI:000225933600024},
+}
+
+@article{ 04ShWaGo.CaH,
+Author = {Shayesteh, A and Walker, K A and Gordon, I and Appadoo, D R T and Bernath,
+   P F},
+Title = {New Fourier transform infrared emission spectra of CaH and SrH: combined
+   isotopomer analyses with CaD and SrD},
+Journal = THEOCHEM,
+Year = {2004},
+Volume = {695},
+Number = {SI},
+Pages = {23-37},
+Month = {JUN 30},
+Abstract = {In a search for the infrared spectra of gaseous CaH2 and SrH2, we
+   obtained new Fourier transform infrared emission spectra of CaH and SrH,
+   but no evidence of the metal dihydrides. The vibration-rotation bands
+   from v = 1 --> 0 to v = 4 --> 3 of (CaH)-Ca-40 and (SrH)-Sr-88, and the
+   v = 1 --> 0 band of (SrH)-Sr-87 and (SrH)-Sr-86 were observed in the
+   X-2-->Sigma(+) ground electronic states. The new data were combined with
+   the previous ground state data, obtained from diode laser infrared and
+   pure rotational spectra, and the spectroscopic constants for v = 0 to 4
+   of (CaH)-Ca-40 and 8 8 SrH were determined. In addition, the Dunham
+   constants and the Born -Oppenheimer breakdown correction parameters were
+   obtained using the previous ground state data for CaD and SrD in
+   combined isotopomer fits. The equilibrium vibrational constants
+   (omega(c)) for CaH and SrH were found to be 1298.400(1) and 1207.035(1)
+   cm(-1), respectively, while the equilibrium rotational constants (B-c)
+   are 4.277043(4) and 3.673495(4) cm(-1). The equilibrium bond distances
+   (r(c)) were determined to be 2.0023603(9) Angstrom for CaH and
+   2.1460574(10) Angstrom for SrH. (C) 2004 Elsevier B.V. All rights
+   reserved.},
+DOI = {10.1016/j.molstruc.2003.11.001},
+ISSN = {0022-2860},
+Times-Cited = {11},
+Journal-ISO = {J. Mol. Struct.},
+Unique-ID = {ISI:000221922000004},
+}
+
+@article{ 04StGeCh.CaH,
+Author = {Steimle, T C and Gengler, J and Chen, J H},
+Title = {A study of the A(2)Pi/B-2 Sigma(+)-X-2 Sigma(+) band systems of calcium
+   monohydride (CaH) using a supersonic molecular beam source and
+   laser-induced fluorescence detection},
+Journal = {CANADIAN JOURNAL OF CHEMISTRY-REVUE CANADIENNE DE CHIMIE},
+Year = {2004},
+Volume = {82},
+Number = {6},
+Pages = {779-790},
+Month = {JUN},
+Abstract = {The high-resolution laser-induced fluorescence spectrum of a molecular
+   beam sample of calcium monohydride (CaH) in the region of the strongly
+   overlapped (1,0) A(2)Pi - X(2)Sigma(+) and (0,0) B(2)Sigma(+) -
+   X(2)Sigma(+) band systems near 630 nm and the (0,0) A(2)Pi -
+   X(2)Sigma(+) band system near 690 nm have been recorded and analyzed.
+   The spectral features exhibit a small splitting that is attributed to
+   proton magnetic hyperfine interaction in the X(2)Sigma(+) (v = 0) state.
+   The energy levels of the A(2)Pi(v = 0) vibronic state were modeled using
+   a traditional ``effective{''} Hamiltonian approach, whereas those for
+   the interacting A(2)Pi(v = 1)/B(2)Sigma(+)(v = 0) vibronic levels were
+   modeled by augmenting the traditional effective Hamiltonian with terms
+   to account for local perturbations. An interpretation of the field-free
+   parameters is presented.},
+DOI = {10.1139/v04-077},
+ISSN = {0008-4042},
+Times-Cited = {22},
+Journal-ISO = {Can. J. Chem.-Rev. Can. Chim.},
+Unique-ID = {ISI:000224450700013},
+}
+
+@article{ 04KeBaSp.CaH,
+Author = {Kerkeni, B and Barklem, P S and Spielfiedel, A and Feautrier, N},
+Title = {Collisional broadening of Mg, Sr, Ca and Na resonance lines by atomic
+   hydrogen},
+Journal = JPB,
+Year = {2004},
+Volume = {37},
+Number = {3},
+Pages = {677-688},
+Month = {FEB 14},
+Abstract = {This paper compares different approaches used in the calculation of the
+   broadening of spectral lines by H-atom collisions. Firstly, the validity
+   of the semi-classical approach for the collision versus the quantum one
+   is discussed. It is shown that, at the temperatures typical of stellar
+   atmospheres (from 3000 to 10 000 K), a classical approach (with the
+   advantage of reduced computation times) is sufficient. The dependence of
+   the broadening constants on interatomic potentials is also studied. Two
+   different approaches were used to derive these potentials: in the first
+   approach, the interaction energy is determined by the usual methods of
+   quantum chemistry. The second approach, developed by Anstee, Barklem and
+   O'Mara (ABO potentials), is based on second-order perturbation theory.
+   In the case of Mg-H, a hybrid potential obtained from ab initio values
+   for the short distances and from the perturbation method in the
+   asymptotic region was also tested. The results for the Na resonance line
+   show that even significant differences in the potentials lead to
+   relatively small changes in the calculated widths. From the comparison
+   of the results for the Mg, Sr and Ca resonance lines, it appears that
+   ABO potentials give results of the order of 8-20\% smaller than results
+   from ab initio and hybrid potentials. This difference is attributed to
+   the presence of an avoided ionic crossing in the upper singlet Sigma
+   states that coincides roughly with the Weisskopf radius.},
+DOI = {10.1088/0953-4075/37/3/012},
+ISSN = {0953-4075},
+Times-Cited = {8},
+Journal-ISO = {J. Phys. B-At. Mol. Opt. Phys.},
+Unique-ID = {ISI:000221572300017},
+}
+
+@article{ 04SoChHs.CaH,
+Author = {Song, Y W and Chen, J J and Hsiao, M K and Lin, K C and Hung, Y M},
+Title = {Reaction pathway and potential barrier for the CaH product in the
+   reaction of Ca(4s4p P-1(1))+H-2 -> CaH(X (2)Sigma(+))+H},
+Journal = JCP,
+Year = {2004},
+Volume = {120},
+Number = {6},
+Pages = {2774-2779},
+Month = {FEB 8},
+Abstract = {The nascent CaH product in the reaction Ca(4s4p
+   P-1(1))+H-2-->CaH(X(2)Sigma(+))+H is obtained using a pump-probe
+   technique. The CaH(v=0,1) distributions, with a population ratio of
+   CaH(v=0)/CaH(v=1)=2.7+/-0.2, may be characterized by low Boltzmann
+   rotational temperature. According to Arrhenius theory, the temperature
+   dependence measurement yields a potential barrier of 3820+/-480 cm(-1)
+   for the current reaction. As a result of the potential energy surfaces
+   (PES) calculations, the reaction pathway favors a Ca insertion into the
+   H-2 bond along a (near) C-2v geometric approach. As the H-2 bond is
+   elongated, the configurational mixing between the orbital components of
+   the 4p and nearby low-lying 3d state with the same symmetry makes
+   significant the nonadiabatic transition between the 5A' and 2A' surface
+   in the repulsive limbs. Therefore, the collision species are anticipated
+   to track along the 5A' surface, then undergo nonadiabatic transition to
+   the inner limb of the 2A' surface, and finally cross to the reactive 1A'
+   surface. The observed energy barrier probably accounts for the energy
+   requirement to surmount the repulsive hill in the entrance. The findings
+   of the nascent CaH product distributions may be reasonably interpreted
+   from the nature of the intermediate structure and lifetime after the
+   2A'-1A' surface transition. The distinct product distributions between
+   the Ca(4(1)P(1)) and Mg(3(1)P(1)) reactions with H-2 may also be
+   realized with the aid of the PES calculations. (C) 2004 American
+   Institute of Physics.},
+DOI = {10.1063/1.1637588},
+ISSN = {0021-9606},
+Times-Cited = {4},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000188880500027},
+}
+
+@article{ 04KrDaxx.CaH,
+Author = {Krems, R V and Dalgarno, A},
+Title = {Quantum-mechanical theory of atom-molecule and molecular collisions in a
+   magnetic field: Spin depolarization},
+Journal = JCP,
+Year = {2004},
+Volume = {120},
+Number = {5},
+Pages = {2296-2307},
+Month = {FEB 1},
+Abstract = {A theory for quantum-mechanical calculations of cross sections for
+   atom-molecule and molecular collisions in a magnetic field is presented.
+   The formalism is based on the representation of the wave function as an
+   expansion in a fully uncoupled space-fixed basis. The systems considered
+   include S-1-atom-(2)Sigma-molecule, S-1-atom-(3)Sigma-molecule,
+   (2)Sigma-molecule-(2)Sigma-molecule, and
+   (3)Sigma-molecule-(3)Sigma-molecule. The theory is used to elucidate the
+   mechanisms for collisionally induced spin depolarization. (C) 2004
+   American Institute of Physics.},
+DOI = {10.1063/1.1636691},
+ISSN = {0021-9606},
+Times-Cited = {67},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000188498400025},
+}
+
+@article{ 04McKiMc.CaH,
+Author = {McGovern, M R and Kirkpatrick, J D and McLean, I S and Burgasser, A J and
+   Prato, L and Lowrance, P J},
+Title = {Identifying young brown dwarfs using gravity-sensitive spectral features},
+Journal = APJ,
+Year = {2004},
+Volume = {600},
+Number = {2, Part 1},
+Pages = {1020-1024},
+Month = {JAN 10},
+Abstract = {We report the initial results of the Brown Dwarf Spectroscopic Survey
+   Gravity Project to study gravity sensitive features as indicators of
+   youth in brown dwarfs. Low-resolution (R similar to 2000) J-band and
+   optical (R similar to 1000) observations using NIRSPEC and LRIS at the
+   W. M. Keck Observatory reveal transitions of TiO, VO, K I, Na I, Cs I,
+   Rb I, CaH, and FeH. By comparing these features in late-type giants and
+   in old field dwarfs, we show that they are sensitive to the gravity (g =
+   GM/R-2) of the object. Using low-gravity spectral signatures as age
+   indicators, we observed and analyzed J-band and optical spectra of two
+   young brown dwarfs, G196-3B (20-300 Myr) and KPNO Tau 4 (1-2 Myr) and
+   two possible low-mass brown dwarfs in the sigma Orionis cluster (3-7
+   Myr). We report the identification of the phi bands of TiO near 1.24 mum
+   and the A-X band of VO near 1.18 mum together with extremely weak J-band
+   lines of K I in KPNO Tau 4. This is the first detection of TiO and VO in
+   the J band in a substellar-mass object. The optical spectrum of KPNO Tau
+   4 exhibits weak K I and Na I lines, weak absorption by CaH, and strong
+   VO bands, also signatures of a lower gravity atmosphere. G196-3B shows
+   absorption features in both wavelength regions, like those of KPNO Tau
+   4, suggesting that its age and mass are at the lower end of published
+   estimates. Whereas sigma Ori 51 appears to be consistent with a young
+   substellar object, sigma Ori 47 shows signatures of high gravity most
+   closely resembling an old L1.5/L0 and cannot be a member of the sigma
+   Orionis cluster.},
+DOI = {10.1086/379849},
+ISSN = {0004-637X},
+Times-Cited = {74},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:000188657200044},
+}
+
+@article{ 03GaAlSk.CaH,
+Author = {Gasmi, K and Al-Tuwirqi, R M and Skowronek, S and Telle, H H and Urena, A G},
+Title = {Rotationally resolved (1+1 `) resonance-enhanced multiphoton ionization
+   (REMPI) of CaR (R = H, D) in supersonic beams: CaR X (2)Sigma(+) (v
+   `'=0) -> CaR{*} B (2)Sigma(+) (v `=0, 1) -> CaR+ X (1)Sigma(+)},
+Journal = JPCA,
+Year = {2003},
+Volume = {107},
+Number = {50},
+Pages = {10960-10968},
+Month = {DEC 18},
+Abstract = {We report on a laser-spectroscopic study of the CaH and CaD radicals in
+   a supersonic beam, generated in a reaction of laser-sputtered Ca atoms
+   and a pulsed beam of H-2 or D-2, seeded in helium. The rotational levels
+   of the electronic ground-state X (2)Sigma(+) (nu{''} = 0, N{''} less
+   than or equal to 10) were probed by two-color resonance ionization mass
+   spectrometry-(1 + 1') resonance-enhanced multiphonon ionization
+   (REMPI)-via the intermediate B (2)Sigma(+) (nu' = 0, 1) rovibronic
+   levels. Rotational constants for the B-state were derived, including the
+   spin splitting parameters gamma(nu)', which have been determined in the
+   case of CaD for the first time: gamma(0) = -0.409(7) cm(-1) and gamma(1)
+   = -0.398(8) cm(-1) for CaD (B (2)Sigma(+)), and gamma(0) = -0.792(15)
+   cm(-1) and gamma(1) = -0.765(16) cm(-1) for CaH (B (2)Sigma(+)). The
+   comparison between the rotational level energies of the F-1 and F-2 spin
+   substates of the two isotopomers revealed the onset of perturbation in
+   CaH B (2)Sigma(+) (nu' = 0), at N' congruent to 0, by the presence of
+   the vibronic state A (2)Pi (nu' = 1). Although this perturbation is
+   documented for nu' greater than or equal to 1, it had not been
+   previously recognized for nu' = 0. The rotational populations observed
+   in X (2)Sigma(+) (nu{''} = 0) for the two isotopomers could be
+   associated with different average rotational temperature values for CaD
+   and CaH: T-rot = 52 (+/- 7) and T-rot = 85 (+/- 11) K, respectively.},
+DOI = {10.1021/jp036351s},
+ISSN = {1089-5639},
+Times-Cited = {2},
+Journal-ISO = {J. Phys. Chem. A},
+Unique-ID = {ISI:000187279000015},
+}
+
+@article{ 03MaPexx.CaH,
+Author = {Magnusson, E and Petrie, S},
+Title = {Classical versus nonclassical covalent bonding between the metal hydride
+   radicals MH and M ` H-j (MH = HBe, HMg, HCa; M ` H-j = Li, BeH, BH2, Na,
+   MgH, AlH2, K, CaH, GaH2)},
+Journal = JPCA,
+Year = {2003},
+Volume = {107},
+Number = {35},
+Pages = {6882-6890},
+Month = {SEP 4},
+Abstract = {We report structures, bond strengths, and relative energies for all
+   apparent minima on the B3LYP/6-311+G{*}{*} potential energy surfaces of
+   the main group compounds {[}MHj+lM'] formed between the first three
+   metal hydride radicals of group 2 (MH) and the first three metal hydride
+   radicals of groups 1, 2, and 13 (M'H-j). Relative energies and bond
+   strengths at the G2(MP2)thaw level of theory, using the
+   B3-LYP/6-311+G{*}{*} optimized geometries, have also been obtained: the
+   G2(MP2)thaw values conform closely to the B3-LYP results. Significant
+   structural trends identified include the characterization of at least
+   one competing ``nonclassical{''} isomer for each of the 24 classical
+   HM-M'H-j structural formulas, an increasing preference for nonclassical
+   rather than classical bonding as M is switched from Be to Mg to Ca, and
+   an increased tendency toward stability of unorthodox structures as M'
+   progresses from group 1 to 2 to 13. An exploration of the factors
+   underpinning bond formation between M and M', focusing particularly on
+   the three {[}CaHNa] isomers we have located, has been undertaken using
+   the atoms-in-molecules (AIM) computational method. Although our AIM
+   calculations confirm that the metal-metal bonds are largely covalent in
+   character, some aspects of the bonding remain mysterious. Prospects for
+   experimental investigation of polymorphism, via matrix isolation or
+   other techniques, appear to be particularly promising for {[}MgH2Ca],
+   for which four distinct structural isomers are separated by only
+   approximately 30 kJ mol(-1).},
+DOI = {10.1021/jp0351526},
+ISSN = {1089-5639},
+Times-Cited = {0},
+Journal-ISO = {J. Phys. Chem. A},
+Unique-ID = {ISI:000185034600018},
+}
+
+@article{ 03BuKiLe.CaH,
+Author = {Burgasser, A J and Kirkpatrick, J D and Liebert, J and Burrows, A},
+Title = {The spectra of T dwarfs. II. Red optical data},
+Journal = APJ,
+Year = {2003},
+Volume = {594},
+Number = {1, Part 1},
+Pages = {510-524},
+Month = {SEP 1},
+Abstract = {We present 6300-10100 Angstrom spectra for a sample of 13 T dwarfs
+   observed using LRIS mounted on the Keck I 10 m Telescope. A variety of
+   features are identified and analyzed, including pressure-broadened K I
+   and Na I doublets; narrow Cs I and Rb I lines; weak CaH, CrH, and FeH
+   bands; strong H(2)O absorption; and a possible weak CH(4) band. Halpha
+   emission is detected in three of the T dwarfs, strong in the previously
+   reported active T dwarf 2MASS 1237+6526 and weak in SDSS 1254-0122 and
+   2MASS 1047+2124. None of the T dwarfs exhibit Li I absorption. Guided by
+   the evolution of optical spectral features with near-infrared spectral
+   type, we derive a parallel optical classification scheme, focusing on
+   spectral types T5 to T8, anchored to select spectral standards. We find
+   general agreement between optical and near-infrared types for nearly all
+   the T dwarfs so far observed, including two earlier type T dwarfs,
+   within our classification uncertainties (similar to1 subtype). These
+   results suggest that competing gravity and temperature effects
+   compensate for each other over the 0.6-2.5 mum spectral region. We
+   identify one possible means of disentangling these effects by comparing
+   the strength of the K I red wing to the 9250 Angstrom H(2)O band. One of
+   our objects, 2MASS 0937+2931, exhibits a peculiar spectrum with a
+   substantial red slope and relatively strong FeH absorption, both
+   consequences of a metal-deficient atmosphere. On the basis of its
+   near-infrared properties and substantial space motion, this object may
+   be a thick disk or halo brown dwarf.},
+DOI = {10.1086/376756},
+ISSN = {0004-637X},
+Times-Cited = {69},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:000185087400041},
+}
+
+@article{ 03KrDaBa.CaH,
+Author = {Krems, R V and Dalgarno, A and Balakrishnan, N and Groenenboom, G C},
+Title = {Spin-flipping transitions in (2)Sigma molecules induced by collisions
+   with structureless atoms},
+Journal = PRA,
+Year = {2003},
+Volume = {67},
+Number = {6},
+Month = {JUN},
+Abstract = {It is shown that spin-flipping transitions in low energy collisions of
+   (2)Sigma diatomic molecules in the lowest rotational N=0 level with
+   structureless atoms proceed through coupling to the rotationally excited
+   N>0 levels, and are determined by the spin-rotation interaction in the
+   rotationally excited molecule. We carry out calculations for collisions
+   of CaH and He-3. For the spin-flip rate coefficient corresponding to an
+   interaction potential that does not generate a shape resonance, we
+   obtain 1.20x10(-17) cm(3) s(-1) at a temperature of 0.4 K consistent
+   with the measured value of 10(-17+/-1) cm(3) s(-1). We make predictions
+   as to which molecules should have the least probability of spin-flipping
+   in collisions with atoms.},
+DOI = {10.1103/PhysRevA.67.060703},
+Article-Number = {060703},
+ISSN = {1050-2947},
+Times-Cited = {37},
+Journal-ISO = {Phys. Rev. A},
+Unique-ID = {ISI:000183915200007},
+}
+
+@article{ 03GrBaxx.CaH,
+Author = {Groenenboom, G C and Balakrishnan, N},
+Title = {The He-CaH ((2)Sigma(+)) interaction. I. Three-dimensional ab initio
+   potential energy surface},
+Journal = JCP,
+Year = {2003},
+Volume = {118},
+Number = {16},
+Pages = {7380-7385},
+Month = {APR 22},
+Abstract = {The interaction potential of the He-CaH((2)Sigma(+)) van der Waals
+   complex is computed with the partially spin-restricted open-shell single
+   and double excitation coupled cluster method with perturbative triples
+   {[}RCCSD(T)] for more than 3700 geometries. An accurate fit of the
+   three-dimensional potential is made available for the RCCSD as well as
+   the RCCSD(T) results. Also the CaH diatomic potential is calculated at
+   the RCCSD(T) level and shown to be very accurate by comparison of
+   computed vibrational levels and rotational constants to spectroscopic
+   data. In the accompanying paper the potentials are employed in a study
+   of collisions of He with CaH at cold and ultracold temperatures. (C)
+   2003 American Institute of Physics.},
+DOI = {10.1063/1.1562946},
+ISSN = {0021-9606},
+Times-Cited = {21},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000182157700026},
+}
+
+@article{ 03BaGrKr.CaH,
+Author = {Balakrishnan, N and Groenenboom, G C and Krems, R V and Dalgarno, A},
+Title = {The He-CaH((2)Sigma(+)) interaction. II. Collisions at cold and
+   ultracold temperatures},
+Journal = JCP,
+Year = {2003},
+Volume = {118},
+Number = {16},
+Pages = {7386-7393},
+Month = {APR 22},
+Abstract = {We present cross sections for rotational, vibrational, and
+   fine-structure transitions in He-CaH((2)Sigma) collisions at cold and
+   ultracold temperatures calculated using the ab initio potential energy
+   surface reported in the preceding paper. Rotational quenching is fast,
+   vibrational quenching is slow. The spin-rotational interaction, although
+   small and having no influence at temperatures above 10 K, changes
+   significantly the rate coefficients for rotational quenching at lower
+   temperatures. The theoretical rotational, vibrational, and elastic cross
+   sections are compared with the results of a buffer gas cooling
+   experiment carried out at a temperature of about 0.4 K. The theoretical
+   predictions for the vibrational and elastic cross sections are larger
+   than the measured values. The sensitivity to the potential energy
+   surface is explored. A modified surface diminishes but does not remove
+   the differences between theory and experiment. (C) 2003 American
+   Institute of Physics.},
+DOI = {10.1063/1.1562947},
+ISSN = {0021-9606},
+Times-Cited = {47},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000182157700027},
+}
+
+@article{ 03ChSoLi.CaH,
+Author = {Chen, J J and Song, Y W and Lin, K C and Hung, Y M},
+Title = {Reaction pathway and energy disposal of the CaH product in the reaction
+   of Ca(4s4p P-1(1))+CH4 -> CaH(X (2)Sigma(+))+CH3},
+Journal = JCP,
+Year = {2003},
+Volume = {118},
+Number = {11},
+Pages = {4938-4944},
+Month = {MAR 15},
+Abstract = {The reaction pathway for Ca(4s4p P-1(1))+CH4-->CaH(X (2)Sigma(+))+CH3
+   has been investigated by using the pump-probe technique in combination
+   with potential energy surface (PES) calculations. The nascent product
+   distributions of CaH have been found with a Boltzmann rotational
+   temperature of 988+/-66 and 864+/-75 K for the v=0 and 1 levels,
+   respectively, and a Boltzmann vibrational temperature of 1960+/-80 K.
+   The rotational and vibrational energy partitions in CaH have been
+   estimated to be 555+/-22 and 995+/-10 cm-1, respectively. According to
+   the PES calculations, the pathway is found to favor an insertion
+   mechanism. Ca(4 P-1(1)) approaches CH4 in C-2v or C-s symmetry and then
+   the collision complex may undergo a series of surface transitions to the
+   ground state surface with which the products correlate. The findings of
+   low rotation and high vibration for CaH may be interpreted from two
+   aspects. First, the Ca-C bond distance of the intermediate around the
+   surface crossing region is 2.7-2.8 Angstrom, close to the equilibrium
+   bond distance 2.349 Angstrom. The strong coupling of the moieties
+   renders the energy transfer sufficient from CaH into the CH3 radical.
+   Second, after the 2A(')-1 A(') surface transition, the HCaCH3
+   intermediate with a small excess energy may be energetically stabilized.
+   The long-lived collision complex may have enough time for energy
+   randomization prior to flying apart. (C) 2003 American Institute of
+   Physics.},
+DOI = {10.1063/1.1545107},
+ISSN = {0021-9606},
+Times-Cited = {4},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000181289000018},
+}
+
+@article{ 03BrGrxx.CaH,
+Author = {Bruna, P J and Grein, F},
+Title = {Hyperfine coupling constants, electron-spin g-factors and vertical
+   spectra of the X-2 Sigma(+) radicals BeH, MgH, CaH and BZ(+), AlZ(+),
+   GaZ(+) (Z = H, Li, Na, K). A theoretical study},
+Journal = PCCP,
+Year = {2003},
+Volume = {5},
+Number = {15},
+Pages = {3140-3153},
+Abstract = {Hyper. ne coupling constants (hfcc), electron-spin g-factors, excitation
+   energies ( DE) and oscillator strengths (f-values) are calculated for
+   the X(2)Sigma(+) (1sigma(2)2sigma) radicals YH (Y = Be, Mg, Ca) and
+   BZ(+), AlZ(+), GaZ(+) (Z = H, Li, Na, K). Single reference ab initio and
+   density functional theory methods are used for the hfcc's, and
+   multireference configuration interaction wavefunctions for DeltaE's,
+   f-values and g-shifts. In XZ(+) (X = B to Ga; Z = Li to K), the 2sigma
+   unpaired electron is 60-90\% p(sigma)(X), resulting in
+   \textbackslash{}A(perpendicular to)\textbackslash{} being one order of
+   magnitude larger than \textbackslash{}Ak(parallel to)\textbackslash{}.
+   The Deltag(perpendicular to)'s are relatively large for just 3 valence
+   electrons, from -3300 to -6100 ppm for BZ(+), -14 100 to -29 600 ppm for
+   AlZ(+), and -93 700 to -198 300 ppm for GaZ(+). Such large
+   Deltag(perpendicular to)(XZ(+))'s relate to the strong coupling between
+   the close-lying X(2)Sigma(+) and I(2)Pi(2sigma --> 1pi) states, which
+   results from the splitting of the P-2(s(2)p) state of X due to its
+   interaction with Z(+). ESR spectra are not available for any of the
+   XZ(+)'s. Calculation on the hydrides YH/XH+ reproduce well the
+   experimental hfcc's and g factors, except for AlH+, which appears to be
+   strongly perturbed in Ar matrices. Several transitions X(2)Sigma(+) -->
+   n(2)Sigma(+) and X(2)Sigma(+) --> n(2)Pi in XZ(+) have large oscillator
+   strengths, mainly caused by intramolecular charge-transfer processes X
+   <----> Z and atomic-like s(g) <----> p(u) excitations.},
+DOI = {10.1039/b303698g},
+ISSN = {1463-9076},
+Times-Cited = {11},
+Journal-ISO = {Phys. Chem. Chem. Phys.},
+Unique-ID = {ISI:000184186500009},
+}
+
+@article{ 02Kexxxx.CaH,
+Author = {Kerkeni, B},
+Title = {Depolarization rates of resonance lines of Mg, Ca, Sr and Na atoms by
+   collisions with neutral hydrogen},
+Journal = AA,
+Year = {2002},
+Volume = {390},
+Number = {2},
+Pages = {783-791},
+Month = {AUG},
+Abstract = {Multipole relaxation and transfer rates due to isotropic collisions with
+   neutral hydrogen atoms are calculated and a general expression for the
+   hyperfine-structured levels are obtained. Evaluation of these rates has
+   been carried out using accurate potential energy curves. The formulae
+   given here for the depolarizing collisional rates should be useful for
+   accurately modelling the complex linear polarization pattern of the Na I
+   doublet in a complement to the ground state's depolarizing collisional
+   rates which were presented in a previous paper (Kerkeni et al. 2000)
+   hereafter referred to as Paper I. Similarly the depolarizing collisional
+   rates of the Mg I, Ca I, Sr I resonance lines should be useful for
+   polarization studies.},
+DOI = {10.1051/0004-6361:20020754},
+ISSN = {0004-6361},
+Times-Cited = {9},
+Journal-ISO = {Astron. Astrophys.},
+Unique-ID = {ISI:000177116700034},
+}
+
+@article{ 02CaElNu.CaH,
+Author = {Carlsund-Levin, C and Elander, N and Nunez, A and Scrinzi, A},
+Title = {An exterior complex rotated coupled channel description of
+   predissociation in diatomic molecules applied to a model of the four
+   lowest (2)Sigma(+)-states in CaH},
+Journal = PS,
+Year = {2002},
+Volume = {65},
+Number = {4},
+Pages = {306-322},
+Month = {APR},
+Abstract = {The exterior complex rotated Coupled-Channel formulation of potential
+   scattering makes it possible to calculate energies and widths for a
+   non-adiabatic model of a diatomic molecule or quasimolecule, The
+   structure and decay pattern of a diatomic system is in this way
+   described in a non-perturbative way.
+   In this contribution we use the non-adiabatic form of an empirically
+   derived potential energy curve matrix, previously used by Martin, J.
+   Chem. Phys. 88, 1997 (1988) {[}1], for the four lowest
+   (2)Sigma(+)-states of the CaH radical to demonstrate how one can
+   calculate term positions as well as non-radiative decay widths in a
+   realistic case for a large range of rovibronic levels. The differences
+   between the previously derived Born-Oppenheimer term values {[}1] and
+   the present non-adiabatic results are discussed and compared with
+   previous work.},
+DOI = {10.1238/Physica.Regular.065a00306},
+ISSN = {0031-8949},
+Times-Cited = {3},
+Journal-ISO = {Phys. Scr.},
+Unique-ID = {ISI:000175278500004},
+}
+
+@article{ 02PeSkUr.CaH,
+Author = {Pereira, R and Skowronek, S and Urena, A G and Pardo, A and Poyato, J M L
+   and Pardo, A H},
+Title = {Rotationally resolved REMPI spectra of CaH in a molecular beam},
+Journal = JMS,
+Year = {2002},
+Volume = {212},
+Number = {1},
+Pages = {17-21},
+Month = {MAR},
+Abstract = {Rotationally resolved spectra of the Call radical using a supersonic
+   molecular beam are reported. Thus, high energy resolution of the (I +
+   l') REMPI spectra corresponding to the A <-- X and B <-- X electronic
+   transitions were measured which allowed for the first time a clear and
+   precise analysis of the low rotational part (J less than or equal to 7)
+   of the CaH spectrum. A comparison with previous studies revealed that
+   the commonly accepted energy separation between the two band heads of B
+   - X (nu' = 1, nu' = 0) of 10 cm(-1) is not correct. A value of ca. 1.6
+   cm(-1) was found to be more realistic. On the other hand, the present
+   study confirmed that the perturbation appears, only for nu' = 1, N' > 3
+   of the B state. (C) 2002 Elsevier Science (USA).},
+DOI = {10.1006/jmsp.2002.8531},
+ISSN = {0022-2852},
+Times-Cited = {7},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:000175772400003},
+}
+
+@article{ 02KiLeJe.CaH,
+Author = {Kim, K H and Lee, H S and Lee, Y S and Jeung, G H},
+Title = {Potential energy surfaces for the photochemical reactions Ca-{*}+H-2 ->
+   CaH+H},
+Journal = JCP,
+Year = {2002},
+Volume = {116},
+Number = {2},
+Pages = {589-593},
+Month = {JAN 8},
+Abstract = {Six (1)A(') potential energy surfaces of the Ca+H-2 system have been
+   calculated using an effective-core potential and a core-polarization
+   potential for Ca. Large configuration interactions were performed to
+   ensure accurate energies and wave functions. The 2 (1)A(') surface, made
+   from Ca(4s3d, D-1), has a very stable intermediate, and crosses with the
+   ground state (1 (1)A(')) potential energy surface in C-2v geometry. A
+   diabatic coupling between these two can result in the CaH product. Three
+   potential surfaces originating from Ca(4s3d, D-1) and two potential
+   surfaces originating from Ca(4s4p, P-1) are well separated at low energy
+   region, suggesting that the reaction product CaH from the Ca(4s4p, P-1)
+   state via nonadiabatic transition to the Ca(4s3d, D-1) surface is very
+   unlikely. Other possible routes of producing CaH from the Ca(4s4p, P-1)
+   state also appear quite improbable in the single collision process. The
+   wave function analysis does not show any sign of electron transfer from
+   the metal atom to the hydrogen molecule in the reactant stage, which
+   implies that the harpooning model does not apply to this reaction. (C)
+   2002 American Institute of Physics.},
+DOI = {10.1063/1.1425407},
+ISSN = {0021-9606},
+Times-Cited = {8},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000172926700015},
+}
+
+
+@article{ 00UrGoGo.CaH,
+Author = {Urena, F P and Gomez, M F and Gonzalez, J J L and Rajamanickam, N},
+Title = {Astrophysical molecules AlD and CaH: Transition probabilities and
+   dissociation energy},
+Journal = ASS,
+Year = {2000},
+Volume = {272},
+Number = {4},
+Pages = {345-352},
+Abstract = {The Franck-Condon (FC) factors and r-centroids for the bands system
+   C(1)Sigma(+) --> X(1)Sigma(+) of AlD and E(2)Pi --> X(2)Sigma(+) of CaH
+   have been evaluated by means of a reliable numerical integration
+   procedure by using a suitable potential. The dissociation energy, D-e,
+   for the electronic ground states of AlD and CaH have been estimated by
+   the curve fitting method to the RKRV experimental potential curve
+   turning out to be 3.01 eV and 2.32 eV, respectively.},
+ISSN = {0004-640X},
+Times-Cited = {16},
+Journal-ISO = {Astrophys. Space Sci.},
+Unique-ID = {ISI:000089142300004},
+}
+
+@article{ 99LiChNi.CaH,
+Author = {Liu, D K and Chen, J J and Nien, C F and Lin, K C},
+Title = {Nascent rotational distribution and energy disposal of the CaH product
+   in the reaction of Ca(4s4p P-1(1))+H-2 -> CaH(X (2)Sigma(+))+H},
+Journal = JCP,
+Year = {1999},
+Volume = {111},
+Number = {11},
+Pages = {5277-5278},
+Month = {SEP 15},
+DOI = {10.1063/1.479781},
+ISSN = {0021-9606},
+Times-Cited = {7},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000082402400047},
+}
+
+@article{ 99HeKuxx.CaH,
+Author = {Hefferlin, R and Kuznetsova, L A},
+Title = {Systematics of diatomic molecular transition moments},
+Journal = JQSRT,
+Year = {1999},
+Volume = {62},
+Number = {6},
+Pages = {765-774},
+Month = {AUG},
+Abstract = {Highly accurate intensity constants for bands in diatomic-molecular
+   spectra are now available in the RADEN data bank. This paper uses them
+   to improve earlier systematics of D({[}R]) for A-X and related (0, 0)
+   bands. The data are plotted to determine trends and wherever possible a
+   heuristic equation is used to smooth them. Isoelectronic, dimer,
+   hydride, and halide molecules are considered. Isoelectronic series
+   containing a total of 28 molecules are plotted on \textbackslash{}Z(1)
+   -Z(2)\textbackslash{}, the absolute difference of the atomic numbers of
+   the two atoms in the molecules. The data become rapidly larger as
+   rare-gas molecules are approached, behaving in a qualitative way like
+   the internuclear separation r(e). Dimers from periods R = 2 and 3 behave
+   similarly to each other, which is evidence for periodicity in diatomic
+   data. The ad hoc function D-0({[}R]) = 0.33 + 0.054cosh{[}1.5(C - 4.2)],
+   where 1 less than or equal to C less than or equal to 6 or 7 is the
+   group number of either atom, describes their behavior reasonably well (C
+   = 1, 2, 13,... 16 or 17 in the IUPAC scheme). For unipositive dimers,
+   D+({[}R]) = 0.25 + 0.016cosh{[}(1.5(C - 5)] tracks the behavior as well
+   but with one outlier (C-2(+)). 16 neutral hydride and 11 unipositive
+   hydride molecular data show clear periodicity when plotted versus Z(1) +
+   Z(2). The hydride data have nearly linear behavior, with increasing
+   slopes for R = 2-4, when plotted on a function suggested by the 1/Z
+   dependence of atomic oscillator strengths, with one major exception
+   (CaH). The function is F-0 = {[}1/(n(e1) + n(e2))] - 0.14, where n(ei)
+   is the valence-electron count in atom i. The unipositive hydride data
+   have close to linear behavior, with increasing slopes for R = 2 and 3,
+   when plotted on the similar function F+ = {[}1/(n(e1) + n(e2))] - 0.10,
+   also with one major exception (BeH+). Clearly evident trends for halide
+   molecules allow making qualitative estimates for two unknown transition
+   strengths. (C) 1999 Elsevier Science Ltd. All rights reserved.},
+DOI = {10.1016/S0022-4073(98)00128-9},
+ISSN = {0022-4073},
+Times-Cited = {1},
+Journal-ISO = JQSRT,
+Unique-ID = {ISI:000080292000009},
+}
+
+@article{ 99FrWeCa.CaH,
+Author = {Friedrich, B and Weinstein, J D and deCarvalho, R and Doyle, J M},
+Title = {Zeeman spectroscopy of CaH molecules in a magnetic trap},
+Journal = JCP,
+Year = {1999},
+Volume = {110},
+Number = {5},
+Pages = {2376-2383},
+Month = {FEB 1},
+Abstract = {In a recent experiment {[}Weinstein et al., Nature 395, 148 (1998)] we
+   magnetically trapped 10(8) ground-state calcium monohydride molecules,
+   CaH(X(2)Sigma,upsilon{''} = 0,J{''} = 0). The molecules were prepared by
+   laser ablation of a solid sample of CaH2 and loaded via thermalization
+   with a cold (< 1 K) He-3 buffer gas. The magnetic trap was formed by
+   superconducting coils arranged in the anti-Helmholtz configuration. The
+   detection was done by laser fluorescence spectroscopy excited at 635 nm
+   (in the B (2)Sigma, upsilon' = 0 - X (2)Sigma, upsilon{''} = 0 band) and
+   detected at 692 nm (within the B, upsilon' = 0 - X,upsilon{''} = 1 band
+   ). Both a photomultiplier tube and a CCD camera were used. Due to the
+   thermalization of molecular rotation, only a transition from the lowest
+   rotational state could be detected at zero field, N' = 1,J' = 3/2
+   <--N{''} = 0,J{''} = 1/2. In the magnetic field this rotational
+   transition splits into two features, one shifted towards lower and one
+   towards higher frequencies. The measured shifts are linear in field
+   strength and indicate a small difference (0.02 mu(B)) in the magnetic
+   moments between the ground and excited states. Here we present a
+   theoretical analysis of the observed magnetic shifts. These are
+   identified as arising from a rotational perturbation of the B
+   (2)Sigma,upsilon' = 0 state by a close-lying A (2)Pi,upsilon' = 1 state
+   that lends the B state some of its A character. We find that the
+   Hamiltonian can be well approximated by a 3 x 3 matrix built out of
+   elements that connect states from within the Sigma-doublet and the
+   (2)Pi(3/2) manifolds. The interaction parameter describing the Sigma-Pi
+   coupling in the Zeeman Hamiltonian is determined from the observed
+   shifts and the field-free molecular parameters of CaH given by Berg and
+   Klyning {[}Phys. Scr. 10, 331 (1974)] and by Martin {[}J. Mol. Spectrosc
+   108, 66 (1984)]. (C) 1999 American Institute of Physics.
+   {[}S0021-9606(99)00805-3].},
+DOI = {10.1063/1.477942},
+ISSN = {0021-9606},
+Times-Cited = {32},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000078276500009},
+}
+
+@article{ 98SaWhKa.CaH,
+Author = {Sakamoto, S and White, G J and Kawaguchi, K and Ohishi, M and Usuda, K S
+   and Hasegawa, T},
+Title = {A search for absorption of Mg and Ca compounds in molecular clouds
+   towards Galactic continuum sources},
+Journal = MNRAS,
+Year = {1998},
+Volume = {301},
+Number = {3},
+Pages = {872-880},
+Month = {DEC 11},
+Abstract = {Absorption lines of MgH and CaH N = 1 - 0 transitions were searched For
+   in foreground molecular clouds towards the continuum sources associated
+   with Sgr B2 (M) and W49A (N). None of these Lines was detected with our
+   sensitivity level of similar to 20 mK, Millimetric absorption lines of
+   MgO, MgOH, CaO and CaOH were also searched for towards Sgr B2 (M)
+   without success. The fractional abundances relative to molecular
+   hydrogen are less than or similar to 1.0 x 10(-11) for MgH, less than or
+   similar to 7.9 x 10(-13) for MgO, less than or similar to 1.6 x 10(-10)
+   for MgOH, less than or similar to 1.6 x 10(-9) for CaH, less than or
+   similar to 2.0 x 10(-12) for CaO, and less than or similar to 2.5 x
+   10(-10) for CaOH, respectively. The low abundances measured in
+   absorption indicate that a significant fraction of interstellar
+   magnesium and calcium cannot be tied up in their monohydrides, monoxides
+   and monohydroxides. The law abundance of MgH also implies that
+   grain-surface chemistry involving magnesium is not efficient and that
+   magnesium is depleted on to grains to a factor of greater than or
+   similar to 10(2.5) in well-shielded molecular clouds.},
+DOI = {10.1046/j.1365-8711.1998.02080.x},
+ISSN = {0035-8711},
+Times-Cited = {7},
+Journal-ISO = {Mon. Not. Roy. Astron. Soc.},
+Unique-ID = {ISI:000077716100023},
+}
+
+@article{ 98Uexxxx.CaH,
+Author = {Uehara, H},
+Title = {Dunham treatment including effects of the Born-Oppenheimer breakdown for
+   open-shell diatomic molecules in (2)Sigma states},
+Journal = JMS,
+Year = {1998},
+Volume = {192},
+Number = {2},
+Pages = {417-423},
+Month = {DEC},
+Abstract = {A Dunham treatment of an effective Hamiltonian for diatomic molecules in
+   (2)Sigma states that includes contributions of the Born-Oppenheimer
+   breakdown has yielded an expression for vibrational-rotational energy by
+   an expansion in powers of (nu + 1/2)(i) {[}N(N + l)](j-k)(N'/2)(k),
+   where N' is N for the J = N + 1/2 spin-doublet state and -(N + 1) for
+   the J = N - 1/2 state and k = 0, 1,..., j. Analytic expressions for the
+   expansion coefficients Y-ijk{*}(upsilon J) provide a potential model
+   appropriate for the spectral fits for molecules in (2)Sigma states. The
+   expansion coefficients Y--(ij0){*}(upsilon J) for the k = 0 terms are
+   exactly the same as the Y-ij{*}(upsilon N) coefficients given for
+   (1)Sigma states, the Dunham coefficients Y-ij modified by the
+   contributions of the Born-Oppenheimer breakdown, provided that a spin
+   contribution originating from off-diagonal electronic corrections of the
+   electronic part of the spin-orbit interaction can be ignored.
+   Spin-rotation energy is given by the terms with coefficients
+   Y-ijk{*}(upsilon J) (k greater than or equal to 1). There are no
+   Y-ijk{*}(upsilon J) (k greater than or equal to 2) terms in the
+   previously known methods of analysis for (2)Sigma molecules. The present
+   potential model is applied to the reported vibrational-rotational
+   spectra of CaH and all spectral lines of (CaH)-Ca-40 and (CaD)-Ca-40
+   isotopomers are fitted to a single set of molecular constants
+   simultaneously with significantly smaller standard deviations. (C) 1998
+   Academic Press.},
+DOI = {10.1006/jmsp.1998.7714},
+ISSN = {0022-2852},
+Times-Cited = {4},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:000077360000019},
+}
+
+@article{ 98ChHaxx.CaH,
+Author = {Chan, W T and Hamilton, I P},
+Title = {Geometries and vibrational frequencies for calcium and strontium radical
+   salts of H, F, Cl, Br, I, OH, SH, CN, NC, CCH, NNN, NCO, NCS, NH2, CH3,
+   OCH3, SCH3, HCOO, CH3COO, HCONH and HCONCH3},
+Journal = CPL,
+Year = {1998},
+Volume = {297},
+Number = {3-4},
+Pages = {217-224},
+Month = {NOV 27},
+Abstract = {Geometries and vibrational frequencies for the ground states of a
+   variety of metal-ligand alkaline earth radical salts of calcium and
+   strontium are computed using the B3LYP density functional method with
+   6-31 + + G{*}{*} and DZVP basis sets. Ligands considered are both
+   monodentate (H, F, Cl, Br, I, OH, SH, CN, NC, CCH, NNN, NCO, NCS, NH2,
+   CH3, OCH3, SCH3) and bidentate (HCOO, CH3COO, HCONH, HCONCH3) species
+   that have been studied in the gas phase. (C) 1998 Elsevier Science B.V.
+   All rights reserved.},
+DOI = {10.1016/S0009-2614(98)01106-3},
+ISSN = {0009-2614},
+Times-Cited = {18},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:000077196000008},
+}
+
+@article{ 97KoSaYa.CaH,
+Author = {Kobayashi, T and Sasagane, K and Yamaguchi, K},
+Title = {Calculation of frequency-dependent polarizabilities for open-shell
+   systems at the second-order Moller-Plesset perturbation theory level
+   based on the quasi-energy derivative method},
+Journal = IJQC,
+Year = {1997},
+Volume = {65},
+Number = {5},
+Pages = {665-677},
+Month = {DEC 5},
+Note = {37th Annual Sanibel Symposium, UNIV FLORIDA, PONCE DE LEON CONF CTR, ST
+   AUGUSTINE, FL, MAR 01-07, 1997},
+Abstract = {We extended the dynamic response theory in the Moller-Plesset
+   perturbation theory (MPPT) based on the quasi-energy derivative (QED)
+   method for closed-shell systems to that for open-shell systems. In this
+   study we perform the calculations of frequency-dependent
+   polarizabilities alpha(-omega; omega) for nondegenerate open-shell
+   doubler systems (Li, Na, and K atoms and BeH, MgH, CaH, CN, and NH2
+   molecules) in the second-order Moller-Plesset perturbation theory (MP2)
+   starting with time-dependent restricted open-shell Hartree-Fock (TDROHF)
+   approximation. (C) 1997 John Wiley \& Sons, Inc.},
+DOI = {10.1002/(SICI)1097-461X(1997)65:5<665::AID-QUA33>3.3.CO;2-Q},
+ISSN = {0020-7608},
+Times-Cited = {19},
+Journal-ISO = {Int. J. Quantum Chem.},
+Unique-ID = {ISI:A1997YG65000033},
+}
+
+@article{ 97ReGiCo.CaH,
+Author = {Reid, I N and Gizis, J E and Cohen, J G and Pahre, M A and Hogg, D W and
+   Cowie, L and Hu, E and Songaila, A},
+Title = {Faint M dwarfs and the structure of the galactic disk},
+Journal = PASP,
+Year = {1997},
+Volume = {109},
+Number = {735},
+Pages = {559-565},
+Month = {MAY},
+Abstract = {We use broadband photometry and low-resolution spectra of a complete
+   sample of late-type K and M dwarfs brighter than I=22 in three fields at
+   high galactic latitude to study issues relating to galactic structure
+   and large-scale abundance gradients in the Galaxy. The observed
+   starcounts in each field are a good match to the predictions of models
+   based on deep starcount data in other intermediate-latitude fields, and
+   these models identify the late-type stars as members of the Galactic
+   disk. Abundances for these late-type stars are estimated via narrow-band
+   indices that measure the strength of the TiO and CaH bands in their
+   spectra. Our results show that the average abundance in the Galactic
+   disk remains close to solar even at heights of more than 2 kpc above the
+   Plane.},
+DOI = {10.1086/133914},
+ISSN = {0004-6280},
+Times-Cited = {16},
+Journal-ISO = {Publ. Astron. Soc. Pac.},
+Unique-ID = {ISI:A1997WZ25100009},
+}
+
+@article{ 96FaElSt.CaH,
+Author = {Fabre, G and ElAjli, M and Stringat, R and Effantin, C and dIncan, J and
+   Bernard, A},
+Title = {CaH emission from Ca excited in its metastable state 4s4p P-3},
+Journal = CPL,
+Year = {1996},
+Volume = {259},
+Number = {1-2},
+Pages = {237-240},
+Month = {AUG 30},
+Abstract = {The A(2) Pi-X(2) Sigma and B-2 Sigma-X(2) Sigma transitions of CaH are
+   observed in a pulsed electrical discharge and after excitation of the
+   4s4p P-3(1) state of Ca by a pulsed laser (657.28 nm). The temporal
+   behavior of these emissions in the electrical post-discharge shows that
+   the excitation mechanisms imply one and two metastable 4s4p P-3 states.},
+DOI = {10.1016/0009-2614(96)00745-2},
+ISSN = {0009-2614},
+Times-Cited = {0},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:A1996VE44800035},
+}
+
+@article{ 96BeEkKe.CaH,
+Author = {Berg, L E and Ekvall, K and Kelly, S},
+Title = {Radiative lifetime measurement of vibronic levels of the B-2 Sigma(+)
+   state of CaH by laser excitation spectroscopy},
+Journal = CPL,
+Year = {1996},
+Volume = {257},
+Number = {3-4},
+Pages = {351-355},
+Month = {JUL 26},
+Abstract = {The spectrum of the B-2 Sigma-->X(2) Sigma transition of gaseous CaH
+   appears in the orange wavelength region with the dominating band heads
+   of the P-1 and P-2 branches belonging to the (0,0) band at 6328 and 6389
+   Angstrom. A time-resolved experiment has been performed on several
+   vibrational levels of the low lying B-2 Sigma(+) State of CaH using
+   laser excitation spectroscopy. Theoretical studies of this molecule are
+   compared with the results of this experiment. The following lifetimes
+   were determined for the B-2 Sigma(+) State of the CaH molecule:
+   tau(nu'=0)=58.1+/-1.9 ns, tau(nu'=1)=58.4+/-2.2 ns and
+   tau(nu'=2)=58.5+/-2.6 ns. The corresponding absorption oscillator
+   strengths are calculated to be f(0,0)=0.105+/-0.004,
+   f(1,1)=0.104+/-0.005 and f(2,2)=0.104+/-0.005.},
+DOI = {10.1016/0009-2614(96)00555-6},
+ISSN = {0009-2614},
+Times-Cited = {4},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:A1996UZ04900021},
+}
+@article{ 94BaKlxx.CaH,
+Author = {Balfour, W J and Klynning, L},
+Title = {ON THE CARRIER OF THE BAND AT 700 NANOMETERS IN THE IRON HYDRIDE
+   SPECTRUM OF PHILLIPS AND DAVIS - EVIDENCE FAVORING CALCIUM HYDRIDE},
+Journal = APJ,
+Year = {1994},
+Volume = {424},
+Number = {2, Part 1},
+Pages = {1049-1053},
+Month = {APR 1},
+Abstract = {A molecular spectrum reported by Phillips \& Davis (1993) is identified
+   as that of calcium monohydride. Line assignments for the (0, 0), (1, 1),
+   and (2, 2) bands in the A 2PI-X 2SIGMA system of CaD are given.},
+DOI = {10.1086/173955},
+ISSN = {0004-637X},
+Times-Cited = {3},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1994NC79300046},
+}
+
+@article{ 93BaAnZi.CaH,
+Author = {Barclay, W L and Anderson, M A and Ziurys, L M},
+Title = {THE MILLIMETER-WAVE SPECTRUM OF CAH (X2-SIGMA+)},
+Journal = APJ,
+Year = {1993},
+Volume = {408},
+Number = {1, Part 2},
+Pages = {L65-L67},
+Month = {MAY 1},
+Abstract = {The millimeter-wave spectrum of the CaH and CaD radicals (X2SIGMA+) has
+   been observed in the laboratory via direct absorption spectroscopy. The
+   species were generated by the reaction of calcium vapor, produced in a
+   Broida-type oven, with hydrogen atoms created in a microwave discharge.
+   The six hyperfine components of the N = 0 --> 1 rotational transition of
+   CaH near 254 GHz were resolved and their frequencies determined to an
+   accuracy of +/- 100 kHz. The main hyperfine lines originating in the N =
+   0 --> 1, 1 --> 2, and 2 --> 3 rotational transitions of CaD were also
+   detected. Spectroscopic constants were determined for both radicals from
+   a non-linear least squares fit to the data, using a 2SIGMA Hamiltonian.
+   These measurements constitute the first laboratory observation of CaH at
+   high spectral resolution, and are essential to the detection of this
+   radical in interstellar space.},
+DOI = {10.1086/186832},
+ISSN = {0004-637X},
+Times-Cited = {15},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1993KY81100017},
+}
+
+@article{ 91BeCaRa.CaH,
+Author = {Beitia, F and Castano, F and Rayo, M N S and Martinez, R and Santos, L and
+   Husain, D},
+Title = {KINETIC INVESTIGATION OF THE COLLISIONAL QUENCHING OF CA(43PJ) BY C4H10
+   AT ELEVATED-TEMPERATURES (750-923 K) - TIME-RESOLVED ATOMIC EMISSION AND
+   ELECTRONIC-ENERGY TRANSFER BETWEEN CA(43PJ) AND CAH(X2-SIGMA-+) OBSERVED
+   BY MOLECULAR CHEMILUMINESCENCE},
+Journal = {JOURNAL OF THE CHEMICAL SOCIETY-FARADAY TRANSACTIONS},
+Year = {1991},
+Volume = {87},
+Number = {10},
+Pages = {1503-1508},
+Month = {MAY 21},
+Abstract = {A detailed investigation is presented of the collisional removal of
+   electronically excited calcium atoms, Ca{[}4s4p(3P(J))], 1.888 eV above
+   its 4s2(1S(o)) ground state, with n-butane at elevated temperatures in a
+   slow-flow system, kinetically equivalent to a static system.
+   Ca(4(3)P(J)) was generated by pulsed dye-laser excitation of calcium
+   vapour at lambda = 657.3 nm {[}Ca(4(3)P1) <-- Ca(4(1)S(o))] and
+   monitored by time-resolved atomic fluorescence at the resonance
+   wavelength over timescales during which Boltzmann equilibration had
+   taken place with the 3P(J) spin-orbit manifold.  Absolute second-order
+   rate constants for the collisional removal of Ca(4(3)P(J)) by butane
+   were measured over the temperature range 750-923 K, yielding the
+   following Arrhenius form:  k(R) = (3.5-1.8(+3.6) x 10(-9) exp(-58.7 +/-
+   5.0 kJ mol-1/RT) cm3 molecule-1 s-1
+   The results are compared with analogous data derived from our previous
+   investigations on the collisional removal of Mg(3(3)P(J)) by various
+   hydrocarbons.  Molecular chemiluminescence for the system CaH(A
+   2-PI-X2-SIGMA+) was also monitored in the time domain following
+   excitation of Ca(4(3)P(J)) and shown to arise from electronic energy
+   transfer from Ca(4(3)P(J)) to ground-state CaH(X2-SIGMA+) both from its
+   bi-exponential time dependence and the observation of CaH(X2-SIGMA+),
+   generated in the reaction, by laser-induced fluorescence (LIF).
+   CaH(X2-SIGMA+) was also detected by LIF from the reaction of
+   Ca(4(1)S(o)) in the flow, and the source of this is discussed.  These
+   CaH(A-X) chemiluminescence profiles which provide a spectroscopic marker
+   for Ca(4(3)P(J)) in this type of system, coupled with the LIF
+   observations on CaH(X) and constituting, to the best of our knowledge,
+   the first observation of its type, are compared with analogous
+   observations reported previously where molecular chemiluminescence from
+   CaO is employed as a spectroscopic marker for Ca(4(3)P(J)) with
+   oxidising reactants.},
+DOI = {10.1039/ft9918701503},
+ISSN = {0956-5000},
+Times-Cited = {17},
+Journal-ISO = {J. Chem. Soc.-Faraday Trans.},
+Unique-ID = {ISI:A1991FN95200002},
+}
+
+@article{ 91KaScSt.CaH,
+Author = {Kaupp, M and Schleyer, P V and Stoll, H and Preuss, H},
+Title = {PSEUDOPOTENTIAL APPROACHES TO CA, SR, AND BA HYDRIDES - WHY ARE SOME
+   ALKALINE-EARTH MX2 COMPOUNDS BENT},
+Journal = JCP,
+Year = {1991},
+Volume = {94},
+Number = {2},
+Pages = {1360-1366},
+Month = {JAN 15},
+Abstract = {Quasirelativistic and nonrelativistic 10-valence-electron
+   pseudopotentials for Ca, Sr, and Ba are presented.  Results of
+   calculations with 6s6p5d basis sets for MH, MH+, and MH2 are compared
+   with all-electron and 2-valence-electron pseudopotential calculations
+   with and without core-polarization potentials.  The 10-valence-electron
+   pseudopotential approach agrees well with all-electron calculations.  It
+   circumvents problems for the 2-valence-electron pseudopotentials arising
+   from an incomplete separation of valence and subvalence shells in polar
+   molecular systems due to strongly contracted occupied (n - 1)-d
+   orbitals.  All higher-level calculations show SrH2 and BaH2 to be bent
+   with angles of approximately 140-degrees and 120-degrees, respectively,
+   while CaH2 is linear with a flat potential-energy surface for the
+   bending motion.  The use of a core-polarization potential together with
+   the 2-valence-electron pseudopotential approach allows an investigation
+   of the relative importance of core-polarization vs direct d-orbital
+   bonding participation as reasons for the bent structures.  The
+   calculations strongly suggest that both contribute to the bending in
+   SrH2 and BaH2.  Even at the Hartree-Fock level of theory
+   10-valence-electron pseudopotential calculations given reasonable angles
+   when the potential-energy surface is not exceedingly flat, and only
+   moderately contracted basis sets including both compact d functions and
+   diffuse p functions are used.  The effect of core-valence correlation
+   and the importance of f functions also are discussed.},
+DOI = {10.1063/1.459993},
+ISSN = {0021-9606},
+Times-Cited = {225},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1991EU59200062},
+}
+
+@article{ 89ChLexx.CaH,
+Author = {Chambaud, G and Levy, B},
+Title = {CAH-STAR POTENTIAL CURVES - A SIMPLE THEORETICAL TREATMENT OF INTERSHELL
+   EFFECTS},
+Journal = JPB,
+Year = {1989},
+Volume = {22},
+Number = {20},
+Pages = {3155-3165},
+Month = {OCT 28},
+DOI = {10.1088/0953-4075/22/20/008},
+ISSN = {0953-4075},
+Times-Cited = {26},
+Journal-ISO = {J. Phys. B-At. Mol. Opt. Phys.},
+Unique-ID = {ISI:A1989AX68400008},
+}
+
+@article{ 89PeLeDe.CaH,
+Author = {Petitprez, D and Lemoine, B and Demuynck, C and Destombes, J L and Macke,
+   B},
+Title = {INFRARED DIODE-LASER SPECTROSCOPY OF CAH AND CAD (X-2SIGMA+) -
+   DETERMINATION OF MASS-INDEPENDENT PARAMETERS},
+Journal = JCP,
+Year = {1989},
+Volume = {91},
+Number = {8},
+Pages = {4462-4467},
+Month = {OCT 15},
+DOI = {10.1063/1.456783},
+ISSN = {0021-9606},
+Times-Cited = {23},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1989AU57300005},
+}
+
+@article{ 88IgStPr.CaH,
+Author = {Igelmann, G and Stoll, H and Preuss, H},
+Title = {PSEUDOPOTENTIAL STUDY OF MONOHYDRIDES AND MONOXIDES OF MAIN GROUP
+   ELEMENTS K THROUGH BR},
+Journal = MP,
+Year = {1988},
+Volume = {65},
+Number = {6},
+Pages = {1329-1336},
+Month = {DEC 20},
+DOI = {10.1080/00268978800101821},
+ISSN = {0026-8976},
+Times-Cited = {15},
+Journal-ISO = {Mol. Phys.},
+Unique-ID = {ISI:A1988T130200005},
+}
+
+@article{ 88Maxxxx.CaH,
+Author = {Martin, H},
+Title = {EMPIRICALLY FITTING THE POTENTIAL-ENERGY CURVES FOR THE X, B, AND B'
+   DOUBLE MINIMUM AND THE D-2-SIGMA+ STATES IN CAH USING UNITED KNOWLEDGE
+   OF CAH AND CAD},
+Journal = JCP,
+Year = {1988},
+Volume = {88},
+Number = {3},
+Pages = {1797-1806},
+Month = {FEB 1},
+DOI = {10.1063/1.454103},
+ISSN = {0021-9606},
+Times-Cited = {21},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1988L898300033},
+}
+
+@article{ 87FuReSt.CaH,
+Author = {Fuentealba, P and Reyes, O and Stoll, H and Preuss, H},
+Title = {GROUND-STATE PROPERTIES OF ALKALI AND ALKALINE-EARTH HYDRIDES},
+Journal = JCP,
+Year = {1987},
+Volume = {87},
+Number = {9},
+Pages = {5338-5345},
+Month = {NOV 1},
+DOI = {10.1063/1.453653},
+ISSN = {0021-9606},
+Times-Cited = {56},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1987K583500035},
+}
+
+@article{ 87StMeAl.CaH,
+Author = {Steimle, T C and Meyer, T P and Alramadin, Y and Bernath, P},
+Title = {EXCITED-STATE MAGNETIC HYPERFINE INTERACTIONS IN GAS-PHASE STRONTIUM AND
+   CALCIUM MONOHYDRIDES},
+Journal = JMS,
+Year = {1987},
+Volume = {125},
+Number = {1},
+Pages = {225-232},
+Month = {SEP},
+DOI = {10.1016/0022-2852(87)90209-8},
+ISSN = {0022-2852},
+Times-Cited = {7},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:A1987K174900022},
+}
+
+@article{ 87ShTaOh.CaH,
+Author = {Shida, N and Tanaka, K and Ohno, K},
+Title = {A THEORETICAL-STUDY OF ROTATIONAL VIBRATIONAL LEVELS OF THE LOWER
+   2-2-SIGMA+ STATES OF THE CAH MOLECULE},
+Journal = JMS,
+Year = {1987},
+Volume = {121},
+Number = {2},
+Pages = {283-293},
+Month = {FEB},
+DOI = {10.1016/0022-2852(87)90052-X},
+ISSN = {0022-2852},
+Times-Cited = {4},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:A1987G004300005},
+}
+
+@article{ 85GuKlLi.CaH,
+Author = {Gustavsson, T and Klynning, L and Lindgren, B},
+Title = {ABSORPTION AND EMISSION-SPECTRUM OF THE D2-SIGMA-X2-SIGMA TRANSITION OF
+   THE CAD MOLECULE},
+Journal = PS,
+Year = {1985},
+Volume = {31},
+Number = {4},
+Pages = {269-274},
+DOI = {10.1088/0031-8949/31/4/009},
+ISSN = {0281-1847},
+Times-Cited = {7},
+Journal-ISO = {Phys. Scr.},
+Unique-ID = {ISI:A1985AGN8100009},
+}
+
+@article{ 84Maxxxx.CaH,
+Author = {Martin, H},
+Title = {LASER SPECTROSCOPIC INVESTIGATIONS OF THE RED BAND SYSTEMS OF CAH},
+Journal = JMS,
+Year = {1984},
+Volume = {108},
+Number = {1},
+Pages = {66-81},
+DOI = {10.1016/0022-2852(84)90287-X},
+ISSN = {0022-2852},
+Times-Cited = {18},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:A1984TR74700007},
+}
+
+@article{ 83JeDaMa.CaH,
+Author = {Jeung, G and Daudey, J P and Malrieu, J P},
+Title = {THEORETICAL-STUDY OF THE ELECTRONIC STATES OF CALCIUM AND CALCIUM
+   HYDRIDE},
+Journal = CPL,
+Year = {1983},
+Volume = {98},
+Number = {5},
+Pages = {433-438},
+DOI = {10.1016/0009-2614(83)80082-7},
+ISSN = {0009-2614},
+Times-Cited = {36},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:A1983RA50300006},
+}
+
+@article{ 83RaReRe.CaH,
+Author = {Rao, T V R and Reddy, R R and Reddy, A S},
+Title = {POTENTIAL-ENERGY CURVES AND BOND-DISSOCIATION ENERGIES OF CAF, CACL, CAI
+   AND CAH},
+Journal = THEOCHEM,
+Year = {1983},
+Volume = {14},
+Number = {3-4},
+Pages = {249-257},
+ISSN = {0166-1280},
+Times-Cited = {0},
+Journal-ISO = {Theochem-J. Mol. Struct.},
+Unique-ID = {ISI:A1983RW24400002},
+}
+
+@article{ 82McScSt.CaH,
+Author = {Mcfarland, R H and Schlachter, A S and Stearns, J W and Liu, B and Olson,
+   R E},
+Title = {D- PRODUCTION BY CHARGE-TRANSFER OF (0.3-3)-KEV D+ IN THICK
+   ALKALINE-EARTH VAPOR TARGETS - INTERACTION ENERGIES FOR CAH+, CAH, AND
+   CAH-},
+Journal = PRA,
+Year = {1982},
+Volume = {26},
+Number = {2},
+Pages = {775-785},
+DOI = {10.1103/PhysRevA.26.775},
+ISSN = {1050-2947},
+Times-Cited = {27},
+Journal-ISO = {Phys. Rev. A},
+Unique-ID = {ISI:A1982NZ03800007},
+}
+
+@article{ 82KlMaNy.CaH,
+Author = {Klynning, L and Martin, H and Nylen, P and Royen, P},
+Title = {RADIATIVE LIFETIME MEASUREMENTS OF THE LOW-LYING ELECTRONIC
+   B2-SIGMA-STATE OF CAH},
+Journal = PS,
+Year = {1982},
+Volume = {25},
+Number = {2},
+Pages = {362-364},
+DOI = {10.1088/0031-8949/25/2/016},
+ISSN = {0281-1847},
+Times-Cited = {9},
+Journal-ISO = {Phys. Scr.},
+Unique-ID = {ISI:A1982NH42300016},
+}
+
+@article{ 81HoTaMa.CaH,
+Author = {Honjou, N and Takagi, M and Makita, M and Ohno, K},
+Title = {THEORETICAL-STUDY OF THE LOW-LYING ELECTRONIC STATES OF CAH},
+Journal = {JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN},
+Year = {1981},
+Volume = {50},
+Number = {6},
+Pages = {2095-2100},
+DOI = {10.1143/JPSJ.50.2095},
+ISSN = {0031-9015},
+Times-Cited = {17},
+Journal-ISO = {J. Phys. Soc. Jpn.},
+Unique-ID = {ISI:A1981LY71300051},
+}
+
+@article{ 81KaLixx.CaH,
+Author = {Kaving, B and Lindgren, B},
+Title = {ULTRAVIOLET-ABSORPTION SPECTRUM OF THE CAH MOLECULE .4. ON THE C-X
+   SYSTEM},
+Journal = PS,
+Year = {1981},
+Volume = {24},
+Number = {4},
+Pages = {752-754},
+DOI = {10.1088/0031-8949/24/4/012},
+ISSN = {0281-1847},
+Times-Cited = {6},
+Journal-ISO = {Phys. Scr.},
+Unique-ID = {ISI:A1981MP61500012},
+}
+
+@article{ 81KlMaxx.CaH,
+Author = {Klynning, L and Martin, H},
+Title = {A DOUBLET STATE PERTURBING THE A-STATE OF CAH},
+Journal = JPB,
+Year = {1981},
+Volume = {14},
+Number = {11},
+Pages = {L365-L366},
+DOI = {10.1088/0022-3700/14/11/003},
+ISSN = {0953-4075},
+Times-Cited = {9},
+Journal-ISO = {J. Phys. B-At. Mol. Opt. Phys.},
+Unique-ID = {ISI:A1981LT76000003},
+}
+
+@article{ 80CoRixx.CaH,
+Author = {Cooper, D L and Richards, W G},
+Title = {SPIN DOUBLING IN CAH},
+Journal = JCP,
+Year = {1980},
+Volume = {73},
+Number = {2},
+Pages = {991-992},
+DOI = {10.1063/1.440751},
+ISSN = {0021-9606},
+Times-Cited = {4},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1980KD11500055},
+}
+
+@article{ 79KhHuRa.CaH,
+Author = {Khan, I A and Hussainee, S J A and Rafi, M and Khan, M A},
+Title = {STUDIES OF CAH SPECTRA AROUND 2535 A},
+Journal = {NUOVO CIMENTO DELLA SOCIETA ITALIANA DI FISICA B-GENERAL PHYSICS RELATIVITY ASTRONOMY AND MATHEMATICAL PHYSICS AND METHODS},
+Year = {1979},
+Volume = {49},
+Number = {2},
+Pages = {298-306},
+DOI = {10.1007/BF02737524},
+ISSN = {0369-3554},
+Times-Cited = {1},
+Journal-ISO = {Nouvo Cimento Soc. Ital. Fis. B-Gen. Phys. Relativ. Astron. Math. Phys.
+   Methods},
+Unique-ID = {ISI:A1979GQ13000012},
+}
+
+@article{ 79KlMaxx.CaH,
+Author = {Klynning, L and Martin, H},
+Title = {IONIC BONDS IN THE GROUP-IIA HYDRIDES},
+Journal = PS,
+Year = {1979},
+Volume = {20},
+Number = {5-6},
+Pages = {594-598},
+DOI = {10.1088/0031-8949/20/5-6/006},
+ISSN = {0281-1847},
+Times-Cited = {14},
+Journal-ISO = {Phys. Scr.},
+Unique-ID = {ISI:A1979HW87300006},
+}
+
+@article{ 79BeHeJo.CaH,
+Author = {Bell, G D and Herman, M and Johns, J W C and Peck, E R},
+Title = {D2-SIGMA+-X2-SIGMA+ BAND SYSTEM OF CAH},
+Journal = PS,
+Year = {1979},
+Volume = {20},
+Number = {5-6},
+Pages = {609-616},
+DOI = {10.1088/0031-8949/20/5-6/010},
+ISSN = {0281-1847},
+Times-Cited = {12},
+Journal-ISO = {Phys. Scr.},
+Unique-ID = {ISI:A1979HW87300010},
+}
+
+@article{ 77RaFeKa.CaH,
+Author = {Rackwitz, R and Feldmann, D and Kaiser, H J and Heinicke, E},
+Title = {PHOTODETACHMENT OF SOME DIATOMIC NEGATIVE HYDRIDE IONS BEH-, MGH-, CAH-,
+   ZNH-, PH-, ASH-},
+Journal = {ZEITSCHRIFT FUR NATURFORSCHUNG SECTION A-A JOURNAL OF PHYSICAL SCIENCES},
+Year = {1977},
+Volume = {32},
+Number = {6},
+Pages = {594-599},
+ISSN = {0932-0784},
+Times-Cited = {16},
+Journal-ISO = {Z. Naturfors. Sect. A-J. Phys. Sci.},
+Unique-ID = {ISI:A1977DL84600013},
+}
+
+@article{ 76BeKlMa.CaH,
+Author = {Berg, L E and Klynning, L and Martin, H},
+Title = {LASER EXCITATION SPECTROSCOPY OF B2SIGMA-X2SIGMA TRANSITION OF CAH
+   MOLECULE},
+Journal = OC,
+Year = {1976},
+Volume = {17},
+Number = {3},
+Pages = {320-324},
+DOI = {10.1016/0030-4018(76)90270-4},
+ISSN = {0030-4018},
+Times-Cited = {19},
+Journal-ISO = {Opt. Commun.},
+Unique-ID = {ISI:A1976BX00900029},
+}
+
+@article{ 76KaLixx.CaH,
+Author = {Kaving, B and Lindgren, B},
+Title = {ULTRAVIOLET-ABSORPTION SPECTRUM OF CAH MOLECULE .3. COMPARISON BETWEEN
+   CAH AND CAD SPECTRA IN REGION 2800-3200 A},
+Journal = PS,
+Year = {1976},
+Volume = {13},
+Number = {1},
+Pages = {39-46},
+DOI = {10.1088/0031-8949/13/1/005},
+ISSN = {0281-1847},
+Times-Cited = {5},
+Journal-ISO = {Phys. Scr.},
+Unique-ID = {ISI:A1976BF83700005},
+}
+
+@article{ 74BeKlxx.CaH,
+Author = {Berg, L E and Klynning, L},
+Title = {ROTATIONAL ANALYSIS OF A-X AND B-X BAND SYSTEMS OF CAH},
+Journal = PS,
+Year = {1974},
+Volume = {10},
+Number = {6},
+Pages = {331-336},
+DOI = {10.1088/0031-8949/10/6/009},
+ISSN = {0281-1847},
+Times-Cited = {38},
+Journal-ISO = {Phys. Scr.},
+Unique-ID = {ISI:A1974V665200009},
+}
+
+@article{ 74KaLiRa.CaH,
+Author = {Kaving, B and Lindgren, B and Ramsay, D A},
+Title = {ULTRAVIOLET-ABSORPTION SPECTRUM OF CAH MOLECULE .1. ROTATIONAL ANALYSIS
+   OF 3060 A BAND SYSTEM},
+Journal = PS,
+Year = {1974},
+Volume = {10},
+Number = {1-2},
+Pages = {73-79},
+DOI = {10.1088/0031-8949/10/1-2/006},
+ISSN = {0281-1847},
+Times-Cited = {14},
+Journal-ISO = {Phys. Scr.},
+Unique-ID = {ISI:A1974T468000006},
+}
+
+@article{ 74KaLixx.CaH,
+Author = {Kaving, B and Lindgren, B},
+Title = {ULTRAVIOLET-ABSORPTION SPECTRUM OF CAH MOLECULE .2. STRUCTURE OF
+   D-COMPLEX AROUND 2 850 A},
+Journal = PS,
+Year = {1974},
+Volume = {10},
+Number = {1-2},
+Pages = {81-85},
+DOI = {10.1088/0031-8949/10/1-2/007},
+ISSN = {0281-1847},
+Times-Cited = {18},
+Journal-ISO = {Phys. Scr.},
+Unique-ID = {ISI:A1974T468000007},
+}
+
+
+@article{ 07KeMaxx.CaH,
+Author = {Kerkines, Ioannis S. K. and Mavridis, Aristides},
+Title = {A theoretical study of calcium monohydride, CaH: Low-lying states and
+   their permanent electric dipole moments},
+Journal = JPCA,
+Year = {2007},
+Volume = {111},
+Number = {2},
+Pages = {371-374},
+Month = {JAN 18},
+Abstract = {Potential energy curves, energy parameters, and spectroscopic values for
+   the X (2)Sigma(+), A (2)Pi, B (2)Sigma(+), a (4)Pi, and b (4)Sigma(+)
+   states of CaH have been calculated using the multireference
+   configuration interaction and coupled cluster levels of theory, while
+   employing quantitative basis sets (of augmented quintuple-zeta quality)
+   and taking also into account core/valence correlation and one-electron
+   relativistic effects. For the ground (X (2)Sigma(+)) and the first two
+   following excited states (A (2)Pi, B (2)Sigma(+)) of CaH, the permanent
+   electric dipole moments have been calculated. Our best finite field
+   dipole moment of the A (2)Pi state of 2.425 D (upsilon = 0) is in very
+   good agreement with the experimental literature value of 2.372(12) D.
+   However, a discrepancy is observed in the dipole moment of the X
+   (2)Sigma(+) state. Our most extensive calculation gives mu = 2.623 D
+   (upsilon = 0), which is considerably smaller than the experimental value
+   of mu = 2.94(16) D (upsilon = 0). Small van der Waals minima were found
+   for both ``repulsive{''} quartet states. Spectroscopic constants and
+   energy parameters for all states are in remarkable agreement with
+   available experimental values.},
+DOI = {10.1021/jp064705k},
+ISSN = {1089-5639},
+Times-Cited = {4},
+Journal-ISO = {J. Phys. Chem. A},
+Unique-ID = {ISI:000243388500022},
+}
+
+@article{ 80HoNoTa.CaH,
+Author = {Honjou, N and Noro, T and Takagi, M and Ohno, K and Makita, M},
+Title = {ABINITIO CONFIGURATION-INTERACTION CALCULATION OF THE LOW-LYING
+   ELECTRONIC STATES OF CAH MOLECULE},
+Journal = {JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN},
+Year = {1980},
+Volume = {48},
+Number = {2},
+Pages = {586-590},
+DOI = {10.1143/JPSJ.48.586},
+ISSN = {0031-9015},
+Times-Cited = {11},
+Journal-ISO = {J. Phys. Soc. Jpn.},
+Unique-ID = {ISI:A1980JM64000034},
+}
+
+@article{11LiHaRa.cah,
+title = "Einstein A coefficients and absolute line intensities for the E2Π–X2Σ+ transition of CaH",
+journal = JQSRT,
+volume = "113",
+number = "1",
+pages = "67 - 74",
+year = "2012",
+note = "",
+issn = "0022-4073",
+doi = "10.1016/j.jqsrt.2011.09.010",
+url = "http://www.sciencedirect.com/science/article/pii/S0022407311003323",
+author = "Gang Li and Jeremy J. Harrison and Ram S. Ram and Colin M. Western and Peter F. Bernath",
+keywords = "Calcium monohydride",
+keywords = "London factors",
+keywords = "Einstein A coefficient",
+keywords = "Line intensity calculation",
+keywords = "Astrophysical molecules"
+}
+
+@Article{35WatWeb.CaH,
+  title = {The $E$ Band System of Calcium Hydride},
+  author = {Watson, William W. and Weber, Robert L.},
+  journal = {Phys. Rev.},
+  volume = {48},
+  number = {9},
+  pages = {732--734},
+  year = {1935},
+  doi = {10.1103/PhysRev.48.732},
+}
+
+@Article{27Hulthe.CaH,
+  title = {On The Band Spectrum of Calcium Hydride},
+  author = {Hulth\`en, E. },
+  journal = {Phys. Rev.},
+  volume = {29},
+  pages = {97},
+  year = {1927},
+  doi = {10.1103/PhysRev.29.97},
+}
+
+@article{ 06StChGe.CaHzee,
+Author = {Chen, J.H. and Gengler, J. and Steimle, T.C. and Brown, J.M.},
+Title = {Optical Zeeman spectroscopy of calcium monohydride},
+Journal = PRA,
+Year = {2006},
+Volume = {73},
+Abstract = {the Zeeman effect in the ground and low-lying excited electronic states
+   of calcium monohydride CaH has been experimentally investigated using
+   optical Zeeman spectroscopy of the (0,0) band of the B-2 Sigma(+)-X-2
+   Sigma(+) and the (0,0) band of the A(2)Pi-X-2 Sigma(+) systems. the
+   observed Zeeman-induced shifts and splittings of numerous branch
+   features recorded near the natural linewidth limit were successfully
+   modeled using a traditional effective Hamiltonian approach to account
+   for the interaction between the (v=0) A(2)Pi and (v=0) B-2 Sigma(+)
+   states and explicit inclusion of the interaction matrix elements for
+   the heterogeneous perturbations between the (v=1) A(2)Pi and (v=0) B-2
+   Sigma(+) states. the determined magnetic g factors for the X-2
+   Sigma(+), B-2 Sigma(+), and A(2)Pi states are compared with previously
+   assumed values and those predicted by perturbation Theory.},
+DOI="10.1103/PhysRevA.73.012502",
+pages = {012502},
+Journal-ISO = {Phys. Rev. A},
+}

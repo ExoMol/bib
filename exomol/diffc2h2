@@ -1,0 +1,4055 @@
+1c1
+< @ARTICLE{06WoStFi.C2H2,
+---
+> @ARTICLE{06WoStFi.c2h2,
+9a10,11
+>   note = {Festschrift in honor of the 65th Birthday of Robert J Silbey, Cambridge,
+> 	MA, JUN 24-25, 2005},
+30c32
+< @article{11MoGeBe.C2H2,
+---
+> @article{11MoGeBe.c2h2,
+35c37
+< Journal = JQSRT,
+---
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+46c48
+<    acetylene around 3 $\mu$m. J Chem Phys 2009;131:114301]. The present
+---
+>    acetylene around 3 mu m. J Chem Phys 2009;131:114301]. The present
+60c62
+< @article{11AmFaHe.C2H2,
+---
+> @article{11AmFaHe.c2h2,
+62,64c64,66
+< Title = {{Accurate partition function for acetylene, $^{12}$C$_2$H$_2$, and related
+<    thermodynamical quantities}},
+< Journal = JCP,
+---
+> Title = {Accurate partition function for acetylene, {($^{12}$C$_2$H$_2$)}, and related
+>    thermodynamical quantities},
+> Journal = {J. Chem. Phys.},
+69,70c71,72
+<    $^{12}$C$_2$H$_2$, is calculated by explicit summation of the contribution of
+<    all individual vibration-rotation energy levels up to 15 000 cm$^{-1}$. The
+---
+>    (C2H2)-C-12, is calculated by explicit summation of the contribution of
+>    all individual vibration-rotation energy levels up to 15 000 cm(-1). The
+73c75
+<    in the literature involving vibrational states up to 8900 cm$^{-1}$, as
+---
+>    in the literature involving vibrational states up to 8900 cm(-1), as
+85c87
+< @ARTICLE{90MaLeTa.C2H2,
+---
+> @ARTICLE{90MaLeTa.c2h2,
+89c91
+<   journal = JCP,
+---
+>   journal = {J. Chem. Phys.},
+95,96c97,98
+< @article{90AlYaCs.C2H2,
+< Author = {Allen, W. D. and Yamaguchi, Y and Csaszar, A. G. and Clabo, D. A. and Remington, R. B. and Schaefer, H. F.},
+---
+> @article{90AlYaCs.c2h2,
+> Author = {Allen, W. D. and Yamaguchi, Y and Cs{\'a}sz{\'a}r, A. G. and Clabo, D. A. and Remington, R. B. and Schaefer, H. F.},
+102a105
+> Number = {3},
+104a108,111
+> ISSN = {0301-0104},
+> ResearcherID-Numbers = {Cs{\'a}sz{\'a}r, Attila/A-5241-2009
+> Allen, Wesley/C-9867-2010},
+> ORCID-Numbers = {Allen, Wesley/0000-0002-4288-2297},
+107c114
+< @article{98Alxxxx.C2H2,
+---
+> @article{98Alxxxx.c2h2,
+111c118
+< Journal = THEOCHEM,
+---
+> Journal = {Theochem - Journal of Molecular Structure},
+131c138,140
+< model can be obtained from 21 irreducible expressions.},
+---
+> model can be obtained from 21 irreducible expressions. (C) 1998 Elsevier
+> Science B.V. All rights reserved.},
+> ISSN = {0166-1280},
+137c146
+< @article{81BaMaSu.C2H2,
+---
+> @article{81BaMaSu.c2h2,
+141c150
+< Journal = JMS,
+---
+> Journal = {J. Mol. Spectrosc.},
+143a153
+> Number = {2},
+145a156
+> ISSN = {0022-2852},
+148c159
+< @article{93BrCaHa.C2H2,
+---
+> @article{93BrCaHa.c2h2,
+151c162
+< Journal = JMS,
+---
+> Journal = {J. Mol. Spectrosc.},
+153a165
+> Number = {2},
+155a168
+> ISSN = {0022-2852},
+159c172
+< @article{93BrHaxx.C2H2,
+---
+> @article{93BrHaxx.c2h2,
+162c175
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+164a178
+> Number = {2},
+188a203
+> ISSN = {0021-9606},
+193,194c208,209
+< @article{91BrGrHa.C2H2,
+< Author = {Bramley, M J And Green, W H And Handy, N C},
+---
+> @article{91BrGrHa.c2h2,
+> Author = {Bramley, MJ And Green, WH And Handy, NC},
+197c212
+< Journal = MP,
+---
+> Journal = {Mol. Phys.},
+199a215
+> Number = {6},
+213a230
+> ISSN = {0026-8976},
+215a233,234
+> ResearcherID-Numbers = {Green, William/C-9684-2012},
+> ORCID-Numbers = {Green, William/0000-0003-2603-9694},
+218c237
+< @article{96BrToWe.C2H2,
+---
+> @article{96BrToWe.c2h2,
+221c240
+< Title = {{Detection of acetylene in the infrared spectrum of comet Hyakutake}},
+---
+> Title = {Detection of acetylene in the infrared spectrum of comet Hyakutake},
+224a244
+> Number = {6601},
+237a258
+> URL = {http://dx.doi.org/10.1038/383606a0},
+238a260
+> ISSN = {0028-0836},
+240a263
+> ResearcherID-Numbers = {Weaver, Harold/D-9188-2016},
+243c266
+< @article{02CaHaxx.C2H2,
+---
+> @article{02CaHaxx.c2h2,
+246c269
+< Journal = MP,
+---
+> Journal = {Mol. Phys.},
+248a272
+> Number = {5},
+263a288
+> ISSN = {0026-8976},
+267c292
+< @article{84CaHaxx.C2H2,
+---
+> @article{84CaHaxx.c2h2,
+271c296
+< Journal = MP,
+---
+> Journal = {Mol. Phys.},
+273a299
+> Number = {4},
+275a302
+> ISSN = {0026-8976},
+278c305
+< @article{82CaHaxx.C2H2,
+---
+> @article{82CaHaxx.c2h2,
+282c309
+< Journal = MP,
+---
+> Journal = {Mol. Phys.},
+284a312
+> Number = {6},
+286a315
+> ISSN = {0026-8976},
+289c318
+< @article{80CaMiMu.C2H2,
+---
+> @article{80CaMiMu.c2h2,
+292c321
+< Journal = MP,
+---
+> Journal = {Mol. Phys.},
+294a324
+> Number = {1},
+296a327
+> ISSN = {0026-8976},
+299c330
+< @article{83Clxxxx.C2H2,
+---
+> @article{83Clxxxx.c2h2,
+305a337
+> Number = {3},
+307a340
+> ISSN = {0301-0104},
+310c343
+< @article{97CoHaxx.C2H2,
+---
+> @article{97CoHaxx.c2h2,
+314c347
+< Journal = MP,
+---
+> Journal = {Mol. Phys.},
+316a350
+> Number = {2},
+322a357
+> ISSN = {0026-8976},
+326,327c361,362
+< @article{12Csxxxx.C2H2,
+< Author = {Csaszar, Attila G.},
+---
+> @article{12Csxxxx.c2h2,
+> Author = {Cs{\'a}sz{\'a}r, Attila G.},
+329c364
+< Journal = {WIREs Comput. Mol. Sci.},
+---
+> Journal = {Wiley Interdisciplinary Reviews - Computational Molecular Science},
+331a367
+> Number = {2},
+344a381,382
+> ISSN = {1759-0876},
+> EISSN = {1759-0884},
+346a385
+> ResearcherID-Numbers = {Cs{\'a}sz{\'a}r, Attila/A-5241-2009},
+349,350c388,389
+< @article{05CzSzCs.C2H2,
+< Author = {Czako, G and Szalay, V and Csaszar, A. G. and Furtenbacher, T},
+---
+> @article{05CzSzCs.c2h2,
+> Author = {Czako, G and Szalay, V and Cs{\'a}sz{\'a}r, A. G. and Furtenbacher, T},
+353c392
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+355a395
+> Number = {2},
+376c416,417
+< physical importance is quite efficient.},
+---
+> physical importance is quite efficient. (C) 2005 American Institute of
+> Physics.},
+378c419,421
+< pages = {024101},
+---
+> Article-Number = {024101},
+> ISSN = {0021-9606},
+> EISSN = {1089-7690},
+381a425,426
+> ResearcherID-Numbers = {Cs{\'a}sz{\'a}r, Attila/A-5241-2009
+> Szalay, Viktor/J-5011-2016},
+384,385c429,430
+< @article{07CzFuBa.C2H2,
+< Author = {Czako, Gabor and Furtenbacher, Tibor and Barletta, Paolo and Csaszar,
+---
+> @article{07CzFuBa.c2h2,
+> Author = {Czako, Gabor and Furtenbacher, Tibor and Barletta, Paolo and Cs{\'a}sz{\'a}r,
+389c434
+< Journal = PCCP,
+---
+> Journal = {Phys. Chem. Chem. Phys.},
+391a437
+> Number = {26},
+417a464
+> ISSN = {1463-9076},
+420a468,469
+> ResearcherID-Numbers = {Cs{\'a}sz{\'a}r, Attila/A-5241-2009
+> Szalay, Viktor/J-5011-2016},
+423c472
+< @article{35Ecxxxx.C2H2,
+---
+> @article{35Ecxxxx.c2h2,
+428a478
+> Number = {7},
+430a481
+> ISSN = {0031-899X},
+433c484
+< @article{34Ecxxxx.C2H2,
+---
+> @article{34Ecxxxx.c2h2,
+438a490
+> Number = {5},
+440a493
+> ISSN = {0031-899X},
+443c496
+< @article{86EsSexx.C2H2,
+---
+> @article{86EsSexx.c2h2,
+447c500
+< Journal = MP,
+---
+> Journal = {Mol. Phys.},
+449a503
+> Number = {3},
+451a506
+> ISSN = {0026-8976},
+454c509
+< @article{82HaChCa.C2H2,
+---
+> @article{82HaChCa.c2h2,
+458c513
+< Journal = MP,
+---
+> Journal = {Mol. Phys.},
+460a516
+> Number = {5},
+462a519
+> ISSN = {0026-8976},
+465c522
+< @article{87Haxxxx.C2H2,
+---
+> @article{87Haxxxx.c2h2,
+469c526
+< Journal = MP,
+---
+> Journal = {Mol. Phys.},
+471a529
+> Number = {1},
+473a532
+> ISSN = {0026-8976},
+476c535
+< @article{70HoBuJo.C2H2,
+---
+> @article{70HoBuJo.c2h2,
+480c539
+< Journal = JMS,
+---
+> Journal = {J. Mol. Spectrosc.},
+482a542
+> Number = {1},
+484a545
+> ISSN = {0022-2852},
+487c548
+< @article{62Hoxxxx.C2H2,
+---
+> @article{62Hoxxxx.c2h2,
+491c552
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+493a555
+> Number = {2},
+495a558
+> ISSN = {0021-9606},
+498c561
+< @article{03JaMaDa.C2H2,
+---
+> @article{03JaMaDa.c2h2,
+502,503c565,566
+< Title = {{The IR acetylene spectrum in HITRAN: update and new results}},
+< Journal = JQSRT,
+---
+> Title = {The {IR} acetylene spectrum in {HITRAN}: update and new results},
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+505a569
+> Number = {1-4},
+513c577,579
+< critically examined, and recommendations for future improvements are given.},
+---
+> critically examined, and recommendations for future improvements are
+> given. (C) 2603 Elsevier Ltd. All rights reserved.},
+> URL = {http://dx.doi.org/10.1016/S0022-4073(03)00163-8},
+514a581
+> ISSN = {0022-4073},
+518a586
+> ORCID-Numbers = {Rothman, Laurence/0000-0002-3837-4847}
+521c589,601
+< @article{51Kaxxxx.C2H2,
+---
+> @article{88Jexxxx.c2h2,
+> Author = {Jensen, P},
+> Title = {A New Morse Oscillator-Rigid Bender Internal Dynamics (MORBID) Hamiltonian For Triatomic-Molecules},
+> Journal = {J. Mol. Spectrosc.},
+> Year = {1988},
+> Volume = {128},
+> Number = {2},
+> Pages = {478-501},
+> DOI = {10.1016/0022-2852(88)90164-6},
+> ISSN = {0022-2852},
+> }
+> 
+> @article{51Kaxxxx.c2h2,
+526a607
+> Number = {Mar},
+527a609,719
+> ISSN = {0002-9947},
+> }
+> 
+> @article{05KoLaTe.c2h2,
+> Author = {Kozin, I. N. and Law, M. M. and Tennyson, J and Hutson, J. M.},
+> Title = {Calculating energy levels of isomerizing tetra-atomic molecules. II. The
+> vibrational states of acetylene and vinylidene},
+> Journal = {J. Chem. Phys.},
+> Year = {2005},
+> Volume = {122},
+> Number = {6},
+> Abstract = {A general, full-dimensional computational method for the accurate
+> calculation of rotationally and vibrationally excited states of
+> tetra-atomic molecules is further developed. The resulting computer
+> program may be run in serial and parallel modes and is particularly
+> appropriate for molecules executing wide-amplitude motions and
+> isomerizations. An application to the isomerizing acetylene/vinylidene
+> system is presented. Large-scale calculations using a coordinate system
+> based on orthogonal satellite vectors have been performed in six
+> dimensions and vibrational term values and wave functions for acetylene
+> and vinylidene states up to approximate to 23000 cm(-1) above the
+> potential minimum have been determined. This has permitted the
+> characterization of acetylene and vinylidene states at and above the
+> isomerization barrier. These calculations employ more extensive
+> vibrational basis sets and hence consider a much higher density of
+> states than in any variational calculations reported hitherto for this
+> system. Comparison of the calculated density of states with that
+> determined empirically suggests that our calculations are the most
+> realistic achieved for this system to date. Indeed more states have been
+> converged than in any previous study of this system. Calculations on
+> lower lying excited states of acetylene based on HC - CH diatom-diatom
+> coordinates give nearly identical results to those based on orthogonal
+> satellite vectors. Comparisons are also made with calculations based on
+> HH - CC diatom-diatom coordinates. (C) 2005 American Institute of
+> Physics.},
+> DOI = {10.1063/1.1850471},
+> Article-Number = {064309},
+> ISSN = {0021-9606},
+> Keywords-Plus = {Dimensionality Quantum Calculations; Acetylene/Vinylidene Isomerization; Spectroscopy; Hamiltonians; (C2H2)-C-12; Surface},
+> ResearcherID-Numbers = {Hutson, Jeremy/F-4748-2012
+> Tennyson, Jonathan/I-2222-2012},
+> ORCID-Numbers = {Hutson, Jeremy/0000-0002-4344-6622
+> Tennyson, Jonathan/0000-0002-4994-5238},
+> }
+> 
+> @article{04KoLaTe.c2h2,
+> Author = {Kozin, I. N. and Law, M. M. and Tennyson, J and Hutson, J. M.},
+> Title = {New vibration-rotation code for tetraatomic molecules exhibiting
+> wide-amplitude motion: WAVR4},
+> Journal = {CPC},
+> Year = {2004},
+> Volume = {163},
+> Number = {2},
+> Pages = {117-131},
+> Abstract = {A general computational method for the accurate calculation of
+> rotationally and vibrationally excited states of tetraatomic molecules
+> is developed. The resulting program is particularly appropriate for
+> molecules executing wide-amplitude motions and isomerizations. The
+> program offers a choice of coordinate systems based on Radau, Jacobi,
+> diatom-diatom and orthogonal satellite vectors. The method includes all
+> six vibrational dimensions plus three rotational dimensions.
+> Vibration-rotation calculations with reduced dimensionality in the
+> radial degrees of freedom are easily tackled via constraints imposed on
+> the radial coordinates via the input file.},
+> DOI = {10.1016/j.cpc.2004.07.005},
+> ISSN = {0010-4655},
+> Keywords = {ro-vibrational; bound states; wavefunctions; body-fixed; discrete
+> variable representatiom; finite basis representation; tetraatomic;
+> 4-atom},
+> Keywords-Plus = {Fully Pointwise Calculation; Potential-Energy Surface; N-Atom Problem;
+> Quantum-Mechanics; Vector Parametrization; Variational Calculations; Hydrogen-Peroxide; Floppy Molecules; Ground-State; Acetylene},
+> ResearcherID-Numbers = {Hutson, Jeremy/F-4748-2012
+> Tennyson, Jonathan/I-2222-2012},
+> ORCID-Numbers = {Hutson, Jeremy/0000-0002-4344-6622
+> Tennyson, Jonathan/0000-0002-4994-5238},
+> }
+> 
+> @article{03KoLaHu.c2h2,
+> Author = {Kozin, I. N. and Law, M. M. and Hutson, J. M. and Tennyson, J},
+> Title = {Calculating energy levels of isomerizing tetra-atomic molecules. I. The
+> rovibrational bound states of Ar2HF},
+> Journal = {J. Chem. Phys.},
+> Year = {2003},
+> Volume = {118},
+> Number = {11},
+> Pages = {4896-4904},
+> Abstract = {A general, six-dimensional computational method for the accurate
+> calculation of rotationally and vibrationally excited states of
+> tetra-atomic molecules is developed. The resulting program is
+> particularly appropriate for molecules executing wide-amplitude motions
+> and isomerizations. An application to the Ar2HF van der Waals trimer is
+> presented in which the HF intramolecular stretching coordinate is
+> separated out adiabatically and is not treated explicitly. Vibrational
+> term values up to about 100 cm(-1) with absolute convergence to better
+> than 0.1 cm(-1) are reported. These calculations employ more extensive
+> vibrational basis sets and hence consider a much higher density of
+> states than hitherto. States that sample Ar-Ar-HF linear configurations
+> and approach Ar-HF-Ar linear configurations are characterized for the
+> first time. Results for total angular momentum J=0 and 1 provide the
+> first accurate calculations of rotational constants for this system. The
+> rotational constants for the HF bending states of Ar2HF in the ground
+> and first vibrationally excited states of the HF monomer are in good
+> agreement with experiment, confirming the accuracy of the potential used
+> in this work. (C) 2003 American Institute of Physics.},
+> DOI = {10.1063/1.1545109},
+> ISSN = {0021-9606},
+> Keywords-Plus = {Nonadditive Intermolecular Forces; Der-Waals Trimers; Quantum-Mechanics; Ab-Initio; Vector Parametrization; Infrared-Spectroscopy; Vibrational-States; Van; Spectra; AR-2-HF},
+> ResearcherID-Numbers = {Tennyson, Jonathan/I-2222-2012
+> Hutson, Jeremy/F-4748-2012},
+> ORCID-Numbers = {Tennyson, Jonathan/0000-0002-4994-5238
+> Hutson, Jeremy/0000-0002-4344-6622},
+530c722
+< @article{98MaLeTa.C2H2,
+---
+> @article{98MaLeTa.c2h2,
+534c726
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+536a729
+> Number = {2},
+555c748
+< (HCCH)-C-13-C-13 with a mean absolute error of 1.3 cm$^{-1}$, and the
+---
+> (HCCH)-C-13-C-13 with a mean absolute error of 1.3 cm(-1), and the
+561c754
+< field is proposed. },
+---
+> field is proposed. (C) 1998 American Institute of Physics.},
+562a756
+> ISSN = {0021-9606},
+564a759,761
+> ResearcherID-Numbers = {Lee, Timothy/K-2838-2012
+> Martin, Jan/A-7457-2008},
+> ORCID-Numbers = {Martin, Jan/0000-0002-0005-5074},
+567c764
+< @article{91McSixx.C2H2,
+---
+> @article{91McSixx.c2h2,
+570c767
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+572a770
+> Number = {5},
+588a787
+> ISSN = {0021-9606},
+593c792
+< @article{02Mixxxx.C2H2,
+---
+> @article{02Mixxxx.c2h2,
+596c795
+< Journal = MP,
+---
+> Journal = {Mol. Phys.},
+598a798
+> Number = {1},
+600a801
+> ISSN = {0026-8976},
+603c804
+< @article{08OrVoxx.C2H2,
+---
+> @article{08OrVoxx.c2h2,
+609a811
+> Number = {1},
+630a833
+> URL = {http://dx.doi.org/10.1089/ast.2007.0183},
+631a835
+> ISSN = {1531-1074},
+636c840
+< @article{97PaScxx.C2H2,
+---
+> @article{97PaScxx.c2h2,
+641c845
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+643a848
+> Number = {11},
+655c860
+< positions are -0.11, -0.04, -0.01, 0.02, and 0.07 cm$^{-1}$. Nonadiabatic
+---
+> positions are -0.11, -0.04, -0.01, 0.02, and 0.07 cm(-1). Nonadiabatic
+659c864
+< agreement is not as good, with a root-mean-square error of 0.25 cm$^{-1}$
+---
+> agreement is not as good, with a root-mean-square error of 0.25 cm(-1)
+661c866
+< cm$^{-1}$ by including a small asymmetric correction to the PES, which is
+---
+> cm(-1) by including a small asymmetric correction to the PES, which is
+668c873,874
+< our PES and dipole moment function.},
+---
+> our PES and dipole moment function. (C) 1997 American Institute of
+> Physics.},
+669a876
+> ISSN = {0021-9606},
+671a879
+> ResearcherID-Numbers = {schwenke, david/I-3564-2013},
+674c882
+< @article{28Poxxxx.C2H2,
+---
+> @article{28Poxxxx.c2h2,
+680a889
+> Number = {5},
+682a892
+> ISSN = {0031-899X},
+685c895
+< @article{75Poxxxx.C2H2,
+---
+> @article{75Poxxxx.c2h2,
+691a902
+> Number = {2},
+692a904
+> ISSN = {0030-4034},
+695c907
+< @article{82RiBaRa.C2H2,
+---
+> @article{82RiBaRa.c2h2,
+697,699c909,911
+< Title = {{Acetylene bands observed in carbon stars - a laboratory study and an
+< illustrative example of its application to IRC+10216}},
+< Journal = ApJS,
+---
+> Title = {Acetylene bands observed in carbon stars - a laboratory study and an
+> illustrative example of its application to {IRC+10216}},
+> Journal = {Astrophys. J. Suppl.},
+701a914
+> Number = {4},
+702a916
+> URL = {http://dx.doi.org/10.1086/190808},
+703a918
+> ISSN = {0067-0049},
+706c921
+< @article{39Saxxxx.C2H2,
+---
+> @article{39Saxxxx.c2h2,
+709c924
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+711a927
+> Number = {6},
+713a930
+> ISSN = {0021-9606},
+716c933
+< @article{96Scxxxx.C2H2,
+---
+> @article{96Scxxxx.c2h2,
+722a940
+> Number = {8},
+739a958
+> ISSN = {0022-3654},
+741a961
+> ResearcherID-Numbers = {schwenke, david/I-3564-2013},
+744c964
+< @article{93Scxxxx.C2H2,
+---
+> @article{93Scxxxx.c2h2,
+749a970
+> Number = {6455},
+751a973
+> ISSN = {0028-0836},
+752a975
+> ResearcherID-Numbers = {Scuseria, Gustavo/F-6508-2011},
+755c978
+< @article{88SiRiLe.C2H2,
+---
+> @article{88SiRiLe.c2h2,
+758c981
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+760a984
+> Number = {5},
+762a987,992
+> ISSN = {0021-9606},
+> ResearcherID-Numbers = {Simandiras, Emmanuel/F-8867-2012
+> Rice, Julia/K-4928-2012
+> Lee, Timothy/K-2838-2012},
+> ORCID-Numbers = {Rice, Julia/0000-0001-5059-5127
+> },
+765c995
+< @article{76StMixx.C2H2,
+---
+> @article{76StMixx.c2h2,
+768c998
+< Journal = JMS,
+---
+> Journal = {J. Mol. Spectrosc.},
+770a1001
+> number = {1},
+772a1004
+> issn = {0022-2852},
+775,776c1007,1008
+< @article{70stxxxx.C2H2,
+< author = {Strey, g},
+---
+> @article{70stxxxx.c2h2,
+> author = {strey, g},
+780c1012,1013
+< Volume = \[25},
+---
+> Volume = {A 25},
+> Number = {12},
+784c1017,1032
+< @article{69SuOvxx.C2H2,
+---
+> @article{87SuTexx.c2h2,
+> Author = {Sutcliffe, B. T. And Tennyson, J},
+> Title = {Variational-methods for the calculation of rovibrational energy-levels
+> of small molecules},
+> Journal = {Journal of the Chemical Society - Faraday Transactions II},
+> Year = {1987},
+> Volume = {83},
+> Number = {9},
+> Pages = {1663-1674},
+> DOI = {10.1039/f29878301663},
+> ISSN = {0300-9238},
+> ResearcherID-Numbers = {Tennyson, Jonathan/I-2222-2012},
+> ORCID-Numbers = {Tennyson, Jonathan/0000-0002-4994-5238},
+> }
+> 
+> @article{69SuOvxx.c2h2,
+789c1037
+< Journal = SCAA,
+---
+> Journal = {SCAA - Molecular Spectroscopy},
+791c1039,1040
+< Volume = {25},
+---
+> Volume = {A 25},
+> Number = {5},
+796,797c1045,1225
+< @article{51Vaxxxx.C2H2,
+< Author = {Van Vleck, J. H.},
+---
+> @article{92TeSuxx.c2h2,
+> Author = {Tennyson, J and Sutcliffe, B. T.},
+> Title = {Discretization to avoid singularities in vibration-rotation hamiltonians
+> - a bisector embedding for AB2 triatomics},
+> Journal = IJQC,
+> Year = {1992},
+> Volume = {42},
+> Number = {4},
+> Pages = {941-952},
+> Abstract = {A previously proposed {[}Sutcliffe and Tennyson, Int. J. Quantum Chem.
+> 29, 183 (1991)] body-fixed Hamiltonian is applied to AB2 systems in
+> Radau coordinates with the x-axis embedded along the bisector of the
+> angle. It is shown that by using a discrete variable representation for
+> the angular coordinate it is possible to avoid singular regions of the
+> Hamiltonian. A two-step variational procedure is used to obtain
+> rotationally excited states of the system. The results of test
+> calculations H2S and D2S with J = 0, 1, 5, and 10 are discussed along
+> with computer-usage characteristics.},
+> DOI = {10.1002/qua.560420429},
+> ISSN = {0020-7608},
+> Keywords-Plus = {Discrete Variable Representation; Floppy Molecules; Rovibrational
+> States; Variational Method; Excited-States; Energy-Levels; Spectra; HCN/HNC; Water},
+> ResearcherID-Numbers = {Tennyson, Jonathan/I-2222-2012},
+> ORCID-Numbers = {Tennyson, Jonathan/0000-0002-4994-5238},
+> }
+> 
+> @article{86Texxxx.c2h2,
+> Author = {Tennyson, J},
+> Title = {The calculation of the vibration-rotation energies of
+> triatomic-molecules using scattering coordinates},
+> Journal = {Comp. Phys. Rep.},
+> Year = {1986},
+> Volume = {4},
+> Number = {1},
+> Pages = {1-36},
+> DOI = {10.1016/0167-7977(86)90005-5},
+> ISSN = {0167-7977},
+> ResearcherID-Numbers = {Tennyson, Jonathan/I-2222-2012},
+> ORCID-Numbers = {Tennyson, Jonathan/0000-0002-4994-5238},
+> }
+> 
+> @article{16TeYuAl.c2h2,
+> Author = {Tennyson, Jonathan and Yurchenko, Sergei N. and Al-Refaie, Ahmed F. and
+> Barton, Emma J. and Chubb, Katy L. and Coles, Phillip A. and
+> Diamantopoulou, S. and Gorman, Maire N. and Hill, Christian and Lam,
+> Aden Z. and Lodi, Lorenzo and McKemmish, Laura K. and Na, Yueqi and
+> Owens, Alec and Polyansky, Oleg L. and Rivlin, Tom and Sousa-Silva,
+> Clara and Underwood, Daniel S. and Yachmenev, Andrey and Zak, Emil},
+> Title = {{The ExoMol database: Molecular line lists for exoplanet and other hot
+> atmospheres}},
+> Journal = {J. Mol. Spectrosc.},
+> Year = {2016},
+> Volume = {327},
+> Number = {SI},
+> Pages = {73-94},
+> Abstract = {The ExoMol database (www.exomol.com) provides extensive line lists of
+> molecular transitions which are valid over extended temperature ranges.
+> The status of the current release of the database is reviewed and a new
+> data structure is specified. This structure augments the provision of
+> energy levels (and hence transition frequencies) and Einstein A
+> coefficients with other key properties, including lifetimes of
+> individual states, temperature-dependent cooling functions, Lande
+> g-factors, partition functions, cross sections, k coefficients and
+> transition dipoles with phase relations. Particular attention is paid to
+> the treatment of pressure broadening parameters. The new data structure
+> includes a definition file which provides the necessary information for
+> utilities accessing ExoMol through its application programming interface
+> (API). Prospects for the inclusion of new species into the database are
+> discussed. (C) 2016 Elsevier Inc. All rights reserved.},
+> URL = {http://dx.doi.org/10.1016/j.jms.2016.05.002},
+> DOI = {10.1016/j.jms.2016.05.002},
+> ISSN = {0022-2852},
+> EISSN = {1096-083X},
+> Keywords = {Infrared; Visible; Einstein A coefficients; Transition frequencies;
+> Partition functions; Cooling functions; Lifetimes; Cross sections; k
+> coefficients; Lande g-factors},
+> Keywords-Plus = {Rotational-Vibrational Spectra; Iupac Critical-Evaluation; Transition
+> Wave-Numbers; Broadened Half-Widths; Temperature Partition-Function;
+> Stellar Magnetic-Fields; High-Resolution Spectra; Ab-Initio
+> Calculations; Electron Mass-Ratio; Paschen-Back Regime},
+> ResearcherID-Numbers = {Tennyson, Jonathan/I-2222-2012
+> Yurchenko, Sergey/G-9929-2012},
+> ORCID-Numbers = {Tennyson, Jonathan/0000-0002-4994-5238
+> Yurchenko, Sergey/0000-0001-9286-9501},
+> }
+> 
+> @article{12TeYuxx.c2h2,
+> Author = {Tennyson, Jonathan and Yurchenko, Sergei N.},
+> Title = {{ExoMol: Molecular line lists for exoplanet and other atmospheres}},
+> Journal = {Mon. Not. R. Astron. Soc.},
+> Year = {2012},
+> Volume = {425},
+> Number = {1},
+> Pages = {21-33},
+> Abstract = {The discovery of extrasolar planets is one of the major scientific
+> advances of the last two decades. Hundreds of planets have now been
+> detected and astronomers are beginning to characterize their composition
+> and physical characteristics. To do this requires a huge quantity of
+> spectroscopic data most of which are not available from laboratory
+> studies. The ExoMol project will offer a comprehensive solution to this
+> problem by providing spectroscopic data on all the molecular transitions
+> of importance in the atmospheres of exoplanets. These data will be
+> widely applicable to other problems and will be used for studies on cool
+> stars, brown dwarfs and circumstellar environments. This paper lays out
+> the scientific foundations of this project and reviews previous work in
+> this area. A mixture of first principles and empirically tuned quantum
+> mechanical methods will be used to compute comprehensive and very large
+> rotationvibration and rotationvibrationelectronic line lists.
+> Methodologies will be developed for treating larger molecules such as
+> methane and nitric acid. ExoMol will rely on these developments and the
+> use of state-of-the-art computing.},
+> URL = {http://dx.doi.org/10.1111/j.1365-2966.2012.21440.x},
+> DOI = {10.1111/j.1365-2966.2012.21440.x},
+> ISSN = {0035-8711},
+> EISSN = {1365-2966},
+> Keywords = {molecular data; opacity; astronomical data bases: miscellaneous; planets
+> and satellites: atmospheres; stars: low-mass},
+> Keywords-Plus = {Emission Pumping Spectroscopy; Cool Stellar Atmospheres; Initio
+> Dipole-Moment; Rotational-Vibrational Spectra;
+> Laser-Induced-Fluorescence; Iupac Critical-Evaluation; Transition
+> Wave-Numbers; Near-Infrared Spectrum; Low Mass Stars; Ab-Initio},
+> ResearcherID-Numbers = {Tennyson, Jonathan/I-2222-2012
+> Yurchenko, Sergey/G-9929-2012},
+> ORCID-Numbers = {Tennyson, Jonathan/0000-0002-4994-5238
+> Yurchenko, Sergey/0000-0001-9286-9501},
+> }
+> 
+> @article{16TsRoWa.c2h2,
+> Author = {Tsiaras, A. and Rocchetto, M. and Waldmann, I. P. and Venot, O. and
+> Varley, R. and Morello, G. and Damiano, M. and Tinetti, G. and Barton,
+> E. J. and Yurchenko, S. N. and Tennyson, J.},
+> Title = {{Detection Of An Atmosphere Around The Super-Earth 55 Cancri E}},
+> Journal = {Astrophys. J.},
+> Year = {2016},
+> Volume = {820},
+> Number = {2},
+> Abstract = {We report the analysis of two new spectroscopic observations in the
+> near-infrared of the super-Earth 55 Cancri e, obtained with the WFC3
+> camera on board the Hubble Space Telescope. 55 Cancri e orbits so close
+> to its parent star that temperatures much higher than 2000 K are
+> expected on its surface. Given the brightness of 55 Cancri, the
+> observations were obtained in scanning mode, adopting a very long
+> scanning length and a very high scanning speed. We use our specialized
+> pipeline to take into account systematics introduced by these
+> observational parameters when coupled with the geometrical distortions
+> of the instrument. We measure the transit depth per wavelength channel
+> with an average relative uncertainty of 22 ppm per visit and find
+> modulations that depart from a straight line model with a 6 sigma
+> confidence level. These results suggest that 55 Cancri e is surrounded
+> by an atmosphere, which is probably hydrogen-rich. Our fully Bayesian
+> spectral retrieval code, T-REx, has identified HCN to be the most likely
+> molecular candidate able to explain the features at 1.42 and 1.54 mu m.
+> While additional spectroscopic observations in a broader wavelength
+> range in the infrared will be needed to confirm the HCN detection, we
+> discuss here the implications of such a result. Our chemical model,
+> developed with combustion specialists, indicates that relatively high
+> mixing ratios of HCN may be caused by a high C/O ratio. This result
+> suggests this super-Earth is a carbon-rich environment even more exotic
+> than previously thought.},
+> URL = {http://dx.doi.org/10.3847/0004-637X/820/2/99},
+> DOI = {10.3847/0004-637X/820/2/99},
+> Article-Number = {99},
+> ISSN = {0004-637X},
+> EISSN = {1538-4357},
+> Keywords = {methods: data analysis; methods: statistical; planets and satellites:
+> atmospheres; planets and satellites: individual (55 Cancri e);
+> techniques: spectroscopic},
+> Keywords-Plus = {Hubble-Space-Telescope; Exoplanet Hd 209458b; Exomol Line Lists;
+> Molecular Spectroscopic Database; Extrasolar Planet; Transmission Spectrum; Water-Vapor; Gj 1214b; Emission-Spectroscopy; Dayside Spectrum},
+> ResearcherID-Numbers = {Tennyson, Jonathan/I-2222-2012
+> Yurchenko, Sergey/G-9929-2012
+> },
+> ORCID-Numbers = {Tennyson, Jonathan/0000-0002-4994-5238
+> Yurchenko, Sergey/0000-0001-9286-9501
+> Waldmann, Ingo/0000-0002-4205-5267
+> Tinetti, Giovanna/0000-0001-6058-6654
+> Varley, Ryan/0000-0002-5145-7647},
+> }
+> 
+> @article{51Vaxxxx.c2h2,
+> Author = {VanVleck, J. H.},
+801a1230
+> Number = {3},
+803a1233
+> ISSN = {0034-6861},
+806c1236
+< @article{68Waxxxx.C2H2,
+---
+> @article{68Waxxxx.c2h2,
+809c1239
+< Journal = MP,
+---
+> Journal = {Mol. Phys.},
+822a1253
+> ISSN = {0026-8976},
+825c1256
+< @article{70Waxxxx.C2H2,
+---
+> @article{70Waxxxx.c2h2,
+828c1259
+< Journal = MP,
+---
+> Journal = {Mol. Phys.},
+830a1262
+> Number = {4},
+832a1265
+> ISSN = {0026-8976},
+835c1268
+< @article{93Waxxxx.C2H2,
+---
+> @article{93Waxxxx.c2h2,
+838c1271
+< Journal = MP,
+---
+> Journal = {Mol. Phys.},
+840a1274
+> Number = {5},
+866a1301
+> ISSN = {0026-8976},
+869c1304
+< @article{36WiHoxx.C2H2,
+---
+> @article{36WiHoxx.c2h2,
+873c1308
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+875a1311
+> Number = {4},
+877a1314
+> ISSN = {0021-9606},
+880c1317
+< @article{03XuGuZo.C2H2,
+---
+> @article{03XuGuZo.c2h2,
+883c1320
+< Journal = CPL,
+---
+> Journal = {Chem. Phys. Lett.},
+885a1323
+> Number = {5-6},
+895c1333,1334
+< vibrational levels that have been accurately determined experimentally.},
+---
+> vibrational levels that have been accurately determined experimentally.
+> (C) 2003 Elsevier B.V. All rights reserved.},
+896a1336
+> ISSN = {0009-2614},
+898a1339,1340
+> ResearcherID-Numbers = {Guo, Hua/J-2685-2014},
+> ORCID-Numbers = {Guo, Hua/0000-0001-9901-053X},
+901c1343
+< @article{02XuLiXi.C2H2,
+---
+> @article{02XuLiXi.c2h2,
+905c1347
+< Journal = CPL,
+---
+> Journal = {Chem. Phys. Lett.},
+907a1350
+> Number = {5-6},
+911c1354
+< to 13,000 cm$^{-1}$ above the zero-point-energy level. The calculations
+---
+> to 13,000 cm(-1) above the zero-point-energy level. The calculations
+916c1359,1361
+< experimental and previous theoretical results. },
+---
+> experimental and previous theoretical results. (C) 2002 Elsevier Science
+> B.V. All rights reserved.},
+> URL = {http://dx.doi.org/10.1016/S0009-2614(02)01503-8},
+917a1363,1364
+> Article-Number = {PII S0009-2614(02)01503-8},
+> ISSN = {0009-2614},
+919a1367,1369
+> ResearcherID-Numbers = {Li, Guohui/C-2271-2012
+> Guo, Hua/J-2685-2014},
+> ORCID-Numbers = {Guo, Hua/0000-0001-9901-053X},
+922c1372
+< @article{15YaYuxx.C2H2,
+---
+> @article{15YaYuxx.c2h2,
+927c1377
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+929a1380
+> Number = {1},
+948c1399
+< molecules.},
+---
+> molecules. (C) 2015 AIP Publishing LLC.},
+950c1401,1403
+< pages = {014105},
+---
+> Article-Number = {014105},
+> ISSN = {0021-9606},
+> EISSN = {1089-7690},
+952a1406,1407
+> ResearcherID-Numbers = {Yurchenko, Sergey/G-9929-2012},
+> ORCID-Numbers = {Yurchenko, Sergey/0000-0001-9286-9501},
+955c1410
+< @article{85YaBiAl.C2H2,
+---
+> @article{85YaBiAl.c2h2,
+958c1413
+< Journal = JMS,
+---
+> Journal = {J. Mol. Spectrosc.},
+960a1416
+> Number = {2},
+962a1419
+> ISSN = {0022-2852},
+965c1422
+< @article{07YuWaJe.C2H2,
+---
+> @article{07YuWaJe.c2h2,
+969c1426
+< Journal = JMS,
+---
+> Journal = {J. Mol. Spectrosc.},
+971a1429
+> Number = {2},
+992c1450
+< Schrodinger equation. },
+---
+> Schrodinger equation. (c) 2007 Elsevier Inc. All rights reserved.},
+993a1452
+> ISSN = {0022-2852},
+997a1457,1460
+> ResearcherID-Numbers = {Yurchenko, Sergey/G-9929-2012
+> Thiel, Walter/A-5677-2016},
+> ORCID-Numbers = {Yurchenko, Sergey/0000-0001-9286-9501
+> Thiel, Walter/0000-0001-6780-0350},
+1000,1001c1463,1464
+< @article{03ZoBoxx.C2H2,
+< Author = {Zou, S. L. and Bowman, J M},
+---
+> @article{03ZoBoxx.c2h2,
+> Author = {Zou, S. L. and Bowman, JM},
+1004c1467
+< Journal = CPL,
+---
+> Journal = {Chem. Phys. Lett.},
+1006a1470
+> Number = {3-4},
+1016c1480,1481
+< energies are also reported and compared to experiment. },
+---
+> energies are also reported and compared to experiment. (C) 2002 Elsevier
+> Science B.V. All rights reserved.},
+1017a1483,1484
+> Article-Number = {PII S0009-2614(02)01911-5},
+> ISSN = {0009-2614},
+1021c1488
+< @article{64KoWoxx.C2H2,
+---
+> @article{64KoWoxx.c2h2,
+1024c1491
+< journal = JCP,
+---
+> journal = {J. Chem. Phys.},
+1031c1498
+< @article{68KoWoxx.C2H2,
+---
+> @article{68KoWoxx.c2h2,
+1034c1501
+< journal = JCP,
+---
+> journal = {J. Chem. Phys.},
+1041c1508
+< @Inbook{79Soxxxx.C2H2,
+---
+> @Inbook{79Soxxxx.c2h2,
+1052c1519
+< @article{83Jexxxx.C2H2,
+---
+> @article{83Jexxxx.c2h2,
+1063c1530
+< @article{16WaCaxx.C2H2,
+---
+> @article{16WaCaxx.c2h2,
+1066c1533
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+1073c1540
+< @Inbook{06BuJexx.C2H2,
+---
+> @Inbook{06BuJexx.c2h2,
+1082c1549
+< @Inbook{55BrDeCr.C2H2,
+---
+> @Inbook{55BrDeCr.c2h2,
+1091c1558
+< @Inbook{81Suxxxx.C2H2,
+---
+> @Inbook{81Suxxxx.c2h2,
+1101c1568
+< @Book{99HeLiVa.C2H2,
+---
+> @Inbook{99HeLiVa.c2h2,
+1103c1570
+< title= {Global and Accurate Vibration Hamiltonians from High-Resolution Molecular Spectroscopy},
+---
+> title= {Advances in Chemical Physics: Global and Accurate Vibration Hamiltonians from High-Resolution Molecular Spectroscopy},
+1105d1571
+< series={Adv. Chem. Phys.},
+1108d1573
+< address = {New York, NY},
+1112c1577
+< @article{82HeLixx.C2H2,
+---
+> @article{82HeLixx.c2h2,
+1115c1580
+< journal = {J.  Chem. Educ.},
+---
+> journal = {Journal of Chemical Education},
+1119c1584,1585
+< doi = {10.1021/ed059p17},
+---
+> URL = {http://dx.doi.org/10.1021/ed059p17},
+> doi = {10.1021/ed059p17}
+1122c1588
+< @article{14KoBiBr.C2H2,
+---
+> @article{14KoBiBr.c2h2,
+1134c1600
+< @INPROCEEDINGS{07OnOkHo.C2H2,
+---
+> @INPROCEEDINGS{07OnOkHo.c2h2,
+1144,1146c1610,1612
+< @article{72Plxxxxb.C2H2,
+< title = {{Molecular constants for the bending modes of acetylene $^{12}$C$_2$H$_2$}},
+< Journal = JMS,
+---
+> @article{72Plxxxxb.c2h2,
+> title = {Molecular constants for the bending modes of acetylene {$^{12}$C$_2$H$_2$}},
+> Journal = {J. Mol. Spectrosc.},
+1150a1617
+> URL = {http://dx.doi.org/10.1016/0022-2852(72)90199-3},
+1152c1619
+< abstract = {The problem of the bending vibrations and of the vibrational l-type resonance in the acetylene molecule is briefly reviewed and the vibration-rotation energy matrix is given in explicit form for various higher excited states of the bending modes ν4 and ν5. New extensive data available for the molecule of $^{12}$C$_2$H$_2$ are used to obtain a set of vibrational, vibration-rotation coupling, and centrifugal constants in the fourth-order energy expression for the excited bending states. A set of 40 molecular constants capable of reproducing a total of ∼1200 vibrational-rotational energy levels with a standard deviation of 0.006 cm−1 is tabulated.}
+---
+> abstract = {The problem of the bending vibrations and of the vibrational l-type resonance in the acetylene molecule is briefly reviewed and the vibration-rotation energy matrix is given in explicit form for various higher excited states of the bending modes ν4 and ν5. New extensive data available for the molecule of 12C2H2 are used to obtain a set of vibrational, vibration-rotation coupling, and centrifugal constants in the fourth-order energy expression for the excited bending states. A set of 40 molecular constants capable of reproducing a total of ∼1200 vibrational-rotational energy levels with a standard deviation of 0.006 cm−1 is tabulated.}
+1155c1622
+< @article{72Plxxxxa.C2H2,
+---
+> @article{72Plxxxxa.c2h2,
+1157c1624
+< Journal = JMS,
+---
+> Journal = {J. Mol. Spectrosc.},
+1161a1629
+> URL = {http://dx.doi.org/10.1016/0022-2852(72)90198-1},
+1166c1634
+< @article{73FoInxx.C2H2,
+---
+> @article{73FoInxx.c2h2,
+1168c1636
+< Journal = CPL,
+---
+> Journal = {Chem. Phys. Lett.},
+1169a1638
+> number = {3},
+1171a1641
+> issn = {0009-2614},
+1173,1174c1643,1645
+< author = {P. D. Foo and K. K. Innes},
+< abstract = {A discontinuity in 13C-isotope shifts is used to fix the location of a diffuse 00 of gaseous $^{12}$C$_2$H$_2$ at 54 116 cm−1. The shifts and analogy with a known band system of HCN suggest the assignment B̃ 1Bu - X̃ 1 Σ+g for the new electronic transition.}
+---
+> url = {//www.sciencedirect.com/science/article/pii/0009261473870022},
+> author = {P.D. Foo and K.K. Innes},
+> abstract = {A discontinuity in 13C-isotope shifts is used to fix the location of a diffuse 00 of gaseous 12C2H2 at 54 116 cm−1. The shifts and analogy with a known band system of HCN suggest the assignment B̃ 1Bu - X̃ 1 Σ+g for the new electronic transition.}
+1177c1648
+< @ARTICLE{75VaBaxx.C2H2,
+---
+> @ARTICLE{75VaBaxx.c2h2,
+1180c1651
+<   Journal = JQSRT,
+---
+>   Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+1187c1658
+< @ARTICLE{84KoSmVi.C2H2,
+---
+> @ARTICLE{84KoSmVi.c2h2,
+1190c1661
+<   Journal = {J.  Mol. Structure},
+---
+>   Journal = {Journal of Molecular Structure},
+1197,1200c1668,1671
+< @article{93WeBlNa.C2H2,
+< author = {Mark Weber and William E Blass and Shachar Nadler and George W Halsey and William C Maguire and John J Hillman},
+< title = {{Resonance effects in C$_2$H$_2$ near 13.7 $\mu$m. Part H: The two quantum hotbands}},
+< Journal = SCAA,
+---
+> @article{93WeBlNa.c2h2,
+> author = {Weber, M. and Blass, W. E. and Nadler, S. and Halsey, G. W. and Maguire, W. C. and Hillman, J. J.},
+> title = {l-Resonance effects in {C2H2} near 13.7$mu$m. Part {II}: The two quantum hotbands},
+> Journal = {Spectrochimica Acta Part A: Molecular Spectroscopy},
+1204,1205c1675,1676
+< doi = {10.1016/0584-8539(93)80124-S},
+< abstract = {This article is the second part on ℓ-resonance effects on the rotation-vibration bands of acetylene observed in the ν5 fundamental region. While the first part concentrated on the energy level analysis of the fundamental and the seven strongest hotbands originating in the ν4 and ν5 excited states for both major isotopes [Spectrochim. Acta 48A, 1203 (1992)], this article summarizes the results of the analysis of the hotbands 2ν4 + ν5 ← 2ν4, ν4 + 2ν5 ← ν4 + ν5, and 3ν5 ← 2ν5 from which improved molecular constants for the 2ν4 and three quantum energy levels were derived for the major isotope $^{12}$C$_2$H$_2$. The mixing levels within the excited vibrational states due to vibrational and rotational ℓ-resonance effects are discussed which lead to the identification of the strong “forbidden” Δℓ 3 band, 2ν4+ ν35←2νOe4 as a result of ℓ-resonance intensity perturbation.}
+---
+> URL = {http://dx.doi.org/10.1016/0584-8539(93)80124-S},
+> doi = {10.1016/0584-8539(93)80124-S}
+1208,1211c1679,1682
+< @article{94WeBlHa.C2H2,
+< author = {M. Weber and W. E. Blass and G. W. Halsey and J. J. Hillman},
+< title = {I-Resonance Perturbation of IR Intensities in $^{12}$C$_2$H$_2$ near 13.7 μm},
+< Journal = JMS,
+---
+> @article{94WeBlHa.c2h2,
+> author = {M. Weber and W.E. Blass and G.W. Halsey and J.J. Hillman},
+> title = {I-Resonance Perturbation of IR Intensities in 12C2H2 near 13.7 μm},
+> Journal = {J. Mol. Spectrosc.},
+1212a1684
+> number = {1},
+1214a1687
+> issn = {0022-2852},
+1216c1689,1690
+< abstract = {Using TDL and FT spectrometric data at 0.0005 and 0.0025 cm−1 spectral resolution, respectively, individual line intensities of the ν5 fundamental and the seven strongest hot bands, ν4 + ν5 ← ν4 and 2ν5 ← ν5, of $^{12}$C$_2$H$_2$ in the 13.7-μm region have been measured. Except for the 2ν2f5 ← ν1f5 hot band, strong intensity perturbation due to l-type doubling and resonances have been quantitatively determined for all hot bands. The zeroth-order vibrational dipole moment derivative for the ν5 bending mode is identical within 10$\%$ for all bands observed. Since an extra factor of 12 appears in the square vibrational transition moment for the combination band, its intensity is reduced by half and is comparable in magnitude to the 2ν5 ← ν5 hot bands. For the ν5 fundamental a square dipole moment derivative of Γ2v = 0.09069(24)D2 has been determined.}
+---
+> url = {//www.sciencedirect.com/science/article/pii/S0022285284711143},
+> abstract = {Using TDL and FT spectrometric data at 0.0005 and 0.0025 cm−1 spectral resolution, respectively, individual line intensities of the ν5 fundamental and the seven strongest hot bands, ν4 + ν5 ← ν4 and 2ν5 ← ν5, of 12C2H2 in the 13.7-μm region have been measured. Except for the 2ν2f5 ← ν1f5 hot band, strong intensity perturbation due to l-type doubling and resonances have been quantitatively determined for all hot bands. The zeroth-order vibrational dipole moment derivative for the ν5 bending mode is identical within 10$\%$ for all bands observed. Since an extra factor of 12 appears in the square vibrational transition moment for the combination band, its intensity is reduced by half and is comparable in magnitude to the 2ν5 ← ν5 hot bands. For the ν5 fundamental a square dipole moment derivative of Γ2v = 0.09069(24)D2 has been determined.}
+1219c1693
+< @ARTICLE{72PaMiNa.C2H2,
+---
+> @ARTICLE{72PaMiNa.c2h2,
+1221,1222c1695,1696
+<     title = {{Investigations of several infrared bands of $^{12}$C$_{2}$H $_{2}$ and studies of the effects of vibrational rotational interactions}},
+<   Journal = JMS,
+---
+>     title = {Investigations of several infrared bands of {$^{12}$C$_2$H$_2$} and studies of the effects of vibrational rotational interactions},
+>   Journal = {J. Mol. Spectrosc.},
+1226c1700,1712
+<       doi = {10.1016/0022-2852(72)90197-X},
+---
+> URL = {http://dx.doi.org/10.1016/0022-2852(72)90197-X},
+>       doi = {10.1016/0022-2852(72)90197-X}
+> }
+> 
+> @article{93AuHuCa.c2h2,
+> Title = {The fsddfs fundamental in C2H2},
+> Journal = {J. Mol. Spectrosc.},
+> Year = {1993},
+> Volume = {157},
+> Pages = {337-357},
+> DOI = {10.1006/jmsp.1993.1027},
+> Keywords-Plus = {LINEAR-MOLECULES; ACETYLENE; BANDS; REGION; CONSTANTS; RESONANCES;
+>    C-12(2)H2; INTENSITY; SPECTRUM; CO2},
+1229,1231c1715,1718
+< @article{93VaHuCa.C2H2,
+< title = {{The $\nu_3$ Fundamental in C$_2$H$_2$}},
+< Journal = JMS,
+---
+> 
+> @article{93VaHuCa.c2h2,
+> title = {The $\nu_3$ Fundamental in {C2H2}},
+> Journal = {J. Mol. Spectrosc.},
+1234a1722
+> URL = {http://dx.doi.org/10.1006/jmsp.1993.1027},
+1236,1237c1724,1725
+< author = {J. {Vander Auwera} and D. Hurtmans and M. Carleer and M. Herman},
+< abstract = {{Absolute line positions and intensities are provided for the $\nu_3$ fundamental in C2H2 with an accuracy estimated to respectively 6 × 10−4 cm−1 and 0.05 cm−2 atm−1. Unperturbed values are derived for the energy and intensity parameters by treating the Fermi-type resonance and k-doubling effects involved through the interaction with the ν2 + ν4 + ν5 level. The complete set of k-components is included in the procedure. Fitting procedures are carried our on the line energies, the line intensities, and both sets of information simultaneously. The main results are, for the deperturbed values: E(ν3) = 3288.58075(13) cm−1, E(ν2 + ν4 + ν5) = 3296.79650(9)cm−1, k2345 = 25.86749(13) cm−1, and the transition moments Rv(ν3) = ±0.08907(3) D and Rv(ν2 + ν4 + ν5) = ∓2.63(3) × 10−3 D. with the errors (1σ) quoted on the last digits. The mixing between the various levels is quantitatively discussed.}}
+---
+> Author = {Vander Auwera, J. and Hurtmans, D. and Carleer, M. and Herman, M.},
+> abstract = {Absolute line positions and intensities are provided for the ν3 fundamental in C2H2 with an accuracy estimated to respectively 6 × 10−4 cm−1 and 0.05 cm−2 atm−1. Unperturbed values are derived for the energy and intensity parameters by treating the Fermi-type resonance and k-doubling effects involved through the interaction with the ν2 + ν4 + ν5 level. The complete set of k-components is included in the procedure. Fitting procedures are carried our on the line energies, the line intensities, and both sets of information simultaneously. The main results are, for the deperturbed values: E(ν3) = 3288.58075(13) cm−1, E(ν2 + ν4 + ν5) = 3296.79650(9)cm−1, k2345 = 25.86749(13) cm−1, and the transition moments Rv(ν3) = ±0.08907(3) D and Rv(ν2 + ν4 + ν5) = ∓2.63(3) × 10−3 D. with the errors (1σ) quoted on the last digits. The mixing between the various levels is quantitatively discussed.}
+1240c1728
+< @article{16LyPexx.C2H2,
+---
+> @article{16LyPexx.c2h2,
+1243c1731
+< Journal = JQSRT,
+---
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+1246a1735,1736
+> Note = {18th Symposium on High-Resolution Molecular Spectroscopy (HIghRus),
+>    Tomsk, RUSSIA, JUN 30-JUL 04, 2015},
+1248c1738
+<    acetylene molecule in the 50-9900 cm$^{-1}$ region has been performed using
+---
+>    acetylene molecule in the 50-9900 cm(-1) region has been performed using
+1260c1750
+<    bands with a root mean squares deviation 0.0037 cm$^{-1}$.
+---
+>    bands with a root mean squares deviation 0.0037 cm(-1).
+1267c1757,1758
+<    intensities within their experimental uncertainties 2-20\%.},
+---
+>    intensities within their experimental uncertainties 2-20\%. (C) 2016
+>    Elsevier Ltd. All rights reserved.},
+1273c1764
+< @article{16LyVaCa.C2H2,
+---
+> @article{16LyVaCa.c2h2,
+1277c1768
+< Journal = JQSRT,
+---
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+1281c1772
+< Abstract = {High resolution (0.011 cm$^{-1}$) room temperature (295 K) Fourier
+---
+> Abstract = {High resolution (0.011 cm(-1)) room temperature (295 K) Fourier
+1283,1284c1774,1775
+<    the 8280-8700 cm$^{-1}$ range dominated by the nu(1)+nu(2)+nu(3) band at
+<    8512 cm$^{-1}$. Line positions and intensities were retrieved from FTS
+---
+>    the 8280-8700 cm(-1) range dominated by the nu(1)+nu(2)+nu(3) band at
+>    8512 cm(-1). Line positions and intensities were retrieved from FTS
+1288c1779
+<    global effective operator model led to the assignment of 629 $^{12}$C$_2$H$_2$
+---
+>    global effective operator model led to the assignment of 629 (C2H2)-C-12
+1290c1781
+<    assigned using information available in the literature. The $^{12}$C$_2$H$_2$
+---
+>    assigned using information available in the literature. The (C2H2)-C-12
+1294c1785
+<    $^{12}$C$_2$H$_2$ upper vibrational levels were derived from band-by-band
+---
+>    (C2H2)-C-12 upper vibrational levels were derived from band-by-band
+1296c1787
+<    cm$^{-1}$). Three of the analyzed bands were found to be affected by
+---
+>    cm(-1)). Three of the analyzed bands were found to be affected by
+1299c1790,1792
+<    with those of the two bands included in the HITRAN 2012 database.},
+---
+>    with those of the two bands included in the HITRAN 2012 database. (C)
+>    2015 Elsevier Ltd. All rights reserved.},
+> URL = {http://dx.doi.org/10.1016/j.jqsrt.2015.11.026},
+1303c1796
+< Keywords-Plus = {MU-M REGION; $^{12}$C$_2$H$_2$; C2H2; CRDS},
+---
+> Keywords-Plus = {MU-M REGION; (C2H2)-C-12; C2H2; CRDS},
+1306c1799
+< @article{16HeLyxx.C2H2,
+---
+> @article{16HeLyxx.c2h2,
+1310c1803
+< Journal = ApJ,
+---
+> Journal = {Astrophys. J.},
+1347c1840
+< @article{16HeLyJa.C2H2,
+---
+> @article{16HeLyJa.c2h2,
+1351c1844
+< Journal = ApJ,
+---
+> Journal = {Astrophys. J.},
+1384c1877
+< @article{15DaMuFo.C2H2,
+---
+> @article{15DaMuFo.c2h2,
+1388c1881
+< Journal = ApJ,
+---
+> Journal = {Astrophys. J.},
+1392c1885
+<    Spectrometer on board the Cassini Spacecraft to extract the 1-5 $\mu$m
+---
+>    Spectrometer on board the Cassini Spacecraft to extract the 1-5 mu m
+1401c1894
+<    feature near 3.4 $\mu$m, likely caused by gaseous ethane and a C-H
+---
+>    feature near 3.4 mu m, likely caused by gaseous ethane and a C-H
+1421c1914
+< @article{15TwCiSe.C2H2,
+---
+> @article{15TwCiSe.c2h2,
+1424,1426c1917,1919
+< Title = {{Frequency-comb referenced spectroscopy of $v_4$- and $v_5$-excited hot
+<    bands in the 1.5 $\mu$m spectrum of C$_2$H$_2$}},
+< Journal = JMS,
+---
+> Title = {Frequency-comb referenced spectroscopy of $\nu_4$- and $\nu_5$-excited hot
+>    bands in the 1.5$\mu$m spectrum of {C2H2}},
+> Journal = {J. Mol. Spectrosc.},
+1447c1940,1941
+<    vibrational levels of acetylene in the 7100-7600 cm$^{-1}$ energy region.},
+---
+>    vibrational levels of acetylene in the 7100-7600 cm(-1) energy region.},
+> URL = {http://dx.doi.org/10.1016/j.jms.2015.06.010},
+1452c1946
+<    ACETYLENE; $^{12}$C$_2$H$_2$; ABUNDANCES; PROFILES; DATABASE; REGION; CM(-1)},
+---
+>    ACETYLENE; (C2H2)-C-12; ABUNDANCES; PROFILES; DATABASE; REGION; CM(-1)},
+1455c1949
+< @article{15LyVaCa.C2H2,
+---
+> @article{15LyVaCa.c2h2,
+1459c1953
+< Journal = JQSRT,
+---
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+1463c1957
+< Abstract = {High resolution (0.011 cm$^{-1}$) room temperature (295 K) Fourier
+---
+> Abstract = {High resolution (0.011 cm(-1)) room temperature (295 K) Fourier
+1465c1959
+<    between 7000 and 7500 cm$^{-1}$. Line parameters (positions, intensities
+---
+>    between 7000 and 7500 cm(-1). Line parameters (positions, intensities
+1473c1967
+<    $^{12}$C$_2$H$_2$. The assigned lines belong to 29 $^{12}$C$_2$H$_2$ bands, 12 of
+---
+>    (C2H2)-C-12. The assigned lines belong to 29 (C2H2)-C-12 bands, 12 of
+1476c1970
+<    positions (typical rms values are on the order of 0.001 cm$^{-1}$). About
+---
+>    positions (typical rms values are on the order of 0.001 cm(-1)). About
+1481c1975,1976
+<    the global effective Hamiltonian and dipole moments of $^{12}$C$_2$H$_2$},
+---
+>    the global effective Hamiltonian and dipole moments of (C2H2)-C-12},
+> URL = {http://dx.doi.org/10.1016/j.jqsrt.2015.03.018},
+1485c1980
+< Keywords-Plus = {LINE PARAMETERS; $^{12}$C$_2$H$_2$; REGION; CRDS},
+---
+> Keywords-Plus = {LINE PARAMETERS; (C2H2)-C-12; REGION; CRDS},
+1488c1983
+< @article{15VeHeAg.C2H2,
+---
+> @article{15VeHeAg.c2h2,
+1537c2032
+< @article{14DhRaxx.C2H2,
+---
+> @article{14DhRaxx.c2h2,
+1540c2035
+< Journal = MNRAS,
+---
+> Journal = {Mon. Not. R. Astron. Soc.},
+1568c2063
+< @article{14RiHeBi.C2H2,
+---
+> @article{14RiHeBi.c2h2,
+1572c2067
+< Journal = {Intern. J. Astrobiology},
+---
+> Journal = {INTERNATIONAL Journal OF ASTROBIOLOGY},
+1599c2094
+< @article{14HuSexx.C2H2,
+---
+> @article{14HuSexx.c2h2,
+1604c2099
+< Journal = ApJ,
+---
+> Journal = {Astrophys. J.},
+1623c2118
+<    1.5 $\mu$m in transmission and C2H2 and C2H4 features at 9-14 $\mu$m in
+---
+>    1.5 mu m in transmission and C2H2 and C2H4 features at 9-14 mu m in
+1643c2138
+< @article{13CiFoMc.C2H2,
+---
+> @article{13CiFoMc.c2h2,
+1677c2172
+< @article{13BiRiHe.C2H2,
+---
+> @article{13BiRiHe.c2h2,
+1681c2176
+< Journal = MNRAS,
+---
+> Journal = {Mon. Not. R. Astron. Soc.},
+1714c2209
+< @article{13ZoGiBa.C2H2,
+---
+> @article{13ZoGiBa.c2h2,
+1719c2214
+< Journal = JQSRT,
+---
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+1724,1725c2219,2220
+<    (5870-6130 cm$^{-1}$) and acetylene between 193 THz and 199 THz (6430-6630
+<    cm$^{-1}$) are acquired via comb-tooth resolved dual comb spectroscopy with
+---
+>    (5870-6130 cm(-1)) and acetylene between 193 THz and 199 THz (6430-6630
+>    cm(-1)) are acquired via comb-tooth resolved dual comb spectroscopy with
+1742c2237,2240
+<    much improved frequency accuracy.},
+---
+>    much improved frequency accuracy.
+>    Work of the US government, not subject to US copyright. Published by
+>    Elsevier Ltd.},
+> URL = {http://dx.doi.org/10.1016/j.jqsrt.2012.11.024},
+1749c2247
+< @article{13MoMaVi.C2H2,
+---
+> @article{13MoMaVi.c2h2,
+1753c2251
+< Journal = ApJ,
+---
+> Journal = {Astrophys. J.},
+1777c2275
+<    in the 3.6 and 8.0 $\mu$m Spitzer channels, potentially providing even
+---
+>    in the 3.6 and 8.0 mu m Spitzer channels, potentially providing even
+1800c2298
+< @article{12WoWaCo.C2H2,
+---
+> @article{12WoWaCo.c2h2,
+1803c2301
+< Journal = MNRAS,
+---
+> Journal = {Mon. Not. R. Astron. Soc.},
+1830c2328
+< @article{12McKhAm.C2H2,
+---
+> @article{12McKhAm.c2h2,
+1835c2333
+< Journal = PSS,
+---
+> Journal = {PLANETARY AND SPACE SCIENCE},
+1868c2366
+<    plume. },
+---
+>    plume. Published by Elsevier Ltd.},
+1875c2373
+< @article{11DrYuxx.C2H2,
+---
+> @article{11DrYuxx.c2h2,
+1877,1878c2375,2376
+< Title = {{Acetylene spectra near 2.6 THz}},
+< Journal = JMS,
+---
+> Title = {Acetylene spectra near 2.6 {THz}},
+> Journal = {J. Mol. Spectrosc.},
+1884a2383
+> URL = {http://dx.doi.org/10.1016/j.jms.2011.06.004},
+1890c2389
+< @article{11BaCaxx.C2H2,
+---
+> @article{11BaCaxx.c2h2,
+1896a2396
+> Number = {3},
+1924c2424
+< @article{11MoViFo.C2H2,
+---
+> @article{11MoViFo.c2h2,
+1930c2430
+< Journal = ApJ,
+---
+> Journal = {Astrophys. J.},
+1969c2469
+< @article{11AmHeFa.C2H2,
+---
+> @article{11AmHeFa.c2h2,
+1971,1972c2471,2472
+< Title = {{Acetylene, ($^{12}$C$_2$H$_2$): Refined analysis of CRDS spectra around 1.52 $\mu$m}},
+< Journal = JMS,
+---
+> Title = {Acetylene, {(C2H2)-C-12}: Refined analysis of {CRDS} spectra around 1.52 $\mu$m},
+> Journal = {J. Mol. Spectrosc.},
+1976c2476
+< Abstract = {The analysis of CW-cavity ring down absorption spectra of $^{12}$C$_2$H$_2$
+---
+> Abstract = {The analysis of CW-cavity ring down absorption spectra of (C2H2)-C-12
+1978c2478
+<    improved in the range 6667-7015 cm$^{-1}$. Some 1825 lines were newly
+---
+>    improved in the range 6667-7015 cm(-1). Some 1825 lines were newly
+1982,1983c2482,2483
+<    $^{12}$C$_2$H$_2$ database containing 18 415 lines, including those newly
+<    assigned, was performed, accessing vibrational states up to 8900 cm$^{-1}$.
+---
+>    (C2H2)-C-12 database containing 18 415 lines, including those newly
+>    assigned, was performed, accessing vibrational states up to 8900 cm(-1).
+1991a2492
+> URL = {http://dx.doi.org/10.1016/j.jms.2011.02.015},
+2000c2501
+< @article{11McCiLo.C2H2,
+---
+> @article{11McCiLo.c2h2,
+2005c2506
+< Journal = JMS,
+---
+> Journal = {J. Mol. Spectrosc.},
+2014c2515
+<    the most appropriate, hard collision, model in units of cm$^{-1}$/atm, we
+---
+>    the most appropriate, hard collision, model in units of cm(-1)/atm, we
+2030c2531
+< @inproceedings{11MaCaxx.C2H2,
+---
+> @inproceedings{11MaCaxx.c2h2,
+2032c2533
+< Editor = {Kerschbaum, F and Lebzelter, T and Wing, R F},
+---
+> Editor = {Kerschbaum, F and Lebzelter, T and Wing, RF},
+2036c2537
+< Series = ASPCS,
+---
+> Series = {Astronomical Society of the Pacific Conference Series},
+2057,2061c2558,2562
+< @article{10GoJaLa.C2H2,
+< Author = {Gomez, L. and Jacquemart, D. and Lacome, N. and Mandin, J.-Y.},
+< Title = {{New line intensity measurements for $^{12}$C$_2$H$_2$ around 7.7 $\mu$m and
+<    HITRAN format line list for applications}},
+< Journal = JQSRT,
+---
+> @article{10GoJaLa.c2h2,
+> Author = {Gomez, L. and Jacquemart, D. and Lacome, N. and Mandin, J. Y.},
+> Title = {New line intensity measurements for {(C2H2)-C-12} around 7.7$\mu$m and
+>    HITRAN format line list for applications},
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+2066c2567
+<    m spectral region of the $^{12}$C$_2$H$_2$ molecule, with an average accuracy
+---
+>    m spectral region of the (C2H2)-C-12 molecule, with an average accuracy
+2072,2073c2573,2574
+<    work for the 8 strongest bands around 7.7 $\mu$m In these new data give
+<    now a quasi-exhaustive view of the $^{12}$C$_2$H$_2$ spectrum in the involved
+---
+>    work for the 8 strongest bands around 7.7 mu m In these new data give
+>    now a quasi-exhaustive view of the (C2H2)-C-12 spectrum in the involved
+2074a2576
+> URL = {http://dx.doi.org/10.1016/j.jqsrt.2010.01.031},
+2082c2584
+< @article{10DiHexx.C2H2,
+---
+> @article{10DiHexx.c2h2,
+2086c2588
+< Journal = CPL,
+---
+> Journal = {Chem. Phys. Lett.},
+2092c2594,2595
+<    dynamics, and astrochemistry..},
+---
+>    dynamics, and astrochemistry. (C) 2010 Elsevier B.V. All rights
+>    reserved.},
+2095c2598
+<    DYNAMICS; NORMAL-MODES; MU-M; SPECTRA; $^{12}$C$_2$H$_2$; LASER; C2H2; CM(-1)},
+---
+>    DYNAMICS; NORMAL-MODES; MU-M; SPECTRA; (C2H2)-C-12; LASER; C2H2; CM(-1)},
+2098c2601
+< @article{10AmHeFa.C2H2,
+---
+> @article{10AmHeFa.c2h2,
+2101,2103c2604,2606
+< Title = {{High resolution FTIR investigation of $^{12}$C$_2$H$_2$ in the FIR spectral
+<    range using synchrotron radiation}},
+< Journal = CPL,
+---
+> Title = {High resolution {FTIR} investigation of {(C2H2)-C-12} in the {FIR} spectral
+>    range using synchrotron radiation},
+> Journal = {Chem. Phys. Lett.},
+2110c2613
+<    bands in $^{12}$C$_2$H$_2$, 38 of which are reported for the first time. Two
+---
+>    bands in (C2H2)-C-12, 38 of which are reported for the first time. Two
+2113a2617
+> URL = {http://dx.doi.org/10.1016/j.cplett.2010.03.053},
+2118c2622,2655
+< @article{09GoJaLa.C2H2,
+---
+> @article{10UrKoMu.c2h2,
+> Author = {Urru, Andrea and Kozin, Igor N. and Mulas, Giacomo and Braams, Bastiaan
+>    J. and Tennyson, Jonathan},
+> Title = {Ro-vibrational spectra of C2H2 based on variational nuclear motion
+>    calculations},
+> Journal = {Mol. Phys.},
+> Year = {2010},
+> Volume = {108},
+> Number = {15},
+> Pages = {1973-1990},
+> Abstract = {A published ab initio-based potential energy surface and newly
+>    constructed dipole moment surface of acetylene have been used to compute
+>    vibrational band intensities. The line intensity calculations employed
+>    the variational nuclear motion code WAVR4 for computation of wave
+>    functions and energy levels, and a newly developed code DIPOLE4 for
+>    computation of dipole transitions. Owing to the high computational cost
+>    of J>0 transitions using direct variational methods only J=0 and J=1
+>    states and transitions have been computed variationally. The intensities
+>    of J>1 transitions were extrapolated from J=0 and J=1 using Honl-London
+>    coefficients. The resulting effective rotational constants B and
+>    transition intensities are compared with experimental data for the (3
+>    nu(4)+nu(5)) combination band, the nu(3) and the nu(5) fundamental band.
+>    The prospects of using this procedure for extensive calculations of a
+>    hot line list, important for cool stars and extrasolar planets are
+>    discussed.},
+> DOI = {10.1080/00268976.2010.499858},
+> Keywords = {infrared spectra; variational; molecular opacity},
+> Keywords-Plus = {POTENTIAL-ENERGY SURFACE; DIMENSIONALITY QUANTUM CALCULATIONS; MOLECULAR
+>    SPECTROSCOPIC DATABASE; INFRARED TRANSITION INTENSITIES; MU-M;
+>    AB-INITIO; LINE-INTENSITIES; POLYATOMIC-MOLECULES; CARBON STARS;
+>    ACETYLENE/VINYLIDENE ISOMERIZATION},
+> }
+> 
+> @article{09GoJaLa.c2h2,
+2120,2121c2657,2658
+< Title = {{Line intensities of $^{12}$C$_2$H$_2$ in the 7.7 $\mu$m spectral region}},
+< Journal = JQSRT,
+---
+> Title = {Line intensities of {(C2H2)-C-12} in the 7.7$\mu$m spectral region},
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+2126c2663
+<    $\mu$m spectral region of the $^{12}$C$_2$H$_2$ molecule, with an average
+---
+>    mu m spectral region of the (C2H2)-C-12 molecule, with an average
+2132a2670
+> URL = {http://dx.doi.org/10.1016/j.jqsrt.2009.05.018},
+2140c2678
+< @article{09YuDrPe.C2H2,
+---
+> @article{09YuDrPe.c2h2,
+2142,2144c2680,2682
+< Title = {TERAHERTZ SPECTROSCOPY OF THE BENDING VIBRATIONS OF ACETYLENE
+<    {$^{12}$C$_2$H$_2$}},
+< Journal = ApJ,
+---
+> Title = {TERAHERTZ SPECTROSCOPY OF THE BENDING VIBRATIONS OF ACETYLENE(C2H2)-C-12},
+> Title = {Terahertz spectroscopy of the bending vibrations of acetylene {(C2H2-C12)}},
+> Journal = {Astrophys. J.},
+2148c2686
+< Abstract = {Twenty P-branch transitions of $^{12}$C$_2$H$_2$ have been measured in the
+---
+> Abstract = {Twenty P-branch transitions of (C2H2)-C-12 have been measured in the
+2151c2689
+<    $^{12}$C$_2$H$_2$ molecules were generated under room temperature by passing
+---
+>    (C2H2)-C-12 molecules were generated under room temperature by passing
+2155c2693
+<    predictions of $^{12}$C$_2$H$_2$ in the terahertz region have been greatly
+---
+>    predictions of (C2H2)-C-12 in the terahertz region have been greatly
+2159a2698
+> URL = {http://dx.doi.org/10.1088/0004-637X/705/1/786},
+2166c2705
+< @article{09LyPeTr.C2H2,
+---
+> @article{09LyPeTr.c2h2,
+2169,2171c2708,2710
+< Title = {{Line intensities of acetylene: New measurements in the 1.5-$\mu$m spectral
+<    region and global modelling in the $\Delta P=10$ series}},
+< Journal = JQSRT,
+---
+> Title = {Line intensities of acetylene: New measurements in the 1.5$\mu$m spectral
+>    region and global modelling in the Delta P=10 series},
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+2176c2715
+<    near 1.5-$\mu$m, the intensities of 111 lines belonging to seven hot bands
+---
+>    near 1.5-mu m, the intensities of 111 lines belonging to seven hot bands
+2185a2725
+> URL = {http://dx.doi.org/10.1016/j.jqsrt.2009.04.012},
+2190c2730
+< Keywords-Plus = {SPECTROSCOPIC DATABASE; ENERGY-LEVELS; $^{12}$C$_2$H$_2$; C2H2; PARAMETERS;
+---
+> Keywords-Plus = {SPECTROSCOPIC DATABASE; ENERGY-LEVELS; (C2H2)-C-12; C2H2; PARAMETERS;
+2194c2734
+< @article{09AmRoHe.C2H2,
+---
+> @article{09AmRoHe.c2h2,
+2198c2738
+< Title = {{Vibration-rotation pattern in acetylene. II. Introduction of Coriolis
+---
+> Title = {Vibration-rotation pattern in acetylene. II. Introduction of Coriolis
+2200,2201c2740,2741
+<    acetylene around 3 $\mu$m}},
+< Journal = JCP,
+---
+>    acetylene around 3 $\mu$m},
+> Journal = {J. Chem. Phys.},
+2206,2207c2746,2747
+<    acetylene around 3 $\mu$m up to 1455 K under Doppler limited resolution
+<    (0.015 cm$^{-1}$). The nu(3)-ground state (GS) and nu(2)+nu(4)+nu(5)
+---
+>    acetylene around 3 mu m up to 1455 K under Doppler limited resolution
+>    (0.015 cm(-1)). The nu(3)-ground state (GS) and nu(2)+nu(4)+nu(5)
+2213c2753
+<    substates, up to about 6000 cm$^{-1}$, are identified and characterized by
+---
+>    substates, up to about 6000 cm(-1), are identified and characterized by
+2217c2757
+<    accessing vibrational states up to 8600 cm$^{-1}$. A global model, updated
+---
+>    accessing vibrational states up to 8600 cm(-1). A global model, updated
+2221a2762
+> URL = {http://dx.doi.org/10.1063/1.3200928},
+2225c2766
+<    MANIFOLD; EXCITED ACETYLENE; $^{12}$C$_2$H$_2$; C2H2; BAND; STARS;
+---
+>    MANIFOLD; EXCITED ACETYLENE; (C2H2)-C-12; C2H2; BAND; STARS;
+2229c2770
+< @article{09LaZiSl.C2H2,
+---
+> @article{09LaZiSl.c2h2,
+2236c2777
+< Journal = MNRAS,
+---
+> Journal = {Mon. Not. R. Astron. Soc.},
+2266c2807
+< @article{09JaLaMa.C2H2,
+---
+> @article{09JaLaMa.c2h2,
+2270,2272c2811,2812
+< Title = {{The IR spectrum of $^{12}$C$_2$H$_2$: Line intensity measurements in the 1.4
+<    $\mu$m region and update of the databases}},
+< Journal = JQSRT,
+---
+> Title = {The {IR} spectrum of {(C2H2)-C-12}: Line intensity measurements in the 1.4$\mu$m region and update of the databases},
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+2277,2279c2817,2819
+<    the main isotopologue $^{12}$C$_2$H$_2$ of the acetylene molecule, namely, in
+<    the regions around 3, 2.2, 1.9, 1,7, 1.5, and 1.4 $\mu$m. Among these
+<    regions, only those at 3 and 1.5 $\mu$m were already presented partly in
+---
+>    the main isotopologue (C2H2)-C-12 of the acetylene molecule, namely, in
+>    the regions around 3, 2.2, 1.9, 1,7, 1.5, and 1.4 mu m. Among these
+>    regions, only those at 3 and 1.5 mu m were already presented partly in
+2281c2821
+<    the first time in the 1.4 $\mu$m region, are given. Data available in the
+---
+>    the first time in the 1.4 mu m region, are given. Data available in the
+2285a2826
+> URL = {http://dx.doi.org/10.1016/j.jqsrt.2008.10.002},
+2293c2834
+< @article{08LyJaLa.C2H2,
+---
+> @article{08LyJaLa.c2h2,
+2295,2297c2836,2838
+<    Mandin, J. -Y.},
+< Title = {Line parameters of acetylene in the 1.9 and 1.7 $\mu$m spectral regions},
+< Journal = JQSRT,
+---
+>    Mandin, J. Y.},
+> Title = {Line parameters of acetylene in the 1.9 and 1.7$\mu$m spectral regions},
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+2302c2843
+<    0.01 cm$^{-1}$) of acetylene $^{12}$C$_2$H$_2$, line positions and intensities,
+---
+>    0.01 cm(-1)) of acetylene (C2H2)-C-12, line positions and intensities,
+2308,2309c2849,2850
+<    positions around 5900 cm$^{-1}$. The average accuracy of the line
+<    parameters obtained in this work is estimated to be +/- 0.001 cm$^{-1}$ for
+---
+>    positions around 5900 cm(-1). The average accuracy of the line
+>    parameters obtained in this work is estimated to be +/- 0.001 cm(-1) for
+2312c2853
+<    cm$^{-1}$ atm(-1) for self-shifting coefficients. For each studied band,
+---
+>    cm(-1) atm(-1) for self-shifting coefficients. For each studied band,
+2319a2861
+> URL = {http://dx.doi.org/10.1016/j.jqsrt.2007.11.016},
+2324c2866
+< Keywords-Plus = {ENERGY-LEVELS; HOT BANDS; INTENSITIES; $^{12}$C$_2$H$_2$; C2H2},
+---
+> Keywords-Plus = {ENERGY-LEVELS; HOT BANDS; INTENSITIES; (C2H2)-C-12; C2H2},
+2327c2869
+< @article{08RoHeFa.C2H2,
+---
+> @article{08RoHeFa.c2h2,
+2330,2332c2872,2874
+< Title = {{Acetylene, $^{12}$C$_2$H$_2$: new CRDS data and global vibration-rotation analysis
+<    up to 8600 cm$^{-1}$}},
+< Journal = MP,
+---
+> Title = {Acetylene, {12C2H2}: new {CRDS} data and global vibration-rotation analysis
+>    up to 8600 cm$^{-1}$},
+> Journal = {Mol. Phys.},
+2336c2878
+< Abstract = {The absorption spectrum of $^{12}$C$_2$H$_2$ has been recorded using cavity
+---
+> Abstract = {The absorption spectrum of 12C2H2 has been recorded using cavity
+2341c2883
+<    $^{12}$C$_2$H$_2$ accessing vibrational states up to 8600 cm-1 have been gathered
+---
+>    12C2H2 accessing vibrational states up to 8600 cm-1 have been gathered
+2354a2897
+> URL = {http://dx.doi.org/10.1080/00268970802620709},
+2358c2901
+<    INFRARED-SPECTRUM; DIODE-LASER; $^{12}$C$_2$H$_2$},
+---
+>    INFRARED-SPECTRUM; DIODE-LASER; (C2H2)-C-12},
+2361c2904
+< @article{07TrMaDa.C2H2,
+---
+> @article{07TrMaDa.c2h2,
+2364,2365c2907,2908
+< Title = {Line intensities in the 1.5-$\mu$m spectral region of acetylene},
+< Journal = JQSRT,
+---
+> Title = {Line intensities in the 1.5$\mu$m spectral region of acetylene},
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+2370,2371c2913,2914
+<    of the main isotopologue $^{12}$C$_2$H$_2$ of the acetylene molecule, in the
+<    1.5-$\mu$m spectral domain. A multispectrum fitting procedure is used to
+---
+>    of the main isotopologue (C2H2)-C-12 of the acetylene molecule, in the
+>    1.5-mu m spectral domain. A multispectrum fitting procedure is used to
+2375c2918
+<    intensities in acetylene: the 1.5 $\mu$m region. J Mol Spectrosc
+---
+>    intensities in acetylene: the 1.5 mu m region. J Mol Spectrosc
+2382a2926
+> URL = {http://dx.doi.org/10.1016/j.jqsrt.2007.04.008},
+2387c2931
+<    $^{12}$C$_2$H$_2$; C2H2; (CO2)-C-12-O-16; PARAMETERS; DATABASE; CM(-1); BANDS},
+---
+>    (C2H2)-C-12; C2H2; (CO2)-C-12-O-16; PARAMETERS; DATABASE; CM(-1); BANDS},
+2390c2934
+< @article{07LeBlWa.C2H2,
+---
+> @article{07LeBlWa.c2h2,
+2394,2395c2938,2939
+<    $v_4+v_5$ band of acetylene},
+< Journal = JMS,
+---
+>    v(4)+v(5) band of acetylene},
+> Journal = {J. Mol. Spectrosc.},
+2403c2947
+<    1275-1390 cm$^{-1}$. A semiclassical calculation of the line broadenings
+---
+>    1275-1390 cm(-1). A semiclassical calculation of the line broadenings
+2410c2954
+<    $^{12}$C$_2$H$_2$; C2H2; TRANSITIONS; ABUNDANCES; MOMENTS; SHAPES; ETHANE},
+---
+>    (C2H2)-C-12; C2H2; TRANSITIONS; ABUNDANCES; MOMENTS; SHAPES; ETHANE},
+2413c2957
+< @article{07LyPeGu.C2H2,
+---
+> @article{07LyPeGu.c2h2,
+2417,2418c2961,2962
+< Title = {Line positions and intensities of acetylene in the 2.2-$\mu$m region},
+< Journal = JQSRT,
+---
+> Title = {Line positions and intensities of acetylene in the 2.2$\mu$m region},
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+2423c2967
+<    measured in the 2.2-$\mu$m, spectral region. A multispectrum fitting
+---
+>    measured in the 2.2-mu m, spectral region. A multispectrum fitting
+2426c2970
+<    estimated to be +/- 0.0005 cm$^{-1}$ for the line positions, and +/- 5\%
+---
+>    estimated to be +/- 0.0005 cm(-1) for the line positions, and +/- 5\%
+2434a2979
+> URL = {http://dx.doi.org/10.1016/j.jqsrt.2006.08.018},
+2442c2987
+< @article{07RoHeAu.C2H2,
+---
+> @article{07RoHeAu.c2h2,
+2445,2447c2990,2992
+< Title = {{The bending vibrations in $^{12}$C$_2$H$_2$: global vibration-rotation
+<    analysis}},
+< Journal = MP,
+---
+> Title = {The bending vibrations in (C2H2)-C-12: global vibration-rotation
+>    analysis},
+> Journal = {Mol. Phys.},
+2452,2453c2997,2998
+<    information on all known vibration-rotation states up to 3000 cm$^{-1}$ in
+<    $^{12}$C$_2$H$_2$ were gathered from the literature. An additional 966 lines
+---
+>    information on all known vibration-rotation states up to 3000 cm(-1) in
+>    (C2H2)-C-12 were gathered from the literature. An additional 966 lines
+2467c3012
+< @article{07JaLaMa.C2H2,
+---
+> @article{07JaLaMa.c2h2,
+2470,2472c3015,3017
+< Title = {{Multispectrum fitting of line parameters for $^{12}$C$_2$H$_2$ in the 3.8-$\mu$m
+<    spectral region}},
+< Journal = JQSRT,
+---
+> Title = {Multispectrum fitting of line parameters for {(C2H2)-C-12} in the 3.8$\mu$m
+>    spectral region},
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+2477c3022
+<    to 0.001 cm$^{-1}$) of acetylene $^{12}$C$_2$H$_2$, absolute positions and
+---
+>    to 0.001 cm(-1)) of acetylene (C2H2)-C-12, absolute positions and
+2479c3024
+<    cm$^{-1}$ in the v(2) + v(5)(1) and (3v(4) + v(5))(+)(0) cold bands, and in
+---
+>    cm(-1) in the v(2) + v(5)(1) and (3v(4) + v(5))(+)(0) cold bands, and in
+2488,2489c3033,3034
+<    $^{12}$C$_2$H$_2$ in the sample has been checked using the 3v(5)(1) cold band
+<    around 2100 cm$^{-1}$, estimated to be around +/- 2\%. The average absolute
+---
+>    (C2H2)-C-12 in the sample has been checked using the 3v(5)(1) cold band
+>    around 2100 cm(-1), estimated to be around +/- 2\%. The average absolute
+2491c3036
+<    estimated to be +/- 0.0002 cm$^{-1}$ for line positions, and +/- 5\% for
+---
+>    estimated to be +/- 0.0002 cm(-1) for line positions, and +/- 5\% for
+2495c3040
+<    and intensities for the five strongest bands around 3.8 $\mu$m has been
+---
+>    and intensities for the five strongest bands around 3.8 mu m has been
+2496a3042
+> URL = { http://dx.doi.org/10.1016/j.jqsrt.2006.06.008},
+2501c3047
+< Keywords-Plus = {HOT BANDS; SPECTROSCOPIC DATABASE; ACETYLENE $^{12}$C$_2$H$_2$; MU-M;
+---
+> Keywords-Plus = {HOT BANDS; SPECTROSCOPIC DATABASE; ACETYLENE (C2H2)-C-12; MU-M;
+2505c3051
+< @article{07LyPeMa.C2H2,
+---
+> @article{07LyPeMa.c2h2,
+2509,2511c3055,3057
+< Title = {{Line intensities of acetylene: Measurements in the 2.5-$\mu$m spectral
+<    region and global modeling in the $\Delta p$ = 4 and 6 series}},
+< Journal = JQSRT,
+---
+> Title = {Line intensities of acetylene: Measurements in the 2.5$\mu$m spectral
+>    region and global modeling in the Delta p = 4 and 6 series},
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+2516c3062
+<    are measured in the 2.5-$\mu$m spectral region using a step-by-step
+---
+>    are measured in the 2.5-mu m spectral region using a step-by-step
+2520c3066
+<    measured line intensities, and those previously measured in the 3.8-$\mu$m
+---
+>    measured line intensities, and those previously measured in the 3.8-mu m
+2523c3069
+<    in the 3.8-$\mu$m spectral region. JQSRT, submitted for publication], are
+---
+>    in the 3.8-mu m spectral region. {J. Quant. Spectrosc. Radiat. Transf.}, submitted for publication], are
+2527a3074
+> URL = {http://dx.doi.org/10.1016/j.jqsrt.2006.07.002},
+2535c3082
+< @article{07HeRoAu.C2H2,
+---
+> @article{07HeRoAu.c2h2,
+2538,2540c3085,3087
+< Title = {{The bending vibrations in $^{12}$C$_2$H$_2$: Global vibration-rotation
+<    analysis}},
+< Journal = MP,
+---
+> Title = {The bending vibrations in (C2H2)-C-12: Global vibration-rotation
+>    analysis},
+> Journal = {Mol. Phys.},
+2547c3094
+< @article{07Hexxxx.C2H2,
+---
+> @article{07Hexxxx.c2h2,
+2550c3097
+< Journal = MP,
+---
+> Journal = {Mol. Phys.},
+2572c3119
+< @article{06MaWoSl.C2H2,
+---
+> @article{06MaWoSl.c2h2,
+2580c3127
+< Journal = MNRAS,
+---
+> Journal = {Mon. Not. R. Astron. Soc.},
+2587,2588c3134,3135
+<    over the 5-38 $\mu$m range. All 26 low-resolution spectra show acetylene
+<    (C2H2) bands at 7 and 14 $\mu$m. The hydrogen cyanide (HCN) bands at these
+---
+>    over the 5-38 mu m range. All 26 low-resolution spectra show acetylene
+>    (C2H2) bands at 7 and 14 mu m. The hydrogen cyanide (HCN) bands at these
+2590c3137
+<    nitrogen abundances in the LMC. The observed 14 $\mu$m C2H2 band is
+---
+>    nitrogen abundances in the LMC. The observed 14 mu m C2H2 band is
+2592,2593c3139,3140
+<    clear dilution of the 14 $\mu$m C2H2 band by circumstellar dust emission.
+<    This 14-$\mu$m band originates from molecular gas in the circumstellar
+---
+>    clear dilution of the 14 mu m C2H2 band by circumstellar dust emission.
+>    This 14-mu m band originates from molecular gas in the circumstellar
+2596c3143
+<    13.7 $\mu$m band, shows a gas mass-loss rate in the range 3 x 10(-6) to 5
+---
+>    13.7 mu m band, shows a gas mass-loss rate in the range 3 x 10(-6) to 5
+2612,2613c3159,3160
+< @article{06GiFaSo.C2H2,
+< Author = {Girard, V and Farrenq, R and Sorokin, E and Sorokina, I T and
+---
+> @article{06GiFaSo.c2h2,
+> Author = {Girard, V and Farrenq, R and Sorokin, E and Sorokina, IT and
+2615,2617c3162,3164
+< Title = {{Acetylene weak bands at 2.5 $\mu$m from intracavity Cr$^{2+}$: ZnSe laser
+<    absorption observed with time-resolved Fourier transform spectroscopy}},
+< Journal = CPL,
+---
+> Title = {Acetylene weak bands at 2.5$\mu$m from intracavity {Cr2+}: {ZnSe} laser
+>    absorption observed with time-resolved {Fourier} transform spectroscopy},
+> Journal = {Chem. Phys. Lett.},
+2625c3172
+<    natural isotopic abundance are recorded around 4000 cm$^{-1}$ with
+---
+>    natural isotopic abundance are recorded around 4000 cm(-1) with
+2627c3174
+<    10(-8) cm$^{-1}$. Two cold bands are newly identified and assigned to the
+---
+>    10(-8) cm(-1). Two cold bands are newly identified and assigned to the
+2629c3176
+<    v(1) + v(5)(1) band of (C2HD)-C-12 and 14 $^{12}$C$_2$H$_2$ bands are
+---
+>    v(1) + v(5)(1) band of (C2HD)-C-12 and 14 (C2H2)-C-12 bands are
+2630a3178
+> URL = {http://dx.doi.org/10.1016/j.cplett.2005.12.029},
+2631a3180
+> ISSN = {0009-2614},
+2632a3182
+> Times-Cited = {11}
+2635,2636c3185,3186
+< @article{06LyPeMa.C2H2,
+< Author = {Lyulin, O M and Perevalov, V I and Mandin, J Y and Dana, V and Jacquemart,
+---
+> @article{06LyPeMa.c2h2,
+> Author = {Lyulin, OM and Perevalov, VI and Mandin, JY and Dana, V and Jacquemart,
+2638c3188
+< Title = {Line intensities of acetylene in the 3-$\mu$m region: New measurements of
+---
+> Title = {Line intensities of acetylene in the 3$\mu$m region: New measurements of
+2640c3190
+< Journal = JQSRT,
+---
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+2645c3195
+<    have been measured in the 3-$\mu$m region. Absolute values of line
+---
+>    have been measured in the 3-mu m region. Absolute values of line
+2650c3200
+<    together with previously published ones (JQSRT 2005;92:239-60) have been
+---
+>    together with previously published ones ({J. Quant. Spectrosc. Radiat. Transf.} 2005;92:239-60) have been
+2654a3205
+> URL = {http://dx.doi.org/10.1016/j.jqsrt.2004.12.022},
+2662c3213
+< @article{05EdBaMa.C2H2,
+---
+> @article{05EdBaMa.c2h2,
+2664,2666c3215,3217
+< Title = {{High-precision frequency measurements of the $v_1 + v_3$ combination
+<    band of $^{12}$C$_2$H$_2$ in the 1.5 $\mu$m region}},
+< Journal = JMS,
+---
+> Title = {High-precision frequency measurements of the $\nu_1$ + $\nu_3$ combination
+>    band of {(C2H2)-C-12} in the 1.5$\mu$m region},
+> Journal = {J. Mol. Spectrosc.},
+2670c3221
+< Abstract = {A pair of 1.5 $\mu$m semiconductor laser frequency standards have been
+---
+> Abstract = {A pair of 1.5 mu m semiconductor laser frequency standards have been
+2672c3223
+<    of $^{12}$C$_2$H$_2$, and (C2H2)-C-13, using cavity-enhanced Doppler-free
+---
+>    of (C2H2)-C-12, and (C2H2)-C-13, using cavity-enhanced Doppler-free
+2674c3225
+<    of the v(1) + v(3) band of $^{12}$C$_2$H$_2$, covering the spectral region
+---
+>    of the v(1) + v(3) band of (C2H2)-C-12, covering the spectral region
+2681a3233
+> URL = {http://dx.doi.org/10.1016/j.jms.2005.08.014},
+2690c3242
+< @article{05SeNaxx.C2H2,
+---
+> @article{05SeNaxx.c2h2,
+2727c3279
+< @article{05MaZiLo.C2H2,
+---
+> @article{05MaZiLo.c2h2,
+2746c3298
+<    the 3.5 $\mu$m HCN band, and only a few LMC stars show high HCN equivalent
+---
+>    the 3.5 mu m HCN band, and only a few LMC stars show high HCN equivalent
+2752c3304
+<    shows the 3.3 $\mu$m PAH band. This first detection of a PAH band from an
+---
+>    shows the 3.3 mu m PAH band. This first detection of a PAH band from an
+2773c3325
+< @article{05MaJaDa.C2H2,
+---
+> @article{05MaJaDa.c2h2,
+2776,2777c3328,3329
+< Title = {Line intensities of acetylene at 3 $\mu$m},
+< Journal = JQSRT,
+---
+> Title = {Line intensities of acetylene at 3$\mu$m},
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+2785c3337
+<    0.0005 cm$^{-1}$ for line positions and 5\% for line intensities.
+---
+>    0.0005 cm(-1) for line positions and 5\% for line intensities.
+2788a3341
+> URL = {http://dx.doi.org/10.1016/j.jqsrt.2004.07.024},
+2793c3346
+<    TECHNIQUE; $^{12}$C$_2$H$_2$; REGION; BANDS; C2H2; SPECTRUM; PARAMETERS;
+---
+>    TECHNIQUE; (C2H2)-C-12; REGION; BANDS; C2H2; SPECTRUM; PARAMETERS;
+2796a3350,3375
+> @article{05KoTeLa.c2h2,
+> Author = {Kozin, IN and Tennyson, J and Law, MM},
+> Title = {Effective computation of matrix elements between polynomial basis
+>    functions},
+> Journal = CPC,
+> Year = {2005},
+> Volume = {165},
+> Pages = {10-14},
+> Abstract = {Two methods of evaluating matrix elements of a function in a polynomial
+>    basis are considered: the expansion method, where the function is
+>    expanded in the basis and the integrals are evaluated analytically, and
+>    the numerical method, where the integration is performed directly using
+>    numerical quadrature. A reduced grid is proposed for the latter which
+>    makes use of the symmetry of the basis. Comparison of the two methods is
+>    presented in the context of evaluation of matrix elements in a
+>    non-direct product basis. If high accuracy of all matrix elements is
+>    required then the expansion method is the best choice. If however the
+>    accuracy of high order matrix elements is not important (as in
+>    variational ro-vibrational calculations where one is typically
+>    interested only in the lowest eigenstates), then the method based on the
+>    reduced grid offers sufficient accuracy and is much quicker than the
+>    expansion method.},
+> DOI = {10.1016/j.cpc.2003.12.007},
+> Keywords-Plus = {N-ATOM PROBLEM; QUANTUM-MECHANICS; VECTOR PARAMETRIZATION; MOLECULES;
+>    TRANSFORMS; ACETYLENE},
+> }
+2798c3377
+< @article{04GaHoJo.C2H2,
+---
+> @article{04GaHoJo.c2h2,
+2800,2801c3379,3380
+< Title = {{Dynamic model atmospheres of AGB stars - IV. A comparison of synthetic
+<    carbon star spectra with observations}},
+---
+> Title = {Dynamic model atmospheres of AGB stars - IV. A comparison of synthetic
+>    carbon star spectra with observations},
+2830c3409
+< @article{03HeKeHu.C2H2,
+---
+> @article{03HeKeHu.c2h2,
+2832,2834c3411,3413
+< Title = {{Absolute line intensities in the $\nu_1+3\nu_3$ band of $^{12}$C$_2$H$_2$ by
+<    laser photoacoustic spectroscopy and Fourier transform spectroscopy}},
+< Journal = MP,
+---
+> Title = {Absolute line intensities in the $\nu_1$+$3\nu_3$ band of {(C2H2)-C-12} by
+>    laser photoacoustic spectroscopy and {Fourier} transform spectroscopy},
+> Journal = {Mol. Phys.},
+2839c3418
+<    band of $^{12}$C$_2$H$_2$ near 0.8 mum at room temperature were measured by
+---
+>    band of (C2H2)-C-12 near 0.8 mum at room temperature were measured by
+2851a3431
+> URL = {http://dx.doi.org/10.1080/00268970310001632426},
+2857,2861c3437,3440
+< @article{03HeCaEl.C2H2,
+< Author = {Herman, M and Campargue, A and El Idrissi, M I and Vander Auwera, J},
+< Title = {{Vibrational spectroscopic database on acetylene, X
+<    $^1\Sigma^+_g$ ($^{12}$C$_2$H$_2$, $^{12}$C$_2$D$_2$( and $^{13}$C$_2$H$_2$)}},
+< Journal = JPCRD,
+---
+> @article{03HeCaEl.c2h2,
+> Author = {Herman, M and Campargue, A and El Idrissi, MI and Vander Auwera, J},
+> Title = {Vibrational spectroscopic database on acetylene, {$X^1\Sigma_g^+$}{((C2H2)-C-12, (C2D2)-C-12, and (C2H2)-C-13)}},
+> Journal = {J. Phys. Chem. Ref. Data},
+2865c3444
+< Abstract = {Information on the vibrational energy states in acetylene ($^{12}$C$_2$H$_2$,
+---
+> Abstract = {Information on the vibrational energy states in acetylene ((C2H2)-C-12,
+2870,2871c3449,3450
+<    rotational constants B-upsilon for states of $^{12}$C$_2$H$_2$,
+<    (C2D2)-C-12,and (C2H2)-C-13 UP to 15000, 10000, and 12000 cm$^{-1}$,
+---
+>    rotational constants B-upsilon for states of (C2H2)-C-12,
+>    (C2D2)-C-12,and (C2H2)-C-13 UP to 15000, 10000, and 12000 cm(-1),
+2876c3455
+<    120.292(13) pm from constants available for $^{12}$C$_2$H$_2$, (C2D2)-C-12,
+---
+>    120.292(13) pm from constants available for (C2H2)-C-12, (C2D2)-C-12,
+2877a3457
+> URL = {http://dx.doi.org/10.1063/1.1531651},
+2879c3459
+< Keywords = {acetylene; $^{12}$C$_2$H$_2$, and (C2D2)-C-12, and (C2H2)-C-13; energy of the
+---
+> Keywords = {acetylene; (C2H2)-C-12, and (C2D2)-C-12, and (C2H2)-C-13; energy of the
+2890c3470
+< @article{03JaMaDab.C2H2,
+---
+> @article{03JaMaDab.c2h2,
+2892,2893c3472,3473
+<    Plateaux, J and Decatoire, D and Rothman, L S},
+< Title = {The spectrum of acetylene in the 5-$\mu$m region from new line-parameter
+---
+>    Plateaux, J and Decatoire, D and Rothman, LS},
+> Title = {The spectrum of acetylene in the 5$\mu$m region from new line-parameter
+2895c3475
+< Journal = JQSRT,
+---
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+2899,2900c3479,3480
+< Abstract = {Using Fourier Transform spectra (unapodized FWHM: 0.002 cm$^{-1}$) of
+<    acetylene $^{12}$C$_2$H$_2$, absolute line positions have been obtained in the
+---
+> Abstract = {Using Fourier Transform spectra (unapodized FWHM: 0.002 cm(-1)) of
+>    acetylene (C2H2)-C-12, absolute line positions have been obtained in the
+2915a3496
+> URL = {http://dx.doi.org/10.1016/S0022-4073(02)00055-9},
+2922c3503
+< @article{02HaAuxx.C2H2,
+---
+> @article{02HaAuxx.c2h2,
+2924,2925c3505,3506
+< Title = {Absolute line intensities in acetylene: The 1.5-$\mu$m region},
+< Journal = JMS,
+---
+> Title = {Absolute line intensities in acetylene: The 1.5$\mu$m region},
+> Journal = {J. Mol. Spectrosc.},
+2930c3511
+<    (Sigma(u)(+))-0(Sigma(g)(+)) band of $^{12}$C$_2$H$_2$ and (CCH2)-C-13-C-12
+---
+>    (Sigma(u)(+))-0(Sigma(g)(+)) band of (C2H2)-C-12 and (CCH2)-C-13-C-12
+2938a3520
+> URL = {http://dx.doi.org/10.1006/jmsp.2002.8660},
+2940c3522
+< Keywords-Plus = {PARTITION-FUNCTIONS; MOLECULES; $^{12}$C$_2$H$_2$; BAND; SPECTRA; C2H2},
+---
+> Keywords-Plus = {PARTITION-FUNCTIONS; MOLECULES; (C2H2)-C-12; BAND; SPECTRA; C2H2},
+2943,2944c3525,3526
+< @article{02JaMaDa.C2H2,
+< Author = {Jacquemart, D and Mandin, J Y and Dana, V and Regalia-Jarlot, L and
+---
+> @article{02JaMaDa.c2h2,
+> Author = {Jacquemart, D and Mandin, JY and Dana, V and Regalia-Jarlot, L and
+2946c3528
+< Title = {Multispectrum fitting measurements of line parameters for 5-$\mu$m cold
+---
+> Title = {Multispectrum fitting measurements of line parameters for 5$\mu$m cold
+2948c3530
+< Journal = JQSRT,
+---
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+2952,2954c3534,3536
+< Abstract = {Using FT spectra (unapodized FWHM: 0.002 cm$^{-1}$) of acetylene
+<    $^{12}$C$_2$H$_2$, absolute line positions have been measured (average
+<    accuracy: +/-0.0002 cm$^{-1}$) between 1860 and 2180 cm$^{-1}$ in the
+---
+> Abstract = {Using FT spectra (unapodized FWHM: 0.002 cm(-1)) of acetylene
+>    (C2H2)-C-12, absolute line positions have been measured (average
+>    accuracy: +/-0.0002 cm(-1)) between 1860 and 2180 cm(-1) in the
+2957c3539
+<    resolution of about 0.03 cm$^{-1}$. Absolute intensities have been obtained
+---
+>    resolution of about 0.03 cm(-1). Absolute intensities have been obtained
+2959c3541
+<    the amount of $^{12}$C$_2$H$_2$ in the sample being estimated to be better
+---
+>    the amount of (C2H2)-C-12 in the sample being estimated to be better
+2970a3553
+> URL = {http://dx.doi.org/10.1016/S0022-4073(02)00017-1},
+2977c3560
+<    MEASUREMENTS; LOW-TEMPERATURES; HIGH-RESOLUTION; $^{12}$C$_2$H$_2$; C2H2},
+---
+>    MEASUREMENTS; LOW-TEMPERATURES; HIGH-RESOLUTION; (C2H2)-C-12; C2H2},
+2980,2983c3563,3567
+< @article{02VaElBr.C2H2,
+< Author = {Vander Auwera, J and El Hachtouki, R and Brown, L R},
+< Title = {{Absolute line wavenumbers in the near infrared: $^{12}$C$_2$H$_2$ and $^{12}$C$^{16}$O$_2$}},
+< Journal = MP,
+---
+> @article{02VaElBr.c2h2,
+> Author = {Vander Auwera, J and El Hachtouki, R and Brown, LR},
+> Title = {{Absolute line wavenumbers in the near infrared: (C2H2)-C-12 and
+>    (CO2)-C-12-O-16}},
+> Journal = {Mol. Phys.},
+2989c3573
+<    the near infrared absorption spectrum of $^{12}$C$_2$H$_2$ between 7060 cm-(1)
+---
+>    the near infrared absorption spectrum of (C2H2)-C-12 between 7060 cm-(1)
+2993c3577
+<    $^{12}$C$_2$H$_2$ near 6556 cm-(1). The absolute uncertainty of the calibrated
+---
+>    (C2H2)-C-12 near 6556 cm-(1). The absolute uncertainty of the calibrated
+3001c3585
+<    in the 3nu(3) band of $^{12}$C$_2$H$_2$ near 9649 cm-(1), calibrated using
+---
+>    in the 3nu(3) band of (C2H2)-C-12 near 9649 cm-(1), calibrated using
+3005c3589
+<    of $^{12}$C$_2$H$_2$ were determined, but without accounting for the
+---
+>    of (C2H2)-C-12 were determined, but without accounting for the
+3006a3591
+> URL = {http://dx.doi.org/10.1080/00268970210162880},
+3012c3597
+< @article{02DiBaBr.C2H2,
+---
+> @article{02LoBaBr.c2h2,
+3014,3016c3599,3601
+< Title = {{The infrared spectrum of $^{12}$C$^{13}$CH$_2$: The bending states up to
+<    $\nu_4+\nu_5=4$}},
+< Journal = JMS,
+---
+> Title = {The infrared spectrum of {(CCH2)-C-12-C-13}: The bending states up to
+>    $\nu_4$+$\nu_5$=4},
+> Journal = {J. Mol. Spectrosc.},
+3022c3607
+<    cm$^{-1}$ with an effective resolution ranging from 0.004 to 0.006 cm$^{-1}$.
+---
+>    cm(-1) with an effective resolution ranging from 0.004 to 0.006 cm(-1).
+3036a3622
+> URL = {http://dx.doi.org/10.1006/jmsp.2002.8545},
+3041,3045c3627,3630
+< @article{01JaClMa.C2H2,
+< Author = {Jacquemart, D and Claveau, C and Mandin, J Y and Dana, V},
+< Title = {{Line intensities of hot bands in the 13.6 $\mu$m spectral region of
+<    acetylene $^{12}$C$_2$H$_2$}},
+< Journal = JQSRT,
+---
+> @article{01JaClMa.c2h2,
+> Author = {Jacquemart, D and Claveau, C and Mandin, JY and Dana, V},
+> Title = {Line intensities of hot bands in the 13.6$\mu$m spectral region of acetylene {(C2H2)-C-12}},
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+3049,3050c3634,3635
+< Abstract = {Using FTS spectra (apodized FWHM: 0.0014cm$^{-1}$), absolute intensities
+<    have been measured for 355 hot lines of $^{12}$C$_2$H$_2$ in the 13.6 mum
+---
+> Abstract = {Using FTS spectra (apodized FWHM: 0.0014cm(-1)), absolute intensities
+>    have been measured for 355 hot lines of (C2H2)-C-12 in the 13.6 mum
+3058a3644
+> URL = { http://dx.doi.org/10.1016/S0022-4073(00)00063-7},
+3066,3069c3652,3655
+< @article{00MaDaCl.C2H2,
+< Author = {Mandin, J Y and Dana, V and Claveau, C},
+< Title = {{Line intensities in the $\nu_5$ band of acetylene $^{12}$C$_2$H$_2$}},
+< Journal = JQSRT,
+---
+> @article{00MaDaCl.c2h2,
+> Author = {Mandin, JY and Dana, V and Claveau, C},
+> Title = {Line intensities in the $\nu_5$ band of acetylene {(C2H2)-C-12}},
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+3073,3075c3659,3661
+< Abstract = {Using FTS spectra (apodized FWHM: 0.0014 cm$^{-1}$), absolute intensities
+<    have been measured for about 80 lines of the nu(5) band of $^{12}$C$_2$H$_2$
+<    at 13.6 $\mu$m, with an accuracy of +/- 5\%, improving the already
+---
+> Abstract = {Using FTS spectra (apodized FWHM: 0.0014 cm(-1)), absolute intensities
+>    have been measured for about 80 lines of the nu(5) band of (C2H2)-C-12
+>    at 13.6 mu m, with an accuracy of +/- 5\%, improving the already
+3081a3668
+> URL = {http://dx.doi.org/10.1016/S0022-4073(00)00010-8},
+3091c3678
+< @article{00Vander.C2H2,
+---
+> @article{00Auxxxx.c2h2,
+3093,3095c3680,3682
+< Title = {{Absolute intensities measurements in the $\nu_4+\nu_5$ band of
+<    $^{12}$C$_2$H$_2$: Analysis of Herman-Wallis effects and forbidden transitions}},
+< Journal = JMS,
+---
+> Title = {{Absolute intensities measurements in the $\nu_4$+$\nu_5$ band of
+>    (C2H2)-C-12: Analysis of Herman-Wallis effects and forbidden transitions}},
+> Journal = {J. Mol. Spectrosc.},
+3099,3100c3686,3687
+< Abstract = {We measured absolute line intensities in two bands of $^{12}$C$_2$H$_2$ near
+<    7.5 $\mu$m, namely the v(4) + v(5)(Sigma(u)(+))-0(Sigma(g)(+)) and v(4) +
+---
+> Abstract = {We measured absolute line intensities in two bands of (C2H2)-C-12 near
+>    7.5 mu m, namely the v(4) + v(5)(Sigma(u)(+))-0(Sigma(g)(+)) and v(4) +
+3114a3702
+> URL = {http://dx.doi.org/10.1006/jmsp.2000.8079},
+3120,3124c3708,3712
+< @article{00MoDuJa.C2H2,
+< Author = {Moss, D B and Duan, Z C and Jacobson, M P and O'Brien, J P and Field, R W},
+< Title = {{Observation of coriolis coupling between $\nu_2+4\nu_4$ and $7\nu_4$ in
+<    acetylene $^1\Sigma^+_g$ by stimulated emission pumping spectroscopy}},
+< Journal = JMS,
+---
+> @article{00MoDuJa.c2h2,
+> Author = {Moss, DB and Duan, ZC and Jacobson, MP and O'Brien, JP and Field, RW},
+> Title = {Observation of coriolis coupling between $\nu_2$+$4\nu_4$ and $7\nu_4$ in
+>    acetylene {$X^1\Sigma_g^+$} by stimulated emission pumping spectroscopy},
+> Journal = {J. Mol. Spectrosc.},
+3129c3717
+<    a low energy region (E-vib approximate to 4400 cm$^{-1}$) of (X) over
+---
+>    a low energy region (E-vib approximate to 4400 cm(-1)) of (X) over
+3139a3728
+> URL = {http://dx.doi.org/10.1006/jmsp.1999.7994},
+3147c3736
+< @article{99HeHuAu.C2H2,
+---
+> @article{99HeHuAu.c2h2,
+3149c3738
+< Title = {Laser spectroscopy of the nu(1)+3 nu(3) absorption band in $^{12}$C$_2$H$_2$.
+---
+> Title = {Laser spectroscopy of the nu(1)+3 nu(3) absorption band in (C2H2)-C-12.
+3151c3740
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+3157c3746
+<    nu(1)+3 nu(3) band of $^{12}$C$_2$H$_2$. Pressure self-broadening effects were
+---
+>    nu(1)+3 nu(3) band of (C2H2)-C-12. Pressure self-broadening effects were
+3176,3181c3765,3770
+< @article{99BeMaLo.C2H2,
+< Author = {Bermejo, D and Martinez, R Z and Di Lonardo, G and Fusina, L},
+< Title = {{High resolution Raman spectroscopy from vibrationally excited states
+<    populated by a stimulated Raman process. Transitions from $v_2=1$ in
+<    $^{12}$C$_2$H$_2$ and $^{13}$C$_2$H$_2$}},
+< Journal = JCP,
+---
+> @article{99BeMaLo.c2h2,
+> Author = {Bermejo, D and Martinez, RZ and Di Lonardo, G and Fusina, L},
+> Title = {High resolution Raman spectroscopy from vibrationally excited states
+>    populated by a stimulated Raman process. {Transitions} from $\nu_2$=1 in
+>    {(C2H2)-C-12} and {(C2H2)-C-13}},
+> Journal = {J. Chem. Phys.},
+3186c3775
+<    $^{12}$C$_2$H$_2$ and of the nu(1) + nu(2)-nu(2) and 2 nu(2) + 2 nu(5)-nu(2)
+---
+>    (C2H2)-C-12 and of the nu(1) + nu(2)-nu(2) and 2 nu(2) + 2 nu(5)-nu(2)
+3200a3790
+> URL = { http://dx.doi.org/10.1063/1.479331}
+3204c3794
+< @article{99Hoxxxx.C2H2,
+---
+> @article{99Hoxxxx.c2h2,
+3227,3228c3817,3818
+< @article{99TeChOs.C2H2,
+< Author = {Temsamani, M A and Champion, J M and Oss, S},
+---
+> @article{99TeChOs.c2h2,
+> Author = {Temsamani, MA and Champion, JM and Oss, S},
+3230c3820
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+3238,3239c3828,3829
+<    first time, the absolute infrared intensities in $^{12}$C$_2$H$_2$ up to 10
+<    000 cm$^{-1}$. Intensities of hitherto unmeasured vibrational bands are
+---
+>    first time, the absolute infrared intensities in (C2H2)-C-12 up to 10
+>    000 cm(-1). Intensities of hitherto unmeasured vibrational bands are
+3242c3832
+< Keywords-Plus = {SPECTRUM; MODEL; $^{12}$C$_2$H$_2$; ABSORPTION; PATTERN; STATE},
+---
+> Keywords-Plus = {SPECTRUM; MODEL; (C2H2)-C-12; ABSORPTION; PATTERN; STATE},
+3245,3246c3835,3836
+< @article{99LoHoJo.C2H2,
+< Author = {Loidl, R and Hofner, S and Jorgensen, U G and Aringer, B},
+---
+> @article{99LoHoJo.c2h2,
+> Author = {Loidl, R and Hofner, S and Jorgensen, UG and Aringer, B},
+3264c3854
+<    $\mu$m. Furthermore, we demonstrate the effect on the individual spectral
+---
+>    mu m. Furthermore, we demonstrate the effect on the individual spectral
+3273,3277c3863,3867
+< @article{99ElLiCa.C2H2,
+< Author = {El Idrissi, M I and Lievin, J and Campargue, A and Herman, M},
+< Title = {{The vibrational energy pattern in acetylene (IV): Updated global
+<    vibration constants for $^{12}$C$_2$H$_2$}},
+< Journal = JCP,
+---
+> @article{99IdLiCa.c2h2,
+> Author = {El Idrissi, MI and Lievin, J and Campargue, A and Herman, M},
+> Title = {The vibrational energy pattern in acetylene {(IV)}: Updated global
+>    vibration constants for {(C2H2)-C-12}},
+> Journal = {J. Chem. Phys.},
+3281c3871
+< Abstract = {All 253 vibrational levels in the ground electronic state of $^{12}$C$_2$H$_2$
+---
+> Abstract = {All 253 vibrational levels in the ground electronic state of (C2H2)-C-12
+3285c3875
+<    range up to 18 915 cm$^{-1}$. Some 219 of these energies are simultaneously
+---
+>    range up to 18 915 cm(-1). Some 219 of these energies are simultaneously
+3288c3878
+<    vibrational energy levels up to 12 000 cm$^{-1}$ {[}Abbouti Temsamani and
+---
+>    vibrational energy levels up to 12 000 cm(-1) {[}Abbouti Temsamani and
+3290c3880
+<    constants are produced. The rms value of the fit is 0.81 cm$^{-1}$.
+---
+>    constants are produced. The rms value of the fit is 0.81 cm(-1).
+3297c3887
+<    vibrational energies for all k sublevels up to 15 000 cm$^{-1}$, including
+---
+>    vibrational energies for all k sublevels up to 15 000 cm(-1), including
+3298a3889
+> URL = {http://dx.doi.org/10.1063/1.477817},
+3305,3306c3896,3897
+< @article{98HoJoLo.C2H2,
+< Author = {Hofner, S and Jorgensen, U G and Loidl, R and Aringer, B},
+---
+> @article{98HoJoLo.c2h2,
+> Author = {Hofner, S and Jorgensen, UG and Loidl, R and Aringer, B},
+3337c3928
+< @article{98BeCaLo.C2H2,
+---
+> @article{98BeCaLo.c2h2,
+3339,3342c3930,3933
+< Title = {{High resolution Raman spectroscopy from vibrationally excited states
+<    populated by a stimulated Raman process: $2\nu_2-\nu_2$ of $^{12}$C$_2$H$_2$
+<    and $^{12}$C$_2$H$_2$}},
+< Journal = JCP,
+---
+> Title = {High resolution Raman spectroscopy from vibrationally excited states
+>    populated by a stimulated Raman process: 2 $\nu_2$-$\nu_2$ of {(C2H2)-C-12}
+>    and {(C2H2)-C-13}},
+> Journal = {J. Chem. Phys.},
+3358c3949
+<    branches of 2 nu(2)(Sigma(g)(+))-nu(2)(Sigma(g)(+)) of $^{12}$C$_2$H$_2$ and
+---
+>    branches of 2 nu(2)(Sigma(g)(+))-nu(2)(Sigma(g)(+)) of (C2H2)-C-12 and
+3363a3955
+> URL = {http://dx.doi.org/10.1063/1.476140},
+3369,3373c3961,3965
+< @article{96TeHeSo.C2H2,
+< Author = {Temsamani, M A and Herman, M and Solina, S A B and O'Brien, J P and Field, R W},
+< Title = {{Highly vibrationally excited $^{12}$C$_2$H$_2$ in the X $^1\Sigma^+_g$ state:
+<    Complementarity of absorption and dispersed fluorescence spectra}},
+< Journal = JCP,
+---
+> @article{96TeHeSo.c2h2,
+> Author = {Temsamani, MA and Herman, M and Solina, SAB and OBrien, JP and Field, RW},
+> Title = {Highly vibrationally excited {(C2H2)-C-12} in the {$X^1\Sigma_g^+$ $^{12}$C2H2} state:
+>    Complementarity of absorption and dispersed fluorescence spectra},
+> Journal = {J. Chem. Phys.},
+3378c3970
+<    $^{12}$C$_2$H$_2$ (X) over tilde(1) Sigma(g)(+) potential energy surface via
+---
+>    (C2H2)-C-12 (X) over tilde(1) Sigma(g)(+) potential energy surface via
+3382c3974
+<    l=l(4)+l(5), accounts for the energies (+/-0.35 cm$^{-1}$) and relative
+---
+>    l=l(4)+l(5), accounts for the energies (+/-0.35 cm(-1)) and relative
+3384c3976
+<    E(vib)less than or equal to 12000 cm$^{-1}$ and N-r less than or equal to
+---
+>    E(vib)less than or equal to 12000 cm(-1) and N-r less than or equal to
+3390c3982
+<    the E(vib)approximate to 16000 cm$^{-1}$ region of the barrier to acetylene
+---
+>    the E(vib)approximate to 16000 cm(-1) region of the barrier to acetylene
+3392a3985
+> URL = {http://dx.doi.org/10.1063/1.472995},
+3397c3990
+< @article{96NaLaAw.C2H2,
+---
+> @article{96NaLaAw.c2h2,
+3399,3400c3992,3993
+< Title = {Accurate optical frequency atlas of the 1.5-$\mu$m bands of acetylene},
+< Journal = JOSAB,
+---
+> Title = {Accurate optical frequency atlas of the 1.5$\mu$m bands of acetylene},
+> Journal = {Journal of the optical society of America B - Optical Physics},
+3405c3998
+<    lines of the $^{12}$C$_2$H$_2$ and (C2H2)-C-13 1.5-$\mu$m bands. Using an
+---
+>    lines of the (C2H2)-C-12 and (C2H2)-C-13 1.5-mu m bands. Using an
+3410c4003
+<    m with a HCN rovibration line at 1.556 $\mu$m used as an intermediate
+---
+>    m with a HCN rovibration line at 1.556 mu m used as an intermediate
+3412c4005,4006
+<    acetylene 1.5-$\mu$m bands with an uncertainty of similar to 10(-9).},
+---
+>    acetylene 1.5-mu m bands with an uncertainty of similar to 10(-9).},
+> URL = {http://dx.doi.org/10.1364/JOSAB.13.002708},
+3418,3420c4012,4014
+< @article{96TeHexx.C2H2,
+< Author = {Temsamani, M A and Herman, M},
+< Title = {The vibrational energy pattern in $^{12}$C$_2$H$_2$(II): Vibrational
+---
+> @article{96TeHexx.c2h2,
+> Author = {Temsamani, MA and Herman, M},
+> Title = {The vibrational energy pattern in (C2H2)-C-12(II): Vibrational
+3422c4016
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+3427c4021
+<    $^{12}$C$_2$H$_2$ ((X) over tilde (1) Sigma(g)(+)) molecule, which is tested
+---
+>    (C2H2)-C-12 ((X) over tilde (1) Sigma(g)(+)) molecule, which is tested
+3431c4025
+<    $^{12}$C$_2$H$_2$, up to 12 000 cm$^{-1}$ {[}see M. Abbouti Temsamani and M.
+---
+>    (C2H2)-C-12, up to 12 000 cm(-1) {[}see M. Abbouti Temsamani and M.
+3444c4038
+<    9700 cm$^{-1}$ are used. The related experimental conditions and new
+---
+>    9700 cm(-1) are used. The related experimental conditions and new
+3459,3462c4053,4056
+< @article{96KeMeKl.C2H2,
+< Author = {Keppler, K A and Mellau, G C and Klee, S and Winnewisser, B P and
+<    Winnewisser, M and Pliva, J and Rao, K N},
+< Title = {Precision measurements of acetylene spectra at 1.4-1.7 $\mu$m recorded
+---
+> @article{96KeMeKl.c2h2,
+> Author = {Keppler, KA and Mellau, GC and Klee, S and Winnewisser, BP and
+>    Winnewisser, M and Pliva, J and Rao, KN},
+> Title = {Precision measurements of acetylene spectra at 1.4-1.7$\mu$m recorded
+3464c4058
+< Journal = JMS,
+---
+> Journal = {J. Mol. Spectrosc.},
+3468c4062
+< Abstract = {The spectrum of acetylene (C2H2) in the 1.5 $\mu$m region has been
+---
+> Abstract = {The spectrum of acetylene (C2H2) in the 1.5 mu m region has been
+3478a4073
+> URL = {http://dx.doi.org/10.1006/jmsp.1996.0047},
+3483c4078
+< @article{95SaDcGu.C2H2,
+---
+> @article{95SaDcGu.c2h2,
+3485,3487c4080,4081
+< Title = {STRETCH-BEND LEVELS OF ACETYLENE - ANALYSIS OF THE HOT BANDS IN THE
+<    3800-CM$^{-1}$ REGION},
+< Journal = JMS,
+---
+> Title = {Stretch bend levels of acetylene - analysis of the hot bands in the 3800cm$^{-1}$ region},
+> Journal = {J. Mol. Spectrosc.},
+3492c4086
+<    cm$^{-1}$ region has been analyzed for various hot bands originating from
+---
+>    cm(-1) region has been analyzed for various hot bands originating from
+3498c4092,4093
+<    cm$^{-1}$) approaching the experimental accuracy, are reported. },
+---
+>    cm(-1)) approaching the experimental accuracy, are reported. },
+> URL = {http://dx.doi.org/10.1006/jmsp.1995.1257},
+3503c4098
+< @article{95SaDcGub.C2H2,
+---
+> @article{95SaDcGub.c2h2,
+3506,3508c4101,4102
+< Title = {STRETCH-BEND LEVELS OF ACETYLENE - ANALYSIS OF THE HOT BANDS IN THE
+<    3300-CM(-1) REGION},
+< Journal = JMS,
+---
+> Title = {Stretch bend levels of acetylene - analysis of the hot bands in the 3300cm$^{-1}$ region},
+> Journal = {J. Mol. Spectrosc.},
+3512c4106
+< Abstract = {Several hot bands of acetylene in the similar to 3300 cm$^{-1}$ region have
+---
+> Abstract = {Several hot bands of acetylene in the similar to 3300 cm(-1) region have
+3514,3515c4108,4109
+<    apodized resolution of 0.0054 cm$^{-1}$. Molecular parameters for various
+<    stretch-bend levels of $^{12}$C$_2$H$_2$ and (CCH2)-C-13-C-12 from `'global
+---
+>    apodized resolution of 0.0054 cm(-1). Molecular parameters for various
+>    stretch-bend levels of (C2H2)-C-12 and (CCH2)-C-13-C-12 from `'global
+3516a4111
+> URL = {http://dx.doi.org/10.1006/jmsp.1995.1258},
+3521,3523c4116,4118
+< @article{95TeHexx.C2H2,
+< Author = {Temsamani, M A and Herman, M},
+< title = {THE VIBRATIONAL-ENERGY LEVELS IN ACETYLENE $^{12}$C$_2$H$_2$ - TOWARDS A
+---
+> @article{95TeHexx.c2h2,
+> Author = {TEMSAMANI, MA and HERMAN, M},
+> Title = {THE VIBRATIONAL-ENERGY LEVELS IN ACETYLENE (C2H2)-C-12 - TOWARDS A
+3525c4120
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+3534,3538c4129,4132
+< @article{94KoGuTe.C2H2,
+< Author = {Kou, Q and Guelachvili, G and Temsamani, M A and Herman, M},
+< Title = {THE ABSORPTION-SPECTRUM OF {C$_2$H$_2$} AROUND $\nu_1+\nu_3$ - ENERGY STANDARDS IN
+<    THE 1.5 $\mu$m REGION AND VIBRATIONAL CLUSTERING},
+< Journal = CJP,
+---
+> @article{94KoGuTe.c2h2,
+> Author = {Kou, Q. and Guelachvili, G. and Temsamani, M. A. and Herman, M.},
+> Title = {The absorption spectrum of {C2H2} around $\nu_1$+$\nu_3$ - energy standards in the 1.5$\mu$m region and vibrational clustering},
+> Journal = {Canadian Journal of Physics},
+3541a4136,4137
+> DOI = {10.1139/p94-160},
+> URL = {http://dx.doi.org/10.1139/p94-160},
+3543c4139
+<    C2H2, at high resolution, around 6500 cm$^{-1}$. The positions of the
+---
+>    C2H2, at high resolution, around 6500 cm(-1). The positions of the
+3546c4142
+<    standards in that range with an accuracy of 3 x 10(-4) cm$^{-1}$. The
+---
+>    standards in that range with an accuracy of 3 x 10(-4) cm(-1). The
+3554c4150
+<    rovibrational analysis of the cold bands around 8500 cm$^{-1}$, involving
+---
+>    rovibrational analysis of the cold bands around 8500 cm(-1), involving
+3561,3571d4156
+< @article{93AuHuCa.C2H2,
+< Author = {VANDERAUWERA, J and HURTMANS, D and CARLEER, M and HERMAN, M},
+< Title = {THE NU-3 FUNDAMENTAL IN C2H2},
+< Journal = JMS,
+< Year = {1993},
+< Volume = {157},
+< Pages = {337-357},
+< DOI = {10.1006/jmsp.1993.1027},
+< Keywords-Plus = {LINEAR-MOLECULES; ACETYLENE; BANDS; REGION; CONSTANTS; RESONANCES;
+<    C-12(2)H2; INTENSITY; SPECTRUM; CO2},
+< }
+3573c4158
+< @article{92Vaxxxx.C2H2,
+---
+> @article{92Vaxxxx.c2h2,
+3576,3577c4161,4162
+<    OF $^{12}$C$_2$H$_2$ AND (C13CH2)-C-12 AT PLANETARY ATMOSPHERIC TEMPERATURES},
+< Journal = JQSRT,
+---
+>    OF (C2H2)-C-12 AND (C13CH2)-C-12 AT PLANETARY ATMOSPHERIC TEMPERATURES},
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+3583c4168
+<    $^{12}$C$_2$H$_2$ have been measured at various temperatures between 147 and
+---
+>    (C2H2)-C-12 have been measured at various temperatures between 147 and
+3591c4176
+<    $^{12}$C$_2$H$_2$, as well as three H-2-broadened linewidths and a
+---
+>    (C2H2)-C-12, as well as three H-2-broadened linewidths and a
+3600c4185
+< @article{91KaHeDi.C2H2,
+---
+> @article{91KaHeDi.c2h2,
+3602,3603c4187,4188
+< Title = {THE BENDING ENERGY-LEVELS OF {C$_2$H$_2$}},
+< Journal = JMS,
+---
+> Title = {The bending energy levels of {C2H2}},
+> Journal = {J. Mol. Spectrosc.},
+3607a4193
+> URL = {http://dx.doi.org/10.1016/0022-2852(91)90248-9},
+3614,3619c4200,4203
+< @article{91DcSaGu.C2H2,
+< Author = {Dcuhna, R and Sarma, Y A and Guelachvili, G and Farrenq, R and Kou, Q L
+<    and Devi, V M and Benner, D C and Rao, K N},
+< Title = {ANALYSIS OF THE HIGH-RESOLUTION SPECTRUM OF ACETYLENE IN THE {2.4 $\mu$m}
+<    REGION},
+< Journal = JMS,
+---
+> @article{91DcSaGu.c2h2,
+> Author = {R. Dcunha and Y. A. Sarma and G. Guelachvili and R. Farrenq and Q. L. Kou and V. M. Devi and D. C. Benner and K. N. Rao},
+> Title = {Analysis of the high resolution spectrum of acetylene in the 2.4$\mu$m region},
+> Journal = {J. Mol. Spectrosc.},
+3622a4207
+> URL = {http://dx.doi.org/10.1016/0022-2852(91)90048-F},
+3627c4212
+< @article{91HiJeHa.C2H2,
+---
+> @article{91HiJeHa.c2h2,
+3630c4215
+< Journal = JMS,
+---
+> Journal = {J. Mol. Spectrosc.},
+3639c4224
+< @article{89WeBlSa.C2H2,
+---
+> @article{89WeBlSa.c2h2,
+3642c4227
+< Journal = JQSRT,
+---
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+3649c4234
+< @article{89HoLexx.C2H2,
+---
+> @article{89HoLexx.c2h2,
+3660,3663c4245,4248
+< @article{89HeHuVe.C2H2,
+< Author = {Herman, M and Huet, T R and Vervloet, M},
+< Title = {SPECTROSCOPY AND VIBRATIONAL COUPLINGS IN THE $3\nu_3$ REGION OF ACETYLENE},
+< Journal = MP,
+---
+> @article{89HeHuVe.c2h2,
+> Author = {Herman, M and Huet, TR and Vervloet, M},
+> Title = {Spectroscopy and vibrational couplings in the 3$\nu$3 region of acetylene},
+> Journal = {Mol. Phys.},
+3667c4252,4253
+< DOI = {10.1080/00268978900100161},
+---
+> URL = {http://dx.doi.org/10.1080/00268978900100161},
+> DOI = {10.1080/00268978900100161}
+3670,3675c4256,4259
+< @article{81GoMuBl.C2H2,
+< Author = {GOLDMAN, A and MURCRAY, F J and BLATHERWICK, R D and GILLIS, J R and
+<    BONOMO, F S and MURCRAY, F H and MURCRAY, D G and CICERONE, R J},
+< Title = {IDENTIFICATION OF ACETYLENE (C2H2) IN INFRARED ATMOSPHERIC
+<    ABSORPTION-SPECTRA},
+< Journal = JGRA,
+---
+> @article{81GoMuBl.c2h2,
+> Author = {GOLDMAN, A and MURCRAY, F J and BLATHERWICK, R D and GILLIS, J R and BONOMO, F S and MURCRAY, F H and MURCRAY, D G and CICERONE, R J},
+> Title = {IDENTIFICATION OF ACETYLENE (C2H2) IN INFRARED ATMOSPHERIC ABSORPTION-SPECTRA},
+> Journal = {Journal OF GEOPHYSICAL RESEARCH-OCEANS AND ATMOSPHERES},
+3682c4266
+< @article{81HiKaxx.C2H2,
+---
+> @article{81HiKaxx.c2h2,
+3684,3686c4268,4270
+< Title = {HIGH-RESOLUTION INFRARED-SPECTRUM OF ACETYLENE IN THE REGION OF THE
+<    BENDING FUNDAMENTAL $\nu_5$},
+< Journal = MP,
+---
+> Title = {HIGH-RESOLUTION INFRARED-SPECTRUM OF ACETYLENE IN THE REGION OF THE BENDING FUNDAMENTAL NU-5},
+> Title = {High resolution {I}nfrared spectrum of acetylene in the region of the bending fundamental $\nu_5$},
+> Journal = {Mol. Phys.},
+3690c4274,4275
+< DOI = {10.1080/00268978100100351},
+---
+> URL = {http://dx.doi.org/10.1080/00268978100100351},
+> DOI = {10.1080/00268978100100351}
+3693c4278
+< @article{80DaDeRa.C2H2,
+---
+> @article{80DaDeRa.c2h2,
+3696c4281
+< Journal = JMS,
+---
+> Journal = {J. Mol. Spectrosc.},
+3703c4288
+< @article{71ScRoKi.C2H2,
+---
+> @article{71ScRoKi.c2h2,
+3706c4291
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+3713c4298
+< @article{52ShSixx.C2H2,
+---
+> @article{52ShSixx.c2h2,
+3724c4309
+< @article{50BeNixx.C2H2,
+---
+> @article{50BeNixx.c2h2,
+3727c4312
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+3730a4316
+> URL = {http://dx.doi.org/10.1063/1.1747483},
+3734c4320
+< @article{32LoEaxx.C2H2,
+---
+> @article{32LoEaxx.c2h2,
+3744,3745c4330,4331
+< @article{27MeLexx.C2H2,
+< Author = {Meyer, C F and Levin, A A},
+---
+> @article{27MeLexx.c2h2,
+> Author = {Meyer, CF and Levin, AA},
+3756c4342
+< @article{14LyMoBe.C2H2,
+---
+> @article{14LyMoBe.c2h2,
+3759,3761c4345,4346
+< Title = {High-sensitivity CRDS absorption spectroscopy of acetylene between 5851
+<    and 6341 cm$^{-1}$},
+< Journal = MP,
+---
+> Title = {High-sensitivity {CRDS} absorption spectroscopy of acetylene between 5851 and 6341 cm$^{-1}$},
+> Journal = {Mol. Phys.},
+3767c4352
+<    (alpha(min) similar to 5x10(-11) cm$^{-1}$) in the 5851 and 6341 cm-1
+---
+>    (alpha(min) similar to 5x10(-11) cm(-1)) in the 5851 and 6341 cm-1
+3775c4360
+<    lines of $^{12}$C$_2$H$_2$ were rovibrationally assigned in comparison with
+---
+>    lines of (C2H2)-C-12 were rovibrationally assigned in comparison with
+3783c4368
+<    order of 0.001 cm$^{-1}$). A few of the analysed bands were found to be
+---
+>    order of 0.001 cm(-1)). A few of the analysed bands were found to be
+3786c4371,4372
+<    Hamiltonian and dipole moments of $^{12}$C$_2$H$_2$.},
+---
+>    Hamiltonian and dipole moments of (C2H2)-C-12.},
+> URL = {http://dx.doi.org/10.1080/00268976.2014.906677},
+3790,3793c4376,4379
+< @article{93DcSaJo.C2H2,
+< author = {R. Dcunha and Y. A. Sarma and V. A. Job and G. Guelachvili and K. N. Rao},
+< title  = {Fermi Coupling and $\ell$-Type Resonance Effects in the Hot Bands of Acetylene: The 2650-cm$^{-1}$ Region},
+< journal = JMS,
+---
+> @article{93DcSaJo.c2h2,
+> author = {R. Dcunha and Y.A. Sarma and V.A. Job and G. Guelachvili and K.N. Rao},
+> title  = {Fermi Coupling and l-Type Resonance Effects in the Hot Bands of Acetylene: The 2650cm$^{-1}$ Region},
+> journal = {J. Mol. Spectrosc.},
+3796a4383
+> URL = {http://dx.doi.org/10.1006/jmsp.1993.1028},
+3801c4388
+< @article{16AmFaHe.C2H2,
+---
+> @article{16AmFaHe.c2h2,
+3803,3804c4390,4391
+< title = {{Vibration-rotation spectroscopic database on acetylene, $X^1\Sigma_g^+$ $^{12}$C$_2$H$_2$}},
+< journal = JPCRD,
+---
+> title = {Vibration-rotation spectroscopic database on acetylene, {$X^1\Sigma_g^+$ $^{12}$C2H2}},
+> journal = {J. Phys. Chem. Ref. Data},
+3808c4395,4396
+< abstract = {A complete set of calculated vibration-rotation energies of $^{12}$C$_2$H$_2$ ((X) over tilde $^1\Sigma^+_g$) is provided for all vibrational states up to 13 000 cm$^{-1}$ and some at higher energies, with rotational (J) and vibrational angular momentum (l) quantum numbers such that 0 <= J <= 100 and 0 <= vertical bar l vertical bar <= 20, respectively. The calculation is performed using a global effective Hamiltonian and related spectroscopic constants from the literature {[}B. Amyay et al., J. Mol. Spectrosc. 267, 80 (2011)], based on the polyad model. The numerical values of all related polyad matrix elements are also provided. The model and equations for the Hamiltonian matrix elements are gathered. The experimental acetylene database used for determining the parameters is listed.},
+---
+> abstract = {A complete set of calculated vibration-rotation energies of (C2H2)-C-12 ((X) over tilde (1)Sigma(+)(g)) is provided for all vibrational states up to 13 000 cm(-1) and some at higher energies, with rotational (J) and vibrational angular momentum (l) quantum numbers such that 0 <= J <= 100 and 0 <= vertical bar l vertical bar <= 20, respectively. The calculation is performed using a global effective Hamiltonian and related spectroscopic constants from the literature {[}B. Amyay et al., J. Mol. Spectrosc. 267, 80 (2011)], based on the polyad model. The numerical values of all related polyad matrix elements are also provided. The model and equations for the Hamiltonian matrix elements are gathered. The experimental acetylene database used for determining the parameters is listed.},
+> URL = {http://dx.doi.org/10.1063/1.4947297},
+3812c4400
+< @article{16KaLyBe.C2H2,
+---
+> @article{16KaLyBe.c2h2,
+3814c4402
+< Title = {New assignments and a rare peculiarity in the high sensitivity CRDS
+---
+> Title = {New assignments and a rare peculiarity in the high sensitivity {CRDS}
+3816c4404
+< Journal = JMS,
+---
+> Journal = {J. Mol. Spectrosc.},
+3819a4408
+> URL = {http://dx.doi.org/10.1016/j.jms.2016.02.013},
+3823c4412
+< @article{16LyAuCa.C2H2,
+---
+> @article{16LyAuCa.c2h2,
+3827c4416
+< Journal = JQSRT,
+---
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+3830a4420
+> URL = {http://dx.doi.org/10.1016/j.jqsrt.2015.11.026},
+3834c4424
+< @article{13LyCaMo.C2H2,
+---
+> @article{13LyCaMo.c2h2,
+3836,3838c4426,4427
+< Title = {{The absorption spectrum of acetylene by CRDS between 7244 and 7918
+<    cm$^{-1}$}},
+< Journal = JQSRT,
+---
+> Title = {The absorption spectrum of acetylene by CRDS between 7244 and 7918 cm$^{-1}$},
+> Journal = {J. Quant. Spectrosc. Radiat. Transf.},
+3840a4430
+> Number = {SI},
+3842c4432
+< Month = {NOV},
+---
+> URL = {http://dx.doi.org/10.1016/j.jqsrt.2013.04.028},
+3843a4434,4437
+> ISSN = {0022-4073},
+> EISSN = {1879-1352},
+> Times-Cited = {8},
+> Unique-ID = {ISI:000326482100026}
+3846,3847c4440,4441
+< @article{17BeLyHu.C2H2,
+< author = {S. B\'eguier and O. M. Lyulin and S.-M. Hu and A. Campargue},
+---
+> @article{17BeLyHu.c2h2,
+> author = {S. B\'eguier and O.M. Lyulin and S.-M. Hu and A. Campargue},
+3849c4443
+< journal = JQSRT,
+---
+> journal = {J. Quant. Spectrosc. Radiat. Transf.},
+3852a4447
+> URL = {http://dx.doi.org/10.1016/j.jqsrt.2016.12.020},
+3860c4455
+< abstract = {Abstract The absorption spectrum of acetylene is studied by high-resolution Fourier-transform spectroscopy (FTS) between 8980 and 9420 cm–1. Positions and intensities of 432 $^{12}$C$_2$H$_2$ absorption lines are retrieved from a spectrum recorded at room temperature (298.5 K) with a pressure of 87.6 hPa and a 105 m path length. The measured lines belong to 11 bands including three bands observed for the first time. The obtained intensity dataset constitutes the first intensity information in the region. The Herman-Wallis coefficients are derived from a fit of the measured intensity values. The reported results will be valuable to complete the spectroscopic databases of acetylene.}
+---
+> abstract = {Abstract The absorption spectrum of acetylene is studied by high-resolution Fourier-transform spectroscopy (FTS) between 8980 and 9420 cm–1. Positions and intensities of 432 12C2H2 absorption lines are retrieved from a spectrum recorded at room temperature (298.5 K) with a pressure of 87.6 hPa and a 105 m path length. The measured lines belong to 11 bands including three bands observed for the first time. The obtained intensity dataset constitutes the first intensity information in the region. The Herman-Wallis coefficients are derived from a fit of the measured intensity values. The reported results will be valuable to complete the spectroscopic databases of acetylene.}
+3863c4458
+< @article{16KaNaVa.C2H2,
+---
+> @article{16KaNaVa.c2h2,
+3866c4461
+< journal = JCP,
+---
+> journal = {J. Chem. Phys.},
+3867a4463
+> number = {24},
+3873c4469
+< @article{13SiMeVa.C2H2,
+---
+> @article{13SiMeVa.c2h2,
+3875,3876c4471,4472
+< title = {Experimental observation and analysis of the $3\nu_1$ stretching vibrational state of acetylene using continuous-wave infrared stimulated emission},
+< journal = JCP,
+---
+> title = {Experimental observation and analysis of the stretching vibrational state of acetylene using continuous-wave infrared stimulated emission},
+> journal = {J. Chem. Phys.},
+3880a4477
+> URL = {http://dx.doi.org/10.1063/1.4816524}
+3883c4480
+< @article{99SaPeHa.C2H2,
+---
+> @article{99SaPeHa.c2h2,
+3886c4483
+< journal = JCP,
+---
+> journal = {J. Chem. Phys.},
+3890c4487,4488
+< doi = {10.1063/1.478017},
+---
+> URL = {http://dx.doi.org/10.1063/1.478017},
+> doi = {10.1063/1.478017}
+3893c4491
+< @article{02MeYaVa.C2H2,
+---
+> @article{02MeYaVa.c2h2,
+3896c4494
+< journal = JCP,
+---
+> journal = {J. Chem. Phys.},
+3900c4498,4499
+< doi = {10.1063/1.1513464},
+---
+> URL = {http://dx.doi.org/10.1063/1.1513464},
+> doi = {10.1063/1.1513464}
+3903c4502
+< @inbook {07Haxxxx.C2H2,
+---
+> @inbook {07Haxxxx.c2h2,
+3922c4521
+< @article{10MeScSk.C2H2,
+---
+> @article{10MeScSk.c2h2,
+3927c4526
+< Journal = {J. Breath Res.},
+---
+> Journal = {JOURNAL OF BREATH RESEARCH},
+3934c4533
+< @article{10ScVaMe.C2H2,
+---
+> @article{10ScVaMe.c2h2,
+3939c4538
+< Journal = APB-LO,
+---
+> Journal = {APPLIED PHYSICS B-LASERS AND OPTICS},
+3946,3947c4545,4546
+< @article{01MeYaVa.C2H2,
+< Author = {Mets{\"a}l{\"a}, M and Yang, S F and Vaittinen, A and Permogorov, D and Halonen,
+---
+> @article{01MeYaVa.c2h2,
+> Author = {Mets{\"a}l{\"a}, M and Yang, SF and Vaittinen, A and Permogorov, D and Halonen,
+3951c4550
+< Journal = CPL,
+---
+> Journal = {Chem. Phys. Lett.},
+3955c4554,4555
+< DOI = {10.1016/S0009-2614(01)00945-9},
+---
+> URL = {http://dx.doi.org/10.1016/S0009-2614(01)00945-9},
+> DOI = {10.1016/S0009-2614(01)00945-9}
+3958c4558
+< @article{97JuHaxx.C2H2,
+---
+> @article{97JuHaxx.c2h2,
+3962c4562
+< Journal = JCP,
+---
+> Journal = {J. Chem. Phys.},
+3966c4566,4567
+< DOI = {10.1063/1.474521},
+---
+> URL = {http://dx.doi.org/10.1063/1.474521},
+> DOI = {10.1063/1.474521}
+3969,3973c4570,4573
+< @article{93ZhHaxx.C2H2,
+< Author = {Zhan, X W and Halonen, L},
+< Title = {HIGH-RESOLUTION PHOTOACOUSTIC STUDY OF THE $\nu_1+3\nu_3$-BAND SYSTEM OF
+<    ACETYLENE WITH A TITANIUM-SAPPHIRE RING LASER},
+< Journal = JMS,
+---
+> @article{93ZhHaxx.c2h2,
+> Author = {X. W. Zhan and L. Halonen},
+> Title = {High resolution photoacoustic study of the $\nu_1$+3$\nu_3$ band system of acetylene with a titanium sapphire ring laser},
+> Journal = {J. Mol. Spectrosc.},
+3977c4577,4578
+< DOI = {10.1006/jmsp.1993.1193},
+---
+> URL = {http://dx.doi.org/10.1006/jmsp.1993.1193},
+> DOI = {10.1006/jmsp.1993.1193}
+3980,3981c4581,4582
+< @article{93ZhVaHa.C2H2,
+< Author = {Zhan, X W and Vaittinen, O and  Halonen, L},
+---
+> @article{93ZhVaHa.c2h2,
+> Author = {X. W. Zhan, O. Vaittinen and L. Halonen},
+3983,3984c4584,4585
+<   cm$^{-1}$ USING A TITANIUM - SAPPHIRE RING LASER},
+< Journal = JMS,
+---
+>    CM$^{-1}$ USING A TITANIUM - SAPPHIRE RING LASER},
+> Journal = {J. Mol. Spectrosc.},
+3988c4589,4590
+< DOI = {10.1006/jmsp.1993.1165},
+---
+> URL = {http://dx.doi.org/10.1006/jmsp.1993.1165},
+> DOI = {10.1006/jmsp.1993.1165}
+3991,4002c4593
+< @article{91ZhVaKa.C2H2,
+< title = {High-resolution photoacoustic overtone spectrum of acetylene near 570 nm using a ring-dye-laser spectrometer},
+< journal = CPL,
+< volume = {180},
+< pages = {310 - 316},
+< year = {1991},
+< doi = {10.1016/0009-2614(91)90325-4},
+< author = {Xiao-Wei Zhan and Olavi Vaittinen and Esa Kauppi and Lauri Halonen}
+< }
+< 
+< 
+< @article{86MaTaxx.C2H2,
+---
+> @article{86MaTaxx.c2h2,
+4004c4595
+< journal = JMS,
+---
+> journal = {J. Mol. Spectrosc.},
+4013c4604
+< @article{12ZhLiSh.C2H2,
+---
+> @article{12ZhLiSh.c2h2,
+4028c4619
+< @article{86MaTaxxb.C2H2,
+---
+> @article{86MaTaxxb.c2h2,
+4030c4621
+< journal = JMS,
+---
+> journal = {J. Mol. Spectrosc.},
+4040,4042c4631,4633
+< @article{78SmStVi.C2H2,
+< title = {Measurement and interpretation of the integrated infrared intensities of C2H2 and C2D2 },
+< journal = {J. Mol. Structure},
+---
+> @article{78SmStVi.c2h2,
+> title = {Measurement and interpretation of the integrated infrared intensities of {C2H2} and {C2D2} },
+> journal = {Journal of Molecular Structure},
+4047c4638
+< author = {W. M. A. Smit and A. J. {Van Straten} and T. Visser},
+---
+> author = {W.M.A. Smit and A.J. Van Straten and T. Visser},
+4051,4053c4642,4645
+< @article{84PoLoVa.C2H2,
+< title = {Diode laser line strength measurements of the (nu4 + nu5)0 band of $^{12}$C$_2$H$_2$},
+< journal = JMS,
+---
+> 
+> @article{84PoLoVa.c2h2,
+> title = {Diode laser line strength measurements of the (nu4 + nu5)0 band of 12C2H2},
+> journal = {J. Mol. Spectrosc.},
+4059c4651
+< abstract = {A diode laser spectrometer that was operated in sweep integration mode was used to measure individual line strengths for 17 R-branch transitions of the (ν4 + ν5)0 combination band of $^{12}$C$_2$H$_2$ at 7.4 μm. Analysis of these results gives a band strength Sv = 64.4 ± 2.0 cm−2 atm−1 at 296 K. Line-broadening parameters for several of these transitions were determined by using both N2 and He as broadening gases. }
+---
+> abstract = {A diode laser spectrometer that was operated in sweep integration mode was used to measure individual line strengths for 17 R-branch transitions of the (ν4 + ν5)0 combination band of 12C2H2 at 7.4 μm. Analysis of these results gives a band strength Sv = 64.4 ± 2.0 cm−2 atm−1 at 296 K. Line-broadening parameters for several of these transitions were determined by using both N2 and He as broadening gases. }
+4062c4654
+< @article{83BuJexx.C2H2,
+---
+> @article{83BuJexx.c2h2,
+4065c4657
+< journal = JCP,
+---
+> journal = {The Journal of Chemical Physics},
+4066a4659
+> number = {3},
+4069a4663,4664
+> URL = {http://dx.doi.org/10.1063/1.445927},
+> eprint = { http://dx.doi.org/10.1063/1.445927},
+4073c4668
+< @article{83JeBuxx.C2H2,
+---
+> @article{83JeBuxx.c2h2,
+4075c4670
+< journal = JMS,
+---
+> journal = {Journal of Molecular Spectroscopy},
+4076a4672
+> number = {2},
+4078a4675
+> issn = {0022-2852},
+4079a4677
+> url = {http://www.sciencedirect.com/science/article/pii/0022285283903193},
+4084c4682
+< @article{08HiMaTa.C2H2,
+---
+> @article{08HiMaTa.c2h2,
+4087c4685
+< journal = JCP,
+---
+> journal = {J. Chem. Phys.},
+4088a4687
+> number = {8},
+4091a4691,4692
+> URL = {http://dx.doi.org/10.1063/1.2828557 },
+> eprint = {http://dx.doi.org/10.1063/1.2828557}
+4094c4695
+< @article{01Vaxxxx.C2H2,
+---
+> @article{01Vaxxxx.c2h2,
+4101c4702,4703
+< journal = {Adv. At. Mol.  Opt. Phys.},
+---
+> journal = {Advances In Atomic, Molecular, and Optical Physics},
+> issn = {1049-250X},
+4102a4705
+> url = {http://www.sciencedirect.com/science/article/pii/S1049250X01800410},
+4107c4710
+< @article{05YuBuJe.C2H2,
+---
+> @article{05YuBuJe.c2h2,
+4109,4110c4712,4713
+<   author= {Yurchenko, S N and Bunker, P R and Jensen, Per},
+<   journal= {J. Mol. Structure},
+---
+>   author= {Yurchenko, SN and Bunker, PR and Jensen, Per},
+>   journal= {Journal of molecular structure},
+4111a4715
+>   number= {1},
+4113a4718
+>   publisher= {Elsevier},
+4117c4722
+< @article{14MaTaHi.C2H2,
+---
+> @article{14MaTaHi.c2h2,
+4119c4724
+< journal = {J. Electron Spectrosc. Related Phenom.},
+---
+> journal = {Journal of Electron Spectroscopy and Related Phenomena },
+4120a4726
+> number = {},
+4124c4730,4731
+< doi = {10.1016/j.elspec.2013.12.011},
+---
+> doi = {http://dx.doi.org/10.1016/j.elspec.2013.12.011},
+> url = {http://www.sciencedirect.com/science/article/pii/S0368204813002466},
+4135c4742
+< @Article{11MaFuTa.C2H2,
+---
+> @Article{11MaFuTa.c2h2,
+4138c4745
+< journal  = PCCP,
+---
+> journal  = {Phys. Chem. Chem. Phys.},
+4140a4748
+> issue  = {19},
+4141a4750
+> publisher  = {The Royal Society of Chemistry},
+4142a4752
+> url  = {http://dx.doi.org/10.1039/C0CP02333G},
+4146c4756
+< @article{07HiMaFu.C2H2,
+---
+> @article{07HiMaFu.c2h2,
+4149c4759
+<   journal = PRL,
+---
+>   journal = {Phys. Rev. Lett.},
+4150a4761
+>   issue = {25},
+4151a4763
+>   numpages = {4},
+4152a4765,4766
+>   month = {Dec},
+>   publisher = {American Physical Society},
+4153a4768
+>   url = {http://link.aps.org/doi/10.1103/PhysRevLett.99.258302}
+4156c4771
+< @article {13MiChKa.C2H2,
+---
+> @article {13MiChKa.c2h2,
+4159c4774
+< journal = {J. Chinese Chem. Soc.},
+---
+> journal = {Journal of the Chinese Chemical Society},
+4160a4776,4779
+> number = {10},
+> publisher = {WILEY-VCH Verlag},
+> issn = {2192-6549},
+> url = {http://dx.doi.org/10.1002/jccs.201300077},
+4175c4794
+<   journal = MNRAS,
+---
+>   journal = {Mon. Not. R. Astron. Soc.},
+4184c4803
+<     The spectra cover the wavelength range 5-38�m. They show varying combinations
+---
+>     The spectra cover the wavelength range 5-38mum. They show varying combinations
+4186,4187c4805,4806
+<     bands (C2H2, HCN). A 10-�m absorption feature is attributed to C3. A weak band
+<     at 5.8�m is suggestive of carbonyl. The circumstellar 7.5-�m C2H2 band is found
+---
+>     bands (C2H2, HCN). A 10-mum absorption feature is attributed to C3. A weak band
+>     at 5.8mum is suggestive of carbonyl. The circumstellar 7.5-mum C2H2 band is found
+4205a4825
+>       URL = {http://dx.doi.org/10.1111/j.1365-2966.2006.10623.x}
+4208,4210c4828,4830
+< @article{17LyCaxx.C2H2,
+< title = {An empirical spectroscopic database for acetylene in the regions of 5850.6341 cm$^{-1}$ and 7000.9415 cm$^{-1}$},
+< journal = JQSRT,
+---
+> @article{17LyCaxx.c2h2,
+> title = {An empirical spectroscopic database for acetylene in the regions of 5850-6341cm$^{-1}$ and 7000-9415cm$^{-1}$},
+> journal = {J. Quant. Spectrosc. Radiat. Transf.},
+4212c4832,4833
+< pages = { - },
+---
+> number = {},
+> pages = {},
+4216c4837,4838
+< author = {O. M. Lyulin and A. Campargue},
+---
+> url = {http://www.sciencedirect.com/science/article/pii/S0022407316308883},
+> author = {O.M. Lyulin and A. Campargue},
+4224c4846
+< abstract = {Abstract Six studies have been recently devoted to a systematic analysis of the high-resolution near infrared absorption spectrum of acetylene recorded by Cavity Ring Down spectroscopy (CRDS) in Grenoble and by Fourier-transform spectroscopy (FTS) in Brussels and Hefei. On the basis of these works, in the present contribution, we construct an empirical database for acetylene in the 5850 � 9415 cm�1 region excluding the 6341�7000 cm�1 interval corresponding to the very strong �1+�3 manifold. Our database gathers and extends information included in our CRDS and FTS studies. In particular, the intensities of about 1700 lines measured by CRDS in the 7244�7920 cm�1 are reported for the first time together with those of several bands of 12C13CH2 present in natural isotopic abundance in the acetylene sample. The Herman-Wallis coefficients of most of the bands are derived from a fit of the measured intensity values. A recommended line list is provided with positions calculated using empirical spectroscopic parameters of the lower and upper energy vibrational levels and intensities calculated using the derived Herman-Wallis coefficients. This approach allows completing the experimental list by adding missing lines and improving poorly determined positions and intensities. As a result the constructed line list includes a total of 10973 lines belonging to 146 bands of $^{12}$C$_2$H$_2$ and 29 bands of 12C13CH2. For comparison the HITRAN database in the same region includes 869 lines of 14 bands, all belonging to $^{12}$C$_2$H$_2$. Our weakest lines have an intensity on the order of 10�29 cm/molecule, about three orders of magnitude smaller than the HITRAN intensity cut off. Line profile parameters are added to the line list which is provided in HITRAN format. The comparison of our acetylene database to the HITRAN line list or to results obtained using the global effective operator approach is discussed in terms of completeness and accuracy. }
+---
+> abstract = {Abstract Six studies have been recently devoted to a systematic analysis of the high-resolution near infrared absorption spectrum of acetylene recorded by Cavity Ring Down spectroscopy (CRDS) in Grenoble and by Fourier-transform spectroscopy (FTS) in Brussels and Hefei. On the basis of these works, in the present contribution, we construct an empirical database for acetylene in the 5850 � 9415 cm�1 region excluding the 6341�7000 cm�1 interval corresponding to the very strong �1+�3 manifold. Our database gathers and extends information included in our CRDS and FTS studies. In particular, the intensities of about 1700 lines measured by CRDS in the 7244�7920 cm�1 are reported for the first time together with those of several bands of 12C13CH2 present in natural isotopic abundance in the acetylene sample. The Herman-Wallis coefficients of most of the bands are derived from a fit of the measured intensity values. A recommended line list is provided with positions calculated using empirical spectroscopic parameters of the lower and upper energy vibrational levels and intensities calculated using the derived Herman-Wallis coefficients. This approach allows completing the experimental list by adding missing lines and improving poorly determined positions and intensities. As a result the constructed line list includes a total of 10973 lines belonging to 146 bands of 12C2H2 and 29 bands of 12C13CH2. For comparison the HITRAN database in the same region includes 869 lines of 14 bands, all belonging to 12C2H2. Our weakest lines have an intensity on the order of 10�29 cm/molecule, about three orders of magnitude smaller than the HITRAN intensity cut off. Line profile parameters are added to the line list which is provided in HITRAN format. The comparison of our acetylene database to the HITRAN line list or to results obtained using the global effective operator approach is discussed in terms of completeness and accuracy. }
+4230a4853
+> number = {},
+4233,4234c4856
+< note = {},
+< author = {K. L. Chubb and S. N. Yurchenko and A. Yachmenev and J. Tennyson}
+---
+> author = {K. Chubb and S. Yurchenko and A. Yachmenev and J. Tennyson}
+4237,4239c4859,4861
+< @article{17JaLyPe.C2H2,
+< title = {{Recommended acetylene line list in the 20 -- 240 cm$^{-1}$ and 400 -- 630 cm$^{-1}$ regions: new measurements and global modeling}},
+< journal = JQSRT,
+---
+> @article{17JaLyPe.c2h2,
+> title = {Recommended acetylene line list in the 20-240cm$^{-1}$ and 400-630cm$^{-1}$ regions: new measurements and global modeling },
+> journal = {Journal of Quantitative Spectroscopy and Radiative Transfer },
+4241c4863,4864
+< pages = { },
+---
+> number = {},
+> pages = {},
+4242a4866
+> issn = {0022-4073},
+4244c4868,4869
+< author = {D. Jacquemart and O. M Lyulin and V. I Perevalov},
+---
+> url = {http://www.sciencedirect.com/science/article/pii/S0022407316308901},
+> author = {D. Jacquemart and O. Lyulin and V. Perevalov},
+4251c4876
+< abstract = {Abstract A new recommended $^{12}$C$_2$H$_2$ line list for the 13 � 248 cm�1 and 390 � 634 cm�1 regions is presented. It is based on the results of the global modeling of the line positions and intensities performed in Tomsk within the framework of the method of effective operators. To validate the Tomsk calculations new measurements of both line positions and intensities were performed using acetylene spectra recorded between 25 and 680 cm�1 with the AILES-A beamline of SOLEIL synchrotron. Line positions and intensities of 627 transitions belonging to 9 bands have been measured for the first time in this region. Using the results of these new measurements and the published results of the measurements in the 13 � 248 cm�1 and 390 � 634 cm�1 regions performed with the same facilities new fittings of the line intensities for the �P = 0 and �P = 1 series of transitions have been performed. Here P = 5v1 + 3v2 + 5v3 + v4 + v5 is a polyad number, where v1, v2, v3, v4, and v5 are the principal quantum numbers of the acetylene harmonic oscillators. These new sets of the effective dipole moment parameters were used to generate the line list which contains the line positions and intensities of 39 and 29 bands, respectively for the �P = 0 and �P = 1 series of transitions. None of these bands is present in the HITRAN 2012 and GEISA 2015 databases. This paper presents the first part of a global work on the validation of Tomsk calculations.}
+---
+> abstract = {Abstract A new recommended 12C2H2 line list for the 13 � 248 cm�1 and 390 � 634 cm�1 regions is presented. It is based on the results of the global modeling of the line positions and intensities performed in Tomsk within the framework of the method of effective operators. To validate the Tomsk calculations new measurements of both line positions and intensities were performed using acetylene spectra recorded between 25 and 680 cm�1 with the AILES-A beamline of SOLEIL synchrotron. Line positions and intensities of 627 transitions belonging to 9 bands have been measured for the first time in this region. Using the results of these new measurements and the published results of the measurements in the 13 � 248 cm�1 and 390 � 634 cm�1 regions performed with the same facilities new fittings of the line intensities for the �P = 0 and �P = 1 series of transitions have been performed. Here P = 5v1 + 3v2 + 5v3 + v4 + v5 is a polyad number, where v1, v2, v3, v4, and v5 are the principal quantum numbers of the acetylene harmonic oscillators. These new sets of the effective dipole moment parameters were used to generate the line list which contains the line positions and intensities of 39 and 29 bands, respectively for the �P = 0 and �P = 1 series of transitions. None of these bands is present in the HITRAN 2012 and GEISA 2015 databases. This paper presents the first part of a global work on the validation of Tomsk calculations.}
+4254c4879
+< @article{00Mlxxxx.C2H2,
+---
+> @article{00Mlxxxx.c2h2,
+4257c4882
+< journal = JCP,
+---
+> journal = {The Journal of Chemical Physics},
+4258a4884
+> number = {3},
+4261a4888
+> URL = {http://dx.doi.org/10.1063/1.480662
+4265c4892
+< @article{02PaJoOl.C2H2,
+---
+> @article{02PaJoOl.c2h2,
+4268c4895
+< journal = JCP,
+---
+> journal = {The Journal of Chemical Physics},
+4269a4897
+> number = {15},
+4272a4901
+> URL = {http://dx.doi.org/10.1063/1.1459782},
+4276c4905
+< @Inbook{98Kuxxxx.C2H2,
+---
+> @Inbook{98Kuxxxx.c2h2,
+4284c4913
+< @book{12Gaxxxx.C2H2,
+---
+> @book{12Gaxxxx.c2h2,
+4291c4920
+< @ARTICLE{74Rixxxx.C2H2,
+---
+> @ARTICLE{74Rixxxx.c2h2,
+4294c4923
+<   journal = ApJ,
+---
+>   journal = {\apjl},
+4298a4928,4929
+>    adsurl = {http://adsabs.harvard.edu/abs/1974ApJ...187L..41R},
+>   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+4301,4303c4932,4934
+< @article{76RiHaKl.C2H2,
+<   title={{Circumstellar acetylene in the infrared spectrum of IRC+ 10� 216}},
+<   author={Ridgway, Stephen T and Hall, Donald N B and Kleinmann, Susan G and Weinberger, Doreen A and Wojslaw, ROBERT S},
+---
+> @article{76RiHaKl.c2h2,
+>   title={Circumstellar acetylene in the infrared spectrum of IRC+ 10� 216},
+>   author={Ridgway, Stephen T and Hall, Donald NB and Kleinmann, Susan G and Weinberger, Doreen A and WOJSLAW, ROBERT S},
+4305a4937
+>   number={5584},
+4307a4940
+>   publisher={Nature Publishing Group}
+4310,4311c4943,4944
+< @ARTICLE{93KeRixx.C2H2,
+<    author = {{Keady}, J. J. and {Ridgway}, S. T.},
+---
+> @ARTICLE{93KeRixx.c2h2,
+>    author = {{Keady}, J.~J. and {Ridgway}, S.~T.},
+4313c4946
+<   journal = ApJ,
+---
+>   journal = {\apj},
+4318a4952,4953
+>    adsurl = {http://adsabs.harvard.edu/abs/1993ApJ...406..199K},
+>   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+4321c4956
+< @article{86DrBeAt.C2H2,
+---
+> @article{86DrBeAt.c2h2,
+4324a4960
+> number = {3},
+4326a4963
+> issn = {0019-1035},
+4327a4965
+> url = {http://www.sciencedirect.com/science/article/pii/0019103586900941},
+4331c4969
+< @article{83Vaxxxx.C2H2,
+---
+> @article{83Vaxxxx.c2h2,
+4333c4971
+< journal = JQSRT,
+---
+> journal = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+4334a4973
+> number = {6},
+4337,4338c4976,4979
+< doi = {10.1016/0022-4073(83)90003-1},
+< author = {P. Varanasi and L. P. Giver and F. P. J. Valero}
+---
+> issn = {0022-4073},
+> doi = {http://dx.doi.org/10.1016/0022-4073(83)90003-1},
+> url = {http://www.sciencedirect.com/science/article/pii/0022407383900031},
+> author = {P. Varanasi and L.P. Giver and F.P.J. Valero}
+4341c4982
+< @article{01CeHeTi.C2H2,
+---
+> @article{01CeHeTi.c2h2,
+4344c4985
+<   journal=ApJ,
+---
+>   journal={The Astrophysical Journal Letters},
+4345a4987
+>   number={2},
+4346a4989
+>   url={http://stacks.iop.org/1538-4357/546/i=2/a=L123},
+4351c4994
+< @ARTICLE{04Cexxxx.C2H2,
+---
+> @ARTICLE{04Cexxxx.c2h2,
+4354c4997
+<   journal = ApJ,
+---
+>   journal = {\apjl},
+4359a5003,5004
+>    adsurl = {http://adsabs.harvard.edu/abs/2004ApJ...608L..41C},
+>   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+4364c5009
+< @article {17Hoxxxx.C2H2,
+---
+> @article {17Hoxxxx.c2h2,
+4367c5012
+< journal = JGRP,
+---
+> journal = {Journal of Geophysical Research: Planets},
+4368a5014
+> url = {http://dx.doi.org/10.1002/2016JE005240},
+4373d5018
+< note = {2016JE005240},
+4376c5021
+< @article {11Loxxxx.C2H2,
+---
+> @article {11Loxxxx.c2h2,
+4381d5025
+< month = {May},
+4386,4387c5030,5031
+< @ARTICLE{14MiBaOr.C2H2,
+<    author = {{Miller}, L. G. and {Baesman}, S. M. and {Oremland}, R. S.},
+---
+> @ARTICLE{14MiBaOr.c2h2,
+>    author = {{Miller}, L.~G. and {Baesman}, S.~M. and {Oremland}, R.~S.},
+4392a5037,5038
+>    adsurl = {http://adsabs.harvard.edu/abs/2014AGUFM.P53B4009M},
+>   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+4395c5041
+< @article{87BeDaxx.C2H2,
+---
+> @article{87BeDaxx.c2h2,
+4405,4406c5051,5052
+< @ARTICLE{05McSmxx.C2H2,
+<    author = {{McKay}, C.~P. and {Smith}, H.~D.},
+---
+> @ARTICLE{05McSmxx.c2h2,
+>    author = {McKay, C.P. and Smith, H.D.},
+4408c5054
+<   journal = Icarus,
+---
+>   journal = {Icarus},
+4413a5060,5061
+>    adsurl = {http://adsabs.harvard.edu/abs/2005Icar..178..274M},
+>   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+4416c5064
+< @article{90GaHaRo.C2H2,
+---
+> @article{90GaHaRo.c2h2,
+4418c5066
+< journal = JMS,
+---
+> journal = {J. Mol. Spectrosc.},
+4419a5068
+> number = {2},
+4421a5071
+> issn = {0022-2852},
+4422a5073
+> url = {http://www.sciencedirect.com/science/article/pii/002228529090178S},
+4427,4428c5078,5079
+< @article{16SiMcCo.C2H2,
+<   author={S. Singh and T. B. McCord and J-Ph. Combe and S. Rodriguez and T. Cornet and S. Le Mou{\'e}lic and R. N. Clark and L. Maltagliati and V.F. Chevrier},
+---
+> @article{16SiMcCo.c2h2,
+>   author={S. Singh and T. B. McCord and J-Ph. Combe and S. Rodriguez and T. Cornet and S. Le Mou�lic and R. N. Clark and L. Maltagliati and V.F. Chevrier},
+4430c5081
+<   journal=ApJ,
+---
+>   journal={The Astrophysical Journal},
+4431a5083
+>   number={1},
+4432a5085
+>   url={http://stacks.iop.org/0004-637X/828/i=1/a=55},
+4436c5089
+< @article{92ChIuxx.C2H2,
+---
+> @article{92ChIuxx.c2h2,
+4439c5092
+<   journal = PRA,
+---
+>   journal = {Phys. Rev. A},
+4440a5094
+>   issue = {9},
+4441a5096
+>   numpages = {0},
+4442a5098,5099
+>   month = {May},
+>   publisher = {American Physical Society},
+4443a5101
+>   url = {https://link.aps.org/doi/10.1103/PhysRevA.45.6217}
+4446c5104
+< @article{17Caxxxx.C2H2,
+---
+> @article{17Caxxxx.c2h2,
+4449c5107
+< journal = JCP,
+---
+> journal = {The Journal of Chemical Physics},
+4450a5109
+> number = {12},
+4453a5113,5114
+> URL = {http://dx.doi.org/10.1063/1.4979117},
+> eprint = {http://dx.doi.org/10.1063/1.4979117},
+4457c5118
+< @article{98ChGuLi.C2H2,
+---
+> @article{98ChGuLi.c2h2,
+4460c5121
+< journal = JCP,
+---
+> journal = {The Journal of Chemical Physics},
+4461a5123
+> number = {17},
+4464a5127,5128
+> URL = {http://dx.doi.org/10.1063/1.477396},
+> eprint = { http://dx.doi.org/10.1063/1.477396},
+4468,4470c5132,5134
+< @article{92SaKaxx.C2H2,
+< title = {Diode laser spectroscopy of acetylene: $3\nu_3+\nu_1$3 Region at 0.77 $\mu$m},
+< journal = JMS,
+---
+> @article{92SaKaxx.c2h2,
+> title = {Diode laser spectroscopy of acetylene: $3\nu_1$ + $\nu_3$ Region at 0.77$\mu$m},
+> journal = {J. Mol. Spectrosc.},
+4471a5136
+> number = {2},
+4473a5139,5140
+> issn = {0022-2852},
+> URL = {http://dx.doi.org/10.1016/0022-2852(92)90208-6},
+4474a5142
+> url = {http://www.sciencedirect.com/science/article/pii/0022285292902086},
+4476c5144
+< abstract = {High resolution spectra of acetylene have been measured in the region between 12 900 and 13 080 cm-1 with a GaAs diode laser spectrometer. Five bands (3nu1 + nu3 of $^{12}$C$_2$H$_2$ and 12C13CH2, and 3nu1 + nu3 + nu41 - nu41, 4nu3 + nu51 - nu41, and 3nu1 + nu3 + nu51 - nu51 of $^{12}$C$_2$H$_2$) have been assigned and analyzed yielding new or improved spectroscopic constants for the upper states. Perturbations observed in the 3nu1 + nu3 and 3nu1 + nu3 + nu51 - nu51 bands of $^{12}$C$_2$H$_2$ have been analyzed by taking account of the Fermi interactions.}
+---
+> abstract = {High resolution spectra of acetylene have been measured in the region between 12 900 and 13 080 cm-1 with a GaAs diode laser spectrometer. Five bands (3nu1 + nu3 of 12C2H2 and 12C13CH2, and 3nu1 + nu3 + nu41 - nu41, 4nu3 + nu51 - nu41, and 3nu1 + nu3 + nu51 - nu51 of 12C2H2) have been assigned and analyzed yielding new or improved spectroscopic constants for the upper states. Perturbations observed in the 3nu1 + nu3 and 3nu1 + nu3 + nu51 - nu51 bands of 12C2H2 have been analyzed by taking account of the Fermi interactions.}
+4482c5150
+< journal = JCP,
+---
+> journal = {The Journal of Chemical Physics},
+4483a5152
+> number = {6},
+4486a5156,5170
+> URL = {http://dx.doi.org/10.1063/1.445269},
+> eprint = {http://dx.doi.org/10.1063/1.445269}
+> }
+> 
+> @article{91ZhVaKa.c2h2,
+> title = {High-resolution photoacoustic overtone spectrum of acetylene near 570 nm using a ring-dye-laser spectrometer},
+> journal = {Chemical Physics Letters},
+> volume = {180},
+> number = {4},
+> pages = {310 - 316},
+> year = {1991},
+> issn = {0009-2614},
+> doi = {http://dx.doi.org/10.1016/0009-2614(91)90325-4},
+> url = {http://www.sciencedirect.com/science/article/pii/0009261491903254},
+> author = {Xiaowei Zhan and Olavi Vaittinen and Esa Kauppi and Lauri Halonen}
+4489c5173
+< @article{63PlTiWi.C2H2,
+---
+> @article{63PlTiWi.c2h2,
+4491a5176,5177
+> keywords = {},
+> number = {5},
+4493c5179,5180
+< title = {Rotation--Vibration Constants of Acetylene},
+---
+> publisher = {OSA},
+> title = {Rotation--Vibration Constants of Acetylene$\ast$},
+4495a5183
+> url = {http://www.osapublishing.org/abstract.cfm?URI=josa-53-5-589},
+4499c5187
+< @article{01HoIwKa.C2H2,
+---
+> @article{01HoIwKa.c2h2,
+4502c5190
+< journal = JCP,
+---
+> journal = {The Journal of Chemical Physics},
+4503a5192
+> number = {17},
+4506a5196,5197
+> URL = { http://dx.doi.org/10.1063/1.1333006},
+> eprint = { http://dx.doi.org/10.1063/1.1333006}
+4509c5200
+< @article{98JaObSi.C2H2,
+---
+> @article{98JaObSi.c2h2,
+4512c5203
+< journal = JCP,
+---
+> journal = {The Journal of Chemical Physics},
+4513a5205
+> number = {1},
+4516a5209
+> URL = {http://dx.doi.org/10.1063/1.476529}
+4519c5212
+< @article{98ObJaSo.C2H2,
+---
+> @article{98ObJaSo.c2h2,
+4521c5214,5215
+< journal = JCP,
+---
+> title = {Numerical pattern recognition analysis of acetylene dispersed fluorescence spectra},
+> journal = {The Journal of Chemical Physics},
+4522a5217
+> number = {17},
+4524c5219
+< year = {1998}, 
+---
+> year = {1998},
+4525a5221
+> URL = {http://dx.doi.org/10.1063/1.476127} 
+4528c5224
+< @article{93JoSoRa.C2H2,
+---
+> @article{93JoSoRa.c2h2,
+4531c5227
+< journal = JCP,
+---
+> journal = {The Journal of Chemical Physics},
+4532a5229
+> number = {10},
+4535a5233
+> URL = {http://dx.doi.org/10.1063/1.465716}
+4538c5236
+< @article{98JaObFi.C2H2,
+---
+> @article{98JaObFi.c2h2,
+4541c5239
+< journal = JCP,
+---
+> journal = {The Journal of Chemical Physics},
+4542a5241
+> number = {10},
+4545a5245
+> URL = {http://dx.doi.org/10.1063/1.476983}
+4549c5249
+< @article{92JoSoRa.C2H2,
+---
+> @article{92JoSoRa.c2h2,
+4552c5252
+< journal = JCP,
+---
+> journal = {The Journal of Chemical Physics},
+4553a5254
+> number = {4},
+4556a5258
+> URL = { http://dx.doi.org/10.1063/1.463021}
+4559c5261
+< @article{88SmWixx.C2H2,
+---
+> @article{88SmWixx.c2h2,
+4562c5264
+< journal = JCP,
+---
+> journal = {The Journal of Chemical Physics},
+4563a5266
+> number = {8},
+4569c5272
+< @article{00SrCoMa.C2H2,
+---
+> @article{00SrCoMa.c2h2,
+4571,4572c5274,5275
+< title = {Rovibrational spectroscopy of the v=6 manifold in $^{12}$C$_2$H$_2$ and 13C2H2},
+< journal = JCP,
+---
+> title = {Rovibrational spectroscopy of the v=6 manifold in 12C2H2 and 13C2H2},
+> journal = {The Journal of Chemical Physics},
+4573a5277
+> number = {17},
+4579c5283
+< @article{95CaTeHe.C2H2,
+---
+> @article{95CaTeHe.c2h2,
+4581c5285
+< journal = CPL,
+---
+> journal = {Chemical Physics Letters },
+4582a5287
+> number = {1-2},
+4584a5290
+> issn = {0009-2614},
+4585a5292
+> url = {http://www.sciencedirect.com/science/article/pii/000926149500711C},
+4589c5296
+< @article{91HeTeLe.C2H2,
+---
+> @article{91HeTeLe.c2h2,
+4591c5298
+< journal = CPL,
+---
+> journal = {Chemical Physics Letters },
+4592a5300
+> number = {3-4},
+4594a5303
+> issn = {0009-2614},
+4596c5305,5306
+< author = {M. Herman and M. Abbouti Temsamani and D. Lemaitre and J. {Vander Auwera}}
+---
+> url = {http://www.sciencedirect.com/science/article/pii/S000926149185051W},
+> author = {M. Herman and M. Abbouti Temsamani and D. Lemaitre and J. Vander Auwera}
+4599c5309
+< @article{97Caxxxx.C2H2,
+---
+> @article{97Caxxxx.c2h2,
+4601,4602c5311,5312
+< title = {The absorption spectrum of $^{12}$C$_2$H$_2$ between 12800 and 18500cm-1},
+< journal = MP,
+---
+> title = {The absorption spectrum of 12C2H2 between 12800 and 18500cm-1},
+> journal = {Molecular Physics},
+4603a5314
+> number = {5},
+4609,4610c5320,5321
+< @article{98CaBiHe.C2H2,
+< author = {Alain Campargue and  Ludovic Biennier and Michel Herman},
+---
+> @article{98CaBiHe.c2h2,
+> author = {Alain Campargue, Ludovic Biennier, Michel Herman},
+4612c5323
+< journal = MP,
+---
+> journal = {Molecular Physics},
+4613a5325
+> number = {3},
+4619,4622c5331,5334
+< @article{01WeCaId.C2H2,
+< author = {G. Weirauch and A. Campargue and M. I. {El Idrissi} and  M. Herman},
+< title = {The absorption spectrum of $^{12}$C$_2$H$_2$ IV. The regions 7600-9200 cm-1 and 10600-11500 cm-1},
+< journal = MP,
+---
+> @article{01WeCaId.c2h2,
+> author = {G. Weirauch, A. Campargue, M. I. El Idrissi, M. Herman},
+> title = {The absorption spectrum of 12C2H2 IV. The regions 7600-9200 cm-1 and 10600-11500 cm-1},
+> journal = {Molecular Physics},
+4623a5336
+> number = {2},
+4629c5342
+< @article{92ToAlxx.C2H2,
+---
+> @article{92ToAlxx.c2h2,
+4632c5345
+< journal = MP,
+---
+> journal = {Molecular Physics},
+4633a5347
+> number = {5},
+4639,4641c5353,5355
+< @article{02DiHeCa.C2H2,
+< title = {{ICLAS of $^{12}$C$_2$H$_2$ between 10 140 and 10 600 cm-1}},
+< journal = JMS,
+---
+> @article{02DiHeCa.c2h2,
+> title = {ICLAS of 12C2H2 between 10 140 and 10 600 cm-1},
+> journal = {Journal of Molecular Spectroscopy },
+4642a5357
+> number = {1},
+4644a5360
+> issn = {0022-2852},
+4645a5362
+> url = {http://www.sciencedirect.com/science/article/pii/S0022285202985188},
+4649,4651c5366,5368
+< @article{72BaGhNa.C2H2,
+< title = {Assignments of the {$^{12}$C$_2$H$_2$} bands at 2.1-2.2 $\mu$m},
+< journal = JMS,
+---
+> @article{72BaGhNa.c2h2,
+> title = {Assignments of the {12C2H2} bands at 2.1-2.2$\mu$m},
+> journal = {Journal of Molecular Spectroscopy },
+4652a5370
+> number = {1},
+4654a5373
+> issn = {0022-2852},
+4655a5375
+> url = {http://www.sciencedirect.com/science/article/pii/0022285272901348},
+4659,4661c5379,5381
+< @article{77BaGhNa.C2H2,
+< title = {Interpretation of the acetylene spectrum at 1.5 $\mu$m},
+< journal = JMS,
+---
+> @article{77BaGhNa.c2h2,
+> title = {Interpretation of the acetylene spectrum at 1.5$\mu$m},
+> journal = {Journal of Molecular Spectroscopy},
+4662a5383
+> number = {2},
+4664a5386
+> issn = {0022-2852},
+4665a5388
+> url = {http://www.sciencedirect.com/science/article/pii/0022285277904362},
+4669c5392
+< @article{92CaChSt.C2H2,
+---
+> @article{92CaChSt.c2h2,
+4671c5394
+< journal = JMS,
+---
+> journal = {Journal of Molecular Spectroscopy },
+4672a5396
+> number = {2},
+4674a5399
+> issn = {0022-2852},
+4675a5401
+> url = {http://www.sciencedirect.com/science/article/pii/0022285292905645},
+4679c5405
+< @article{93SaKaxx.C2H2,
+---
+> @article{93SaKaxx.c2h2,
+4681c5407
+< journal = JMS,
+---
+> journal = {Journal of Molecular Spectroscopy },
+4682a5409
+> number = {2},
+4684a5412
+> issn = {0022-2852},
+4685a5414
+> url = {http://www.sciencedirect.com/science/article/pii/S0022285283710428},
+4689c5418
+< @article{94SaSeKa.C2H2,
+---
+> @article{94SaSeKa.c2h2,
+4691c5420,5422
+< journal = JMS, volume = {164},
+---
+> journal = {Journal of Molecular Spectroscopy},
+> volume = {164},
+> number = {2},
+4693a5425
+> issn = {0022-2852},
+4694a5427
+> url = {http://www.sciencedirect.com/science/article/pii/S0022285284711015},
+4698c5431
+< @article{90LaPixx.C2H2,
+---
+> @article{90LaPixx.c2h2,
+4700c5433
+< journal = JMS,
+---
+> journal = {Journal of Molecular Spectroscopy },
+4704a5438
+> issn = {0022-2852},
+4706c5440,5441
+< author = {W. J. Lafferty and A.S. Pine}
+---
+> url = {http://www.sciencedirect.com/science/article/pii/002228529090159N},
+> author = {W.J. Lafferty and A.S. Pine}
+4709c5444
+< @article{96SoObFi.C2H2,
+---
+> @article{96SoObFi.c2h2,
+4712c5447
+< journal = JPC,
+---
+> journal = {The Journal of Physical Chemistry},
+4713a5449
+> number = {19},
+4719c5455
+< @article{84Haxxxx.C2H2,
+---
+> @article{84Haxxxx.c2h2,
+4727c5463
+< @inbook {11Hexxxx.C2H2,
+---
+> @inbook {11Hexxxx.c2h2,
+4730a5467,5468
+> isbn = {9780470749593},
+> url = {http://dx.doi.org/10.1002/9780470749593.hrs101},

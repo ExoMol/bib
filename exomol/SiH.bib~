@@ -1,0 +1,1729 @@
+
+@article{ 11KaAkFu.SiH,
+Author = {Kageyama, Shota and Akagawa, Masataka and Fujiwara, Hiroyuki},
+Title = {Dielectric function of a-Si:H based on local network structures},
+Journal = PRB,
+Year = {2011},
+Volume = {83},
+Abstract = {For hydrogenated amorphous silicon (a-Si:H) layers prepared by
+   plasma-enhanced chemical vapor deposition, we have found clear
+   relationships between the dielectric function in the ultraviolet/visible
+   region and SiH(n) (n = 1-2) local bonding states by applying real-time
+   spectroscopic ellipsometry and infrared attenuated total reflection
+   spectroscopy. In particular, the amplitude of the epsilon(2) spectra
+   obtained from various a-Si:H layers is expressed completely by the
+   SiH(2) bond density in the a-Si:H and reduces strongly with increasing
+   the SiH(2) content, indicating that microvoids present in the a-Si:H
+   network are surrounded by the SiH(2) bonding state. On the other hand,
+   no significant void formation occurs by the generation of the SiH local
+   bonding due to rather dense surrounding structures. Depending on the SiH
+   n bonding states, the whole a-Si:H dielectric function shifts toward
+   higher energies, as the SiH(n) hydrogen contents in the a-Si:H increase.
+   Based on these findings, we have established a new a-Si:H dielectric
+   function model that incorporates the void structure terminated with
+   SiH(2) and epsilon(2) spectral shift induced by the SiH n local
+   structures. This model is appropriate for a wide variety of a-Si:H
+   layers deposited at different substrate temperatures and plasma
+   conditions and, conversely, allows the characterization of the SiH n
+   contents from the a-Si:H dielectric functions in the ultraviolet/visible
+   region. From results obtained in this study, the local network
+   structures and electronic states of a-Si:H are discussed.},
+DOI = {10.1103/PhysRevB.83.195205},
+pages = {195205},
+Journal-ISO = {Phys. Rev. B},
+}
+
+@article{ 10StWoCo.SiH,
+Author = {Steinmann, Stephan N. and Wodrich, Matthew D. and Corminboeuf, Clemence},
+Title = {Overcoming systematic DFT errors for hydrocarbon reaction energies},
+Journal = {TCA},
+Year = {2010},
+Volume = {127},
+Pages = {429-442},
+Abstract = {Despite the widespread use and numerous successful applications of
+   density functional theory, descriptions of hydrocarbon reaction energies
+   remain problematic. Illustrative examples include large underestimation
+   of energies associated with alkane bond separation reactions and poor
+   general description of intramolecular dispersion in hydrocarbons (e.g.,
+   B3LYP, MAD = 14.1 kcal mol(-1)). More recent, but not readily availably
+   functionals, along with efficient posteriori corrections, not only show
+   considerable improvement in the energy description of hydrocarbons but
+   also help identify the sources of error in traditional DFT. Interactions
+   in branched alkanes and compact hydrocarbons are adequately mimicked by
+   systems compressed below their typical van der Waals distances. At these
+   distances, standard DFT exchange functionals are overly repulsive for
+   non-bonded density overlaps, and significant improvement is offered by
+   the long-range corrected exchange functionals (e.g., LC-BLYP0.33, MAD =
+   5.5 kcal mol(-1)). For those systems, the neglect of long-range
+   dispersion is found to be a critical shortcoming, as well as ``overlap
+   dispersion{''}, for which non-negligible amounts are captured by the
+   correlation functional. Accounting for the missing dispersion
+   interactions is of key importance. Accordingly, most noteworthy
+   improvements over standard functionals are obtained by using non-local
+   van der Waals density functionals (e.g., LC-S-VV09, MAD = 3.6 kcal
+   mol(-1), rPW86-VV09, MAD = 5.8 kcal mol(-1)), a dispersion corrected
+   double hybrid (B2PLYP-D, MAD = 2.5 kcal mol(-1)), or by the addition of
+   an atom pairwise density-dependent dispersion correction to a standard
+   functional (e.g., PBE-dDXDM, MAD = 0.8 kcal mol(-1)). To a lesser
+   extent, the reduction of the delocalization error (e.g., MCY3, MAD = 6.3
+   kcal mol(-1)) or careful parameter fitting (e.g., M06-2X, MAD = 5.6 kcal
+   mol(-1)) also lowers the errors.},
+DOI = {10.1007/s00214-010-0818-3},
+Journal-ISO = {Theor. Chem. Acc.},
+}
+
+@article{ 10LiLoHe.SiH,
+Author = {Liu Jun and Long Jun and He Zhenfu and Dai Zhenyu},
+Title = {Research on C-C Bond Length Distribution in Hydrocarbon Molecules},
+Year = {2010},
+Volume = {12},
+Pages = {6-11},
+Abstract = {The C-C bond dissociation energy (BDE) is a very important data in
+   research of hydrocarbon cracking reactions, because it reflects the
+   difficulty level of chemical reactions. But it is very difficult to
+   obtain the C-C bond dissociation energy (BDE) by experiments, so using
+   quantum chemistry calculation such as density functional theory (DFT) to
+   study the C-C bond dissociation energy is a very useful means. The
+   impact of acceptor substituents and donor substituents on the C-C bond
+   length distribution was studied.},
+Journal = {China Pet. Process. Petrochem. T.},
+}
+
+@article{ 09PrLuWi.SiH,
+Author = {Prascher, Brian P. and Lucente-Schultz, Rebecca M. and Wilson, Angela K.},
+Title = {A CCSD(T) and ccCA study of mixed silicon hydrides and halides:
+   Structures and thermochemistry},
+Journal = CP,
+Year = {2009},
+Volume = {359},
+Pages = {1-13},
+Abstract = {A set of 24 mixed silicon hydrides and halides (SiH(n)X(m-n), where X =
+   F, Cl; m = 1-4; and n = 0-m) has been investigated using; (1) CCSD(T)
+   with the correlation consistent basis sets of double-through
+   quintuple-zeta quality; (2) CCSD(T) with the augmented tight d form of
+   the correlation consistent basis sets for the second row atoms (Si and
+   Cl); and (3) the recently developed correlation consistent composite
+   approach (ccCA). Optimized geometries and harmonic vibrational
+   frequencies are reported, as well as enthalpies of formation, free
+   energies of formation, and dissociation reaction enthalpies.
+   Relativistic effects, including atomic spin-orbit coupling and scalar
+   relativistic effects, and core-valence correlation, have been accounted
+   for via the ccCA formulism. As demonstrated in previous studies, the
+   tight d basis sets accelerate the convergence, as compared to the
+   standard correlation consistent basis sets, of CCSD(T)-computed
+   geometries and energetics of molecular species containing second row,
+   main group atoms. The ccCA enthalpies of formation are shown to be
+   similar and, on average, better than the corresponding CCSD(T)
+   enthalpies of formation for the silicon species. Further, large
+   DKH-CCSD(T) computations with explicit inclusion of core-valence and
+   scalar relativistic effects have been performed to predict the
+   enthalpies of formation of SiHF, SiHCl, SiH(2)F, SiHF(2), SiH(2)Cl, and
+   SiHCl(2).},
+DOI = {10.1016/j.chemphys.2009.02.009},
+Journal-ISO = {Chem. Phys.},
+}
+
+@article{ 09GrDixx.SiH,
+Author = {Grant, Daniel J. and Dixon, David A.},
+Title = {Heats of Formation and Bond Dissociation Energies of the Halosilanes,
+   Methylhalosilanes, and Halomethylsilanes},
+Journal = JPCA,
+Year = {2009},
+Volume = {113},
+Pages = {3656-3661},
+Abstract = {Atomization energies at 0 K and heats of formation at 0 and 298 K are
+   predicted for SiH(3)X, SiH(2)XCH(3), and SiH(3)CH(2)X with X = F, Cl,
+   Br, and I from coupled cluster theory (CCSD(T)) calculations with
+   effective core potential correlation-consistent basis sets for Br and I.
+   To achieve near chemical accuracy (+/-1 kcal/mol), three corrections
+   were added to the complete basis set binding energies based on frozen
+   core coupled cluster theory energies: a correction for core-valence
+   effects, a correction for scalar relativistic effects, and a correction
+   for first order atomic spin-orbit effects. Vibrational zero point
+   energies were computed at the CCSD(T) level of theory and the C-H and
+   Si-H stretches scaled to experiment. The C-H, Si-H, Si-C, C-X, and Si-X
+   (X = F, Cl, Br, and 1) bond dissociation energies (BDEs) in the
+   halosilanes, halomethysilanes, and methylhalosilanes were predicted.
+   Except for methyliodosilane, methyl substitution leads to an increase in
+   Si-X BDE when compared to the Si-X BDE in the halosilanes. Except for
+   methyliodosilane, halide substitution leads to an increase in the Si-C
+   BDE in comparison to the Si-C BDE in methylsilane of 86.9 kcal/mol at 0
+   K. Unlike the methylhalosilanes, the halomethylsilanes all show a
+   decrease in the Si-C BDE when compared to the Si-C BDE in methylsilane.
+   The trends correlate with the electronegativity of the substituent.},
+DOI = {10.1021/jp811386v},
+Journal-ISO = {J. Phys. Chem. A},
+}
+
+@article{ 08ChSuxx.SiH,
+Author = {Chang, Ye Won and Sun, Hosung},
+Title = {The Effective Valence Shell Hamiltonian Calculations of Spin-Orbit
+   Splittings in Small Diatomic Hydrides},
+Journal = JPCB,
+Year = {2008},
+Volume = {112},
+Number = {50},
+Pages = {16135-16139},
+Abstract = {Recently, the size extensive, ab initio effective valence shell
+   Hamiltonian method for spin-orbit coupling has been suggested. In
+   essence, this effective Hamiltonian method is equivalent to the
+   quasidegenerate perturbation theory. But the difference lies in
+   transforming the original Hamiltonian into an effective Hamiltonian
+   acting within a relatively small valence in the effective valence shell
+   Hamiltonian method. One advantage of the method is that the spin-orbit
+   coupling energies of all valence states for both the neutral species and
+   its ions are simultaneously determined with a similar accuracy from a
+   single computation of the effective spin-orbit coupling operator. Thus,
+   fine structure splittings are predicted for a number of states of each
+   system for which neither experiment nor theory is available. To assess
+   the accuracy of the effective Hamiltonian method more extensively, test
+   calculations are performed for the spin-orbit splittings in the valence
+   states of small diatomic hydrides and their ions. The calculated
+   spin-orbit splittings are generally in good agreement with experiments
+   and with other ab initio computations.},
+DOI = {10.1021/jp806224s},
+Journal-ISO = {J. Phys. Chem. B},
+}
+
+@article{ 08SoGaHa.SiH,
+Author = {Song, Chengqun and Gao, Tao and Han, Huilei and Wan, Mingjie and Yu, You},
+Title = {Ab initio study of spin-orbit interaction in the ground electronic
+   states of XH (X = C, Si, Ge and Sn) molecules},
+Journal = THEOCHEM,
+Year = {2008},
+Volume = {870},
+Pages = {65-71},
+Abstract = {Electronic structure and spectroscopic properties for the ground
+   electronic states of CH, SiH, GeH and SnH molecules were obtained using
+   the multiconfigurational self-consistent field followed by spin-orbit
+   multireference multistate perturbation theory. Spin-orbit splitting
+   calculations for ground states of the four molecules were carried out
+   with model core potential (MCP) and all-electron (AE) methods. MCP
+   results are compared with corresponding AE values to estimate the
+   accuracy of the saving cost MCP calculations. The potential energy
+   curves, calculated for the Omega states CH(X(1)(2)Pi(1/2) and
+   X(2)(2)Pi(3/2)). SiH(X(1)(2)Pi(1/2) and X(2)(2)Pi(3/2)),
+   GeH(X(1)(2)Pi(1/2) and X(2)(2)Pi(3/2)) and SnH(X(1)(2)Pi(1/2) and
+   X(2)(2)Pi(3/2)) using the MCP method, were fitted to analytical
+   potential energy function using Murrell-Sorbie potential energy
+   function. Based on the analytical potential energy function, force
+   constants and spectroscopic constants for the 9) states were obtained},
+DOI = {10.1016/j.theochem.2008.09.002},
+Journal-ISO = {Theochem-J. Mol. Struct.},
+}
+
+@article{ 08ViLiKo.SiH,
+Author = {Vinodkumar, M. and Limbachiya, C. and Korot, K. and Joshipura, K. N.},
+Title = {Theoretical electron impact elastic, ionization and total cross sections
+   for silicon hydrides, SiH(x) (x=1, 2, 3, 4) and disilane, Si(2)H(6) from
+   threshold to 5 keV},
+Journal = EPJD,
+Year = {2008},
+Volume = {48},
+Pages = {333-342},
+Abstract = {In this article we report comprehensive calculations of total elastic
+   (Q(el)), and total ionization cross sections, (Q(ion)), on silicon
+   hydrides SiH(x) (x = 1-4) and disilane, Si(2)H(6) on electron impact at
+   energies from circa threshold to 2000 eV and total (complete) cross
+   sections (Q(T)) up to 5 keV. Spherical complex optical potential (SCOP)
+   formalism is employed to evaluate Q(el) and Q(T). Total ionization cross
+   sections, Q(ion), are derived from total inelastic cross sections,
+   Q(inel), using our complex spherical potential - ionization contribution
+   (CSP-ic) method. Dependence of Q(T) on the dipole polarizability of the
+   target and incident energy is presented for these targets through
+   analytical formula, using which calculation of Q(T) is extended up to 5
+   keV. Comparison of Q(T) for all these targets is carried out to present
+   a general theoretical picture of collision processes and also to
+   visualize the dependence of Q(T) on the total number of electrons in the
+   target and hence on the geometrical size of the target. Present
+   calculations also provide information on the excitation processes of
+   these targets. Present results are compared with available experimental
+   and other theoretical data wherever available and overall good agreement
+   is observed. There is probably no data for total elastic and total
+   (complete) cross sections for SiH(x) (x = 2-3) in the present energy
+   range and hence reported for the first time.},
+DOI = {10.1140/epjd/e2008-00106-3},
+Journal-ISO = {Eur. Phys. J. D},
+}
+
+@article{ 08LiGaZh.SiH,
+Author = {Li Qui-Xia and Gao Tao and Zhang Yun-Guang},
+Title = {The splitting of low-lying or low excited states for hydride molecules
+   (cations) of the third period under spin-orbit coupling},
+Journal = {Chinese Phys. B},
+Year = {2008},
+Volume = {17},
+Pages = {2040-2047},
+Abstract = {This paper reports that the splitting of potential energy curves for the
+   low-lying or low excited states for hydride molecules (cations) (MgH,
+   AlH(+), SiH, PH(+), SH,CIH(+)) of the third period under Spin-Orbit
+   Coupling has been calculated by using the Spin-Orbit Multi-Configuration
+   Quasi-Degenerate Perturbation Theory (SO-MCQDPT) method. Then,
+   spectroscopic constants of the split states have been derived from the
+   Murrell-Sorbie function. The calculated dissociation energies for the
+   spectrum branch terms have been given, respectively. The spectroscopic
+   constants and dissociation energies for the spectrum branch terms are
+   given for the first time in this paper.},
+DOI = {10.1088/1674-1056/17/6/018},
+Journal-ISO = {Chin. Phys. B},
+}
+
+@article{ 08ShZhSu.SiH,
+Author = {Shi, De-Heng and Zhang, Jin-Ping and Sun, Jin-Feng and Zhu, Zun-Lue and
+   Yu, Ben-Hai and Liu, Yu-Fang},
+Title = {Investigations on spectroscopic properties of SiH(X-2 Pi) radical using
+   coupled-cluster theory in combination with the correlation-consistent
+   quintuple basis},
+Journal = THEOCHEM,
+Year = {2008},
+Volume = {851},
+Pages = {30-34},
+Abstract = {The coupled-cluster singles-doubles-approximate-triples {[}CCSD(T)]
+   theory in combination with the correlation-consistent quintuple basis
+   set (aug-cc-pV5Z) is used to investigate the spectroscopic properties of
+   the SiH(X-2 Pi) radical. The adiabatic potential energy curve is
+   calculated over the internuclear separation range from 0.09 to 2.51 nm
+   and is fitted to the analytic Murrell-Sorbie function, which is employed
+   to accurately calculate the spectroscopic parameters, omega(c)chi(e),
+   alpha(e) and B-e. The present D-e, R-e, omega(e), omega(e)chi(e),
+   alpha(e) and B-e results are of 3.1806 eV, 0.15223 nm, 2046.914 cm(-1),
+   36.7711 cm(-1), 0.2178 cm(-1) and 7.4779 cm(-1), respectively, which are
+   in excellent agreement with the experimental findings. With the
+   potential obtained at the CCSD(T)/aug-cc-pV5Z level of theory, a total
+   of 21 vibrational states is found when J = 0 by numerically solving the
+   radial Schrodinger equation of nuclear motion. For each vibrational
+   state, the vibrational level, classical turning points, inertial
+   rotation constant and centrifugal distortion constants are reported for
+   the first time.},
+DOI = {10.1016/j.theochem.2007.10.033},
+Journal-ISO = {Theochem-J. Mol. Struct.},
+}
+
+@article{ 07Irxxxx.SiH,
+Author = {Irikura, Karl K.},
+Title = {Experimental vibrational zero-point energies: Diatomic molecules},
+Journal = JPCRD,
+Year = {2007},
+Volume = {36},
+Pages = {389-397},
+Abstract = {Vibrational zero-point energies (ZPEs), as determined from published
+   spectroscopic constants, are derived for 85 diatomic molecules. Standard
+   uncertainties are also provided, including estimated contributions from
+   bias as well as the statistical uncertainties propagated from those
+   reported in the spectroscopy literature. This compilation will be
+   helpful for validating theoretical procedures for predicting ZPEs, which
+   is a necessary step in the ab initio prediction of molecular energetics.
+   (C) 2007 by the U. S. Secretary of Commerce on behalf of the United
+   States. All rights reserved.},
+DOI = {10.1063/1.2436891},
+Journal-ISO = {J. Phys. Chem. Ref. Data},
+}
+
+@article{ 05ChHuHa.SiH,
+Author = {Chen, P and Huai, Z and Hao, L Y and Hu, S M and Liu, A W and Zheng, J J and
+   Ding, Y},
+Title = {Overtone spectrum of SiH stretching in H2SiCl2},
+Year = {2005},
+Volume = {14},
+Pages = {634-641},
+Abstract = {The overtone spectra of H2SiCl2 molecule in the regions of
+   2000-9000cm(-1) and 12000-12900cm(-1) at room temperatures have been
+   studied by use of high-resolution Fourier transform spectroscopy and
+   sensitive-intracavity-laser absorption spectroscopy, respectively. The
+   variations of vibrational quantum numbers Delta V-SiH=1, 2, 3, 4 and 6
+   for the overtones of the SiH stretching have been analysed and assigned
+   with the local mode model and the normal mode model. The values of
+   harmonic frequency omega(m), anharmonicity constant x.,, bond coupling
+   constant lambda, the Morse oscillator parameters D-e, alpha, and
+   interaction force constant f(rr)' are derived from the experimental
+   spectrum with nonlinear least-squares fitting. The most striking feature
+   of the SiH2Cl2, is that the larger the vibrational energy, the smaller
+   the energy difference between a couple of lowest stretching states of a
+   given manifold, and finally, the couple of lowest stretching states are
+   degenerated within the experimental error for Delta V-SiH >= 4
+   vibrational manifolds. The degenerate energy level structure resembles
+   that of a diatomic Morse oscillator; the transition energies show a
+   remarkable fit to the Birge-Sponer relation. The high vibrational states
+   can be described straightforward with a SiH diatomic Morse oscillator
+   wavefunction, this is an indication of vibrational bond localization.},
+DOI = {10.1088/1009-1963/14/3/037},
+Journal = {Chin. Phys.},
+}
+
+@article{ 05CoMcxx.SiH,
+Author = {Coats, A M and McKean, D C},
+Title = {Infrared intensities of some SiH-containing compounds in the gas-phase},
+Journal = SCAA,
+Year = {2005},
+Volume = {61},
+Pages = {455-469},
+Abstract = {Infrared intensities measured in the gas-phase are reported for CH3SiH3,
+   CH3SiD3, (CH3)(2)SiH2, (CH3)(2)SiD2, (SiH3)2CH(2), (SiD3)(2)CH2, Si2H6,
+   SiH2Cl2 and (SiH3)(2)O. These are compared with theoretical estimates
+   from HF, MP2 and B3LYP calculations with the 6-311 G{*}{*} basis set.
+   Literature values of nuCH intensities per bond from 18 compounds
+   correlate linearly with the values calculated at MP2 and B3LYP levels:
+   the corresponding HF plot is slightly curved. The new HC(Si) data fit
+   these correlations adequately. In similar plots for SiH stretching
+   intensity, the point for SiH2Cl2 is displaced, especially at the HF
+   level. The lack of relation of nuCH or nuSiH intensity to Mulliken
+   atomic charge points to the effect of varying atomic charge flux in the
+   parameter partial derivativemu/partial derivativer. Anomalies associated
+   with nuSiH intensities influenced by chlorine or OR substitution and
+   previously explained by dpi-ppi bonding are attributed instead to charge
+   flux variation. For silyl groups, deformation band intensities are
+   roughly additive according to the number of such groups. However, this
+   is not the case for the methyl symmetric deformation bands in methyl and
+   dimethyl silanes. },
+DOI = {10.1016/j.saa.2004.03.022},
+Journal-ISO = {Spectroc. Acta Pt. A-Molec. Biomolec. Spectr.},
+}
+
+@article{ 03ChSuxx.SiH,
+Author = {Chang, Y W and Sun, H},
+Title = {Effective valence shell Hamiltonian calculations on spin-orbit coupling
+   of SiH, SiH+, and SiH2+},
+Year = {2003},
+Volume = {24},
+Pages = {723-727},
+Note = {10th Korea/Japan Joint Symposium on Theoretical/Computational Chemistry
+   Moleular Structure, Properties, and Design, POHANG, SOUTH KOREA, JAN
+   12-15, 2003},
+Abstract = {Recently the ab initio effective valence shell Hamiltonian method H-nu
+   has been extended to treat spin-orbit coupling in atoms or molecules.
+   The quasidegenerate many-body perturbation theory based H-nu method has
+   an advantage of determining the spin-orbit coupling energies of all
+   valence states for both the neutral species and its ions with a similar
+   accuracy from a single computation of the effective spin-orbit coupling
+   operator. The new spin-orbit Hv method is applied to calculating the
+   fine structure splittings of the valence states of SiH, SiH+, and
+   SiH(2+)not only to assess the accuracy of the method but also to
+   investigate the spin-orbit interaction of highly excited states of SiH
+   species. The computed spin-orbit splittings for ground states are in
+   good agreement with experiment and the few available ab initio
+   computations. The ordering of fine structure levels of the bound and
+   quasi-bound spin-orbit coupled valence states of SiH and its ions, for
+   which neither experiment nor theory is available, is predicted.},
+Journal = {Bull. Korean Chem. Soc.},
+}
+
+@article{ 03WeCaBu.SiH,
+Author = {Weirauch, G and Campargue, A and Burger, H},
+Title = {Rotational analysis of the Delta nu(SiH)=5 stretching vibrational
+   overtone of H3SiD},
+Journal = JMS,
+Year = {2003},
+Volume = {218},
+Pages = {256-259},
+DOI = {10.1016/S0022-2852(02)00078-4},
+Journal-ISO = {J. Mol. Spectrosc.},
+}
+
+@article{ 02LeLiSo.SiH,
+Author = {Lee, M T and Lima, M F and Sobrinho, A M C and Iga, I},
+Title = {Theoretical study on electron-free radical collisions: An application to
+   SiH and SiF},
+Journal = PRA,
+Year = {2002},
+Volume = {66},
+Abstract = {We present a theoretical study of electron collisions on SiH and SiF
+   free radicals in the low- and intermediate-energy range. More
+   specifically, calculated elastic differential, integral and momentum
+   transfer cross sections as well as grand total (elastic and inelastic)
+   and absorption cross sections are reported in the (1-500)-eV energy
+   range. A complex optical potential is used to represent the
+   electron-radical interaction while the Schwinger variational iterative
+   method combined with the distorted-wave approximation is used to solve
+   the scattering equations. Comparisons were made between the calculated
+   cross sections for SiH and SiF as well as with the existing experimental
+   and theoretical data for electron scattering by silane molecule. Some
+   interesting aspects of this comparison are discussed here.},
+DOI = {10.1103/PhysRevA.66.062703},
+pages = {062703},
+Journal-ISO = {Phys. Rev. A},
+}
+
+@article{ 02WaAnCh.SiH,
+Author = {Wang, X F and Andrews, L and Chertihin, G V and Souter, P F},
+Title = {Infrared spectra of the novel Sn2H2 species and the reactive SnH1,2,3
+   and PbH1,2,3 intermediates in solid neon, deuterium, and argon},
+Journal = JPCA,
+Year = {2002},
+Volume = {106},
+Pages = {6302-6308},
+Abstract = {Laser-ablated Sn atoms and H-2 molecules in excess neon and argon react
+   during condensation to produce SnH1,2,3,4 as identified from infrared
+   spectra with D-2 and HD substitution, and from agreement with
+   frequencies calculated by density functional theory. The novel ditin
+   species Sn2H2, is also formed in further reactions. The PbH1,2,3
+   intermediates are produced in analogous experiments. All four tin
+   deuterides and the first three lead deuterides are observed in pure
+   deuterium. Evidence is presented for the photosensitive MH3- and MH2-
+   anions formed through electron capture processes.},
+DOI = {10.1021/jp025763i},
+Journal-ISO = {J. Phys. Chem. A},
+}
+
+@article{ 02KaMaMe.SiH,
+Author = {Kalemos, A and Mavridis, A and Metropoulos, A},
+Title = {An accurate description of the ground and excited states of SiH},
+Journal = JCP,
+Year = {2002},
+Volume = {116},
+Pages = {6529-6540},
+Abstract = {The astrophysical importance of the SiH radical has motivated
+   significant experimental and theoretical work. However, only the X (2)Pi
+   and A (2)Delta states of SiH have been extensively investigated
+   experimentally, while the study of higher excited states is rather
+   limited. From a theoretical point of view, most of the studies have been
+   focused on spectroscopic and thermochemical quantities of the ground
+   state. The lack of accurate spectroscopic parameters
+   (r(e),D-e,omega(e),omega(e)x(e),alpha(e),(D) over bar (e),T-e)
+   pertaining to higher excited states was the driving force of the present
+   work, in line with our previous study of the isovalent CH molecule {[}A.
+   Kalemos, A. Mavridis, and A. Metropoulos, J. Chem. Phys. 111, 9536
+   (1999)]. Using the multireference configuration interaction approach
+   coupled with very large correlation-consistent basis sets, we have
+   constructed potential energy curves for 18 molecular states correlating
+   to Si(P-3,D-1,S-1,S-5,P-3,P-1)+H(S-2). At the same level, the potential
+   energy curve of the ground SiH+ state (X (1)Sigma(+)) has also been
+   constructed. We report total energies, dissociation energies, and the
+   usual spectroscopic constants for Si-28-H-1,H-2 and for all states
+   studied. Most of our results are in excellent agreement with existing
+   experimental values. In particular, we believe that our dissociation
+   energy for the X state, D-e=73.28 kcal/mol, is the most reliable
+   reported so far in the literature. (C) 2002 American Institute of
+   Physics.},
+DOI = {10.1063/1.1461817},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+@article{ 01WoBexx.SiH,
+Author = {Woon, D E and Beck, D R},
+Title = {Ab initio electron affinities of AlH, SiH, GaH, and GeH, including
+   characterization of bound excited states of SiH- and GeH-},
+Journal = CPL,
+Year = {2001},
+Volume = {347},
+Pages = {255-260},
+Abstract = {Ab initio benchmark calculations are reported for the diatomic hydrides
+   of Al, Si, Ga, and Ge and their negative ions using correlation
+   consistent basis sets and several correlated methods. Adiabatic electron
+   affinities for the 0-0 transition were found to be 0.193, 1.256, 0.131,
+   and 1.251 eV for AM, SiH, GaH, and GeH, respectively, at the
+   RCCSD(T)/aug-cc-pVQZ level of theory. Excitation energies (TO) of the
+   a(1)Delta and b(1)Sigma (+) bound excited states were found to be 0.560
+   and 1.017 eV for SiH- and 0.595 and 1.026 eV for GeH- at the MRCI +
+   Q/aug-cc-pVQZ level. Selected spectroscopic constants are reported for
+   the eight negative ion states.},
+DOI = {10.1016/S0009-2614(01)01028-4},
+Journal-ISO = {Chem. Phys. Lett.},
+}
+
+@article{ 00NoKoMi.SiH,
+Author = {Nozaki, Y and Kongo, K and Miyazaki, T and Kitazoe, M and Horii, K and
+   Umemoto, H and Masuda, A and Matsumura, H},
+Title = {Identification of Si and SiH in catalytic chemical vapor deposition of
+   SiH4 by laser induced fluorescence spectroscopy},
+Journal = {J.  App. Phys.},
+Year = {2000},
+Volume = {88},
+Pages = {5437-5443},
+Abstract = {Radical species produced in catalytic chemical vapor deposition (CVD),
+   often called hot-wire CVD, processes were identified by using a laser
+   induced fluorescence technique. Ground state Si atoms could be detected
+   at low pressures where collisional processes in the gas phase could be
+   ignored. The electronic temperature of Si atoms just after the formation
+   on the catalyzer (tungsten) surfaces was 1320 +/- 490 K, when the
+   catalyzer temperature was 2300 K. By the addition of 0.5 Pa of Ar, the
+   electronic temperature was lowered down to 450 +/- 30 K. The absolute
+   density of Si atoms was 3 +/- 1x10(9) cm(-3) at 10 cm below the
+   catalyzer when the flow rate and the pressure of SiH4 were 0.5 sccm and
+   4 mPa, respectively. This density is just 0.3\% of that of the parent
+   SiH4 molecules. However, since the decay rate of Si atoms is fast, it
+   can be concluded that atomic silicon is one of the major products on the
+   heated catalyzer surfaces. SiH radicals could also be detected, but the
+   production rate of this species is two orders of magnitude less than
+   that of Si atoms. It was also discovered that volatile SiH4 molecules
+   are produced by the atomic hydrogen attack on the amorphous silicon
+   deposited on the chamber walls.},
+DOI = {10.1063/1.1314330},
+Journal-ISO = {J. Appl. Phys.},
+}
+
+@article{ 00MaYexx.SiH,
+Author = {Malcolm, N O J and Yeager, D L},
+Title = {Purely theoretical electron-impact ionization cross-sections of silicon
+   hydrides and silicon fluorides obtained from explicitly correlated
+   methods},
+Journal = JCP,
+Year = {2000},
+Volume = {113},
+Pages = {8-17},
+Abstract = {Electron impact total ionization cross-sections of small silicon
+   hydrides, SiHn(n=1-4), and fluorides, SiFn(n=1-3), have been calculated
+   by the application of a recently developed theoretical model. The
+   binary-encounter-Bethe (BEB) model has a simple structure and requires
+   information from calculations on the parent ground-state molecule only
+   (binding energies, orbital kinetic energies, and occupation numbers).
+   Previous applications of the BEB theory to the silicon hydrides and
+   fluorides have employed a combination of experimental and Koopman's
+   theorem binding energies. In the current work binding energies have been
+   calculated using the explicitly correlated multiconfigurational spin
+   tensor electron propagator (MCSTEP) method which gives highly accurate
+   ionization potentials for closed- and open-shell systems. Calculations
+   have been performed using cc-pVDZ and cc-pVTZ basis sets with
+   multiconfigurational self-consistent field (MCSCF) reference wave
+   functions. Comparisons are made between our MCSCF/MCSTEP and previous
+   Hartree-Fock (HF)/Koopman's theorem results and available experimental
+   data. The use of improved theoretical data does not have a significant
+   effect on the resultant cross-sections; however, our new technique is a
+   viable method for calculating electron impact ionization cross-sections
+   for systems where Koopman's theorem is known to be unreliable or no
+   experimental data is available. },
+DOI = {10.1063/1.481768},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+@article{ 00Swxxxx.SiH,
+Author = {Swihart, M T},
+Title = {Electron affinities of selected hydrogenated silicon clusters (SixHy,
+   x=1-7, y=0-15) from density functional theory calculations},
+Journal = JPCA,
+Year = {2000},
+Volume = {104},
+Pages = {6083-6087},
+Abstract = {Adiabatic electron affinities for 72 hydrogenated silicon compounds
+   containing up to seven silicon atoms are presented. These were computed
+   using density functional theory at the
+   B3LYP/6-311+G(3df,2p)//B3LYP/6-31G(d) level and are expected to be
+   accurate to within about 0.15 eV. The electron affinities for acyclic
+   silyl radicals, silylenes, and silenes were all found to increase
+   smoothly with increasing molecular size. Electron affinities of the
+   silyl radicals were greater than those of the silylenes, which were, in
+   turn, greater than those of the silenes. The electron affinity increased
+   with silyl substitution for hydrogen at the unsaturated site for all
+   three of these classes of compounds. Some cyclic and polycyclic clusters
+   had electron affinities that deviated significantly from the trends
+   observed for the acyclic compounds. These deviations could be
+   rationalized (a) in terms of differences in ring strain between the
+   neutral and anionic species and (b) in terms of differences in the
+   interactions between nonbonding electrons and other atoms between the
+   neutral and anionic species.},
+DOI = {10.1021/jp000626b},
+Journal-ISO = {J. Phys. Chem. A},
+}
+
+@article{ 00Juxxxx.SiH,
+Author = {Jursic, B S},
+Title = {A B3LYP hybrid density functional theory study of structural properties,
+   energies, and heats of formation for silicon-hydrogen compounds},
+Journal = THEOCHEM,
+Year = {2000},
+Volume = {497},
+Pages = {65-73},
+Abstract = {A high level of ab initio and B3LYP hybrid density functional studies
+   were performed with the target being to determine both the reliability
+   of these two methods for computing energetic properties of small
+   silicon-hydrogen compounds, and the accuracy of the currently available
+   thermodynamic properties of these compounds. These energies are Si-H and
+   Si-Si bond dissociation energies, atomization energies, and heats of
+   formation. The hybrid B3LYP ab initio computational study was performed
+   in combination with five different basis sets. Currently available
+   experimental energies for these compounds have a large experimental
+   error, but with the CBSQ(0 K) energies it was possible to narrow these
+   experimental values. In general, the B3LYP hybrid DFT method with a
+   large basis set computes energies that are slightly below the CBSQ
+   values.},
+DOI = {10.1016/S0166-1280(99)00197-9},
+Journal-ISO = {Theochem-J. Mol. Struct.},
+}
+
+@article{ 99AjPaxx.SiH,
+Author = {Ajitha, D and Pal, S},
+Title = {Dipole moments of open-shell radicals using an analytic linear response
+   approach in the Fock space multi-reference coupled cluster method},
+Journal = CPL,
+Year = {1999},
+Volume = {309},
+Pages = {457-462},
+Abstract = {We report molecular response properties of open-shell doublet radicals,
+   obtained analytically using Fock space multi-reference coupled-cluster
+   linear response theory wherein the radicals described can be treated as
+   electron-attached states of closed-shell cations. In particular, we
+   report the dipole moments of CH, SiH and NO radicals and the
+   corresponding cations. The results have been compared with finite-field
+   Fock space multi-reference coupled-cluster results using relaxed
+   orbitals as well as those obtained using single-reference coupled
+   cluster based response theory, and with experimental numbers. (C) 1999
+   Elsevier Science B.V. All rights reserved.},
+DOI = {10.1016/S0009-2614(99)00702-2},
+Journal-ISO = {Chem. Phys. Lett.},
+}
+
+@article{ 99FeDixx.SiH,
+Author = {Feller, D and Dixon, D A},
+Title = {Theoretical study of the heats of formation of small silicon-containing
+   compounds},
+Journal = JPCA,
+Year = {1999},
+Volume = {103},
+Pages = {6413-6419},
+Abstract = {Heats of formation for nine small silicon-containing molecules were
+   obtained from large basis set ab initio calculations using coupled
+   cluster theory with a perturbative treatment of triple excitations.
+   After adjusting the atomization energies for the finite basis set
+   truncation error, core/valence correlation, scalar relativistic, higher
+   order correlation, and atomic spin-orbit effects, the theoretical and
+   experimental 0 K values of Delta H-f values were in good agreement.
+   Using 106.6 kcal/mol as the heat of formation of silicon, we obtain
+   Delta H-f values of SiH = 87.7 +/- 0.4 vs 89.5 +/- 0.7 (expt);
+   SiH2((1)A(1)) = 64.1 +/- 0.4 vs 65.5 +/- 0.7 (expt); SiH2(B-3(1)) = 85.4
+   +/- 0.4 vs 86.5 +/- 0.7 (expt); SiH3 = 47.3 +/- 0.5 vs 47.7 +/- 1.2
+   (expt); SiH3 = 8.7 +/- 0.6 vs 9.5 +/- 0.5 (expt); Si-2 = 138.8 +/- 0.3
+   vs 139.2 (expt); Si2H6 = 19.7 +/- 0.5 vs 20.9 +/- 0.3 (expt); SiF =
+   -14.8 +/- 0.4 vs -5.2 +/- 3 (expt); SiF2 = -151.7 +/- 0.5 vs -140.3 +/-
+   3 (expt); and SiF4 = -384.5 +/- 0.9 vs -384.9 +/- 0.2 (expt). Based on
+   the present work, we suggest a number of revisions in the interpretation
+   of the experimental data. Although a revision in Delta H(f)degrees(Si)
+   to 107.4 +/- 0.6 kcal/mol at 0 K leads to improved agreement between
+   theory and experiment for the SixHy compounds, it worsens agreement for
+   SiF4. Given the remaining uncertainties in the theoretical approach,
+   more definitive conclusions do not appear to be warranted.},
+DOI = {10.1021/jp990596g},
+Journal-ISO = {J. Phys. Chem. A},
+}
+
+@article{ 98RaEnBe.SiH,
+Author = {Ram, R S and Engleman, R and Bernath, P F},
+Title = {Fourier transform emission spectroscopy of the A(2)Delta-Chi(2)Pi
+   transition of SiH and SiD},
+Journal = JMS,
+Year = {1998},
+Volume = {190},
+Pages = {341-352},
+Abstract = {The emission spectra of the A(2)Delta-(XII)-I-2 transition of SiH and
+   SiD have been observed at high resolution using a Fourier transform
+   spectrometer. The molecules were excited in a Si hollow cathode lamp by
+   passing a discharge through a mixture of Ne and a trace of H-2 or D-2.
+   The present data, combined with the previous infrared vibration-rotation
+   measurements, have been used to determine improved molecular constants
+   for the ground and excited states of Sill and SID. },
+DOI = {10.1006/jmsp.1998.7582},
+Journal-ISO = {J. Mol. Spectrosc.},
+}
+
+@article{ 97StKiSa.SiH,
+Author = {Stancil, P C and Kirby, K and Sannigrahi, A B and Buenker, R J and Hirsch,
+   G and Gu, J P},
+Title = {The photodissociation of SiH+ in interstellar clouds and stellar
+   atmospheres},
+Journal = ApJ,
+Year = {1997},
+Volume = {486},
+Pages = {574-579},
+Abstract = {Using a combination of both theoretical and experimentally derived
+   potential curves and dipole transition moments, photodissociation cross
+   sections have been calculated for the SiH+ molecule. From the v `' = 0
+   level of the X (1) Sigma(+) ground state, with a threshold energy of
+   3.256 eV, dissociation occurs through the A (1) Pi state producing Si+
+   (3p P-2) and H atoms. For energies above 9.45 eV, photodissociation
+   through the 2 (1) Pi state yields excited neutral Si (3p(2 1)D) and
+   protons. Excited Si+ (3s3p(2 2)D) and H atoms are produced above 10.08
+   eV by dissociation through 3 (1) Sigma(+) and 3 (1) Pi. The 2 (1)
+   Sigma(+) and 4 (1) Pi states are found to be negligible dissociation
+   channels. Photodissociation cross sections as a function of energy and
+   photodissociation rates in the interstellar radiation held for both
+   diffuse and dense molecular clouds are presented. Photodissociation
+   cross sections from LTE distributions of vibrational and rotational
+   levels of the X (1) Sigma(+) state to the A (1) Pi state are also
+   obtained for temperatures between 1000 and 9000 K. Their possible
+   contribution to a missing opacity source in the near-ultraviolet spectra
+   of red giant stars is discussed.},
+DOI = {10.1086/304520},
+Journal-ISO = {Astrophys. J.},
+}
+
+@article{ 97AlKiHw.SiH,
+Author = {Ali, M A and Kim, Y K and Hwang, W and Weinberger, N M and Rudd, M E},
+Title = {Electron-impact total ionization cross sections of silicon and germanium
+   hydrides},
+Journal = JCP,
+Year = {1997},
+Volume = {106},
+Pages = {9602-9608},
+Abstract = {Electron-impact total ionization cross sections of some silicon and
+   germanium compounds have been calculated by applying a new theoretical
+   model that has been found to be reliable for a wide range of molecules.
+   The new theory, the binary-encounter-Bethe (BEB) model, combines the
+   binary-encounter theory and the Bethe theory for electron-impact
+   ionization, and uses simple theoretical molecular orbital data-binding
+   energies, average kinetic energies, and occupation numbers-which are
+   readily available from molecular structure codes. Total ionization cross
+   sections of SiH, SiH2, SiH3, SiH4, Si2H6, Si(CH3)(4), GeH, GeH2, GeH4,
+   GeH4, and Ge2H6 are presented for incident electron energies T from
+   threshold to 1 keV, and compared to available experimental data. Theory
+   and experiment agree well for SiHx, x=1-4, from thresholds to T <80 eV,
+   while theoretical peaks occur at lower T than experimental peaks for
+   SiHx, x=1-3. No experimental data are available for germanium hydrides
+   for comparison. The theoretical cross sections are given by a compact
+   analytic form suitable for applications in plasma processing. },
+DOI = {10.1063/1.473842},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+@article{ 97StMaRa.SiH,
+Author = {Stamou, S and Mataras, D and Rapakoulias, D},
+Title = {Simulation of the SiH(A(2)Delta->X 2 Pi) emission spectrum in a silane
+   glow discharge and derivation of an improved set of molecular constants},
+Journal = CP,
+Year = {1997},
+Volume = {218},
+Pages = {57-69},
+Abstract = {An improved simulation of the rotational intensity distribution of the
+   O-O emission band of the A(2) Delta-X-2 Pi transition of SiH that is
+   experimentally obtained by optical emission spectroscopy from a silane
+   rf glow-discharge, is reported. The improvements consist in the use of a
+   new term value formula, a recent set of molecular constants and an
+   extended lease squares fitting analysis for the micro-optimization of
+   the set of constants. Thus, the rotational temperature of SiH is
+   determined by utilizing a sufficient spectral resolution together with
+   an experimentally determined instrument function of the optical system.
+   The optimum fit of the emission spectrum is obtained for a rotational
+   temperature T-ROT = 2840 +/- 50 K which is significantly higher compared
+   to those previously reported. Furthermore, an abnormal behaviour of the
+   observed splittings compared to the theoretical calculations is
+   observed, while in two cases experimental measurements of
+   Lambda-doublets were performed.},
+DOI = {10.1016/S0301-0104(97)00052-9},
+Journal-ISO = {Chem. Phys.},
+}
+
+@article{ 97WhWaMa.SiH,
+Author = {Whitham, C J and Walmsley, J M and Masters, T E and Geers, A and Gibbon, T
+   and Chen, Y and Sarre, P J},
+Title = {Multichannel resonances in near-threshold photodissociation spectra of
+   CH+, SiH+ and GeH+},
+Year = {1997},
+Volume = {93},
+Pages = {1705-1707},
+Abstract = {Evidence for multichannel character in resonances which appear in
+   near-threshold photodissociation spectra of the isovalent molecules,
+   CH+, SiH+ and GeH+ is presented. The spectra were obtained through
+   laser-induced excitation from the X-1 Sigma(+) state to near-threshold
+   levels of electronic states which correlate with the lowest dissociation
+   limits, P-2(3/2,1/2)(C+, Si+, Ge+) + S-2(H), by monitoring the
+   production of the atomic fragment ions. Complementary resonance-width
+   calculations have been carried out using a close-coupling approach. In
+   CH+ we report the discovery of a shape resonance with multichannel
+   character; in SiH+, where excitations to Feshbach resonances dominate
+   the photodissociation spectrum, we present the first results of
+   multichannel calculations; in GeH+ we report observation of the first
+   photodissociation spectrum involving near-threshold dissociated levels.},
+DOI = {10.1039/a700459a},
+Journal = {J. Chem. Soc. Faraday Trans.},
+}
+
+@article{ 97KiGuHi.SiH,
+Author = {Kimura, M and Gu, J P and Hirsch, G and Buenker, R J},
+Title = {Inelastic processes in collisions of H+ ions with C, N, O, and Si atoms
+   below 1 keV},
+Journal = PRA,
+Year = {1997},
+Volume = {55},
+Pages = {2778-2785},
+Abstract = {Electron capture in collisions of C, N, O, and Si atoms with H+ ions is
+   studied theoretically based on a molecular representation within a fully
+   quantum framework by including six molecular channels both for the
+   ground and excited states for the {[}H+ + C] system, and four channels
+   for the ground-state {[}H+ + N] and {[}H+ + O] systems. For the {[}H+ +
+   Si] system, we employed the molecular representation both in fully
+   quantum and semiclassical frameworks to investigate electron capture at
+   higher energy as well. The ab initio potential curves and nonadiabatic
+   coupling matrix elements for all these systems are obtained from
+   multireference single- and double-excitation configuration interaction
+   calculations. For all systems, the effect of excited atoms on electron
+   capture is examined in addition to that from the ground state. Because
+   of a small asymptotic energy defect (near-resonant processes) between
+   the initial and closest electron capture channels for almost all
+   systems, electron capture cross sections from the ground-state atoms are
+   large with values of approximately 10(-16) - 10(-15) cm(2) for all
+   systems at above 100 eV. Corresponding rate coefficients are found to be
+   much smaller than those previously reported for the NH+ and OH+, but, on
+   the contrary, found to be larger by a few orders of magnitude than the
+   previously estimated value for the SiH+ system. Those from excited
+   states are also found to be extremely efficient for all cases.},
+DOI = {10.1103/PhysRevA.55.2778},
+Journal-ISO = {Phys. Rev. A},
+}
+
+@article{ 96TaDeBe.SiH,
+Author = {Tarnovsky, V and Deutsch, H and Becker, K},
+Title = {Electron impact ionization of the SIDx (x=1-3) free radicals},
+Journal = JCP,
+Year = {1996},
+Volume = {105},
+Pages = {6315-6321},
+Abstract = {We report measurements of absolute cross sections for the
+   electron-impact ionization and dissociative ionization of the SiDx
+   (x=1-3) free radicals from threshold to 200 eV using the
+   fast-neutral-beam technique. The deuterated rather than the protonated
+   target species were used in order to allow a better separation of the
+   various product ions from a given parent in our apparatus. A common
+   feature of all three radicals studied in this work is a dominant parent
+   ionization cross section with essentially the same absolute value of
+   roughly 3.7x10(-6) cm(2) at 70 eV. Dissociative ionization processes for
+   all three targets are less significant with a single dissociative
+   process dominating in each case, viz. the removal of a single D atom
+   (SiDx+e(-)-->SiDx-1++D+2e(-)). The cross section for this dominant
+   dissociative ionization channel also had the same maximum value of about
+   1.2X10(-6) cm(2) for all three targets. A comparison of the
+   experimentally determined total single ionization cross sections with
+   calculated cross sections using a modified additivity rule showed good
+   to satisfactory agreement for all three targets in terms of the absolute
+   values, but reveals some discrepancies in the cross section shapes.},
+DOI = {10.1063/1.472484},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+@article{ 96MaRoxx.SiH,
+Author = {Markus, M W and Roth, P},
+Title = {Development of a quantitative ring dye laser absorption diagnostic for
+   free SiH radicals},
+Journal = JQSRT,
+Year = {1996},
+Volume = {56},
+Pages = {489-499},
+Abstract = {A quantitative absorption diagnostic for ppm amounts of silylidyne
+   radicals (SiH) was developed. The SiH radicals were produced in high
+   diluted mixtures of silane (SiH4) in Ar with and without additional H-2
+   at high temperatures. The experiments were performed in the reaction
+   zone behind reflected shock waves at temperatures between 1300 and 3000
+   K and at pressures 0.9 less than or equal to p less than or equal to
+   2.5bar. The SiH radicals were detected by time-resolved narrow-bandwidth
+   laser absorption measurements near lambda = 413 nm. A spectroscopic
+   model was introduced to describe the absorption cross section of the SiH
+   single line transitions in the A-X(0,0) band. The SiH
+   absorption-over-time profiles could be transformed into concentration
+   time histories by applying this model. The detection limit of the
+   present quantitative ring dye laser absorption diagnostic for shock tube
+   applications was about 1 x 10(12) cm(-3) and is thus well suited for
+   kinetic studies of elementary reactions involving SiH radicals},
+DOI = {10.1016/0022-4073(96)00086-6},
+Journal-ISO = JQSRT,
+}
+
+@article{ 95FrWeKo.SiH,
+Author = {Frauenheim, T and Weich, F and Kohler, T and Uhlmann, S and porezag, D
+   and Seifert, G},
+Title = {DENSITY-FUNCTIONAL-BASED CONSTRUCTION OF TRANSFERABLE NONORTHOGONAL
+   TIGHT-BINDING POTENTIALS FOR SI AND SIH},
+Journal = PRB,
+Year = {1995},
+Volume = {52},
+Pages = {11492-11501},
+Abstract = {We apply a previously reported density-functional-based scheme for the
+   construction of common nonorthogonal tight-binding (TB) matrix elements
+   for Si and SiH within the framework of the linear combination of atomic
+   orbitals formalism using the local-density approximation. By only
+   considering two-center integrals the Hamiltonian and overlap matrix
+   elements are calculated out of suitable input densities and potentials
+   rather than fitted to experimental data. The calculation of forces is
+   easy and allows an application of the method to molecular-dynamics
+   simulations. Despite its simplicity the method is proven to be
+   sufficiently accurate and transferable to all-scale silicon and
+   silicon-hydrogen structures including defect configurations. For an
+   overall wide use within nonorthogonal TB schemes we derive analytical
+   functions for the Si-Si, Si-H, and H-H Hamiltonian and overlap matrix
+   elements.},
+DOI = {10.1103/PhysRevB.52.11492},
+Journal-ISO = {Phys. Rev. B},
+}
+
+@article{ 95SaBuHi.SiH,
+Author = {Sannigrahi, A B and Buenker, R J and Hirsch, G and Gu, J P},
+Title = {AB-INITIO CONFIGURATION-INTERACTION STUDY OF THE ELECTRONIC-SPECTRUM OF
+   SIH+},
+Journal = CPL,
+Year = {1995},
+Volume = {237},
+Pages = {204-211},
+Abstract = {Ab initio configuration interaction calculations have been carried out
+   for SiH+ using a large Gaussian basis set. Calculated spectroscopic
+   constants of the X(1) Sigma(+) and A(1) Pi states as well as the
+   excitation energy and the f(00) value of the A(1) Pi --> X(1) Sigma(+)
+   transition and the lifetime tau(0) of the A(1) Pi state are obtained in
+   good agreement with experiment. In addition, the energies of the various
+   asymptotes (up to 13 eV above the X(1) Sigma(+) minimum) computed for
+   large internuclear separations are found to agree with observed atomic
+   values to within 0.3 eV in each case. Spectroscopic constants,
+   excitation energy, lifetime and other quantities are predicted for a
+   large number of higher excited states. Many other bound states have been
+   indicated in the present calculations and their computed spectroscopic
+   constants should provide a basis for further experimental investigations
+   of the spectrum of this ion. Special emphasis is placed on the
+   long-range characteristics of the SiH+ potential curves on the way to
+   their respective atomic asymptotes.},
+DOI = {10.1016/0009-2614(95)00307-P},
+Journal-ISO = {Chem. Phys. Lett.},
+}
+
+@article{ 95WuWoxx.SiH,
+Author = {Wu, Y D and Wong, C L},
+Title = {SUBSTITUENT EFFECT ON THE DISSOCIATION-ENERGY OF THE SI-H BOND - A
+   DENSITY-FUNCTIONAL STUDY},
+Year = {1995},
+Volume = {60},
+Pages = {821-828},
+Abstract = {The bond dissociation energies of a series of substituted silanes have
+   been studied with quantum mechanics density functional calculations.
+   Successive Me, F substitutions strengthen the Si-H bond, while MeO, Cl,
+   Pr, SMe, SiH3, as well as Ph groups weaken the bond. These mostly agree
+   with experimental measurements and previous ab initio calculations. The
+   calculated substituent effect can be correlated reasonably well with the
+   calculated Hirshfeld charge and spin density variations on the Si
+   radical center. While radical spin delocalization reduces the bond
+   strength, withdrawing inductive character of the substituents increases
+   the Si-H bond strength. The second-row element substituents have larger
+   radical spin delocalization ability, which is responsible for the
+   greater reduction of the Si-H bond dissociation energy.},
+DOI = {10.1021/jo00109a011},
+Journal = {J. Org. Chem.},
+}
+
+@article{ 93WiMixa.SiH,
+Author = {Winter, C and Millie, P},
+Title = {THEORETICAL-STUDY OF SMALL HYDROGENATED SILICON-COMPOUNDS .2. ROLE OF
+   THE HYBRIDIZATION IN SIHN (N = 1, 2) AS COMPARED TO CHN (N = 1, 2)},
+Journal = CP,
+Year = {1993},
+Volume = {174},
+Pages = {191-197},
+Abstract = {The study of the chemical bonding and of the hybridization in SiH(n)
+   (n=1, 2) and in CH(n)(n=1, 2) have been carried out using full valence
+   configuration interaction in a non-orthogonal basis set. As a
+   conclusion, no qualitative difference between these silicon and carbon
+   compounds is found.},
+DOI = {10.1016/0301-0104(93)87004-7},
+Journal-ISO = {Chem. Phys.},
+}
+
+@article{ 93WiMixb.SiH,
+Author = {Winter, C and Millie, P},
+Title = {THEORETICAL-STUDY OF SMALL HYDROGENATED SILICON-COMPOUNDS .1.
+   THEORETICAL-STUDY OF THE SIH(2) DISSOCIATION CHANNELS UP TO 8 EV
+   EXCITATION-ENERGY},
+Journal = CP,
+Year = {1993},
+Volume = {174},
+Pages = {177-190},
+Abstract = {The presented calculations of the potential energy surfaces of the
+   silylene system allow the determination of the dissociation channels of
+   silylene excited states (up to 8 eV excitation energy). These
+   calculations determine also the reaction paths which may occur from
+   Si+H-2 and SiH+H systems. Furthermore, the valence-bond method and
+   `'natural correlation'' theory are shown to constitute well-suited tools
+   for topological analysis of these potential energy surfaces.},
+DOI = {10.1016/0301-0104(93)87003-6},
+Journal-ISO = {Chem. Phys.},
+}
+
+@article{ 93KoMoxx.SiH,
+Author = {Koga, N and Morokuma, K},
+Title = {SIH, SISI, AND CH BOND ACTIVATION BY COORDINATIVELY UNSATURATED
+   RHCL(PH3)2 - AB-INITIO MOLECULAR-ORBITAL STUDY},
+Year = {1993},
+Volume = {115},
+Pages = {6883-6892},
+Abstract = {SiH bond activation, oxidative addition of the SiH bond of SiH4 to
+   coordinatively unsaturated RhCl (PH3)2, was theoretically investigated
+   with an ab initio molecular orbital (MO) method, and its potential
+   energy profile was compared with that for CH bond activation, oxidative
+   addition of the CH bond of CH4. All the stationary points were
+   determined at the MP2 level. While CH bond activation passes through an
+   eta2-CH4 complex and a three-centered transition state, SiH bond
+   activation is downhill and the eta2-SiH4 complex is a transition state
+   for intramolecular rearrangement connecting two silyl hydride complexes,
+   the products of SiH bond activation. This difference originates from the
+   much larger exothermicity of SiH bond activation due to the weaker SiH
+   bond and the stronger RhSi bond compared with the C counterparts. The
+   RhSi bond is about 20 kcal/mol stronger than the RhC bond; the large
+   electron donation from SiH3 to Rh can take place in the late transition
+   metal complex to stabilize the electropositive silyl group. However, the
+   order in M-R bond strength depends on the transition metal. In the Zr
+   complex, a strong back-donation from Zr to CH3 takes place because of
+   the small electronegativity of Zr, resulting in the ZrC bond being
+   stronger than the ZrSi bond. For Si2H6, activation of both the SiH and
+   the SiSi bond takes place easily, and RhCl(PH3)2(SiH3)2 and
+   HRhCl(PH3)2(Si2H5) can rearrange with each other intramolecularly. Also,
+   the electron correlation effect on structure and energetics is
+   discussed.},
+DOI = {10.1021/ja00068a053},
+Journal = {J. Am. Chem. Soc.},
+}
+
+@article{ 93MiHoxx.SiH,
+Author = {Michels, H H and Hobbs, R H},
+Title = {ELECTRONIC-STRUCTURE AND THERMOCHEMISTRY OF SILICON HYDRIDE AND SILICON
+   FLUORIDE ANIONS},
+Journal = CPL,
+Year = {1993},
+Volume = {207},
+Pages = {389-396},
+Abstract = {An ab initio study of the electronic structure of SiH(n)- and SiF(n)-
+   anions, and the corresponding neutral molecules, has been carried out
+   using perturbation theory. Correlation energy treatments include both
+   MP4 and QCISD methods. The anion thermochemistry is calculated through
+   several isodesmic processes and compared with Pople's G1 and G2 method
+   predictions. Good agreement with experimental electron affinities is
+   found for the SiH(n)- anions. Significant differences (almost-equal-to
+   10 kcal/mol) are found between theoretical and experimental heats of
+   formation for SiF and SiF2. We find that all SiF(n)- anions (n = 0-3)
+   are stable, with relative stabilities similar to that found for SiH(n)-.},
+DOI = {10.1016/0009-2614(93)89019-E},
+Journal-ISO = {Chem. Phys. Lett.},
+}
+
+@article{ 92GrScxx.SiH,
+Author = {Grev, R S and Schaefer, H F},
+Title = {THERMOCHEMISTRY OF CHN, SIHN (N = 0-4), AND THE CATIONS SIH+, SIH2+, AND
+   SIH3+ - A CONVERGED QUANTUM-MECHANICAL APPROACH},
+Journal = JCP,
+Year = {1992},
+Volume = {97},
+Pages = {8389-8406},
+Abstract = {We have determined 0 K heats of formation of CH(n) and SiH(n) (n=0-4) as
+   well as the cations SiH+, SiH2+, and SiH3+ using large atomic natural
+   orbital basis sets and coupled cluster methods including all single,
+   double, and (perturbatively) triple excitations {[}CCSD(T)].
+   Core-correlation effects on the bond dissociation energies have been
+   explicitly evaluated. For the intermediate hydrides CH(n) and SiH(n)
+   (n=1-3), heats of formation are determined from theoretical bond
+   dissociation energies in two ways: using experimental heats of formation
+   of the H and C (or Si) atoms; and using experimental heats of formation
+   of the H atom and the parent hydrides CH4 (or SiH4). In principle, this
+   procedure allows us to place rigorous upper and lower bounds on the
+   heats of formation of the intermediate hydrides. Because our
+   theoretically predicted atomization energies are already of high
+   quality, estimation of remaining deficiencies in the one-particle basis
+   sets can be obtained from extrapolation of observed trends in
+   atomization energies upon basis set expansion. These extrapolated
+   results are in outstanding agreement with experimental values where they
+   are known to high accuracy. For the SiH(n) compounds, a serious problem
+   occurs: our predicted atomization energy of SiH4 is larger than that
+   obtained from experimental heats of formation for the silicon atom and
+   silane. Thus either relativistic effects on the atomization energy of
+   SiH4 are large, or the experimental heats of formation of Si and SiH4
+   are incompatible. Excepting the atomization energy of SiH4, and thus the
+   heats of formation of Si and SiH4, none of our other SiH(n)
+   thermochemical predictions (properly interpreted) are clearly
+   incompatible with experiment. Furthermore, our theoretical predictions
+   are again in outstanding agreement with experimental determinations that
+   are most certain.},
+DOI = {10.1063/1.463409},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+@article{ 92PaSuxx.SiH,
+Author = {Park, J K and Sun, H},
+Title = {ABINITIO EFFECTIVE HAMILTONIAN CALCULATIONS ON THE VALENCE STATES OF
+   SIH, SIH+, PH AND PH+},
+Year = {1992},
+Volume = {13},
+Pages = {429-440},
+Abstract = {The second order ab initio effective valence shall Hamiltonian (H(v)),
+   which is based on quasidegenerate many-body perturbation theory is
+   applied to the SiH, PH. and their positive ions. A single H(v)
+   computation for the neutral molecule is used for a whole set of valence
+   states of a molecule and its ion simultaneously. The low-lying valence
+   state potential energy curves of SiH, PH and their positive ions are
+   computed. And various spectroscopic constants of the low-lying bound
+   valence states are determined from the potential energy curves. The H(v)
+   results are found to be in good agreement with other theoretical and
+   experimental data.},
+Journal = {Bull. Korean Chem. Soc.},
+}
+
+@article{ 92LeSaWi.SiH,
+Author = {Leroy, G and Sana, M and Wilante, C and Temsamani, D R},
+Title = {DETERMINATION OF BOND-ENERGY TERMS IN SILICON-CONTAINING COMPOUNDS},
+Journal = THEOCHEM,
+Year = {1992},
+Volume = {91},
+Pages = {369-381},
+Abstract = {The enthalpies of formation of a series of silicon-containing compounds
+   have been calculated using various ab initio methods of quantum
+   chemistry adapted to the size of the species under consideration. A few
+   bond energy terms involving the silicon atom were derived from the
+   corresponding enthalpies of atomization. Some interesting applications
+   of these bond energy terms, namely the determination of conventional
+   ring strain energies, steric strain and anomeric effects and the
+   rationalization of various bond strengths are also described in this
+   paper.},
+Journal-ISO = {Theochem-J. Mol. Struct.},
+}
+
+@article{ 92PaSux1.SiH,
+Author = {Park, J K and Sun, H S},
+Title = {DIPOLE AND TRANSITION MOMENTS OF SIH, PH AND SH BY ABINITIO EFFECTIVE
+   VALENCE SHELL HAMILTONIAN METHOD},
+Journal = CPL,
+Year = {1992},
+Volume = {195},
+Pages = {469-474},
+Abstract = {The ab initio effective valence shell Hamiltonian method, based on
+   quasi-degenerate many-body perturbation theory, is generalized to
+   calculate molecular properties as well as the valence state energies.
+   The procedure requires the evaluation of effective operators for each
+   molecular property. Effective operators are perturbatively expanded in
+   powers of correlation and contain contributions from excitations outside
+   of the multireference valence space. To demonstrate the validity of this
+   method, calculations for dipole moments of and transition moments
+   between several low lying valence states of SiH, SiH+, PH, PH+, SH, and
+   SH+ to the lowest nontrivial order in the correlations have been
+   performed and compared with other theoretical calculations.},
+DOI = {10.1016/0009-2614(92)85546-M},
+Journal-ISO = {Chem. Phys. Lett.},
+}
+
+@article{ 92JiWhLu.SiH,
+Author = {Jing, Z and Whitten, J L and Lucovsky, G},
+Title = {SI-H BOND IN O-SUBSTITUTIONAL DOPING OF A-SIH},
+Journal = PRB,
+Year = {1992},
+Volume = {45},
+Pages = {13978-13983},
+Abstract = {Ab initio configuration-interaction theory is used to study Si-H bonds
+   in the a-Si:H and O-doped a-Si:H:O systems. The a-Si:H is modeled by a
+   finite Bethe lattice containing 13 Si atoms and 28 H atoms with a local
+   configuration of 3(Si)-SiH. By the incorporation of three O atoms in the
+   cluster, the a-Si:H:O system is modeled to have a local configuration of
+   3(O)-SiH. The H dissociation energy is calculated to be 3.55 eV in
+   3(Si)-SiH and 4.11 eV in 3(O)-SiH. A 1.5\% decrease in the Si-H bond
+   length and 5.1\% increase in the Si-H stretching frequency are found
+   with the incorporation of three O atoms. Incorporation of O atoms
+   increases the electron loss from the Si atom of the SiH group
+   strengthening the SiH bond.},
+DOI = {10.1103/PhysRevB.45.13978},
+Journal-ISO = {Phys. Rev. B},
+}
+
+@article{ 91PaVexx.SiH,
+Author = {Palanichamy, R R and Velusamy, R},
+Title = {POTENTIAL-ENERGY CURVES, F-C FACTORS AND R-CENTROIDS FOR SIH MOLECULE},
+Year = {1991},
+Volume = {29},
+Pages = {274-275},
+Abstract = {Suitable potential energy curves for X2-pi and A2-DELTA states of SiH
+   molecule are found among the potentials proposed by Noor Mohammad S
+   {[}Indian J Pure \& Appl Phys, 23 (1985) 188] and the Franck-Condon
+   factors, r-centroids and vibration transition probabilities are computed
+   for the SiH(X2-pi-A2-DELTA) band system.},
+Journal = {Indian J. Pure Appl. Phys.},
+}
+
+@article{ 91SaKaxx.SiH,
+Author = {Sax, A F and Kalcher, J},
+Title = {THEORETICAL ENTHALPIES OF FORMATION FOR SMALL SILICON HYDRIDES},
+Journal = JPC,
+Year = {1991},
+Volume = {95},
+Pages = {1768-1783},
+Abstract = {Enthalpies of formation (DELTA-f-H-298) and Gibbs functions of formation
+   (DELTA-f-G-298) for 27 molecular systems with up to three silicon atoms
+   were calculated with high-quality electronic structure methods
+   (multiconfigurational reference wave functions, singles-doubles
+   configuration interaction) in combination with empirical bond enthalpy
+   corrections. Estimates of (DELTA-f-H-298) values for selected molecules
+   with four and five silicon atoms were obtained by extrapolation. With
+   this set of theoretical enthalpy values we calculated singlet-triplet
+   splittings, bond strengths of Si-H and Si-Si bonds, and reaction
+   enthalpies of reactions of importance in the chemical vapor deposition
+   of silicon from silanes. Furthermore, the influence of silyl
+   substitution on the stability of triplet states and on Si-H and Si-Si
+   bond strengths was investigated.},
+DOI = {10.1021/j100157a052},
+Journal-ISO = {J. Phys. Chem.},
+}
+
+@article{ 90BaLexx.SiH,
+Author = {Baeck, K K and Lee, Y S},
+Title = {RELATIVISTIC SELF-CONSISTENT-FIELD CALCULATIONS OF SPIN ORBIT SPLITTINGS
+   IN DIATOMIC HYDRIDES},
+Journal = JCP,
+Year = {1990},
+Volume = {93},
+Pages = {5775-5782},
+DOI = {10.1063/1.459572},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+@article{ 89NeSuNa.SiH,
+Author = {Nemoto, M and Suzuki, A and Nakamura, H and Shibuya, K and Obi, K},
+Title = {ELECTRONIC QUENCHING AND CHEMICAL-REACTIONS OF SIH RADICALS IN THE
+   GAS-PHASE},
+Journal = CPL,
+Year = {1989},
+Volume = {162},
+Pages = {467-471},
+DOI = {10.1016/0009-2614(89)87009-5},
+Journal-ISO = {Chem. Phys. Lett.},
+}
+
+@article{ 89JoHuxx.SiH,
+Author = {Johnson, R D and Hudgens, J W},
+Title = {NEW ELECTRONIC STATE OF SIH AND SID RADICALS OBSERVED BY
+   RESONANCE-ENHANCED MULTIPHOTON IONIZATION SPECTROSCOPY},
+Journal = JPC,
+Year = {1989},
+Volume = {93},
+Pages = {6268-6270},
+DOI = {10.1021/j100354a003},
+Journal-ISO = {J. Phys. Chem.},
+}
+
+@article{ 88CuPoxx.SiH,
+Author = {Curtiss, L A and Pople, J A},
+Title = {THEORETICAL ENTHALPIES OF FORMATION OF SIH1-4 AND SIH1-4+},
+Journal = CPL,
+Year = {1988},
+Volume = {144},
+Pages = {38-42},
+DOI = {10.1016/0009-2614(88)87085-4},
+Journal-ISO = {Chem. Phys. Lett.},
+}
+
+@article{ 88HoGoxx.SiH,
+Author = {Horowitz, D S and Goddard, W A},
+Title = {THEORETICAL-STUDIES OF SILICON-CONTAINING MOLECULES},
+Journal = THEOCHEM,
+Year = {1988},
+Volume = {40},
+Pages = {207-237},
+DOI = {10.1016/0166-1280(88)80391-9},
+Journal-ISO = {Theochem-J. Mol. Struct.},
+}
+
+@article{ 87Kalche.SiH,
+Author = {Kalcher, J},
+Title = {ABINITIO AND PSEUDOPOTENTIAL INVESTIGATIONS ON THE SIH 1-3 RADICALS AND
+   THEIR ANIONS},
+Journal = CP,
+Year = {1987},
+Volume = {118},
+Pages = {273-284},
+DOI = {10.1016/0301-0104(87)87043-X},
+Journal-ISO = {Chem. Phys.},
+}
+
+@article{ 87SeWeUr.SiH,
+Author = {Seebass, W and Werner, J and Urban, W and Comben, E R and Brown, J M},
+Title = {THE INFRARED-SPECTRUM OF 5 ISOTOPIC FORMS OF THE SIH RADICAL BY LASER
+   MAGNETIC-RESONANCE},
+Journal = MP,
+Year = {1987},
+Volume = {62},
+Pages = {161-174},
+DOI = {10.1080/00268978700102121},
+Journal-ISO = {Mol. Phys.},
+}
+
+@article{ 87Larsso.SiH,
+Author = {Larsson, M},
+Title = {ABINITIO CALCULATIONS OF TRANSITION-PROBABILITIES AND POTENTIAL CURVES
+   OF SIH},
+Journal = JCP,
+Year = {1987},
+Volume = {86},
+Pages = {5018-5026},
+DOI = {10.1063/1.452673},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+@article{ 87BeGrCh.SiH,
+Author = {Berkowitz, J and Greene, J P and Cho, H and Ruscic, B},
+Title = {PHOTOIONIZATION MASS-SPECTROMETRIC STUDIES OF SIHN (N=1-4)},
+Journal = JCP,
+Year = {1987},
+Volume = {86},
+Pages = {1235-1248},
+DOI = {10.1063/1.452213},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+@article{ 86AlScxx.SiH,
+Author = {Allen, W D and Schaefer, H F},
+Title = {GEOMETRICAL STRUCTURES, FORCE-CONSTANTS, AND VIBRATIONAL-SPECTRA OF SIH,
+   SIH2, SIH3, AND SIH4},
+Journal = CP,
+Year = {1986},
+Volume = {108},
+Pages = {243-274},
+DOI = {10.1016/0301-0104(86)85046-7},
+Journal-ISO = {Chem. Phys.},
+}
+
+@article{ 86LlAbxx.SiH,
+Author = {Lloret, A and AbouafmarguiN, L},
+Title = {IR DETECTION BY MATRIX-ISOLATION TECHNIQUE OF RADICALS PRODUCED IN A
+   SILANE DISCHARGE},
+Journal = CP,
+Year = {1986},
+Volume = {107},
+Pages = {139-143},
+DOI = {10.1016/0301-0104(86)85067-4},
+Journal-ISO = {Chem. Phys.},
+}
+
+@article{ 86Hirstx.SiH,
+Author = {Hirst, D M},
+Title = {ABINITIO POTENTIAL-ENERGY CURVES FOR THE X1-SIGMA+,A1-PI,A3-PI AND
+   3-SIGMA+ STATES OF SIH+},
+Journal = CPL,
+Year = {1986},
+Volume = {128},
+Pages = {504-506},
+DOI = {10.1016/0009-2614(86)80662-5},
+Journal-ISO = {Chem. Phys. Lett.},
+}
+
+@article{ 86ChGuMo.SiH,
+Author = {Chollet, P and Guelachvili, G and Morillonchapey, M and Gressier, P and
+   Schmitt, J P M},
+Title = {HIGH-INFORMATION INFRARED-SPECTROSCOPY OF UNSTABLE MOLECULES},
+Journal = JOSAB,
+Year = {1986},
+Volume = {3},
+Pages = {687-695},
+Journal-ISO = {J. Opt. Soc. Am. B-Opt. Phys.},
+}
+
+@article{ 86PeLaxx.SiH,
+Author = {Pettersson, L G M and Langhoff, S R},
+Title = {THEORETICAL ELECTRIC-DIPOLE MOMENTS OF SIH, GEH AND SNH},
+Journal = CPL,
+Year = {1986},
+Volume = {125},
+Pages = {429-432},
+DOI = {10.1016/0009-2614(86)87072-5},
+Journal-ISO = {Chem. Phys. Lett.},
+}
+
+@article{ 86BeBoCh.SiH,
+Author = {Betrencourt, M and Boudjaadar, D and Chollet, P and Guelachvili, G and
+   MORILLONCHAPEY, M},
+Title = {INFRARED-EMISSION SPECTRUM OF THE RADICAL 28SIH - OBSERVATION AND
+   ANALYSIS OF THE ROVIBRATIONAL BANDS 1-0, 2-1, AND 3-2 IN THE X2II
+   GROUND-STATE},
+Journal = JCP,
+Year = {1986},
+Volume = {84},
+Pages = {4121-4126},
+DOI = {10.1063/1.450081},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+@article{ 86Buenke.SiH,
+Author = {Buenker, R J},
+Title = {COMBINING PERTURBATION-THEORY TECHNIQUES WITH VARIATIONAL CI
+   CALCULATIONS TO STUDY MOLECULAR EXCITED-STATES},
+Journal = IJQC,
+Year = {1986},
+Volume = {29},
+Pages = {435-460},
+DOI = {10.1002/qua.560290317},
+Journal-ISO = {Int. J. Quantum Chem.},
+}
+
+@article{ 86LuPoKr.SiH,
+Author = {Luke, B T and Pople, J A and Kroghjespersen, M B and Apeloig, Y and
+   Chandrasekhar, J and Schleyer, P V},
+Title = {A THEORETICAL SURVEY OF SINGLY BONDED SILICON-COMPOUNDS - COMPARISON OF
+   THE STRUCTURES AND BOND-ENERGIES OF SILYL AND METHYL-DERIVATIVES},
+Journal = JACS,
+Year = {1986},
+Volume = {108},
+Pages = {260-269},
+DOI = {10.1021/ja00262a013},
+Journal-ISO = {J. Am. Chem. Soc.},
+}
+
+@article{ 85ViThRa.SiH,
+Author = {Viswanathan, R and Thompson, D L and Raff, L M},
+Title = {A VALENCE-BOND POTENTIAL-ENERGY SURFACE FOR SILYLENE DISSOCIATION},
+Journal = JPC,
+Year = {1985},
+Volume = {89},
+Pages = {1428-1432},
+DOI = {10.1021/j100254a025},
+Journal-ISO = {J. Phys. Chem.},
+}
+
+@article{ 85DaIsJo.SiH,
+Author = {Davies, P B and Isaacs, N A and Johnson, S A and Russell, D K},
+Title = {DETECTION OF SIH(X-2-PI) FUNDAMENTAL AND HOT BAND TRANSITIONS BY
+   DIODE-LASER ABSORPTION-SPECTROSCOPY},
+Journal = JCP,
+Year = {1985},
+Volume = {83},
+Pages = {2060-2063},
+DOI = {10.1063/1.449347},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+@article{ 85WaMaHa.SiH,
+Author = {Washida, N and Matsumi, Y and Hayashi, T and Ibuki, T and Hiraya, A and
+   Shobatake, K},
+Title = {EMISSION-SPECTRA OF SIH(A2-DELTA-]X2II) AND SICL2(A1B1-]X1A1) IN THE VUV
+   PHOTOLYSES OF SILANE AND CHLORINATED SILANES},
+Journal = JCP,
+Year = {1985},
+Volume = {83},
+Pages = {2769-2774},
+DOI = {10.1063/1.449227},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+@article{ 85BrCuEv.SiH,
+Author = {Brown, J M and Curl, R F and Evenson, K M},
+Title = {THE MICROWAVE AND FAR-INFRARED SPECTRA OF THE SIH RADICAL},
+Journal = APJ,
+Year = {1985},
+Volume = {292},
+Pages = {188-191},
+DOI = {10.1086/163145},
+}
+
+@article{ 84BrCuE1.SiH,
+Author = {Brown, J M and Curl, R F and Evenson, K M},
+Title = {THE FAR-INFRARED LASER MAGNETIC-RESONANCE SPECTRUM OF THE SIH RADICAL
+   AND DETERMINATION OF GROUND-STATE PARAMETERS},
+Journal = JCP,
+Year = {1984},
+Volume = {81},
+Pages = {2884-2890},
+DOI = {10.1063/1.448062},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+@article{ 84BrRoxx.SiH,
+Author = {Brown, J M and Robinson, D},
+Title = {OBSERVATION OF THE VIBRATION-ROTATION SPECTRUM OF THE SIH RADICAL AT
+   5-MU-M BY LASER MAGNETIC-RESONANCE},
+Journal = MP,
+Year = {1984},
+Volume = {51},
+Pages = {883-886},
+DOI = {10.1080/00268978400100581},
+Journal-ISO = {Mol. Phys.},
+}
+
+@article{ 84BaBeDu.SiH,
+Author = {Bauer, W and Becker, K H and Duren, R and Hubrich, C and Meuser, R},
+Title = {RADIATIVE LIFETIME MEASUREMENTS OF SIH(A2-DELTA) BY LASER-INDUCED
+   FLUORESCENCE},
+Journal = CPL,
+Year = {1984},
+Volume = {108},
+Pages = {560-561},
+DOI = {10.1016/0009-2614(84)85054-X},
+Journal-ISO = {Chem. Phys. Lett.},
+}
+
+@article{ 84PoBrSp.SiH,
+Author = {Power, D and Brint, P and Spalding, T},
+Title = {A GAUSSIAN-80 (6-21G) STUDY OF THE SPECIES SIH1-4 AND SIH1-5+ - SOME
+   COMMENTS ON THE ELECTRON-IMPACT MASS-SPECTRUM OF SILANE},
+Journal = THEOCHEM,
+Year = {1984},
+Volume = {17},
+Pages = {81-92},
+Journal-ISO = {Theochem-J. Mol. Struct.},
+}
+
+@article{ 83LeBrPea.SiH,
+Author = {Lewerenz, M and Bruna, P J and Peyerimhoff, S D and Buenker, R J},
+Title = {ABINITIO MRD-CI STUDY OF THE ELECTRONIC-SPECTRUM OF SIH},
+Journal = MP,
+Year = {1983},
+Volume = {49},
+Pages = {1-24},
+DOI = {10.1080/00268978300101001},
+Journal-ISO = {Mol. Phys.},
+}
+
+@article{ 83LeBrPeb.SiH,
+Author = {Lewerenz, M and Bruna, P J and Peyerimhoff, S D and Buenker, R J},
+Title = {ABINITIO MRD-CI CALCULATION OF THE ELECTRON-AFFINITIES OF SI AND SIH -
+   STUDY OF 3 STABLE STATES OF THE RESPECTIVE NEGATIVE-IONS},
+Journal = JPB,
+Year = {1983},
+Volume = {16},
+Pages = {4511-4528},
+DOI = {10.1088/0022-3700/16/24/008},
+Journal-ISO = {J. Phys. B-At. Mol. Opt. Phys.},
+}
+
+@article{ 82StKrxx.SiH,
+Author = {Stevens, W J and Krauss, M},
+Title = {ABINITIO EFFECTIVE SPIN-ORBIT OPERATORS FOR USE IN ATOMIC AND
+   MOLECULAR-STRUCTURE CALCULATIONS - RESULTS FOR CH, OH, SIH, CO+, CO, AND
+   SIO},
+Journal = JCP,
+Year = {1982},
+Volume = {76},
+Pages = {3834-3836},
+DOI = {10.1063/1.443428},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+@article{ 82McGoxx.SiH,
+Author = {McMillen, D F and Golden, D M},
+Title = {HYDROCARBON BOND-DISSOCIATION ENERGIES},
+Year = {1982},
+Volume = {33},
+Pages = {493-532},
+DOI = {10.1146/annurev.pc.33.100182.002425},
+Journal = {Annu. Rev. Phys. Chem.},
+}
+
+@article{ 81CoRixx.SiH,
+Author = {Cooper, D L and Richards, W G},
+Title = {SIH - LAMBDA-DOUBLING AND CORE POLARIZATION},
+Journal = JCP,
+Year = {1981},
+Volume = {74},
+Pages = {96-98},
+DOI = {10.1063/1.440799},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+@article{ 80RoWexx.SiH,
+Author = {Rosmus, P and Werner, H J},
+Title = {EINSTEIN TRANSITION-PROBABILITY COEFFICIENTS IN THE ELECTRONIC
+   GROUND-STATES OF THE DIATOMIC HYDRIDES},
+Year = {1980},
+Volume = {60},
+Pages = {405-408},
+DOI = {10.1016/0022-2860(80)80099-8},
+Journal = {J. Mol. Struct.},
+}
+
+@article{ 79HuNoxx.SiH,
+Author = {Husain, D and Norris, P E},
+Title = {KINETIC-STUDY OF ELECTRONICALLY EXCITED CARBON-ATOMS C(21S0)},
+Year = {1979},
+Volume = {67},
+Pages = {273-285},
+DOI = {10.1039/dc9796700273},
+Journal = {Faraday Discuss.},
+}
+
+@article{ 79KlLiSa.SiH,
+Author = {Klynning, L and Lindgren, B and Sassenberg, U},
+Title = {LAMBDA-TYPE DOUBLING IN THE GROUND-STATE OF SIH},
+Year = {1979},
+Volume = {20},
+Pages = {617-619},
+DOI = {10.1088/0031-8949/20/5-6/011},
+Journal = {Phys. Scr.},
+}
+
+@article{ 79Parkxx.SiH,
+Author = {Park, C},
+Title = {SHOCK-TUBE DETERMINATION OF ABSORPTION CROSS-SECTIONS AND A2-DELTA-X2-PI
+   BAND TRANSITION MOMENTS OF SIH},
+Journal = JQSRT,
+Year = {1979},
+Volume = {21},
+Pages = {373-385},
+DOI = {10.1016/0022-4073(79)90067-0},
+Journal-ISO = JQSRT,
+}
+
+@article{ 78SiVaxx.SiH,
+Author = {Singh, P D and Vanlandingham, F G},
+Title = {LINE POSITIONS AND OSCILLATOR-STRENGTHS OF ROTATION-VIBRATION BANDS OF
+   POSSIBLE INTER-STELLAR SIH AND SIH},
+Journal = AA,
+Year = {1978},
+Volume = {66},
+Pages = {87-92},
+}
+
+@article{ 78DeSixx.SiH,
+Author = {Dealmeida,  A A and Singh, P D},
+Title = {PREDICTIONS ON FINDING SIH+ AND SIH IN INTER-STELLAR SPACE},
+Journal = ASS,
+Year = {1978},
+Volume = {56},
+Pages = {415-419},
+Journal-ISO = {Astrophys. Space Sci.},
+}
+
+@article{ 78CaDuEr.SiH,
+Author = {Carlson, T A and Duric, N and Erman, P and Larsson, M},
+Title = {NEW PRE-DISSOCIATIONS OF A-STATE IN SIH AND THEIR USE IN DERIVING AN
+   IMPROVED VALUE OF DISSOCIATION-ENERGY},
+Journal = JPB,
+Year = {1978},
+Volume = {11},
+Pages = {3667-3675},
+DOI = {10.1088/0022-3700/11/21/012},
+Journal-ISO = {J. Phys. B-At. Mol. Opt. Phys.},
+}
+
+@article{ 76FrIrxx.SiH,
+Author = {Freedman, R S and IrwiN, A W},
+Title = {NEW ANALYSIS OF OPTICALLY DERIVED LAMBDA SPLITTING OF SIH},
+Journal = AA,
+Year = {1976},
+Volume = {53},
+Pages = {447-449},
+Journal-ISO = {Astron. Astrophys.},
+}
+
+@article{ 75MeRoxx.SiH,
+Author = {Meyer, W and Rosmus, P},
+Title = {PNO-CL AND CEPA STUDIES OF ELECTRON CORRELATION EFFECTS .3.
+   SPECTROSCOPIC CONSTANTS AND DIPOLE-MOMENT FUNCTIONS FOR GROUND-STATES OF
+   FIRST-ROW AND SECOND-ROW DIATOMIC HYDRIDES},
+Journal = JCP,
+Year = {1975},
+Volume = {63},
+Pages = {2356-2375},
+DOI = {10.1063/1.431665},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+@article{ 75WiRixx.SiH,
+Author = {Wilson, I D L and Richards, W G},
+Title = {LAMBDA-TYPE DOUBLING IN SIH MOLECULE},
+Year = {1975},
+Volume = {258},
+Pages = {133-134},
+DOI = {10.1038/258133a0},
+Journal = {Nature},
+}
+
+@article{ 71RaLaxx.SiH,
+Author = {Rao, T V R and Lakshman, S V},
+Title = {TRUE POTENTIAL ENERGY CURVES AND FRANCK-CONDON FACTORS OF SIH AND SIH+
+   MOLECULES},
+Journal = {Physica},
+Year = {1971},
+Volume = {56},
+Pages = {322-\&},
+DOI = {10.1016/0031-8914(71)90206-0},
+}
+
+@article{ 67Cadexx.SiH,
+Author = {Cade, P E},
+Title = {ELECTRON AFFINITIES OF DIATOMIC HYDRIDES CH NH SIH AND PH},
+Journal = {PROCEEDINGS OF THE PHYSICAL SOCIETY OF LONDON},
+Year = {1967},
+Volume = {91},
+Pages = {842-\&},
+DOI = {10.1088/0370-1328/91/4/310},
+}
+

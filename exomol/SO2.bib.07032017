@@ -1,0 +1,1938 @@
+@article{ 01HuChMe.SO2,
+Author = {Huang, C L and Chen, I C and Merer, A J and Ni, C K and Kung, A H},
+Title = {{Spectra of jet-cooled (SO2)-S-32 and (SO2)-S-34 in systems
+   (a)over-tilde(3)B(1) and (b)over-tilde(3)A(2)-(X)over-tilde(1)A(1):
+   Rotational structure of perturbed (b)over-tilde(3)A(2)}},
+Journal = JCP,
+Year = {2001},
+Volume = {114},
+Pages = {1187-1193},
+Abstract = {Spectra of (a) over tilde B-3(1)(nu (1)nu (2)nu (3))=(110) and (200)-(X)
+   over tilde (1)A(1)(000) of (SO2)-S-32 and (SO2)-S-34 are obtained in a
+   supersonic jet at a resolution 0.015 cm(-1). The rotational structures
+   are analyzed for both isotopic species to obtain precise rotational and
+   spin constants. Two new bands at 27 032.222(1) and 27 515.41(1) cm-1
+   arising from vibronic interaction separately with vibrational state
+   (110) and (200) of (a) over tilde B-3(1) are assigned to transitions to
+   (b) over tilde (3)A(2)(011) and (101). The rotational structure of (b)
+   over tilde (3)A(2) is observed and analyzed for the first time. The two
+   vibrational states are analyzed to yield effective rotational constants
+   A=1.4348(3), 1.89(3), B=0.3610(3), 0.412(3), and C=0.2689(3), 0.239(3)
+   cm(-1), respectively. Then the difference nu (1)-nu (2) of vibrational
+   frequency of (b) over tilde (3)A(2) is obtained to be 483.19 cm(-1).
+   Because of interaction to (b) over tilde (3)A(2)(011) the observed
+   spacing of K stack and spin constants alpha and beta for (a) over tilde
+   B-3(1)(110) are smaller whereas the state (a) over tilde B-3(1)(200) is
+   relatively unaffected and only spin constants vary significantly. },
+DOI = {10.1063/1.1333019}}
+
+@article{ 00HuJuCh.SO2,
+Author = {Huang, C L and Ju, S S and Chen, I C and Merer, A J and Ni, C K and Kung, A H},
+Title = {{High-resolution spectroscopy of jet-cooled (SO2)-S-32 and (SO2)-S-34:
+   The (a)over-tilde(3)B(1)-(X)over-tilde(1)A(1), 2(0)(1) and 1(0)(1) bands}},
+Journal = JMS,
+Year = {2000},
+Volume = {203},
+Pages = {151-157},
+Abstract = {Laser-induced excitation spectra of the two bands (a) over
+   tilde(3)B(1)-(X) over tilde(1)A(1), 2(0)(1) and 1(0)(1) of (SO2)-S-32
+   and (SO2)-S-34 have been recorded in a supersonic jet at a resolution of
+   0.015 cm(-1). The rotational and electron-spin fine structure has been
+   analyzed for both isotopic species. Analysis of the rotational and
+   electron-spin fine structure yields precise values of the rotational
+   constants A, B, and C and the spin constants alpha and beta for both
+   (SO2)-S-32 and (SO2)-S-34 in the states (a) over tilde(3)B(1) (010) and
+   (100). No interaction between these two vibrational States with any
+   nearby triplet state is observed for rotational levels with J less than
+   or equal to 8 and K less than or equal to 2. },
+DOI = {10.1006/jmsp.2000.8151}}
+
+@article{ 00ZeChLe.SO2,
+Author = {Zen, C C and Chen, I C and Lee, Y P and Merer, A J},
+Title = {{Laser-induced phosphorescence of SO2 in solid neon: Direct observation
+   of the (b)over-tilde(3)A(2) state in the (OSO)-O-16-O-18 molecule}},
+Journal = JPCA,
+Year = {2000},
+Volume = {104},
+Pages = {771-776},
+Abstract = {Laser excitation of isotopically labeled SO2 molecules in a neon matrix
+   has allowed the measurement of dispersed phosphorescence spectra ((a)
+   over tilde(3)B(1)-(X) over tilde(1)A(1)) in the wavelength region
+   387.5-526.3 nm (19 000-25 800 cm(-1)). The origin of the (a) over
+   tilde-(X) over tilde transition lies at 25 747 cm(-1) in
+   (OSO)-O-16-O-16, shifted 18 cm(-1) to the red from the gas phase; the
+   three vibrational frequencies of the (X) over tilde state are nearly
+   unperturbed in the neon matrix (1149, 520, and 1362 cm(-1)). As the
+   zero-phonon lines are sharp and well resolved, it has been possible to
+   monitor emission from a specific isotopomer to obtain its excitation
+   spectrum. The excitation spectra of matrix-isolated (OSO)-O-16-O-16 and
+   (OSO)-O-18-O-18 in the region 350.9-388.5 nm (25 740-28 500 cm(-1)) are
+   similar to those previously observed in the gas phase, with strong
+   perturbations affecting all vibrational levels above a(3)B(1)(110) at 27
+   005 cm(-1) (370 nm). Two additional groups of bands are observed for the
+   unsymmetrical isotopomer (OSO)-O-18-O-16; they are identified as
+   transitions to levels of the (a) over tilde(3)B(1) state with v(3) = 1
+   and as direct transitions to the (b) over tilde(3)A(2) state, which both
+   become allowed in the lower symmetry. The v(3) frequency of the (a) over
+   tilde(3)B(1) state of (OSO)-O-18-O-16 is 922 cm(-1); for the (b) over
+   tilde(3)A(2) state, v(1) similar or equal to 791 cm(-1) and v(2) similar
+   or equal to 315 cm(-1), while the (b) over tilde (001) level lies 26 653
+   cm(-1) above the (X) over tilde (000) level.},
+DOI = {10.1021/jp9932517}}
+
+@article{ 13VoKaEg.SO2,
+Author = {Voitsekhovskaya, O. K. and Kashirskii, D. E. and Egorov, O. V.},
+Title = {{Spectroscopic support of laser remote sensing of the sulfur dioxide gas
+   in the jet of engine exhaust gases}},
+Journal = {Russian Phys. J.},
+Year = {2013},
+Volume = {56},
+Pages = {473-482},
+Abstract = {The feasibility of SO2 registration in the plume of a jet engine as one
+   of the methods of monitoring of its operation quality is investigated.
+   Spectral characteristics are calculated using the line by line method,
+   information-computing complex TRAVA developed by the authors, and the
+   compiled spectroscopic database on high-temperature SO2. Unlike the
+   HITRAN database, the original spectroscopic data possess predictability
+   up to T = 1500 K. It is established that in case of active SO2 detection
+   using a CO laser, the laser line corresponding to the 32-31 D 5
+   transition is promising for temperatures T = 300-1100 K. In addition,
+   the most suitable range of the spectrum for passive sensing of hot SO2
+   in the engine plume - 1330.0-1331.6 cm(-1) - is established in which the
+   useful signal level exceeds background radiation for a minimum SO2
+   concentration (5 ppm).},
+DOI = {10.1007/s11182-013-0057-x}}
+
+@article{13VoEgxx.SO2,
+Author = {Voitsekhovskaya, O. K. and Egorov, O. V.},
+Title = {The absorption of sulfur dioxide in the terahertz range at temperatures of 300-1200 K},
+Journal = {MOSCOW UNIVERSITY PHYSICS BULLETIN},
+Year = {2013},
+Volume = {68},
+Pages = {132-138},
+Abstract = {},
+DOI = {}}
+
+@article{16HuScLe.SO2,
+   author = {Xinchuan Huang and Schwenke, David W. and Lee, Timothy J.},
+title = {{Empirical infrared line lists for five SO2 isotopologues:
+   (SO2)-S-32/33/34/36-O-16 and (SO2)-S-32-O-18}},
+   journal = JMS,
+   year = {2016},
+   volume = {311},
+   pages = {19-24},
+Abstract = {{Using the latest published, empirically refined potential energy surface
+   (PES) Ames-1 and purely ab initio CCSD(T)/aug-cc-pV(Q+d)Z dipole moment
+   surface (DMS), we have computed infrared line lists for five symmetric
+   isotopologues of sulfur dioxide: (SO2)-S-32-O-16 (626), (3)3S(16)O(2)
+   (636), (SO2)-S-34-O-16 (646), (SO2)-S-36-O-16 (666), and (SO2)-S-32-O-18
+   (828). The line lists are based on J = 0-80 rovibrational variational
+   calculations with E' <= 8000 cm(-1). The (SO2)-S-34-O-16 and
+   (SO2)-S-33-O-16 line lists are compared to the experiment-based models
+   in the High-resolution TRANsmission molecular absorption database
+   (HITRAN2012, http://www.cfa.harvard.edu/hitran/) and the Cologne
+   Database for Molecular Spectroscopy, CDMS
+   (http://www.astro.uni-koeln.de/cdms/). The accuracy for computed 646
+   band origins is similar to what has been reported for the main
+   isotopologue, i.e. 0.01-0.03 cm(-1) for bands up to 5500 cm(-1). For
+   rovibrational transitions, the 646 line position and intensity deviation
+   patterns are much simpler and more self-consistent than those of the
+   main isotopologue 626. The discrepancies are mainly found for higher
+   K-a/J transitions. 626 and 646 exhibit comparable line position and
+   intensity agreement for lower ICall transitions. The line position
+   deviations for the 636 purely rotational band are parallel to those of
+   626 and 646, while its line intensity deviations do not show branching
+   patterns as we found in the 626 and 646 cases. Predictions for the other
+   minor isotopologues are expected to exhibit similar accuracy. These line
+   lists are accurate enough to provide alternatives for missing bands of
+   626 and the minor isotopologues. It may significantly facilitate the
+   laboratory spectroscopic measurement and analysis, as well as to
+   identify these isotopologues in various astrophysical environments.}},
+DOI = {{10.1016/j.jms.2015.01.010}}}
+
+
+@article{14HuScLe.SO2,
+   author = {Xinchuan Huang and Schwenke, David W. and Lee, Timothy J.},
+   title = {{Highly accurate potential energy surface, dipole moment surface, rovibrational energy levels, and infrared line list for $^{32}$S$^{16}$O$_2$ up to 8000 cm$^{-1}$}},
+   journal = JCP,
+   year = {2014},
+   volume = {140},
+   pages = {114311},
+   doi = {10.1063/1.4868327}
+}
+
+
+@article{13VoEgxx.SO2,
+Author = {Voitsekhovskaya, O. K. and Egorov, O. V.},
+Title = {{The absorption of sulfur dioxide in the terahertz range at temperatures of 300-1200 K}},
+Journal = {Moscow Univ. Physs. Bull.},
+Year = {2013},
+Volume = {68},
+Pages = {132-138},
+Abstract = {},
+DOI = {}}
+
+
+@ARTICLE{98ChWeLa.SO2,
+  author = {Chu, P M and Wetzel, S J and Lafferty, W J and Perrin, A and Flaud,
+	J M and Arcas, P and Guelachvili, G},
+  title = {Line intensities for the 8-mu m bands of SO2},
+  journal = JMS,
+  year = {1998},
+  volume = {189},
+  pages = {55-63},
+  abstract = {Using both high-resolution (R = 0.003 cm(-1)) and medium-resolution
+	(R = 0.12 cm(-1)) Fourier transform spectroscopy, it has been possible
+	to measure accurately a large set of individual line intensities
+	for the v(1) and v(3) bands of SO2 in the 950-1400 cm(-1) spectral
+	region. These intensities were introduced into a least-squares fit
+	calculation allowing one to obtain the expansion of the transition
+	moment operator of the v(1) and v(3) bands. For these intensity calculations,
+	the theoretical model takes into account the vibration-rotation interactions
+	linking the upper levels involved in the v(1), 2v(2), and v(3) interacting
+	SO2 bands. Finally, a synthetic spectrum of the 8-mu m SO2 bands
+	has been generated using the dipole moment expansion determined in
+	this work and the molecular parameters and the Hamiltonian matrix
+	given in a previous analysis, (C) 1998 Academic Press.},
+  doi = {10.1006/jmsp.1997.7517},
+  journal-iso = {J. Mol. Spectrosc.},
+}
+
+
+
+@ARTICLE{51CrSmxx.SO2,
+  author = {Crable, G F and SMITH, W V},
+  title = {THE STRUCTURE AND DIPOLE MOMENT OF SO2 FROM MICROWAVE SPECTRA},
+  journal = JCP,
+  year = {1951},
+  volume = {19},
+  pages = {502},
+  doi = {10.1063/1.1748255},
+  journal-iso = {J. Chem. Phys.},
+}
+
+@ARTICLE{79PaMaDy.SO2,
+  author = {Patel, D and Margolese, D and Dyke, T R},
+  title = {ELECTRIC-DIPOLE MOMENT OF SO2 IN GROUND AND EXCITED VIBRATIONAL-STATES},
+  journal = JCP,
+  year = {1979},
+  volume = {70},
+  pages = {2740-2747},
+  doi = {10.1063/1.437860},
+  journal-iso = {J. Chem. Phys.},
+}
+
+@ARTICLE{73TeFoCo.SO2,
+  author = {Tejwani, G D T and Fox, K and Corice, R J},
+  title = {DIPOLE-MOMENT DERIVATIVES FOR SO2},
+  journal = CPL,
+  year = {1973},
+  volume = {18},
+  pages = {365-368},
+  doi = {10.1016/0009-2614(73)80191-5},
+  journal-iso = {Chem. Phys. Lett.},
+}
+
+@ARTICLE{90VoScSc.SO2,
+  author = {Vonmoers, F and Schmalzigaug, K and Schmoldt, A and Heitz, S and
+	Hese, A},
+  title = {EXCITED-STATE DIPOLE-MOMENTS OF SO2},
+  journal = JCP,
+  year = {1990},
+  volume = {92},
+  pages = {6391-6396},
+  doi = {10.1063/1.458318},
+  journal-iso = {J. Chem. Phys.},
+}
+
+
+@ARTICLE{00XeMaxx.SO2,
+  author = {Xenides, D and Maroulis, G},
+  title = {Basis set and electron correlation effects on the first and second
+	static hyperpolarizability of SO2},
+  journal = CPL,
+  year = {2000},
+  volume = {319},
+  pages = {618-624},
+  abstract = {Accurate values are reported for the static hyperpolarizability of
+	SO2. We have obtained near-Hartree-Fock SCF values of mu(z) = -0.7916
+	e a(0) for the dipole moment, <(alpha)over bar> = 23.59 and Delta
+	alpha = 11.73 e(2) a(0)(2) E-h(-1) for the mean and the anisotropy
+	of the dipole polarizability, <(beta)over bar> = 35.0 e(3) a(0)(3)
+	E-h(-2) for the mean first and <(gamma)over bar> = 2061 e(4) a(0)(4)
+	E-h(-3) for the mean second dipole hyperpolarizability. Our CCSD(T)
+	values for the election correlation correction to these properties
+	are -0.1676 e a(0), 2.25 and 1.38 e(2) a(0)(2) E-h(-1), -4.8 e(3)
+	a(0)(3) E-h(-2) and 1325 e(4) a(0)(4) E-h(-3). The mean <(beta)over
+	bar> = 30.1 e(3) a(0)(3) E-h(-2) and <(gamma)over bar> = 3390 e(4)
+	a(0)(4) E-h(-3) are larger than the experimental Kerr effect values
+	at 632.8 nm.},
+  doi = {10.1016/S0009-2614(00)00197-4},
+  journal-iso = {Chem. Phys. Lett.},
+}
+
+@ARTICLE{13WhXiHu.SO2,
+Author = {Whitehill, Andrew R. and Xie, Changjian and Hu, Xixi and Xie, Daiqian
+   and Guo, Hua and Ono, Shuhei},
+Title = {{Vibronic origin of sulfur mass-independent isotope effect in
+   photoexcitation of SO2 and the implications to the early earth's
+   atmosphere}},
+Journal = PNAS,
+Year = {{2013}},
+Volume = {{110}},
+Pages = {17697-17702},
+Abstract = {{Signatures of mass-independent isotope fractionation (MIF) are found in
+   the oxygen (O-16, O-17, O-18) and sulfur (S-32, S-33, S-34, S-36)
+   isotope systems and serve as important tracers of past and present
+   atmospheric processes. These unique isotope signatures signify the
+   breakdown of the traditional theory of isotope fractionation, but the
+   physical chemistry of these isotope effects remains poorly understood.
+   We report the production of large sulfur isotope MIF, with Delta S-33 up
+   to 78\% and Delta S-36 up to 110\%, from the broadband excitation of SO2
+   in the 250-350-nm absorption region. Acetylene is used to selectively
+   trap the triplet-state SO2 ((a) over tilde B-3(1)), which results from
+   intersystem crossing from the excited singlet ((A) over tilde
+   (1)A(2)/(B) over tilde B-1(1)) states. The observed MIF signature
+   differs considerably from that predicted by isotopologue-specific
+   absorption cross-sections of SO2 and is insensitive to the wavelength
+   region of excitation (above or below 300 nm), suggesting that the MIF
+   originates not from the initial excitation of SO2 to the singlet states
+   but from an isotope selective spin-orbit interaction between the singlet
+   ((A) over tilde (1)A(2)/(B) over tilde B-1(1)) and triplet ((a) over
+   tilde B-3(1)) manifolds. Calculations based on high-level potential
+   energy surfaces of the multiple excited states show a considerable
+   lifetime anomaly for (SO2)-S-33 and (SO2)-S-36 for the low vibrational
+   levels of the (A) over tilde (1)A(2) state. These results demonstrate
+   that the isotope selectivity of accidental near-resonance interactions
+   between states is of critical importance in understanding the origin of
+   MIF in photochemical systems.}},
+DOI = {{10.1073/pnas.1306979110}}}
+
+@article{ 13GrFaNi.SO2,
+Author = {Grosch, Helge and Fateev, Alexander and Nielsen, Karsten L. and Clausen,
+   Sonnik},
+Title = {{Hot gas flow cell for optical measurements on reactive gases}},
+Journal = JQSRT,
+Year = {{2013}},
+Volume = {{130}},
+Pages = {392-399},
+Abstract = {{A new design is presented for a gas flow cell for reactive gases at high
+   temperatures. The design features three heated sections that are
+   separated by flow windows. This design avoids the contact of reactive
+   gases with the material of the exchangeable optical windows. A gas cell
+   with this design was validated for high resolution measurements at
+   temperatures of up to 800 K (527 degrees C) in the ultraviolet (UV) and
+   infrared (IR) regions (190-20 000 nm). Verification of the gas
+   temperature in the cell is provided by a thermocouple and
+   emission/transmission measurements in the IR and UV regions.
+   High-resolution measurements are presented for the absorption
+   cross-section of sulfur dioxide (SO2) in the UV range up to 773 K (500
+   degrees C). }},
+DOI = {{10.1016/j.jqsrt.2013.06.029}},
+}
+
+ @article{73CoFoTe.H2S,
+author  = {R. J. Corice and K. Fox and G. D. T. Tejwani},
+year    = {1973},
+journal = JCP,
+volume  = {58},
+pages   = {265-270},
+title   = {Experimental and theoretical studies of the fundamental bands of sulfur dioxide},
+abstract ={The infrared-active vibration-rotation fundamentals of 32S16()2 have been measured with moderately high spectral resolution. Quantum number assignments have been made for spectral lines by comparison with theoretically computed line positions and intensities, which include the effects of centrifugal distortion. The following values for the band centers have been determined: "1°= 1151.65±O.1O em-I, "2°=517.75±O.10 em-I, and "3°= 1362.00±O.10 em-I".}
+}
+
+@article{99YaDeOn.SO2 ,
+Author = {Yamamura, I and de Jong, T and Onaka, T and Cami, J and Waters, L B F M},
+Title = {{Detection of warm SO2 gas in oxygen-rich AGB stars}},
+Journal = AA,
+Year = {{1999}},
+Volume = {{341}},
+Pages = {L9-L12}}
+
+@article{ 14HiMexx.SO2,
+Author = {Hieta, T. and Merimaa, M.},
+Title = {{Simultaneous detection of SO2, SO3 and H2O using QCL spectrometer for
+   combustion applications}},
+Journal = {Appl. Phys. B},
+Year = {{2014}},
+Volume = {{117}},
+Pages = {847-854},
+Abstract = {{We demonstrate a high-sensitivity laser-based spectrometer for
+   simultaneous detection of sulphur dioxide (SO2) sulphur trioxide (SO3)
+   and water for coal-fired combustion applications. The spectrometer is
+   based on a quantum-cascade laser (QCL) operating at 7.16 mu m, capable
+   of measuring all three components simultaneously in a single frequency
+   sweep. An optical multipass cell having a total path length of 9.1 m is
+   used at increased temperature and at low pressure to ensure reliable
+   measurement of highly reactive SO3 and adequate separation of
+   overlapping spectral features, respectively. Detection limits for SO2
+   and SO3 are 0.134 and 0.0073 ppm, respectively, when employing a 20-s
+   sampling time.}},
+DOI = {{10.1007/s00340-014-5896-9}}}
+
+@article{ 15HuScLe.SO2,
+title = {{Empirical InfraRed Line Lists for Five SO$_2$ Isotopologues:
+$^{32,33,34,36}$S$^{16}$O$_2$ and $^{32}$S$^{18}$O$_2$}},
+journal = JMS,
+volume = {311},
+pages = {19-24},
+year = {2015},
+doi = {10.1016/j.jms.2015.01.010},
+author = {Xinchuan Huang and David W. Schwenke and Timothy J. Lee},
+keywords = {Sulfur Dioxide},
+keywords = {Isotopologue},
+keywords = {\{IR\} Line List Database},
+keywords = {Empirical Refinement },
+abstract = {Abstract Using the latest published, empirically refined potential energy surface (PES) Ames-1 and purely ab initio CCSD(T)/aug-cc-pVQZ dipole moment surface (DMS), we have computed Infrared line lists for five symmetric isotopologues of sulfur dioxide: 32S16O2 (626), 33S16O2 (636), 34S16O2 (646), 36S16O2 (666), and 32S18O2 (828). The line lists are based on J=0-80 rovibrational variational calculations with E’ ⩽ 8000 cm-1. The 34S16O2 and 33S16O2 line lists are compared to the experiment-based models in the HIgh-resolution \{TRANsmission\} molecular absorption database (HITRAN2012, http://www.cfa.harvard.edu/hitran/) and the Cologne Database for Molecular Spectroscopy, \{CDMS\} (http://www.astro.uni-koeln.de/cdms/). The accuracy for computed 646 band origins is similar to what has been reported for the main isotopologue, i.e. 0.01 - 0.03 cm-1 for bands up to 5500 cm-1. For rovibrational transitions, the 646 line position and intensity deviation patterns are much simpler and more self-consistent than those of the main isotopologue 626. The discrepancies are mainly found for higher Ka/J transitions. 626 and 646 exhibit comparable line position and intensity agreement for lower Ka/J transitions. The line position deviations for the 636 purely rotational band are parallel to those of 626 and 646, while its line intensity deviations do not show branching patterns as we found in the 626 and 646 cases. Predictions for the other minor isotopologues are expected to exhibit similar accuracy. These line lists are accurate enough to provide alternatives for missing bands of 626 and the minor isotopologues. It may significantly facilitate the laboratory spectroscopic measurement and analysis, as well as to identify these isotopologues in various astrophysical environments. }
+}
+
+@article{ 15KhViMu.SO2,
+Author = {Khayat, A. S. and Villanueva, G. L. and Mumma, M. J. and Tokunaga, A. T.},
+Title = {{A search for SO2, H2S and SO above Tharsis and Syrtis volcanic districts
+   on Mars using ground-based high-resolution submillimeter spectroscopy}},
+Journal = {Icarus},
+Year = {{2015}},
+Volume = {{253}},
+Pages = {130-141},
+Abstract = {{We surveyed the Tharsis and Syrtis volcanic regions on Mars during 23
+   November 2011 to 13 May 2012 which correspOnded to its mid Northern
+   Spring and early Northern Summer seasons (L-s = 34-110 degrees). Strong
+   submillimeter rotational transitions of sulfur dioxide (SO2), sulfur
+   monoxide (SO) and hydrogen sulfide (H2S) were targeted. No active
+   release was detected, and we infer 2 sigma upper limits across the disk
+   of the planet of 1.1 ppb, 0.7 ppb and 1.3 ppb for SO2, SO and H2S,
+   respectively. Our derived upper limit for SO2 is comparable to
+   previously reported limits, whereas for H2S we set a more stringent
+   upper limit than previously measured, and we establish a limit for SO.
+   Among the targeted molecules, SO2 is the strongest indicator for
+   volcanic outgassing. Assuming a photochemical lifetime of 2 years for
+   SO2, our upper limit of 1.1 ppb implies an outgassing rate less than 55
+   metric tons/day. This rate limits the daily amount of degassing magma to
+   less than 12,000 m(3). Our sensitivity is sufficient to detect a
+   volcanic release on Mars that is 4\% the SO2 released continuously from
+   Kilauea volcano in Hawaii or 5\% that of the Masaya volcano in
+   Nicaragua. The non-detection of the sulfur compounds in the atmosphere
+   of Mars indicates the absence of major volcanic outgassing.}},
+DOI = {{10.1016/j.icarus.2015.02.028}},
+}
+
+@article{05MaMaMa.SO2,
+Author = {S. Martin and J. Martin-Pintado and R. Mauersberger and C. Henkel and S. Garcia-Burillo},
+Title = {Sulfur chemistry and isotopic ratios in the starburst galaxy NGC 253},
+Journal =ApJ,
+Year = {2005},
+Volume = {620},
+Pages = {210},
+Abstract = {On the basis of observations of the most abundant sulfur-bearing molecules (H2S, CS, NS, SO, H2CS, OCS, and SO2) carried out with the IRAM 30 m telescope and the Swedish-ESO Submillimetre Telescope (SEST), we present the first analysis of the sulfur chemistry of an extragalactic source, the nuclear region of the starburst galaxy NGC 253. This is the first time that H2S and, tentatively, H2CS are detected toward the nucleus of a starburst galaxy. Source-averaged fractional abundances of these molecules are a few times 10-9, except for CS and OCS, which are more abundant (10-8). Sulfur isotopic ratios, 32S/34S ~ 8 ± 2 and 34S/33S > 9, are measured through observations of 13CS, C34S, and C33S. A comparison with the observed relative abundances toward different prototypical Galactic sources suggests that the chemical composition of NGC 253 is similar to that found toward molecular cloud complexes like Sgr B2 in the nuclear region of the Milky Way. The large overabundance of OCS compared with the predictions of time-dependent sulfur chemistry models supports the idea that OCS is likely to have been injected into the gas phase from grain mantles by low-velocity shocks.},
+DOI = {10.1086/426888},
+}
+
+@article{06Zixxxx.SO2,
+Author = {L. M. Ziurys},
+Title = {The chemistry in circumstellar envelopes of evolved stars: Following the origin of the elements to the origin of life},
+Journal = PNAS,
+Year = {2006},
+Volume = {103},
+Pages = {12274},
+Abstract = {Mass loss from evolved stars results in the formation of unusual chemical laboratories: circumstellar envelopes. Such envelopes are found around carbon- and oxygen-rich asymptotic giant branch stars and red supergiants. As the gaseous material of the envelope flows from the star, the resulting temperature and density gradients create a complex chemical environment involving hot, thermodynamically controlled synthesis, molecule “freeze-out,” shock-initiated reactions, and photochemistry governed by radical mechanisms. In the circumstellar envelope of the carbon-rich star IRC+10216, >50 different chemical compounds have been identified, including such exotic species as C8H, C3S, SiC3, and AlNC. The chemistry here is dominated by molecules containing long carbon chains, silicon, and metals such as magnesium, sodium, and aluminum, which makes it quite distinct from that found in molecular clouds. The molecular composition of the oxygen-rich counterparts is not nearly as well explored, although recent studies of VY Canis Majoris have resulted in the identification of HCO+, SO2, and even NaCl in this object, suggesting chemical complexity here as well. As these envelopes evolve into planetary nebulae with a hot, exposed central star, synthesis of molecular ions becomes important, as indicated by studies of NGC 7027. Numerous species such as HCO+, HCN, and CCH are found in old planetary nebulae such as the Helix. This “survivor” molecular material may be linked to the variety of compounds found recently in diffuse clouds. Organic molecules in dense interstellar clouds may ultimately be traced back to carbon-rich fragments originally formed in circumstellar shells. },
+DOI = {10.1073/pnas.0602277103},
+}
+
+@article{97KlScBe.SO2,
+Author = {E. Klisch and P. Schilke and S. P. Belov and and G. Winnewisser},
+Title = {33SO2: Interstellar identification and laboratory measurements},
+Journal = JMS,
+Year = {1997},
+Volume = {186},
+Pages = {314},
+Abstract = {},
+DOI = {10.1006/jmsp.1997.7447},
+}
+
+@article{80NeLaMa.SO2,
+Author = {R. M. Nelson and A. L. Lane and D. L. Matson and F. P. Fanale and D. B. Nash and and T. V. Johnson},
+Title = {Io: Longitudinal Distribution of Sulfur Dioxide Frost},
+Journal = {Science},
+Year = {1980},
+Volume = {210},
+Pages = {784-786},
+Abstract = {},
+DOI = {10.1126/science.210.4471.784},
+}
+
+@article{03MaMaMa.SO2,
+Author = {S. Martin and R. Mauersberger and J. Martin-Pintado and S. Garcia-Burillo and C. Henkel},
+Title = {First detections of extragalactic SO2, NS and NO},
+Journal = AA,
+Year = {2003},
+Volume = {411},
+Pages = {L465},
+Abstract = {},
+DOI = {10.1051/0004-6361:20031442},
+}
+
+@article{03TaBoBr.SO2,
+Author = {F. F. S. {van der Tak} and A. M. S. Boonman and R. Braakman and and E. F. {van Dishoeck}},
+Title = {Sulfur chemistry in the envelopes of massive young stars},
+Journal = AA,
+Year = {2003},
+Volume = {412},
+Pages = {133},
+Abstract = {The sulphur chemistry in nine regions in the earliest stages of high-mass star formation is studied through single-dish submillimeter spectroscopy. The line profiles indicate that 10-50% of the SO and SO 2 emission arises in high-velocity gas, either infalling or outflowing. For the low-velocity gas, excitation temperatures are 25 K for H 2S, 50 K for SO, H 2CS, NS and HCS +, and 100 K for OCS and SO 2, indicating that most observed emission traces the outer parts ( T<100 K) of the molecular envelopes, except high-excitation OCS and SO 2 lines. Abundances in the outer envelopes, calculated with a Monte Carlo program, using the physical structures of the sources derived from previous submillimeter continuum and CS line data, are ~10 -8 for OCS, ~10 -9 for H 2S, H 2CS, SO and SO 2, and ~10 -10 for HCS + and NS. In the inner envelopes ( T>100 K) of six sources, the SO 2 abundance is enhanced by a factor of ~100-1000. This region of hot, abundant SO 2 has been seen before in infrared absorption, and must be small, $\la$0 $\farcs$2 (180 AU radius). The derived abundance profiles are consistent with models of envelope chemistry which invoke ice evaporation at $T\sim 100$  K. Shock chemistry is unlikely to contribute. A major sulphur carrier in the ices is probably OCS, not H 2S as most models assume. The source-to-source abundance variations of most molecules by factors of ~10 do not correlate with previous systematic tracers of envelope heating. Without observations of H 2S and SO lines probing warm ( $\ga$100 K) gas, sulphur-bearing molecules cannot be used as evolutionary tracers during star formation.},
+DOI = {10.1051/0004-6361:20031409},
+}
+
+@article{06ViLoFe.SO2,
+Author = {C. Visscher and K. Lodders and and B. {Fegley Jr.}},
+Title = {Atmospheric chemistry in giant planets, brown dwarfs, and low-mass dwarf stars. II. Sulfur and Phosphorus},
+Journal = ApJ,
+Year = {2006},
+Volume = {648},
+Pages = {1181},
+Abstract = {},
+DOI = {10.1086/506245},
+}
+
+@article{01ScBeHu.SO2,
+Author = {P. Schilke and D. J. Benford and T. R. Hunter and D. C. Lis and and T. G. Philips},
+Title = {A line survery of Orion-KL from 607 to 725 GHz},
+Journal = ApJS,
+Year = {2001},
+Volume = {132},
+Pages = {281},
+Abstract = {},
+DOI = {10.1086/318951},
+}
+
+@article{10CrBeWa.SO2,
+Author = {N. R. Crockett and E. A. Bergin and S. Wang and D. C. Lis and T. A. Bell  and {et al.}},
+Title = {Herschel observations of extra-ordinary sources (HEXOS): The terahertz spectrum of Orion KL seen at high spectral resolution},
+Journal = AA,
+Year = {2010},
+Volume = {521},
+Pages = {L21},
+Abstract = {},
+DOI = {10.1051/0004-6361/201015116},
+}
+
+@article{13BeMuMe.SO2,
+Author = {A. Belloche and H. S. P. M{\"u}ller and K. M. Menten and P. Schilke and and C. Comito},
+Title = {Complex organic molecules in the interstellar medium: IRAM 30 m line survey of Sagittarius B2(N) and (M)},
+Journal = AA,
+Year = {2013},
+Volume = {559},
+Pages = {A47},
+Abstract = {},
+DOI = {10.1051/0004-6361/201321096},
+}
+
+@article{13KaLoDo.SO2,
+Author = {M. Kama and A. L{\'o}pez-Sepulcre and C. Dominik and C. Ceccarelli and A. Fuente and E. Caux and {et al.}},
+Title = {The Herschel/HIFI spectral survey of OMC-2 FIR 4 (CHESS): An overview of the 480 to 1902 GHz range},
+Journal = AA,
+Year = {2013},
+Volume = {556},
+Pages = {A57},
+Abstract = {},
+DOI = {10.1051/0004-6361/201219431},
+}
+
+@article{90NaEsSk.SO2,
+Author = {Chan Y. Na and Larry W. Esposito and Thomas E. Skinner},
+Title = {International ultraviolet explorer observation of Venus SO2 and SO},
+Journal = JGR,
+Year = {1990},
+Volume = {95},
+Pages = {7485-7491},
+Abstract = {},
+DOI = {10.1029/JD095iD06p07485},
+}
+
+@article{79PeHaMa.SO2,
+Author = {J. Pearl and R. Hanel and V. Kunde and W. Maguire and K. Fox and S. Gupta and C. Ponnamperuma  and F. Raulin},
+Title = {Identification of gaseous SO2 and new upper limits for other gases on Io},
+Journal = {Nature},
+Year = {1979},
+Volume = {280},
+Pages = {755 - 758},
+Abstract = {},
+DOI = {10.1038/280755a0},
+}
+
+@article{99YaJoOs.SO2,
+Author = {I. Yamamura and T. {de Jong} and T. Osaka and J. Cami and L. B. F. M. Waters},
+Title = {Detection of warm SO2 gas in oxygen-rich AGB stars},
+Journal = AA,
+Year = {1999},
+Volume = {341},
+Pages = {L9-L12},
+Abstract = {},
+DOI = {}}
+
+@article{73StJexx.SO2,
+Author = {Richard E. Stoiber and Anders Jepsen},
+Title = {Sulfur Dioxide Contributions to the Atmosphere by Volcanoes},
+Journal = {Science},
+Year = {1973},
+Volume = {182},
+Pages = {577-578},
+Abstract = {},
+DOI = {10.1126/science.182.4112.577},
+}
+
+@article{94BaMcSt.SO2,
+Author = {G. E. Ballester and M. A. Mcgrath and D. F. Strobel and Xun Zhu and P. D. Feldman and H. W. Moos},
+Title = {Detection of the SO2 Atmosphere on Io with the Hubble Space Telescope},
+Journal = {Icarus},
+Year = {1994},
+Volume = {111},
+Pages = {2-17},
+Abstract = {},
+DOI = {10.1006/icar.1994.1129},
+}
+
+@article{09UlBeAl.SO2,
+Author = {O. N. Ulenikov and E. S. Bekhtereva and S. Alanko and V.-M. Horneman and O. V. Gromova and C. Leroy},
+Title = {On the high resolution spectroscopy and intramolecular potential function of SO2},
+Journal = JMS,
+Year = {2009},
+Volume = {257},
+Pages = {137-156},
+Abstract = {},
+DOI = {10.1016/j.jms.2009.07.005},
+}
+
+@article{11UlGrBe.SO2,
+Author = {O. N. Ulenikov and O. V. Gromova and E. S. Bekhtereva and I. B. Bolotova and C. Leroy and V.-M. Horneman and S. Alanko},
+Title = {High resolution study of the ν1+2ν2←ν2 and 2ν2+ν3←ν2 “hot” bands and ro-vibrational re-analysis of the ν1+ν2/ν2+ν3/3ν2 polyad of the 32SO2 molecule},
+Journal = JQSRT,
+Year = {2011},
+Volume = {112},
+Pages = {486-512},
+Abstract = {},
+DOI = {10.1016/j.jqsrt.2010.09.013},
+}
+
+@article{12UlGrBe.SO2,
+Author = {O. N. Ulenikov and O. V. Gromova and E. S. Bekhtereva and I. B. Bolotova and I. A. Konov and V.-M. Horneman and C. Leroy},
+Title = {High resolution analysis of the SO2 spectrum in the 2600-View the MathML source region: 2ν3, ν2+2ν3-ν2 and 2ν1+ν2 bands},
+Journal = JQSRT,
+Year = {2012},
+Volume = {113},
+Pages = {500-517},
+Abstract = {},
+DOI = {10.1016/j.jqsrt.2012.01.006},
+}
+
+@article{09UlBeHo.SO2,
+Author = {O. N. Ulenikov and E. S. Bekhtereva and V.-M. Horneman and S. Alanko and and O. V. Gromova},
+Title = {High resolution study of the 3ν1 band of SO2},
+Journal = JMS,
+Year = {2009},
+Volume = {255},
+Pages = {111-121},
+Abstract = {},
+DOI = {10.1016/j.jms.2009.03.009},
+}
+
+@article{10UlBeGr.SO2,
+Author = {O. N. Ulenikov and E. S. Bekhtereva and O. V. Gromova and S. Alanko and V.-M. Horneman and C. Leroy},
+Title = {Analysis of highly excited ‘hot’ bands in the SO2 molecule: ν2 + 3ν3 - ν2 and 2ν1 + ν2 + ν3 - ν2},
+Journal = MP,
+Year = {2010},
+Volume = {108},
+Pages = {1253-1261},
+Abstract = {},
+DOI = {10.1080/00268970903468297},
+}
+
+@article{13UlOnGr.SO2,
+Author = {O. N. Ulenikov and G. A. Onopenko and O. V. Gromova and E. S. Bekhtereva and V.-M. Horneman},
+Title = {Re-analysis of the (100), (001), and (020) rotational structure of SO2 on the basis of high resolution FTIR spectra},
+Journal = JQSRT,
+Year = {2013},
+Volume = {130},
+Pages = {220-232},
+Abstract = {},
+DOI = {10.1016/j.jqsrt.2013.04.011},
+}
+
+@article{93LaPiFl.SO2,
+Author = {W. J. Lafferty and A. S. Pine and J.-M. Flaud and C. Camy-Peyret},
+Title = {The 2ν3 band of 32S16O2: line positions and intensities},
+Journal = JMS,
+Year = {1993},
+Volume = {157},
+Pages = {499-511},
+Abstract = {},
+DOI = {},
+}
+
+@article{92LaFrPi.SO2,
+Author = {W. J. Lafferty and G. T. Fraser and A. S. Pine and J.-M. Flaud and C. Camy-Peyret and V. Dana and J.-Y. Mandin and A. Barbe and J.-J. Plateaux and S. Bouazza},
+Title = {The 3ν3 band of 32S16O2: line positions and intensities},
+Journal = JMS,
+Year = {1992},
+Volume = {154},
+Pages = {51-60},
+Abstract = {},
+DOI = {},
+}
+
+@article{93FlLaxx.SO2,
+Author = {J.-M. Flaud and W. J. Lafferty},
+Title = {32S16O2: a refined analysis of the 3ν3 band and determination of equilibrium rotational constants},
+Journal = JMS,
+Year = {1993},
+Volume = {161},
+Pages = {396-402},
+Abstract = {},
+DOI = {},
+}
+
+@article{96LaPiHi.SO2,
+Author = {W. J. Lafferty and A. S. Pine and G. Hilpert and R .L. Sams and J.-M. Flaud},
+Title = {The ν1+ ν3 and 2ν1+ ν3 band systems of SO2: line positions and intensities},
+Journal = JMS,
+Year = {1996},
+Volume = {176},
+Pages = {280-286},
+Abstract = {},
+DOI = {},
+}
+
+@article{93FlPeSa.SO2,
+Author = {J.-M. Flaud and A. Perrin and L. M. Salah and W. J. Lafferty and G. Guelachvili},
+Title = {A reanalysis of the (010), (020), (100), and (001) rotational levels of 32S16O2},
+Journal = JMS,
+Year = {1993},
+Volume = {160},
+Pages = {272-278},
+Abstract = {},
+DOI = {},
+}
+
+@article{08HeBaBa.SO2,
+Author = {J. Henningsen and A. Barbe and M.-R. {De Backer-Barilly}},
+Title = {Revised molecular parameters for 32SO2 and 34SO2 from high resolution study of the infrared spectrum in the 7-8 μm wavelength region},
+Journal = JQSRT,
+Year = {2008},
+Volume = {109},
+Pages = {2491-2510},
+Abstract = {},
+DOI = {},
+}
+
+
+
+@article{05SpLeRi.SO2,
+Author = {J. R. Spencer and E. Lellouch and M. J. Richter and M. A. L{\'o}pez-Valverde and K. Lea Jessup and T.K. Greathouse and J.-M. Flaud},
+Title = {Mid-infrared detection of large longitudinal asymmetries in Io's SO2 atmosphere},
+Journal = {Icarus},
+Year = {2005},
+Volume = {176},
+Pages = {283-304},
+Abstract = {},
+DOI = {},
+}
+
+@article{14FoHuSc.SO2,
+Author = {Ryan C. Fortenberry and Xinchuan Huang and David W. Schwenke and Timothy J. Lee},
+Title = {Limited rotational and rovibrational line lists computed with highly accurate quartic force fields and ab initio dipole surfaces},
+Journal = {Frontiers in molecular vibrational calculations and computational spectroscopy},
+Year = {2014},
+Volume = {119},
+Pages = {76-83},
+Abstract = {},
+DOI = {10.1016/j.saa.2013.03.092},
+}
+
+@article{98Maxxxx.SO2,
+Author = {Martin, J M L},
+Title = {Basis set convergence study of the atomization energy, geometry, and anharmonic force field of SO2: The importance of inner polarization functions},
+Journal = JCP,
+Year = {1998},
+Volume = {108},
+Pages = {2791-2800},
+Abstract = {The total atomization energies, geometries, and anharmonic force fields of the SO and SO2 molecules have been studied at the augmented coupled cluster [CCSD(T)] level near the one-particle basis set limit. The effect of core correlation has been accounted for. The addition of high-exponent d and f "inner polarization functions" to the sulfur basis set was found to be essential for obtaining reliable molecular geometries. The differential effect of core correlation on computed properties is in fact much less important. The CCSD(T) one-particle basis set limit for the symmetric stretching frequencies appears to be higher than the exact value, while the antisymmetric stretching frequency benefits from an error cancellation. The basis set extension effects of diffuse functions and inner polarization functions appear to be nearly perfectly additive. Our best computed atomization energies and geometries agree to within 0.1 kcal/mol, 0.0004 Angstrom, and 0.03 degrees with experiment: The errors in the fundamentals of SO2 are +3.9, -0.4, and +0.4 cm(-1). The best computed quartic force field for SO2 should provide a good starting point for a new experimental refinement. },
+DOI = {10.1063/1.475670},
+}
+
+@article{82CaMiMu.SO2,
+Author = {S. Cartera and I.M. Millsa and J.N. Murrellb and A.J.C. Varandasc},
+Title = {Analytical potentials for triatomic molecules},
+Journal = MP,
+Year = {1982},
+Volume = {45},
+Pages = {1053-1066},
+Abstract = {},
+DOI = {10.1080/00268978200100801},
+}
+
+@article{91McBuSi.SO2,
+Author = {Anne B. McCoy and Darin C. Burleigh and Edwin L. {Sibert III}},
+Title = {Rotation-vibration interactions in highly excited states of SO2 and H2CO},
+Journal = JCP,
+Year = {1991},
+Volume = {95},
+Pages = {7449},
+Abstract = {},
+DOI = {10.1063/1.461371},
+}
+
+@article{95MaSixx.SO2,
+Author = {Rudolph C. Mayrhofer and Edwin L. {Sibert III}},
+Title = {Investigating optimal coordinates for describing vibrational motion},
+Journal = TCA,
+Year = {1995},
+Volume = {92},
+Pages = {107-122},
+Abstract = {},
+DOI = {},
+}
+@article{90IaOsxx.SO2,
+Author = {F. Iachello and S. Oss},
+Title = {Overtone frequencies and intensities of bent XY2 molecules in the vibron model},
+Journal = JMS,
+Year = {1990},
+Volume = {142},
+Pages = {85-107},
+Abstract = {},
+DOI = {10.1016/0022-2852(90)90293-Y},
+}
+
+@article{97SaYaxx.SO2,
+Author = {Tokuei Sako and Kaoru Yamanouchi},
+Title = {Algebraic approach to vibrationally highly excited states of SO2. Vibrational wavefunctions from spectroscopy},
+Journal = CPL,
+Year = {1997},
+Volume = {264},
+Pages = {403-410},
+Abstract = {},
+DOI = {10.1016/S0009-2614(96)01346-2},
+}
+
+@article{96PaWoxx.SO2,
+Author = {Youngshang Pak and R. Claude Woods},
+Title = {Coupled cluster calculations of the potential energy surfaces and spectroscopic constants of SiF2, PF+ 2, SO2, PO− 2, and ClO+ 2},
+Journal = JCP,
+Year = {1996},
+Volume = {104},
+Pages = {5547},
+Abstract = {},
+DOI = {10.1063/1.471794},
+}
+
+@article{05MiJuxx.theory,
+Author = { Mih{\'a}ly K{\'a}llay and J{\"u}rgen Gauss},
+Title = {Approximate treatment of higher excitations in coupled-cluster theory},
+Journal =JCP,
+Year = {2005},
+Volume = {123},
+Pages = {214105},
+Abstract = {},
+DOI = {10.1063/1.2121589}}
+
+@report{06BeLuGo.SO2,
+Author = {T. Bergin and F. {De. Lucia} and P. Goldsmith and H. Hasan and E. Herbst and G. Melnick and J. Pearson},
+Title = {Report from the workshop on laboratory spectroscopy in support of HERSCHEL, SOFIA, and ALMA},
+Journal = {Pasadena, CA},
+Year = {2006},
+Abstract = {},
+DOI = {},
+}
+
+@article{ 11BlBlSt.SO2,
+Author = {Blackie, D. and Blackwell-Whitehead, R. and Stark, G. and Pickering, J.
+   C. and Smith, P. L. and Rufus, J. and Thorne, A. P.},
+Title = {{High-resolution photoabsorption cross-section measurements of SO2 at 198
+   K from 213 to 325 nm}},
+Journal = JGR,
+Year = {{2011}},
+Volume = {{116}},
+Abstract = {{SO2 plays an important role in the atmospheric chemistry of the Earth,
+   Venus, and Io. This paper presents photoabsorption cross sections of SO2
+   from 213 to 325 nm at 198 K, encompassing the (C) over tilde B-1(2) -
+   (X) over tilde (1)A(1) and (B) over tilde B-1(1) - (X) over tilde
+   (1)A(1) electronic bands. These measurements are part of a series of
+   measurements over the 160 to 300 K temperature range between 190 and 325
+   nm. The cross sections have been measured at high resolution
+   (lambda/Delta lambda approximate to 450,000) using Fourier transform
+   spectrometry and are compared to other high-resolution measurements in
+   the literature.}},
+DOI = {{10.1029/2010JE003707}},
+pages = {E03006},
+note = {{Erratum, {\it ibid} (2011) 116, e12099}}
+}
+
+@article{  09RuStSm.SO2,
+Author = {Rufus, J. and Stark, G. and Thorne, A. P. and Pickering, J. C. and
+   Blackwell-Whitehead, R. J. and Blackie, D. and Smith, Peter L.},
+Title = {{High-resolution photoabsorption cross-section measurements of SO2 at 160
+   K between 199 and 220 nm}},
+Journal = JGR,
+year = {{2009}},
+Volume = {{114}},
+Abstract = {{Photoabsorption cross sections of sulfur dioxide over a range of
+   temperatures are required to interpret observations and to support
+   models of the atmospheres of Io and Venus. We report high-resolution
+   (lambda/Delta lambda approximate to 450,000) photoabsorption
+   cross-section measurements by Fourier transform spectrometry of SO2 at
+   160 K in the wavelength region 199 to 220 nm, which encompasses the
+   strongest features in the prominent (C) over tilde (1) B-2 -(X) over
+   tilde (1)A(1) system. Our results are compared with literature values
+   obtained at lower resolutions and with 295 K cross sections recorded
+   earlier with the same instrument.}},
+DOI = {{10.1029/2008JE003319}},
+pages = {E06003},
+}
+
+@article{ 03RuStSm.SO2,
+Author = {Rufus, J and Stark, G and Smith, P L and Pickering, J C and Thorne, A P},
+Title = {{High-resolution photoabsorption cross section measurements of SO2, 2:
+   220 to 325 nm at 295 K}},
+Journal = JGR,
+Year = {{2003}},
+Volume = {{108}},
+Number = {{E2}},
+Abstract = {{{[}1] High-resolution, ultraviolet SO2 photoabsorption cross section
+   data are required for modeling density and temperature profiles of SO2
+   in solar system atmospheres. We report measurements of such cross
+   sections on SO2 at 295 K for the (B) over tilde B-1(1) - (X) over tilde
+   (1)A(1) and (C) over tilde B-1(2)-(X) over tilde (1)A(1) bands over the
+   wavelength range 220 to 325 nm. Resolving powers of up to 550,000 were
+   employed in order to study the congested spectrum of sharp SO2 features
+   in parts of this region. Our data are compared to earlier values
+   obtained with lower resolving power.}},
+DOI = {{10.1029/2002JE001931}},
+pages = {5011},
+}
+
+@article{ 99StSmRu.SO2,
+Author = {Stark, G and Smith, P L and Rufus, J and Thorne, A P and Pickering, J C and
+   Cox, G},
+Title = {{High-resolution photoabsorption cross-section measurements of SO2 at 295
+   K between 198 and 220 nm}},
+Journal = JGR,
+Year = {{1999}},
+Volume = {{104}},
+Pages = {6585-16590},
+Abstract = {{SO2 is an important constituent of the atmospheres of Io and Venus.
+   Accurate photoabsorption cross-section data at the temperatures of these
+   planetary atmospheres are required for the interpretation of SO2
+   observations and for reliable photochemical models. As part of a planned
+   series of measurements over the 160-300 K range, photoabsorption cross
+   sections of SO2 at 295 K, in the wavelength region 198-220 nm, have been
+   determined from very high resolution (resolving power (lambda/Delta
+   lambda) approximate to 450,000) absorption spectra recorded with a
+   vacuum ultraviolet Fourier transform spectrometer. These new
+   measurements are compared with earlier, lower-resolution (lambda/Delta
+   lambda approximate to 100,000) photoabsorption measurements at 213 K
+   spanning the same wavelength region, with lower-resolution (lambda/Delta
+   lambda approximate to 100,000) measurements at 295 K in a more limited
+   region, and with a recent Doppler-limited laser diode measurement at 295
+   K over a very narrow wavelength region.}},
+DOI = {{10.1029/1999JE001022}},
+}
+
+
+@article{ 15EnDaUe,
+Author = {Endo, Yoshiaki and Danielache, Sebastian O. and Ueno, Yuichiro and
+   Hattori, Shohei and Johnson, Matthew S. and Yoshida, Naohiro and
+   Kjaergaard, Henrik G.},
+Title = {{Photoabsorption cross-section measurements of S-32, S-33, S-34, and S-36
+   sulfur dioxide from 190 to 220 nm}},
+Journal = JGR,
+Year = {{2015}},
+Volume = {{120}},
+Pages = {2546-2557},
+Abstract = {{The ultraviolet absorption cross sections of the SO2 isotopologues are
+   essential to understanding the photochemical fractionation of sulfur
+   isotopes in planetary atmospheres. We present measurements of the
+   absorption cross sections of (SO2)-S-32, (SO2)-S-33, (SO2)-S-34, and
+   (SO2)-S-36, recorded from 190 to 220nm at room temperature with a
+   resolution of 0.1nm (25cm(-1)) made using a dual-beam photospectrometer.
+   The measured absorption cross sections show an apparent pressure
+   dependence and a newly developed analytical model shows that this is
+   caused by underresolved fine structure. The model made possible the
+   calculation of absorption cross sections at the zero-pressure limit that
+   can be used to calculate photolysis rates for atmospheric scenarios. The
+   (SO2)-S-32, (SO2)-S-33, and (SO2)-S-34 cross sections improve upon
+   previously published spectra including fine structure and peak widths.
+   This is the first report of absolute absorption cross sections of the
+   (SO2)-S-36 isotopologue for the (CB2)-B-1-X(1)A(2) band where the
+   amplitude of the vibrational structure is smaller than the other
+   isotopologues throughout the spectrum. Based on the new results, solar
+   UV photodissociation of SO2 produces (34)epsilon, (33), and (36)
+   isotopic fractionations of +4.611.6, +8.89.0, and -8.8 +/- 19.6 parts
+   per thousand, respectively. From these spectra isotopic effects during
+   photolysis in the Archean atmosphere can be calculated and compared to
+   the Archean sedimentary record. Our results suggest that broadband solar
+   UV photolysis is capable of producing the mass-independent fractionation
+   observed in the Archean sedimentary record without involving shielding
+   by specific gaseous compounds in the atmosphere including SO2 itself.
+   The estimated magnitude of (33), for example, is close to the maximum
+   S-33 observed in the geological record.}},
+DOI = {{10.1002/2014JD021671}}
+}
+
+@article{ 13XiHuZh.SO2,
+Author = {Xie, Changjian and Hu, Xixi and Zhou, Linsen and Xie, Daiqian and Guo,
+   Hua},
+Title = {{Ab initio determination of potential energy surfaces for the first two
+   UV absorption bands of SO2}},
+Journal = JCP,
+Year = {{2013}},
+Volume = {{139}},
+Abstract = {{Three-dimensional potential energy surfaces for the two lowest singlet
+   ((A) over tilde B-1(1) and (B) over tilde (1)A(2)) and two lowest
+   triplet ((a) over tilde (3)B1 and (b) over tilde (3)A(2)) states of SO2
+   have been determined at the Davidson corrected internally contracted
+   multi-reference configuration interaction level with the augmented
+   correlationconsistent polarized triple-zeta basis set (icMRCI+ Q/AVTZ).
+   The non-adiabatically coupled singlet states, which are responsible for
+   the complex Clements bands of the B band, are expressed in a 2 x 2
+   quasi-diabatic representation. The triplet state potential energy
+   surfaces, which are responsible for the weak A band, were constructed in
+   the adiabatic representation. The absorption spectrum spanning both the
+   A and B bands, which is calculated with a three-state non-adiabatic
+   coupled Hamiltonian, is in good agreement with experiment, thus
+   validating the potential energy surfaces and their couplings. (C) 2013
+   AIP Publishing LLC.}},
+DOI = {{10.1063/1.4811840}},
+pages = {014305}
+}
+
+@article{ 12DaHaSh.SO2,
+Author = {Danielache, Sebastian O. and Hattori, Shohei and Johnson, Matthew S. and
+   Ueno, Yuichiro and Nanbu, Shinkoh and Yoshida, Naohiro},
+Title = {{Photoabsorption cross-section measurements of S-32, S-33, S-34, and S-36
+   sulfur dioxide for the (BB1)-B-1-X(1)A(1) absorption band}},
+Journal = JGR,
+Year = {{2012}},
+Volume = {{117}},
+Abstract = {{We report measurements of the ultraviolet absorption cross-sections of
+   (SO2)-S-32, (SO2)-S-33, (SO2)-S-34 and (SO2)-S-36 recorded from 250 to
+   320 nm at 293 K with a resolution of 8 cm(-1). This is the first
+   reported measurement of the (SO2)-S-36 cross-section. This work improves
+   earlier measurements of the (SO2)-S-32, (SO2)-S-33 and (SO2)-S-34
+   cross-sections and is in good agreement concerning fine structure and
+   peak widths, with localized differences at the peak maxima when isotope
+   effects are taken into account. SO2 samples were produced in an
+   identical process via combustion of isotopically enriched S-0,
+   eliminating effects due to variation in oxygen isotopic composition.
+   Peak positions for the rare isotopologues are red shifted relative to
+   the (SO2)-S-32 isotopologue. Starting at the origin the shift increases
+   linearly through the band. A linear shift model based on the spectrum of
+   (SO2)-S-32 was used to estimate the cross-sections of (SO2)-S-33,34,36;
+   the average of the wavelength resolved absolute difference between the
+   modeled and experimental spectra is 77.4, 107 and 139 parts per thousand
+   respectively. While the peak-to-valley amplitude of (SO2)-S-36 tends to
+   be smaller than the other isotopologues throughout the spectrum,
+   integrated band intensities for all isotopologues are conserved to
+   within 4\% relative to (SO2)-S-32. The cross-sections were used in a
+   photochemical model to obtain fractionation constants to compare with
+   photochemical chamber experiments. We conclude that planetary
+   atmospheres will exhibit isotopic fractionation from both
+   photoexcitation and photodissociation, and that experiments in the
+   literature have isotopic imprints arising from both the
+   (BB1)-B-1-X(1)A(1) and the (CB1)-B-1-X(1)A(1) bands. Citation:
+   Danielache, S. O., S. Hattori, M. S. Johnson, Y. Ueno, S. Nanbu, and N.
+   Yoshida (2012), Photoabsorption cross-section measurements of S-32,
+   S-33, S-34, and S-36 sulfur dioxide for the (BB1)-B-1-X(1)A(1)
+   absorption band, J. Geophys. Res., 117, D24301, doi:
+   10.1029/2012JD017464.}},
+DOI = {{10.1029/2012JD017464}},
+pages = {D24301}
+}
+
+@article{ 10ToNaxx.SO2,
+Author = {Tokue, Ikuo and Nanbu, Shinkoh},
+Title = {{Theoretical studies of absorption cross sections for the C approximate
+   to B-1(2)-X approximate to (1)A(1) system of sulfur dioxide and isotope
+   effects}},
+Journal = JCP,
+Year = {{2010}},
+Volume = {{132}},
+Abstract = {{The C approximate to B-1(2)-X approximate to (1)A(1) photoexcitation of
+   SO2 was studied to investigate excited-state dynamics and the effects of
+   the initial vibrational state. Ultraviolet photoabsorption cross
+   sections (sigma's) of seven isotopologues (S-32 O-16(2), S-33 O-16(2),
+   S-34 O-16(2), S-36 O-16(2), (SOO)-S-32-O-16-O-17, (SOO)-S-32-O-16-O-18,
+   (SOO)-S-34-O-16-O-18) were computed using the wave packet propagation
+   technique based on the three-dimensional potential energy surfaces of
+   the X approximate to and C approximate to states, which were calculated
+   using the ab initio molecular orbital configuration interaction method.
+   Numerous wave packet simulations were carried out under the adiabatic
+   approximation and used to calculate the sigma's of the seven
+   isotopologues at 298 K; we concluded that the absorption spectrum of SO2
+   can be reliably modeled within the adiabatic framework based on the
+   analysis of the time evolution of the wave packet. The calculated
+   sigma's are in reasonable agreement with the recent experiment in the
+   190-228 nm region, and the isotope shifts of the peaks for S-33 O-16(2)
+   and S-34 O-16(2) relative to the corresponding peaks for S-32 O-16(2)
+   are in good agreement with the observed data. Relative to the sigma of
+   S-32 O-16(2), isotopic substitution shows a significant increment for
+   those of S-34 O-16(2) and S-36 O-16(2) in the 190-228 nm region. This
+   trend is consistent with the observed data.}},
+DOI = {{10.1063/1.3277191}},
+pages = {024301}}
+
+@article{09VaHeFa.SO2,
+Author = {Vandaele, A. C. and Hermans, C. and Fally, S.},
+Title = {{Fourier transform measurements of SO2 absorption cross sections: II.
+   Temperature dependence in the 29 000-44 000 cm(-1) (227-345 nm) region}},
+Journal =JQSRT,
+Year = {{2009}},
+Volume = {{110}},
+Pages = {2115-2126},
+Abstract = {{This paper is the second of a series that reports results on the
+   measurements of the absorption cross section of SO2 in the UV/visible
+   region at high resolution and that investigates high temperatures in
+   support to planetary applications. Absorption cross sections of SO2 have
+   been obtained in the 29000-44000 cm(-1) spectral range (227-345 nm) with
+   a Fourier transform spectrometer at a resolution of 2 cm(-1) (0.4500 cm
+   MCPD and boxcar apodisation). Pure SO2 samples were used and
+   measurements were performed at room temperature (298 K) as well as at
+   318, 338 and 358 K. Temperature effects in this spectral region are
+   investigated and are favorably compared to existing studies in the
+   literature. Comparison of the absorption cross section at room
+   temperature shows good agreement in intensity with most of the
+   literature data, but shows that most of the latter suffer from
+   inaccurate wavelength scale definition. Moreover, literature data are
+   often given only on restricted spectral intervals. Combined with the
+   data described in the first part of this series of papers on SO2, this
+   new data set offers the considerable advantage of covering the large
+   spectral interval extending from 24000 to 44000 cm(-1) (227-420 nm), at
+   the four temperatures investigated. }},
+DOI = {{10.1016/j.jqsrt.2009.05.006}},
+}
+
+@article{09HeVaFa.SO2,
+Author = {Hermans, C. and Vandaele, A. C. and Fally, S.},
+Title = {{Fourier transform measurements of SO2 absorption cross sections: I.
+   Temperature dependence in the 24 000-29 000 cm(-1) (345-420 nm) region}},
+Journal = JQSRT,
+Year = {{2009}},
+Volume = {{110}},
+Pages = {756-765},
+Abstract = {{Absorption cross sections of SO2 have been obtained in the 24 000-29 000
+   cm(-1) spectral range (345-420 nm) with a Fourier transform spectrometer
+   at a resolution of 2 cm(-1). Pure SO2 samples were used and measurements
+   were performed at room temperature (298 K) as well as at 318, 338 and
+   358 K. This is the first time that temperature effects in this spectral
+   region are reported and investigated. This paper is the first of a
+   series that will report on measurements of the absorption cross section
+   of SO2 in the UV/visible region at a higher than previously reported
+   resolution and that will investigate temperature effects in support of
+   tropospheric, stratospheric and astrophysical or planetary applications.}},
+DOI = {{10.1016/j.jqsrt.2009.01.031}},
+}
+
+@article{08DaEsJo.SO2,
+Author = {Danielache, Sebastian O. and Eskebjerg, Carsten and Johnson, Matthew S.
+   and Ueno, Yuichiro and Yoshida, Naohiro},
+Title = {{High-precision spectroscopy of S-32, S-33, and S-34 sulfur dioxide:
+   Ultraviolet absorption cross sections and isotope effects}},
+Journal = JGR,
+Year = {{2008}},
+Volume = {{113}},
+Abstract = {{We report measurements of the ultraviolet absorption cross sections of
+   (SO2)-S-32, (SO2)-S-33, and (SO2)-S-34, recorded from 30,300 to 52,500
+   cm(-1) ( 330 to 190 nm) at 293 K with a resolution of 25 cm(-1). The
+   (SO2)-S-33 sample was produced by the combustion of isotopically
+   enriched S-33 while the (SO2)-S-34 and natural abundance samples were
+   obtained from commercial manufacturers. The spectrum of the natural
+   abundance sample is in agreement with previously published spectra. The
+   spectra of the isotopically pure species were retrieved using the
+   isotopic composition of the samples. The (SO2)-S-32, (SO2)-S-33, and
+   (SO2)-S-34 absorption spectra show rich vibrational structure, and the
+   positions and widths of the peaks change with isotopic substitution in a
+   complex fashion. The results imply that large wavelength-dependent and
+   broadband isotopic fractionations are associated with the UV photolysis
+   of SO2.}},
+DOI = {{10.1029/2007JD009695}},
+pages = {D17314},
+}
+
+@article{07RaXiGu.SO2,
+Author = {Ran, Hong and Xie, Daiqian and Guo, Hua},
+Title = {{Theoretical studies of (CB2)-B-1 absorption spectra of SO2 isotoporners}},
+Journal = CPL,
+Year = {{2007}},
+Volume = {{439}},
+Pages = {280-283},
+Abstract = {{We investigate the isotopic variation of the (C) over tilde -state
+   absorption spectrum of sulfur dioxide (SO2). Low-lying vibrational
+   energy levels of four isotopomers were obtained using the Lanczos method
+   on a recent ab initio potential energy surface of the (C) over tilde
+   -state of SO2. The corresponding absorption spectra up to 185 nm were
+   determined using a Chebyshev method with ab initio transition dipole
+   functions. Implications for the recently observed mass-independent
+   isotope effects are discussed.}},
+DOI = {{10.1016/j.cplett.2007.03.103}},
+}
+
+@article{ 06LiSuWe.SO2,
+Author = {Li Anyang and Suo Bing and Wen Zhenyi and Wang Yubin},
+Title = {{Potential energy surfaces for low-lying electronic states of SO2}},
+Journal = {Sci. China B Chem.},
+Year = {{2006}},
+Volume = {{49}},
+Pages = {289-295},
+Abstract = {{The potential energy surfaces for the nine low-lying electronic states
+   of SO2 have been constructed by using the multi-reference second order
+   perturbation theory (MRPT2) with the basis set cc-pVTZ. The optimized
+   geometries and the adiabatic excitation energies of these states are in
+   good agreement with experiments and previous calculations. The crossings
+   and avoided crossings displayed in the potential energy surfaces are
+   expounded.}},
+DOI = {{10.1007/s11426-006-0289-5}},
+}
+
+@article{ 01HuChMe.SO2,
+Author = {Huang, C L and Chen, I C and Merer, A J and Ni, C K and Kung, A H},
+Title = {{Spectra of jet-cooled (SO2)-S-32 and (SO2)-S-34 in systems
+   (a)over-tilde(3)B(1) and (b)over-tilde(3)A(2)-(X)over-tilde(1)A(1):
+   Rotational structure of perturbed (b)over-tilde(3)A(2)}},
+Journal = JCP,
+Year = {{2001}},
+Volume = {{114}},
+Pages = {1187-1193},
+Abstract = {{Spectra of (a) over tilde B-3(1)(nu (1)nu (2)nu (3))=(110) and (200)-(X)
+   over tilde (1)A(1)(000) of (SO2)-S-32 and (SO2)-S-34 are obtained in a
+   supersonic jet at a resolution 0.015 cm(-1). The rotational structures
+   are analyzed for both isotopic species to obtain precise rotational and
+   spin constants. Two new bands at 27 032.222(1) and 27 515.41(1) cm-1
+   arising from vibronic interaction separately with vibrational state
+   (110) and (200) of (a) over tilde B-3(1) are assigned to transitions to
+   (b) over tilde (3)A(2)(011) and (101). The rotational structure of (b)
+   over tilde (3)A(2) is observed and analyzed for the first time. The two
+   vibrational states are analyzed to yield effective rotational constants
+   A=1.4348(3), 1.89(3), B=0.3610(3), 0.412(3), and C=0.2689(3), 0.239(3)
+   cm(-1), respectively. Then the difference nu (1)-nu (2) of vibrational
+   frequency of (b) over tilde (3)A(2) is obtained to be 483.19 cm(-1).
+   Because of interaction to (b) over tilde (3)A(2)(011) the observed
+   spacing of K stack and spin constants alpha and beta for (a) over tilde
+   B-3(1)(110) are smaller whereas the state (a) over tilde B-3(1)(200) is
+   relatively unaffected and only spin constants vary significantly. }},
+DOI = {{10.1063/1.1333019}},
+}
+
+@article{ 00BlNaHr.SO2,
+Author = {Bludsky, O and Nachtigall, P and Hrusak, J and Jensen, P},
+Title = {{The calculation of the vibrational states of SO2 in the
+   (C)over-tilde(1)B(2) electronic state up to the SO((3)Sigma(-))+O(P-3)
+   dissociation limit}},
+Journal =CPL,
+Year = {{2000}},
+Volume = {{318}},
+Pages = {607-613},
+Abstract = {{In a previous paper {[}P. Nachtigall, J. Hrusak, O. Bludsky, S. Iwata,
+   Chem. Phys. Lett 303 (1999) 441], we reported an investigation of the
+   stationary points along the dissociation path of (C) over tilde B-2 SO2,
+   carried out with high-level ab initio methods. Here we calculate the
+   vibrational energy levels up to the SO((3)Sigma(-)) + O(P-3)
+   dissociation limit using a scaled ab initio potential energy surface.
+   The scaled potential energy surface is of near-spectroscopic accuracy
+   below the dissociation limit and has a realistic behaviour along the
+   dissociation path. (C) 2000 Elsevier Science B.V. All rights reserved.}},
+DOI = {{10.1016/S0009-2614(00)00015-4}},
+}
+
+@article{99XiMaGu.SO2,
+Author = {Xie, D Q and Ma, G B and Guo, H},
+Title = {{Quantum calculations of highly excited vibrational spectrum of sulfur
+   dioxide. III. Emission spectra from the (C)over-tilde(1) B-2 state}},
+Journal = JCP,
+Year = {{1999}},
+Volume = {{111}},
+Pages = {7782-7788},
+Abstract = {{We report quantum mechanical calculations of the (X) over tilde <--(C)
+   over tilde emission spectra of SO2 at the red wing of the (C) over tilde
+   absorption band. The near equilibrium potential energy surface of the
+   (C) over tilde B-1(2) state is deduced by fitting experimental
+   vibrational frequencies using an exact quantum mechanical Hamiltonian.
+   Low-lying vibrational eigenenergies on this double minimum potential
+   agree well with experimental frequencies and the corresponding
+   eigenstates show some interesting features. Both spectral positions and
+   intensities of the (X) over tilde <--(C) over tilde transitions are
+   obtained up to 16 000 cm(-1) using a Chebyshev based spectral method,
+   which does not explicitly construct vibrational eigenfunctions in the
+   (X) over tilde state. The emission spectra are in reasonably good
+   agreement with experimental measurements.}},
+DOI = {{10.1063/1.480113}},
+}
+
+@article{ 99NaHrBl.SO2,
+Author = {Nachtigall, P and Hrusak, J and Bludsky, O and Iwata, S},
+Title = {{Investigation of the potential energy surfaces for the ground
+   (X)over-tilde(1)A(1) and excited (C)over-tilde(1)B(2) electronic states
+   of SO2}},
+Journal = CPL,
+Year = {{1999}},
+Volume = {{303}},
+Pages = {441-446},
+Abstract = {{The stationary points along the dissociation path are investigated by
+   means of high-level ab initio methods and the reliability of different
+   methods is discussed. The multi-reference AQCC method using the ANO-type
+   basis set is shown to give geometrical parameters and relative energies
+   in very good agreement with experiment. At this level of theory, the (C)
+   over tilde B-1(2)((1)A') state has an asymmetrical equilibrium geometry
+   and double-minimum potential with a barrier of 170 cm(-1), in
+   good-agreement with experimental data.}},
+DOI = {{10.1016/S0009-2614(99)00240-7}},
+}
+
+@article{ 96Joensx.SO2,
+Author = {Joens, J A},
+Title = {{Alternative assignments for the vibrational structure of the
+   B-3(1)-X(1)A(1) band system of SO2}},
+Journal = CPL,
+Year = {{1996}},
+Volume = {{261}},
+Pages = {659-664},
+Abstract = {{Two assignments for the B-3(1)-X(1)A(1) band system of SO2 are
+   presented. Vibrational constants for the triplet state are calculated
+   for both assignments. It is shown that both assignments are consistent
+   with existing experimental information on band locations, band
+   intensities, and isotopic shift data. Possible experimental methods to
+   distinguish between the two assignments are briefly discussed.}},
+DOI = {{10.1016/0009-2614(96)01031-7}},
+}
+
+@article{ 95BaAlHa.SO2,
+Author = {Baskin, J S and Aladel, F and Hamdan, A},
+Title = {{UNEXPECTEDLY RICH VIBRONIC STRUCTURE IN SUPERSONIC JET SPECTRA OF
+   SULFUR-DIOXIDE BETWEEN 360 AND 308 NM}},
+Journal = CP,
+Year = {{1995}},
+Volume = {{200}},
+Pages = {181-199},
+Abstract = {{An extensive vibrational resolution study of SO, between 27780 and 32500
+   cm(-1), spanning absorption to the B-3(1), (1)A(2), and B-1(1),
+   electronic states, has been carried out via fluorescence excitation in a
+   molecular beam, achieving substantial improvements in sensitivity and
+   rotational cooling over previous studies. Characterization of the
+   dependence of transition intensities on molecular beam conditions has
+   been used to identify and separate the contributions of cold and hot
+   transitions in the spectra. Vibrational-mode-selective,
+   carrier-gas-dependent cooling is observed and is instrumental in the
+   identification of a group of vibrational levels exhibiting novel
+   Franck-Condon patterns and little or no cold absorption. At least 135
+   vibronic levels are identified in the energy range studied, adding 71 to
+   the previous total reported from our own and other laboratories, Eight
+   levels below 29000 cm(-1) are assigned to the B-3(1) electronic state,
+   supported by a set of anharmonic constants to approximate the observed
+   vibrational structure. In the higher energy region, the accepted
+   two-singlet-electronic-state model is compared to the experimental
+   results and shown to be inadequate to account for the large number of
+   observed levels.}},
+DOI = {{10.1016/0301-0104(95)00235-G}},
+}
+
+@article{79Barker.SO2,
+Author = {Barker, E S},
+Title = {{DETECTION OF SO2 IN THE UV SPECTRUM OF VENUS}},
+Journal = JGR,
+Year = {{1979}},
+Volume = {{6}},
+Pages = {117-120},
+DOI = {{10.1029/GL006i002p00117}},
+}
+
+@article{15KuPoxa.SO2,
+title = "Rovibrational bound states of \{SO2\} isotopologues. I: Total angular momentum J = 0-10 ",
+journal = CP,
+volume = "450-451",
+pages = "59 - 73",
+year = "2015",
+doi = "http://dx.doi.org/10.1016/j.chemphys.2015.02.007",
+author = "Praveen Kumar and Joseph Ellis and Bill Poirier",
+keywords = "Rovibrational spectroscopy",
+keywords = "Sulfur dioxide isotopologues",
+keywords = "Quantum dynamics ",
+abstract = "Abstract Isotopic variation of the rovibrational bound states of \{SO2\} for the four stable sulfur isotopes 32-34,36S is investigated in comprehensive detail. In a two-part series, we compute the low-lying energy levels for all values of total angular momentum in the range J = 0-20. All rovibrational levels are computed, to an extremely high level of numerical convergence. The calculations have been carried out using the ScalIT suite of parallel codes. The present study (Paper I) examines the J = 0-10 rovibrational levels, providing unambiguous symmetry and rovibrational label assignments for each computed state. The calculated vibrational energy levels exhibit very good agreement with previously reported experimental and theoretical data. Rovibrational energy levels, calculated without any Coriolis approximations, are reported here for the first time. Among other potential ramifications, this data will facilitate understanding of the origin of mass-independent fractionation of sulfur isotopes in the Archean rock record—of great relevance for understanding the “oxygen revolution”. "
+}
+
+@article{15KuPoxb.SO2,
+title = "Rovibrational bound states of \{SO2\} isotopologues. II: Total angular momentum J = 11-20 ",
+journal = CP,
+volume = "461",
+pages = "34 - 46",
+year = "2015",
+doi = "http://dx.doi.org/10.1016/j.chemphys.2015.08.025",
+author = "Praveen Kumar and Bill Poirier",
+keywords = "Rovibrational spectroscopy",
+keywords = "Sulfur dioxide isotopologues",
+keywords = "Mass-independent fractionation",
+keywords = "Self-shielding ",
+abstract = "Abstract In a two-part series, the rovibrational bound states of \{SO2\} are investigated in comprehensive detail, for all four stable sulfur isotopes 32-34,36S. All low-lying rovibrational energy levels—both permutation-symmetry-allowed and not allowed—are computed, for all values of total angular momentum in the range J = 0-20. The calculations have carried out using the ScalIT suite of parallel codes. The present study (Paper II) examines the J = 11-20 rovibrational levels, providing symmetry and rovibrational labels for every computed state, relying on a new lambda-doublet splitting technique to make completely unambiguous assignments. Isotope shifts are analyzed, as is the validity of “J-shifting” as a predictor of rotational fine structure. Among other ramifications, this work will facilitate understanding of mass-independent fractionation of sulfur isotopes (S-MIF) observed in the Archean rock record—particularly as this may have arisen from self shielding. S-MIF, in turn is highly relevant in the broader context of understanding the “oxygen revolution”. "
+}
+
+@article{85KuDexx.SO2,
+Author = {R. Kullmer and W. Demtr{\"o}der},
+Title = {Vibronic coupling in SO2, and its influence on the rotational structure of the bands in the 300—330 nm region},
+Journal = CP,
+Year = {1985},
+Volume = {92},
+Pages = {423-433},
+Abstract = {},
+DOI = {10.1016/0301-0104(85)85036-9},
+}
+
+@article{73BrNaxx.SO2,
+Author = {J .C. D. Brand and R. Nanes},
+Title = {The 3000-3400 Å absorption of sulfur dioxide},
+Journal = JMS,
+Year = {1973},
+Volume = {46},
+Pages = {194-199},
+Abstract = {},
+DOI = {10.1016/0022-2852(73)90034-9},
+}
+
+@article{75HaMexx.SO2,
+Author = {Y. Hamada and A. J. Merer },
+Title = {Rotational Structure in the Absorption Spectrum of SO2 between 3000 Å and 3300 Å},
+Journal = {Canadian Journal of Physics},
+Year = {1975},
+Volume = {53},
+Pages = {2555-2576},
+Abstract = {},
+DOI = {10.1139/p75-312},
+}
+
+@article{08CaKrAr.SO2,
+Author = {S.A. Carna and A.J. Kruegera and S. Arellanob and N.A. Krotkovc and K. Yang},
+Title = {Daily monitoring of Ecuadorian volcanic degassing from space},
+Journal = {Journal of Volcanology and Geothermal Research},
+Year = {2008},
+Volume = {176},
+Pages = {141-150},
+Abstract = {},
+DOI = {10.1016/j.jvolgeores.2008.01.029},
+}
+
+@article{83Krxxxx.SO2,
+Author = {ARLIN J. KRUEGER},
+Title = {Sighting of El Chichón Sulfur Dioxide Clouds with the Nimbus 7 Total Ozone Mapping Spectrometer},
+Journal = {Science},
+Year = {1983},
+Volume = {220},
+Pages = {1377-1379},
+Abstract = {},
+DOI = {10.1126/science.220.4604.1377},
+}
+
+@article{95KrWaBh.SO2,
+Author = {A. J. Krueger and L. S. Walter and P. K. Bhartia and C. C. Schnetzler and N. A. Krotkov  and I. Sprod and G. J. S. Bluth},
+Title = {Volcanic sulfur dioxide measurements from the total ozone mapping spectrometer instruments},
+Journal = {Journal of Geophysical Research: Atmospheres},
+Year = {1995},
+Volume = {100},
+Pages = {14057-14076},
+Abstract = {},
+DOI = {10.1029/95JD01222},
+}
+
+@article{98EiBuxx.SO2,
+Author = {Michael Eisinger and John P. Burrows},
+Title = {Tropospheric sulfur dioxide observed by the ERS-2 GOME instrument},
+Journal = {Geophysical Research Letters},
+Year = {1998},
+Volume = {25},
+Pages = {4177-4180},
+Abstract = {},
+DOI = {10.1029/1998GL900128},
+}
+
+@article{13LeKoTa.SO2,
+Author = {Camille Lévêque and Adrian Komainda and Richard Taïeb and Horst Köppel},
+Title = {Ab initio quantum study of the photodynamics and absorption spectrum for the coupled 11 A 2 and 11 B 1 states of SO2},
+Journal = {J. Chem. Phys.},
+Year = {2013},
+Volume = {138},
+Pages = {},
+Abstract = {},
+DOI = {},
+}
+
+@article{10PiRiPa.SO2,
+Author = {G. L. Pilbratt and J. R. Riedinger and T. Passvogel and G. Crone and D. Doyle and U. Gageur and A. M. Heras and C. Jewell and L. Metcalfe and S. Ott and  M. Schmidt},
+Title = {Herschel Space Observatory: An ESA facility for far-infrared and submillimetre astronomy},
+Journal = {A\&A},
+Year = {2010},
+Volume = {518},
+Pages = {L1},
+Abstract = {},
+DOI = {10.1051/0004-6361/201014759 },
+}
+
+@article{04WeRoLo.SO2,
+Author = {M. W. Werner and T. L. Roellig and F. J. Low and G. H. Rieke and M. Rieke and W. F. Hoffmann and E. Young and J. R. Houck and B. Brandl and G. G. Fazio},
+Title = {The Spitzer Space Telescope Mission},
+Journal = {The American Astronomical Society},
+Year = {2004},
+Volume = {154},
+Pages = {1-9},
+Abstract = {},
+DOI = {},
+}
+
+@article{12YoBeMa.SO2,
+Author = {E. T. Young and E. E. Becklin and P. M. Marcum and T. L. Roellig and J. M. De Buizer and T. L. Herter and R. G{\"u}sten and E. W. Dunham and P. Temi and B.G. Andersson},
+Title = {EARLY SCIENCE WITH SOFIA, THE STRATOSPHERIC OBSERVATORY FOR INFRARED ASTRONOMY},
+Journal = {The American Astronomical Society},
+Year = {2012},
+Volume = {749},
+Pages = {},
+Abstract = {},
+DOI = {},
+}
+
+article{96BaDuGo.SO2,
+Author = {C.D. Ball and J.M. Dutta and T.M. Goyette and P. Helminger and F.C.D. Lucia},
+Title = {The pressure broadening of SO2 by N2, O2, He, and H2 between 90 and 500 K},
+Journal = {J Quantit Spectrosc Radiat Transf},
+Year = {1996},
+Volume = {56},
+Pages = {109-117},
+Abstract = {},
+DOI = {},
+}
+
+@article{12CaPuxx.SO2,
+Author = {G. Cazzoli and C. Puzzarini},
+Title = {N2-, O2-, H2-, and He-broadening of SO2 rotational lines in the mm-/submm-wave and THz frequency regions: The J and Ka dependence},
+Journal = {J Quantit Spectrosc Radiat Transf,},
+Year = {2012},
+Volume = {113},
+Pages = {1051-1057},
+Abstract = {},
+DOI = {},
+}
+
+@article{63Krxxxx.SO2,
+Author = {Krishnaji, Chandra S.},
+Title = {Molecular interaction and linewidth of the asymmetric molecule SO2. II. SO2-CO2 Collisions.},
+Journal = {J Chem Phys},
+Year = {1963},
+Volume = {38},
+Pages = {1019-21},
+Abstract = {},
+DOI = {},
+}
+
+@article{95LaPoSu.SO2,
+Author = {Lazarev VV and Ponomarev YN and Sumpf B and Fleischmann O and Waschull J and Kronfeldt HD and et al.},
+Title = {Noble gas pressure-induced broadening and shift of H2O and SO2 absorption lines},
+Journal = {J Mol Spectrosc},
+Year = {1995},
+Volume = {173},
+Pages = {177-93},
+Abstract = {},
+DOI = {}}
+
+@article{95SuFlWa.SO2,
+Author = {Sumpf B and Fleischmann O and Waschull J and Heiner Y and Kronfeldt H-D},
+Title = {Noble gas pressure broadening in the ν1 and ν3 band of SO2 studied with IR tunable diode laser spectroscopy},
+Journal = {Infrared Phys Technol},
+Year = {1995},
+Volume = {36},
+Pages = {439-45},
+Abstract = {},
+DOI = {},
+}
+
+@article{97SuScFl.SO2,
+Author = {B. Sumpf and M. Schöne and O. Fleischmann and Y. Heiner and H.-D. Kronfeldt},
+Title = {Quantum number and temperature dependence of foreign gas-broadening coefficients in the ν1 and ν3 bands of SO2 collisions with H2, air, He, Ne, Ar, Kr, and Xe},
+Journal = {J Mol Spectrosc},
+Year = {1997},
+Volume = {183},
+Pages = {61-71},
+Abstract = {},
+DOI = {},
+}
+
+@article{14TaChSt.SO2,
+Author = {N. Tasinato and A.P. Charmet and P. Stoppa and S. Giorgianni and G. Buffa},
+Title = {N2-, O2- and He-collision-induced broadening of sulfur dioxide ro-vibrational lines in the 9.2 μm atmospheric window},
+Journal = {Spectrochim Acta Part A - Mol Biomol Spectrosc},
+Year = {2014},
+Volume = {118},
+Pages = {373-379},
+Abstract = {},
+DOI = {},
+}
+
+@article{10TaPiPa.SO2,
+Author = { Nicola Tasinato and Andrea Pietropolli Charmet and Paolo Stoppa and Santi Giorgianni and Giovanni Buffa},
+Title = {Spectroscopic measurements of SO2 line parameters in the 9.2μm atmospheric region and theoretical determination of self-broadening coefficients},
+Journal = {J. Chem. Phys.},
+Year = {2010},
+Volume = {132},
+Pages = {}}
+@article{00Suxxxx.SO2,
+Author = {Bernd Sumpf},
+Title = {Line intensity and self-broadening investigations in the nu1 and nu3 bands of SO2},
+Journal = {Journal of Molecular Structure},
+Year = {2000},
+Volume = {599},
+Pages = {39-49},
+Abstract = {},
+DOI = {},
+}
+
+@article{99Suxxxx.SO2,
+Author = {Bernd Sumpf},
+Title = {Line intensity and self-broadening investigations in the 19 micrometer nu2 band  of  SO2},
+Journal = {Spectrochimica Acta Part A },
+Year = {1999},
+Volume = {55},
+Pages = {931 - 1939},
+Abstract = {},
+DOI = {},
+}
+
+@article{97Suxxxx.SO2,
+Author = {Bernd Sumpf},
+Title = {Experimental Investigation of the Self-Broadening Coefficients
+in the nu1 + nu3 Band of SO2 and the 2nu2 Band of H2S},
+Journal = {J Mol Spectrosc},
+Year = {1997},
+Volume = {181},
+Pages = {160-167},
+Abstract = {},
+DOI = {},
+}
+
+@article{96SuScKr.SO2,
+Author = {Bernd Sumpf and M. Schone and H.-D. Kronfeldt},
+Title = {Self- and Air-Broadening in the nu3 Band of SO2},
+Journal = {J Mol Spectrosc},
+Year = {1996},
+Volume = {179},
+Pages = {137-141},
+Abstract = {},
+DOI = {},
+}
+
+@article{96SuFlKr.SO2,
+Author = {B. Sumpf and O. Fleischmann and H.-D. Kronfeldt},
+Title = {Self-, Air-, and Nitrogen-Broadening in the ν1 Band of SO2},
+Journal = {J Mol Spectrosc},
+Year = {1996},
+Volume = {176},
+Pages = {127-132},
+Abstract = {},
+DOI = {},
+}
+
+@article{15WiGoKo.SO2,
+Author = {Jonas S. Wilzewski and Iouli E. Gordon and Roman V. Kochanova and Christian Hill and Laurence S. Rothman},
+Title = {H2, He, and CO2 line-broadening coefficients, pressure shifts and temperature-dependence exponents for the HITRAN database. Part 1: SO2, NH3, HF, HCl, OCS and C2H2},
+Journal = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+Year = {2015},
+Volume = {168},
+Pages = {193-206},
+Abstract = {},
+DOI = {},
+}
+
+@article{08BrMuMe.SO2,
+Author = {S. Brünken and H. S. P. M{\"u}ller and K. M. Menten and M. C. McCarthy and P. Thaddeus},
+Title = {The Rotational Spectrum of TiO2},
+Journal = {The American Astronomical Society},
+Year = {2008},
+Volume = {676},
+Pages = {},
+Abstract = {},
+DOI = {},
+}
+
+@article{90ShHuxx.SO2,
+Author = {Sharp, C. M. and Huebner, W. F.},
+Title = {Molecular equilibrium with condensation},
+Journal = {Astrophysical Journal Supplement Series},
+Year = {1990},
+Volume = {72},
+Pages = {417-431},
+Abstract = {},
+DOI = {},
+}
+
+@article{52NiWoxx.SO2,
+Author = {Alvin H. Nielsen and P. J. H. Woltz},
+Title = {The Infrared Spectrum of Chlorine Dioxide},
+Journal = JCP,
+Year = {1952},
+Volume = {20},
+Pages = {},
+Abstract = {},
+DOI = {},
+}
+
+@article{93OrEsBu.SO2,
+Author = {J. Ortigoso and R. Escribano and J. B. Burkholder and W. J. Lafferty},
+Title = {Infrared Spectrum of OClO in the 2000 cm−1 Region: The 2nu1 and nu1 + nu3 Bands},
+Journal = JMS,
+Year = {1993},
+Volume = {158},
+Pages = {347-356},
+Abstract = {},
+DOI = {},
+}
+
+@article{13AdEdZi.SO2,
+Author = { G. R. Adande and J. L. Edwards and L. M. Ziurys},
+Title = {SULFUR CHEMISTRY IN THE ENVELOPE OF VY CANIS MAJORIS: DETAILED ANALYSIS OF SO AND SO2 EMISSION},
+Journal =ApJ,
+Year = {2013},
+Volume = {778},
+Pages = {22},
+Abstract = {{Detailed radiative transfer modeling has been carried out for SO2 and SO originating in the envelope of the O-rich supergiant star VY Canis Majoris (VY CMa). A total of 27 transitions of SO2 and 7 transitions of SO lying in the energy range 3.0-138.2 cm–1 were analyzed using a new non-LTE radiative transfer code that incorporates non-spherical geometries. The spectra were primarily obtained from the Arizona Radio Observatory (ARO) 1 mm spectral survey of VY CMa, conducted with the Submillimeter Telescope; additional lines were measured with the ARO 12 m antenna at 2 and 3 mm. SO2 and SO were found to arise from five distinct outflows within the envelope, four which are asymmetric with respect to the star. Three flows arise from high-velocity red-shifted material, one from a blue-shifted wind, and the final from a classic "spherical" expansion. In the spherical component, the peak fractional abundance, relative to H2, of both molecules is f ~ 2.5 × 10–7 at r ~ 25 R *, and steadily decreases outward. SO2 appears to be a "parent" molecule, formed near the stellar photosphere. In the asymmetric outflows, both SO and SO2 are more prominent at large stellar radii in dense (106-107 cm–3), clumpy material, achieving their maximum abundance between 200 and 600 R * with f ~ 3.0 × 10–8-1.5 × 10–7. These results suggest that in the collimated outflows, both species are either produced by shock chemistry or are remnant inner shell material swept up in the high-velocity winds.}},
+DOI = {10.1088/0004-637X/778/1/22},
+}
+
+@article{10KaHeSa.SO2,
+Author = {L. Kaltenegger and W. G. Henning and D. D. Sasselov},
+Title = {DETECTING VOLCANISM ON EXTRASOLAR PLANETS},
+Journal = AJ,
+Year = {2010},
+Volume = {140},
+Pages = {},
+Abstract = {},
+DOI = {},
+}
+
+@article{12BeMoBe.SO2,
+Author = {Denis A. Belyaev and Franck Montmessin and Jean-Loup Bertaux and Arnaud Mahieux and Anna A. Fedorova and Oleg I. Korablev and Emmanuel Marcq and Yuk L. Yung and Xi Zhang},
+Title = {Vertical profiling of SO2 and SO above Venus’ clouds by SPICAV/SOIR solar occultations},
+Journal = {Icarus},
+Year = {2012},
+Volume = {217},
+Pages = {740-751},
+Abstract = {},
+DOI = {},
+}
+
+@article{08BeKoFe.SO2,
+Title = {First observations of SO2 above Venus’ clouds by means of Solar Occultation in the Infrared},
+Author = {D. Belyaev and O. Korablev and A. Fedorova and J.-L. Bertaux and A.-C. Vandaele and F. Montmessin and A. Mahieux and V. Wilquet and R. Drummond},
+Journal = JGR,
+Year = {2008},
+Volume = {113},
+Pages = {},
+Abstract = {},
+DOI = {10.1029/2008JE003143},
+}
+
+@article{14ArMeCr.SO2,
+Author = {Giada Arney and Victoria Meadows and David Crisp and Sarah J. Schmidt and Jeremy Bailey and Tyler Robinson},
+Title = {Spatially resolved measurements of H2O, HCl, CO, OCS, SO2, cloud opacity, and acid concentration in the Venus near-infrared spectral windows},
+Journal = JGR,
+Year = {2014},
+Volume = {119},
+Pages = {1860-1891},
+Abstract = {},
+DOI = {},
+}
+
+@article{FaPeCo.so2,
+Author = {Alexander Fateev},
+Title = {Personal communication},
+Journal = {},
+Year = {2015},
+Volume = {},
+Pages = {},
+Abstract = {},
+DOI = {},
+}
+
+@article{84Moorex.SO2,
+Author = {Marla H. Moore},
+Title = {Studies of proton-irradiated SO2 at low temperatures: Implications for Io},
+Journal = {Icarus},
+Year = {1984},
+Volume = {59},
+Pages = {114-128},
+Abstract = {},
+DOI = {10.1016/0019-1035(84)90059-9},
+}
+
+@incollection{09Lyonsx.SO2,
+title = "Photolysis of Long-Lived Predissociative Molecules as a Source of Mass-Independent Isotope Fractionation: The Example of \{SO2\} ",
+editor = "Michael E. Goodsite and Matthew S. Johnson",
+booktitle = "Applications of Theoretical Methods to Atmospheric Science",
+publisher = "Academic Press",
+year = "2008",
+volume = "55",
+pages = "57 - 74",
+series = "Adv. Quantum Chem.",
+doi = "http://dx.doi.org/10.1016/S0065-3276(07)00205-5",
+author = "James R. Lyons",
+abstract = "Abstract Laboratory experiments have demonstrated that a mass-independent fractionation (MIF) signature is present in elemental sulfur produced during \{SO2\} photolysis, but the underlying mechanism remains unknown. I report here the results of chemical kinetics modeling of self-shielding during photodissociation of \{SO2\} in the C ˜ 1 B 2 − X ˜ 1 A 1 bands from 190 to 220 nm. This band system is dominated by a bending mode progression that produces shifts in the absorption spectrum upon sulfur isotope substitution. Self-shielding in the rotationally-resolved lines of 32SO2 produces \{MIF\} signatures in \{SO\} and residual SO2. Using approximate synthetic spectra for the sulfur isotopologues of SO2, I show that \{SO2\} photolysis yields a sulfur \{MIF\} signature that can account for much of the laboratory \{MIF\} measured, and is in qualitative agreement with Δ 33 S and Δ 36 S values observed in Archean rocks. "
+}
+
+@article{15LeTaKo.SO2,
+Author = {Leveque, Camille and Taieb, Richard and Koeppel, Horst},
+Title = {{Theoretical assignment of the Clements bands of SO2}},
+Journal =CP,
+Year = {{2015}},
+Volume = {{460}},
+Pages = {135-143},
+Abstract = {{The photoabsorption spectrum of SO2 is theoretically investigated in the
+   energy range 3.56-4.05 eV (28713-32665 cm(-1)). The lowest vibronic
+   levels of the coupled excited electronic states (1(1)A(2)/1(1)B(1)) have
+   been computed using Lanczos diagonalization of the Hamiltonian. The
+   potential energy surfaces and the diabatization scheme used here were
+   already successfully applied to describe the non-adiabatic dynamics of
+   the molecule (Leveque et al., 2013). The important vibronic states,
+   playing a role in the experimental spectrum, have been analyzed
+   according to their nodal pattern to propose the first theoretical
+   assignment of the low-energy part of the spectrum. The Clements bands
+   A-D have been assigned and exhibit contributions from numerous
+   transitions, in the low resolution spectrum. The overlap of these
+   transitions is shown to provide an ``accidental{''} regularity of the
+   Clements bands with respect to their intensities, while their regular
+   energy spacing (similar to 220 cm(-1)) results from a unique series
+   (4,n(2),1).}},
+DOI = {{10.1016/j.chemphys.2015.07.033}}}
+
+
+@article{13FrDaFa.SO2 ,
+Author = {Franz, Heather B. and Danielache, Sebastian O. and Farquhar, James and
+   Wing, Boswell A.},
+Title = {{Mass-independent fractionation of sulfur isotopes during broadband SO2
+   photolysis: Comparison between O-16- and O-18-rich SO2}},
+Journal = {Chem. Geology}, 
+Year = {{2013}},
+Volume = {{362}},
+Pages = {56-65},
+Abstract = {{This paper describes a comparison of ultraviolet photolysis experiments
+   undertaken with SO2 (oxygen with isotopes at natural abundance levels)
+   and (SO2)-O-18 (O-18-substituted oxygen). Experiments were conducted in
+   a closed photocell using a deuterium lamp (principally 190-235 nm) under
+   pressure regimes (5-25 Torr) that produced optically thick conditions
+   for (SO2)-S-32 and variable optical depths for other isotopologues. The
+   experiments, which were designed to examine the effects of
+   intramolecular isotopic substitution of oxygen atoms on the S-MIF
+   produced during UV photolysis of SO2, reveal generally reduced sulfur
+   fractionation for O-18-rich SO2 as compared to O-16-rich SO2. Model
+   shielding calculations were undertaken using spectra that were shifted
+   due to changes in rotational and vibrational energy levels. The model
+   calculations suggest that processes in addition to rotational and
+   vibrational shifts in absorption spectra play a role in the
+   experimentally produced isotope effects. Such additional processes may
+   include differences in primary photoexcitation arising from smaller
+   peak-to-valley amplitudes for fine structure of O-18-rich SO2 absorption
+   spectra or an isotopically selective process associated with transitions
+   between excited states.}},
+DOI = {{10.1016/j.chemgeo.2013.07.021}},
+}
+
+@article{09JoPaMi.SO2 ,
+Author = {Johnson, Sarah Stewart and Pavlov, Alexander A. and Mischna, Michael A.},
+Title = {{Fate of SO2 in the ancient Martian atmosphere: Implications for
+   transient greenhouse warming}},
+Journal = JGR,
+Year = {{2009}},
+Volume = {{114}},
+Abstract = {{There is increasing evidence that sulfur played an important role on
+   early Mars. Sulfur is distributed ubiquitously on the Martian surface,
+   and sulfur in Martian meteorites carries the signature of atmospheric
+   interactions. Recent work suggests that the radiative properties of
+   sulfur volatiles that were degassed into the Martian atmosphere may have
+   caused a greenhouse effect early in the planet's history. It remains
+   unclear, however, over what timescales warming from sulfur volatiles
+   would have persisted, and consequently how significant this warming may
+   have been. While most photochemistry research to date has concentrated
+   on current Martian conditions, the ancient Martian atmosphere was
+   thicker, warmer, and more reducing than the current regime. Here we
+   investigate sulfur photochemistry in a 500 mb ancient Martian
+   atmosphere. After adapting a model used to study sulfur photochemistry
+   on Earth during the Archean, we find a short lifetime for SO2 in the
+   current Martian atmosphere, similar to results of other photochemical
+   studies. However, our simulations suggest that moderate mixing ratios of
+   SO2 (10(-8) <= f(SO2) <= 10(-6)) could have persisted in the ancient
+   Martian atmosphere for hundreds of years, generating short but potent
+   warming events following episodes of volcanic activity.}},
+DOI = {{10.1029/2008JE003313}},
+pages = {E11011}}
+
+@article{ 00XiGuBl.SO2,
+Author = {Xie, D Q and Guo, H and Bludsky, O and Nachtigall, P},
+Title = {{Absorption and resonance emission spectra of
+   SO2((X)over-tilde(1)A(1)/(C)over-tilde(1)B(2)) calculated from ab initio
+   potential energy and transition dipole moment surfaces}},
+Journal = CPL,
+Year = {{2000}},
+Volume = {{329}},
+Pages = {503-510},
+Abstract = {{We report here an analytical fit of the transition dipole moments
+   between (X) over tilde (1)A(1) and (C) over tilde B-1(2) electronic
+   states of SO2 calculated using a high level ab initio method. The
+   absorption spectrum as well as the resonance emission spectra from
+   several low-lying (C) over tilde B-1(2) vibrational levels are
+   calculated using a newly developed ab initio potential energy surface
+   (PES) and the transition dipole functions. The calculated spectra are in
+   semi-quantitative agreement with available experimental data. A strong
+   non-Condon effect is found for the emission spectra. (C) 2000 Elsevier
+   Science B.V. All rights reserved.}},
+DOI = {{10.1016/S0009-2614(00)01049-6}},
+}
+
+@article{92KaHaxx.SO2 ,
+Author = {Kaupi, E and Halonen, L},
+Title = {{A SIMPLE CURVILINEAR INTERNAL COORDINATE MODEL FOR VIBRATIONAL-ENERGY
+   LEVELS OF HYDROGEN-SULFIDE AND SULFUR-DIOXIDE}},
+Journal = JCP,
+Year = {{1992}},
+Volume = {{96}},
+Pages = {2933-2941},
+Abstract = {{A simple curvilinear internal coordinate Hamiltonian model for
+   vibrational term values of well bent XY2 molecules is developed. The
+   stretching vibrations are described in the zero-order picture by Morse
+   oscillators and the bend by a harmonic oscillator. Coupling terms are
+   approximated by harmonic oscillator formulas. Van Vleck perturbation
+   theory is used to transform the Hamiltonian matrix to a block diagonal
+   form. Analytical expressions for the matrix elements are derived. Fermi
+   resonances between the stretches and the bend and local modes are taken
+   into account by diagonalizing the block diagnonal Hamiltonian matrix.
+   Rotational parameters (alpha-constants) are calculated with perturbation
+   theory expressions. Potential energy parameters are optimized with the
+   nonlinear least-squares method using vibrational term values and
+   alpha-constants as data. The model is applied to five isotopic species
+   of hydrogen sulfide and to two isotopic species of sulfur dioxide. The
+   potential energy parameters obtained agree well with parameters
+   determined by other methods.}},
+DOI = {{10.1063/1.461990}},
+}
+
+@article{84FrYoEs.SO2 ,
+Author = {Freeman, D E and Yoshino, K and Esmond, J R and Parkinson, W H},
+Title = {{HIGH-RESOLUTION ABSORPTION CROSS-SECTION MEASUREMENTS OF SO2 AT 213-K IN
+   THE WAVELENGTH REGION 172-240 NM}},
+Journal = PSS,
+Year = {{1984}},
+Volume = {{32}},
+Pages = {1125-1134},
+DOI = {{10.1016/0032-0633(84)90139-9}},
+}
+
+@article{16DaDeBl.SO2,
+itle = {{Sulphur molecules in the circumstellar envelopes of M-type AGB stars}},
+Author = {T. Danilovich and E. {De Beck} and J. H. Black and H. Olofsson and K. Justtanont},
+abstract = {{The sulphur compounds SO and SO2 have not been widely studied in the circumstellar envelopes of asymptotic giant branch (AGB) stars. By presenting and modelling a large number of SO and SO2 lines in the low mass-loss rate M-type AGB star R Dor, and modelling the available lines of those molecules in a further four M-type AGB stars, we aim to determine their circumstellar abundances and distributions. We use a detailed radiative transfer analysis based on the accelerated lambda iteration method to model circumstellar SO and SO2 line emission and molecular data files for both SO and SO2 that are more extensive than those previously available. Using 17 SO lines and 98 SO2 lines to constrain our models for R Dor, we find an SO abundance of 6.7e−6 and an SO2 abundance of 5e−6 with both species having high abundances close to the star. We also modelled 34SO and found an abundance of 3.1e−7, giving an 32SO/34SO ratio of 21.6. We derive similar results for the circumstellar SO and SO2 abundances and their distributions for the low mass-loss rate object W Hya. For these stars, the circumstellar SO and SO2 abundances are much higher than predicted by chemical models and these two species may account for all available sulphur. For the higher mass-loss rate stars, we find shell-like SO distributions with peak abundances that decrease and peak abundance radii that increase with increasing mass-loss rate. The positions of the peak SO abundance agree very well with the photodissociation radii of H2O. We find evidence that SO is most likely through the photodissociation of H2O and the subsequent reaction between S and OH. The S-bearing parent molecule appears not to be H2S. The SO2 models suggest an origin close to the star for this species, also disagreeing with current chemical models.}},
+year = {2016},
+journal = AA,
+DOI = {10.1051/0004-6361/201527943}}
+
+@phdthesis{16Underw.SO2,
+    author = { D. S. Underwood},
+    title = {{Variationally Computed Line Lists for SO$_2$ and SO$_3$}},
+    year = {2016},
+    school  = "University College London",
+}

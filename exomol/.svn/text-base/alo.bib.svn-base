@@ -1,0 +1,1848 @@
+﻿
+
+
+@article{ 11LaBexx.AlO,
+Author = {Launila, O. and Berg, L-E},
+Title = {Spectroscopy of AlO: Combined analysis of the A(2)Pi(i) -> X(2)Sigma(+)
+   and B(2)Sigma(+) -> X(2)Sigma(+) transitions},
+Journal = JMS,
+Year = {2011},
+Volume = {265},
+Number = {1},
+Pages = {10-14},
+Month = {JAN},
+Abstract = {A combined analysis of the A(2)Pi(i) -> X(2)Sigma(+) and B(2)Sigma(+) ->
+   X(2)Sigma(+) band systems of AlO, involving 21,500 line assignments, has
+   been performed. The analysis indicates that the previously reported
+   gamma values of the B(2)Sigma(+) state are questionable. The present
+   analysis shows that gamma(B(2)Sigma(+))approximate to 0.014 cm(-1),
+   essentially independent of the vibrational level. The positive sign is
+   consistent with second order interaction with the higher-lying C(2)Pi(r)
+   and lower-lying A(2)Pi(i) states. It also appears that many of the
+   previously reported gamma and gamma(D) values of X(2)Sigma(+) (v > 0)
+   are doubtful. In fact, gamma(X(2)Sigma(+)) is observed to become
+   increasingly negative for v `' > 1, due to second order interaction with
+   the low-lying A(2)Pi(i) state. The present results are based on models
+   where the hyperfine structure of the (2)Sigma(+) states has been taken
+   into account explicitly. Intensity patterns of the branches of the
+   B(2)Sigma(+) -> X(2)Sigma(+) system have been shown to be influenced by
+   the case b beta(s) coupling in the ground state v = 0,1 levels. This
+   gives rise to intensity differences of around 10 percent in the
+   R(1)/R(2) and P(1)/P(2) doublet components. The synthesized intensity
+   patterns are fully in accord with the F(1)/F(2) assignments of the
+   present work. (C) 2010 Elsevier Inc. All rights reserved.},
+DOI = {10.1016/j.jms.2010.10.005},
+ISSN = {0022-2852},
+Times-Cited = {0},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:000286546000002},
+}
+
+@article{ 10HoNoxx.AlO,
+Author = {Honjou, Nobumitsu},
+Title = {Ab initio study of the molecular vibrations and electronic structure of
+   the X, B, D and F(2)Sigma(+) states of AlO},
+Journal = {JOURNAL OF MOLECULAR STRUCTURE-THEOCHEM},
+Year = {2010},
+Volume = {939},
+Number = {1-3},
+Pages = {59-64},
+Month = {JAN 15},
+Abstract = {Molecular vibrations and electronic structure of the X(2)Sigma(+),
+   B(2)Sigma(+), D(2)Sigma(+), and F(2)Sigma(+) states of AlO are studied
+   by carrying out ab initio configuration interaction calculations and
+   molecular vibration calculations using accurate potential energy
+   functions. An avoided crossing between the D(2)Sigma(+) and F(2)Sigma(+)
+   potential energy curves occurs in the neighborhood of 4.0 a(0) and
+   results in irregular vibrational levels of the D and F(2)Sigma(+)
+   states. The vibrational constants for the F(2)Sigma(+) state are
+   predicted from the vibrational levels not involved in the irregularity.
+   Configuration mixing is important in describing the B, D, and
+   F(2)Sigma(+) states. The F(2)Sigma(+) state at and around its well
+   minimum and the D and F(2)Sigma(+) states in the avoided crossing region
+   are characterized in terms of their main configurations and dipole
+   moment functions. (C) 2009 Elsevier B.V. All rights reserved.},
+DOI = {10.1016/j.theochem.2009.09.041},
+ISSN = {0166-1280},
+Times-Cited = {0},
+Journal-ISO = {Theochem-J. Mol. Struct.},
+Unique-ID = {ISI:000279200100010},
+}
+
+
+@article{ 08GiTaMa.AlO,
+Author = {Gilka, N. and Tatchen, J. and Marian, C. M.},
+Title = {The g-tensor of AlO: Principal problems and first approaches},
+Journal = {CHEMICAL PHYSICS},
+Year = {2008},
+Volume = {343},
+Number = {2-3},
+Pages = {258-269},
+Month = {JAN 29},
+Abstract = {Theoretical evaluations of g-tensors have seen noticeable progress in
+   recent years. Promising results in agreement with experiment have been
+   reported especially for small systems. However, the diatomic molecule
+   AlO has proved to be a difficult test case. In contradiction to common
+   understanding, the g-tensor of this system is strongly dependent on the
+   internuclear distance. The vicinity of the first excited state A(2)Pi to
+   the ground state X-2 Sigma(+) and their potential energy curve crossing
+   close to the equilibrium distance contraindicate strongly the
+   application of a conventional perturbation approach. Using a diabatic
+   representation of the lowest electronic states, a vibrationally averaged
+   value for Delta g(perpendicular to)(v = 0) = -608 ppm is obtained. The
+   non-negligible contribution of high-lying excited states to the g-tensor
+   indicate that a sum-over-states calculation is difficult to converge.
+   Translating the ground state potential energy curve as to reproduce the
+   relative position inferred from experiment and including higher (2)Pi
+   states perturbationally yields our best estimate of Delta
+   g(perpendicular to)(v = 0) = -1048 ppm. (C) 2007 Elsevier B.V. All
+   rights reserved.},
+DOI = {10.1016/j.chemphys.2007.09.020},
+ISSN = {0301-0104},
+Times-Cited = {4},
+Journal-ISO = {Chem. Phys.},
+Unique-ID = {ISI:000253622400014},
+}
+
+@article{ 08SaDeSu.AlO,
+Author = {Saksena, M. D. and Deo, M. N. and Sunanda, K. and Behere, S. H. and
+   Londhe, C. T.},
+Title = {Fourier transform spectral study of B-2 Sigma(+)-X-2 Sigma(+) system of
+   AlO},
+Journal = JMS,
+Year = {2008},
+Volume = {247},
+Number = {1},
+Pages = {47-56},
+Month = {JAN},
+Abstract = {The spectrum of B-2 Sigma(+) system of AlO has been reduced on BOMEM DA8
+   Fourier transform spectrometer at an apodized resolution of 0.05 cm(-1).
+   Nineteen bands of the Delta v = 1, 0, -1, and -2 sequences of this band
+   system have been analyzed for the rotational Structure. Out of which
+   seven bands, viz. 3-2, 4-3, 2-3, 3-4, 4-5, 5-6 and 6-7 have been
+   analyzed for the first time. The rotational lines of these 19 bands
+   along with 20 earlier analyzed bands, a total of 7200 lines, have been
+   fitted in a simultaneous least squares fit. The study has resulted in
+   determining more precise vibrational and rotational constants of the two
+   states. Because of the high resolution employed it became necessary to
+   invoke H-0 and H-1 coefficients, and a fifth order term to explain the
+   anomalous spin-doubling observed in the v `' = 5, 6 and 7 levels of the
+   X-2 Sigma(+) state. (c) 2007 Elsevier Inc. All rights reserved.},
+DOI = {10.1016/j.jms.2007.10.002},
+ISSN = {0022-2852},
+Times-Cited = {5},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:000252565100005},
+}
+
+@article{ 02KrSaBo.AlO,
+Author = {Kraus, D and Saykally, RJ and Bondybey, VE},
+Title = {Cavity-ringdown spectroscopy studies of the B-2 Sigma(+) <- X-2 Sigma(+)
+   system of AlO},
+Journal = {CHEMPHYSCHEM},
+Year = {2002},
+Volume = {3},
+Number = {4},
+Pages = {364+},
+Month = {APR 15},
+Abstract = {Best of both worlds! Sensitive cavity-ringdown spectroscopy can be
+   conveniently combined with a pulsed-laser vaporization source.
+   Rotationally resolved spectra of the B(2)Sigma(-) <-- X(2)Sigma(+)
+   transition of AlO showed clearly resolved ground-state levels at least
+   up to V{''} = 2, allowing spin-rotation doubling to be determined more
+   extensively than in previous studies. In one population of AlO, cooled
+   through supersonic expansion, rotational and vibrational temperatures
+   are estimated at 100 and 1500 K.},
+DOI = {10.1002/1439-7641(20020415)3:4<364::AID-CPHC364>3.0.CO;2-G},
+ISSN = {1439-4235},
+Times-Cited = {0},
+Journal-ISO = {ChemPhysChem},
+Unique-ID = {ISI:000175202400008},
+}
+
+@article{ 01BrGrxx.AlO,
+Author = {Bruna, PJ and Grein, F},
+Title = {Electron-spin magnetic moment (g factor) of X-2 Sigma(+) diatomic
+   radicals MX(+/-) with nine valence electrons (M = Be, B, Mg, Al; X = N,
+   O, F, P, S, Cl). An ab initio study},
+Journal = JPCA,
+Year = {2001},
+Volume = {105},
+Number = {13},
+Pages = {3328-3339},
+Month = {APR 5},
+Abstract = {The electron-spin g shifts (magnetic moments mu (S)) of X(2)Sigma (+)(1
+   pi (4)3 sigma) radicals MX(+/-) with nine valence electrons are
+   calculated at their equilibrium geometries, using second-order
+   perturbation theory, a Hamiltonian based on Breit-Pauli theory, and
+   correlated (MRCI) wave functions. Eighteen diatomics have been studied:
+   BeF, BeO-, BeCl,MgF, MgO-, and MgCl (class I); BF+, BCl+, AlF+, and
+   AlCl+ (class II); and BO, BN-, BS, BP-, AlO, AlN-, AlS, and AlP- (class
+   III). Most radicals have small Deltag(parallel to) values (approximate
+   to -100 ppm) and large negative agi values (-800 to -8500 ppm), except
+   for AlN- and AlP-, which have positive agi values (1400 and 10 000 ppm)
+   due to the quasi-degeneracy X(2)Sigma (+)/1(2)Pi (i). The
+   sum-over-states expansions for Deltag(perpendicular to) are dominated in
+   classes I and II by the coupling with 1(2)Pi (r), and in class III with
+   both 1(2)Pi (i) and 2(2)Pi (r). The (2)Pi (r)(3 sigma -->2 pi) state
+   always contributes negatively, whereas (2)Pi (i)(1 pi -->3 sigma)
+   contributes positively for most radicals but negatively for the boron
+   series BO, BN-, BS, and BP-. Experimental g shifts, which are available
+   for eight of the radicals studied here, are generally well reproduced by
+   the Deltag values calculated at R,. However, for radicals having a very
+   low-lying 1(2)Pi (i) state, such as AlN- and AlP-, our study suggests
+   that future calculations should include vibrational averaging to
+   describe the (unknown) experimental data correctly. Theoretical and
+   experimental g(perpendicular to) shifts are compared with those
+   estimated from spin-rotation coupling constants gamma, via Curl's
+   equation.},
+DOI = {10.1021/jp003557+},
+ISSN = {1089-5639},
+Times-Cited = {24},
+Journal-ISO = {J. Phys. Chem. A},
+Unique-ID = {ISI:000167927900050},
+}
+
+@article{ 00OrGoxx.AlO,
+Author = {Orlova, G and Goddard, JD},
+Title = {Density functional theory predictions for small radicals containing
+   boron and aluminium: broken symmetry problems and solutions},
+Journal = MP,
+Year = {2000},
+Volume = {98},
+Number = {14},
+Pages = {961-966},
+Month = {JUL 20},
+Abstract = {Selected exchange-correlation functionals were employed to study certain
+   radicals for which unrestricted (U) Hartree-Fock and post-Hartree-Fock
+   methods showed spatial symmetry breakings. For AlO, BO2 and BS2 all
+   functionals produced symmetry adapted solutions and predicted geometries
+   and vibrational spectra in good accord with experiment. The USVWN and
+   UB3LYP solutions for the D-infinity h O-Al-O structure break spin
+   symmetry. Mixing of these spin-unrestricted Kohn-Sham orbitals yielded
+   stable solutions with reasonable geometries and energetics but with
+   large errors for the vibrational spectra. Only UBHandHLYP results in a
+   broken spatial symmetry solution and yields an anomalous vibrational
+   spectrum. The UBLYP solution does not show a tendency to instability and
+   predicts a D-infinity h O-Al-O species with a (2)Pi(g) electronic state.},
+DOI = {10.1080/00268970050032819},
+ISSN = {0026-8976},
+Times-Cited = {3},
+Journal-ISO = {Mol. Phys.},
+Unique-ID = {ISI:000088578900007},
+}
+
+@article{ 99NaCoxx.AlO,
+Author = {Naulin, C and Costes, M},
+Title = {Crossed-beam study of the Al(P-2(1/2,3/2))+O-2(X-3 Sigma(-)(g))->
+   AlO(X-2 Sigma(+))+O(P-3(J)) reaction at low and very low kinetic
+   energies},
+Journal = CPL,
+Year = {1999},
+Volume = {310},
+Number = {3-4},
+Pages = {231-239},
+Month = {SEP 3},
+Abstract = {The title reaction is revisited at kinetic energies between 255 and 6
+   meV with a new crossed-beam apparatus. The Al0 dissociation energy is
+   evaluated to be D-o(AlO)= 5.27 +/- 0.01 eV. Al(P-2(1/2)) and
+   Al(P-2(3/2)) spin-orbit reactivities are shown to be different. The
+   relative cross-section of Al(P-2(1/2))+ O-2 is found to increase
+   monotonically when decreasing kinetic energy. The variation of the
+   calculated thermal rate constant is in agreement with kinetic
+   measurements performed between 1083 and 23 K. Good agreement is also
+   found with theoretical treatment based on the adiabatic capture
+   centrifugal sudden approximation. (C) 1999 Elsevier Science B.V. All
+   rights reserved.},
+DOI = {10.1016/S0009-2614(99)00759-9},
+ISSN = {0009-2614},
+Times-Cited = {39},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:000082452600001},
+}
+
+@article{ 99BrTsSc.AlO,
+Author = {Brinkmann, NR and Tschumper, GS and Schaefer, HF},
+Title = {Electron affinities of the oxides of aluminum, silicon, phosphorus,
+   sulfur, and chlorine},
+Journal = JCP,
+Year = {1999},
+Volume = {110},
+Number = {13},
+Pages = {6240-6245},
+Month = {APR 1},
+Abstract = {The adiabatic electron affinities of five second row atoms (Al, Si, P,
+   S, Cl) and their monoxides and dioxides were determined using six
+   different density functional or hybrid Hartree-Fock/density functional
+   methods. The 15 species selected form a convenient closed set for which
+   reliable experimental electron affinities exist for 13 of the species.
+   Zero-point vibrational energy corrected electron affinities are also
+   reported. Equilibrium geometries and vibrational frequencies were
+   determined with each density functional method. The method based on the
+   Becke exchange functional and the Lee-Yang-Parr correlation (BLYP)
+   functional reproduced the experimental electron affinities most
+   accurately, having an average absolute error of 0.15 eV. Using this
+   functional, the electron affinities were predicted for SiO and SiO2,
+   molecules for which electron affinities are not known experimentally, as
+   0.11 eV and 2.03 eV, respectively. It is concluded that the accuracy
+   observed for density functional theory methods applied to first row
+   atoms and molecules extends to molecules containing second row atoms and
+   that density functional theory continues to provide a computationally
+   affordable means of producing electron affinities reliable to within a
+   few tenths of an eV of definitive experimental values. (C) 1999 American
+   Institute of Physics. {[}S0021-9606(99)30511-0].},
+DOI = {10.1063/1.478528},
+ISSN = {0021-9606},
+Times-Cited = {28},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000079419000017},
+}
+
+@article{ 99ZeBlCh.AlO,
+Author = {Zenouda, C and Blottiau, P and Chambaud, G and Rosmus, P},
+Title = {Theoretical study of the electronic states of AlO and AlO-},
+Journal = {JOURNAL OF MOLECULAR STRUCTURE-THEOCHEM},
+Year = {1999},
+Volume = {458},
+Number = {1-2, SI},
+Pages = {61-72},
+Month = {JAN 11},
+Abstract = {The spectroscopic constants of the excited doublet and quartet states of
+   aluminium oxide have been calculated from potential energy functions
+   obtained by the ab initio MRCI approach. Such constants are given also
+   for several states that have not yet been observed. The characteristics
+   of the calculated electric dipole and transition moment functions are
+   discussed in connection with the ionicity and avoided crossing regions
+   of the excited states. The spin-orbit interactions between electronic
+   states have been calculated for those cases where this type of coupling
+   was assumed to be responsible for pertubations of the spectra. Also for
+   the bound electronic ground state of the AlO- anion the spectroscopic
+   constants are given and its photoelectron spectrum is discussed. (C)
+   1999 Elsevier Science B.V. All rights reserved.},
+DOI = {10.1016/S0166-1280(98)00349-2},
+ISSN = {0166-1280},
+Times-Cited = {0},
+Journal-ISO = {Theochem-J. Mol. Struct.},
+Unique-ID = {ISI:000077960900008},
+}
+
+@article{ 98DoPaLe.AlO,
+Author = {Dors, IG and Parigger, C and Lewis, JWL},
+Title = {Spectroscopic temperature determination of aluminum monoxide in laser
+   ablation with 266-nm radiation},
+Journal = {OPTICS LETTERS},
+Year = {1998},
+Volume = {23},
+Number = {22},
+Pages = {1778-1780},
+Month = {NOV 15},
+Abstract = {We report time-resolved measurements of diatomic aluminum monoxide
+   spectra in the study of laser ablation by the use of
+   frequency-quadrupled 266 Mm Nd:YAG laser radiation. Spectroscopic
+   temperatures of 3432(35) K and 3329(13) K are obtained at a delay time
+   of 20 mu s, respectively, by the use of the modified diatomic Boltzmann
+   plot and by the use of the Nelder-Mead algorithm in the fitting of the
+   recorded spectrum. (C) 1998 Optical Society of America.},
+DOI = {10.1364/OL.23.001778},
+ISSN = {0146-9592},
+Times-Cited = {10},
+Journal-ISO = {Opt. Lett.},
+Unique-ID = {ISI:000076906300018},
+}
+
+@article{ 97KnKiHe.AlO,
+Author = {Knight, LB and Kirk, TJ and Herlong, J and Kaup, JG and Davidson, ER},
+Title = {Electron spin resonance matrix isolation studies of (AlO)-Al-27-O-16,17,
+   (GaO)-Ga-69,71-O-16,17 and (InO)-In-115-O-16,17: Observed hyperfine
+   interactions compared with ab initio theoretical results},
+Journal = JCP,
+Year = {1997},
+Volume = {107},
+Number = {18},
+Pages = {7011-7019},
+Month = {NOV 8},
+Abstract = {Electron spin resonance (ESR) studies are reported for (AlO)-O-16,17,
+   (GaO)-O-16,17, and (InO)-O-16,17 isolated in neon matrices at 4 K.
+   Except for (AlO)-O-16, no previous ESR measurements have been reported
+   for these X (2) Sigma diatomic radicals. The pulsed laser vaporization
+   of the metals in the presence of O-16(2) and O-17(2) produced high
+   quality ESR spectra of these metal oxide radicals whose nuclear
+   hyperfine interactions (A tensors) were fully resolved for both the
+   metal and oxygen nuclei. An analysis of the experimental spin densities
+   in combination with different types of theoretical calculations provided
+   detailed information concerning the electronic structure trends going
+   down this metal oxide group. Increased p-orbital spin density on oxygen
+   was observed for the heavier metal oxide radicals. Nonrelativistic ab
+   initio calculations with an extended basis set and the UB3LYP method
+   reproduced the trends in the isotropic and dipolar hyperfine
+   interactions. All-electron CI calculations, restricted open-shell
+   Hartree-Fock (ROHF) wave functions, and unrestricted Hartree-Fock wave
+   functions gave results very different from experiment and from each
+   other for the isotropic interaction. All calculations were in fair
+   agreement with each other for the dipolar interaction and provided an
+   assignment of the sign for that term. (C) 1997 American Institute of
+   Physics.},
+DOI = {10.1063/1.475164},
+ISSN = {0021-9606},
+Times-Cited = {22},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1997YE66800001},
+}
+
+
+@article{ 97ItItKu.AlO,
+Author = {Ito, N and Ito, H and Kuchitsu, K},
+Title = {Analysis of the C-2 Pi(r), v=0 similar to(4)Sigma(+) and (2)Sigma(-)
+   perturbations of the AlO radical},
+Journal = CPL,
+Year = {1997},
+Volume = {276},
+Number = {1-2},
+Pages = {139-144},
+Month = {SEP 12},
+Abstract = {A deperturbation analysis is made for the 0-0 band of the A1O(C-2 Pi(r)
+   - X-2 Sigma(+)) transition measured by Singh and Saksena {[}Can. J.
+   Phys. 61 (1983) 1347]. The states perturbing the C-2 Pi(r), v =0 level
+   are assigned to (4) Sigma(+) and 2 Sigma(-). The molecular constants for
+   the (CIIr)-I-2, v = 0 state and the perturbing levels are determined by
+   a deperturbation analysis. The vibrational quantum numbers of the
+   perturbing (4) Sigma(+) and (2) Sigma(-) level are estimated to be 4 and
+   0, respectively. (C) 1997 Published by Elsevier Science B.V.},
+DOI = {10.1016/S0009-2614(97)00812-9},
+ISSN = {0009-2614},
+Times-Cited = {1},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:A1997XX81600022},
+}
+
+@article{ 95BeMoUr.AlO,
+Author = {BESCOS, B and MORLEY, G and URENA, AG},
+Title = {CHEMILUMINESCENCE AND REACTIVITY OF ALUMINUM MONOXIDE (ALO) IN THE
+   EXCITED B((2)SIGMA(+)) STATE},
+Journal = CPL,
+Year = {1995},
+Volume = {244},
+Number = {5-6},
+Pages = {407-413},
+Month = {OCT 13},
+Abstract = {Using laser ablation of aluminum samples under moderate O-2 pressures
+   the chemiluminescence and reactivity of the excited AlO(B((2) Sigma(+)))
+   state have been measured, The analysis of the AlO(B) fluorescence
+   corresponding to emission from different internal states with various
+   oxygen concentrations has allowed us to obtain rate constants values for
+   the AlO(B) + O-2 reaction for different vibrational states, The results
+   are k((upsilon=0)) = 1.1 x 10(-11) molecule(-1) cm(3) s(-1) and
+   k((upsilon=1)) = 1.1 x 10(-11) molecule(-1) cm(3) s(-1).},
+DOI = {10.1016/0009-2614(95)00949-5},
+ISSN = {0009-2614},
+Times-Cited = {8},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:A1995RZ28100011},
+}
+
+@article{ 95SaItKu.AlO,
+Author = {SATO, N and ITO, H and KUCHITSU, K},
+Title = {ELECTRONIC-TRANSITION MOMENT OF THE ALO(B (2)SIGMA(+)-X (2)SIGMA(+))
+   EMISSION - ANALYSIS OF THE R DEPENDENCE OF THE AL2+O2- CHARACTER IN THE
+   X-(2)SIGMA(+) STATE (VOL 240, PG 10, 1995)},
+Journal = CPL,
+Year = {1995},
+Volume = {242},
+Number = {6},
+Pages = {650},
+Month = {SEP 1},
+DOI = {10.1016/0009-2614(95)00782-Y},
+ISSN = {0009-2614},
+Times-Cited = {0},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:A1995RT13600018},
+}
+
+@article{ 95SaItK1.AlO,
+Author = {SATO, N and ITO, H and KUCHITSU, K},
+Title = {ELECTRONIC-TRANSITION MOMENT OF THE ALO(B-2-SIGMA(+)-X(2)SIGMA(+))
+   EMISSION - ANALYSIS OF THE R DEPENDENCE OF THE AL2+O2- CHARACTER IN THE
+   X(2)SIGMA(+) STATE},
+Journal = CPL,
+Year = {1995},
+Volume = {240},
+Number = {1-3},
+Pages = {10-16},
+Month = {JUN 23},
+Abstract = {The dependence of the electronic transition moment, R(c)(R), of the
+   AlO(B (2) Sigma(+)-X (2) Sigma(+)) system on the internuclear distance,
+   R, has been determined by an analysis of the intensity distribution of
+   the emission spectra as R(e)(R)={[}1 - 2.29(13)(R/Angstrom - 1.5)(2)]
+   (1.510 Angstrom less than or equal to R less than or equal to 1.836
+   Angstrom). The R dependences of R(e)(R) and the X (2) Sigma(+) similar
+   to A (IIi)-I-2 off-diagonal spin-orbit interaction matrix element,
+   H-el(SO)(R), have been analyzed simultaneously to evaluate the R
+   dependence of the Al2+O2- character in the X (2) Sigma(+) state and that
+   of the orbital exponent of the oxygen atom. The results agree with the
+   theoretical prediction by Lengsfield and Liu (J. Chem. Phys. 77 (1982)
+   6083) that the charge-transfer process, Al2+O2- --> Al+O-, takes place
+   in the range of 1.6 Angstrom less than or similar to R < less than or
+   similar to 2.1 Angstrom.},
+DOI = {10.1016/0009-2614(95)00495-P},
+ISSN = {0009-2614},
+Times-Cited = {6},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:A1995RE79400002},
+}
+
+@article{ 94MaCaOg.AlO,
+Author = {MARQUEZ, A and CAPITAN, MJ and ODRIOZOLA, JA and SANZ, JF},
+Title = {SPECTROSCOPIC PROPERTIES AND POTENTIAL-ENERGY CURVES OF SOME LOW-LYING
+   ELECTRONIC STATES OF ALO, ALO+, LAO, AND LAO+ - AN AB-INITIO CASSCF
+   STUDY},
+Journal = {INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY},
+Year = {1994},
+Volume = {52},
+Number = {6},
+Pages = {1329-1338},
+Month = {DEC},
+Abstract = {Results of CASSCF state-averaged calculations on the lowest electronic
+   states of LaO and LaO+ are reported in this work. For comparison, some
+   low-lying electronic states of AlO and AlO+ are also reported. The
+   ground state of LaO was found to be the X(2) Sigma(+) (R(e) = 1.987
+   Angstrom, omega(e) = 794 cm(-1)) with a low-lying A(2) Delta excited
+   state. Five more excited states below 26000 cm(-1) were found. The first
+   ionization potential (IP) is found at 5.16 eV, resulting in an X(1)
+   Sigma(+) ground state for the LaO+ diatom, in opposition to AlO+ for
+   which and X(3) Pi ground state has been found. Analysis of the wave
+   functions, dipole moments, and Mulliken populations reveal that the
+   bonding is quite ionic in both systems. (C) 1994 John Wiley \& Sons,
+   Inc.},
+DOI = {10.1002/qua.560520608},
+ISSN = {0020-7608},
+Times-Cited = {14},
+Journal-ISO = {Int. J. Quantum Chem.},
+Unique-ID = {ISI:A1994PU07800007},
+}
+
+@article{ 94Itxxxx.AlO,
+Author = {ITO, H},
+Title = {ANALYSIS OF THE A(2)PI(I)SIMILAR-TO-X(2)SIGMA(+) PERTURBATIONS OF THE
+   ALO RADICAL},
+Journal = {CANADIAN JOURNAL OF PHYSICS},
+Year = {1994},
+Volume = {72},
+Number = {11-12},
+Pages = {1082-1086},
+Month = {NOV-DEC},
+Abstract = {The A(2)II(i) similar to X(2) Sigma(+) perturbations of the AlO radical
+   were analyzed in the mixed levels of (upsilon(A), upsilon(X)) = (0, 5),
+   (1, 6), (2, 7), (3, 8), and (4, 9) by a simultaneous analysis of the
+   reported D-2 Sigma(+)-A(2)II(i) transition wave numbers and the
+   A(2)II(i)-X(2) Sigma(+) energy level differences, the latter being
+   evaluated by taking the differences of the reported wave numbers of the
+   (CIIr)-I-2-X(2) Sigma(+) and (CIIr)-I-2-A(2)II(i) transitions. The
+   molecular constants for A(2)II(i), upsilon = 0-4; D-2 Sigma(+), upsilon
+   = 0-5; and X(2) Sigma(+), upsilon = 8 and 9, and the perturbation
+   constants were determined. The Rydberg-Klein-Rees (RKR) potentials of
+   the A(2)II(i) and D-2 Sigma(+) states were obtained using these
+   molecular constants. The spin-orbit constants, A upsilon, for A(2)II,
+   are discussed in terms of the electronic structure of the A(2)II(i)
+   state.},
+ISSN = {0008-4204},
+Times-Cited = {5},
+Journal-ISO = {Can. J. Phys.},
+Unique-ID = {ISI:A1994RF79900046},
+}
+
+@article{ 94LaJoxx.AlO,
+Author = {LAUNILA, O and JONSSON, J},
+Title = {SPECTROSCOPY OF ALO - ROTATIONAL ANALYSIS OF THE A(2)PI(I)-X(2)SIGMA+
+   TRANSITION IN THE 2-MU-M REGION},
+Journal = JMS,
+Year = {1994},
+Volume = {168},
+Number = {1},
+Pages = {1-38},
+Month = {NOV},
+Abstract = {The infrared A2PI(i)-X2SIGMA+ band system of AlO has been recorded with
+   Fourier transform techniques using an electrodeless 2450-MHz discharge
+   as a source.  Transitions involving upsilon = 0-3 of X2SIGMA+ and
+   upsilon = 0-10 of A2PI(i) have been observed.  Local perturbations
+   affect the different levels of the A2PI(i) state, and all these
+   perturbations are shown to be caused by vibrational levels of the
+   X2SIGMA+ state.  Extra lines originating from the nominal upsilon = 7, 8
+   levels of X2SIGMA+ are observed in the proximity of the A2PI(i) (upsilon
+   = 2) <-> X2SIGMA+ (upsilon = 7) and A2PI(i) (upsilon = 3) <-> X2SIGMA+
+   (upsilon = 8) crossings.  In total, data from 23 vibrational bands are
+   included in the analysis.  The spin splittings of the X2SIGMA+ state are
+   strongly dependent of upsilon''.  The X2SIGMA+ state also shows clearly
+   noticeable nuclear hyperfine effects, manifested by numerous
+   hyperfine-induced DELTAJ = +/-2 branches.  A global deperturbation has
+   been performed for upsilon = 0-8 of A2PI(i) and for the corresponding
+   intersecting levels upsilon = 5-11 of X2SIGMA+.  The X2SIGMA+ state has
+   been fitted both with and without hyperfine parameters.  The inclusion
+   of the hyperfine interaction was found to be necessary in order to
+   describe the X2SIGMA+ ground state adequately.  The anomalous intensity
+   distributions among branches terminating at different vibrational levels
+   of the X2SIGMA+ state are discussed.  The strong B2SIGMA+-X2SIGMA+
+   system has been recorded with FTS techniques, and the contradictory
+   results of Mahieu et al. and Lagerqvist et al. regarding the gamma value
+   of the B2SIGMA+ state are discussed in the light of the new
+   parameterization of the X2SIGMA+ state, and the spin component
+   assignments presented in the work of Lagerqvist et al. have been
+   reestablished.  (C) 1994 Academic Press, Inc.},
+DOI = {10.1006/jmsp.1994.1257},
+ISSN = {0022-2852},
+Times-Cited = {20},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:A1994PM71600001},
+}
+
+@article{ 94ToJaBo.AlO,
+Author = {TOWLE, JP and JAMES, AM and BOURNE, OL and SIMARD, B and SINGH, M and
+   SAKSENA, MD},
+Title = {THE C-2-PI-X(2)SIGMA(+) (0,0) BAND IN ALO},
+Journal = JMS,
+Year = {1994},
+Volume = {167},
+Number = {2},
+Pages = {472-473},
+Month = {OCT},
+DOI = {10.1006/jmsp.1994.1252},
+ISSN = {0022-2852},
+Times-Cited = {3},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:A1994PJ14200022},
+}
+
+@article{ 94GoTaYa.AlO,
+Author = {GOTO, M and TAKANO, S and YAMAMOTO, S and ITO, H and SAITO, S},
+Title = {MICROWAVE-SPECTRA OF THE ALO (X(2)SIGMA+) RADICAL IN THE UPSILON=1 AND 2
+   STATES},
+Journal = CPL,
+Year = {1994},
+Volume = {227},
+Number = {3},
+Pages = {287-292},
+Month = {SEP 9},
+Abstract = {The microwave spectra of the aluminum monoxide radical (X 2SIGMA+) for v
+   = 1 and 2 have been observed by using a source-modulated spectrometer
+   combined with a free-space absorption cell. The Al atom was generated by
+   discharge in pure N2O or Ar with an aluminum hollow-cathode containing
+   several pieces of alumina. Five rotational transitions in the region
+   180-380 GHz were measured. The fine and hyperfine structure patterns of
+   a certain rotational transition showed that the spin-rotation coupling
+   constant changes anomalously by vibrational excitation. The rotational
+   constant, centrifugal distortion constant, spin-rotation coupling
+   constant with its centrifugal distortion term, and hyperfine coupling
+   constants for the Al nucleus were precisely determined for the v = 1 and
+   2 states.},
+DOI = {10.1016/0009-2614(94)00820-5},
+ISSN = {0009-2614},
+Times-Cited = {12},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:A1994PF45600010},
+}
+
+@article{ 94ItGoxx.AlO,
+Author = {ITO, H and GOTO, M},
+Title = {ANALYSIS OF AN ANOMALOUS VIBRATIONAL DEPENDENCE OF THE SPIN ROTATION
+   CONSTANTS FOR ALO(X(2)SIGMA(+))},
+Journal = CPL,
+Year = {1994},
+Volume = {227},
+Number = {3},
+Pages = {293-298},
+Month = {SEP 9},
+Abstract = {The spin-rotation constants, gamma(upsilon), for the upsilon = 0-2
+   levels of AlO (X 2SIGMA+) were analyzed in terms of the X 2SIGMA+
+   -approximately 2PI(i) and X 2SIGMA+ approximately C 2PI(r) second-order
+   interactions. The X 2SIGMA+ approximately A 2 PI(i) spin-orbit and
+   rotational-electronic interactions were determined as functions of the
+   internuclear distance R. The anomalous vibrational dependence of
+   gamma(upsilon) observed for upsilon = 1 and 2 was ascribed to the strong
+   R dependence of the X 2SIGMA+ approximately A 2PI(i) spin-orbit
+   interaction; the contributions of the X 2SIGMA+ approximately C 2PI(r)
+   interactions were found to be nearly independent of upsilon. The R
+   dependence of the X 2SIGMA+ approximately A 2PI(i) spin-orbit
+   interaction was fully explained by the change in the electronic
+   structure, Al2+O2- --> Al+O-, of X2SIGMA+.},
+DOI = {10.1016/0009-2614(94)00821-3},
+ISSN = {0009-2614},
+Times-Cited = {8},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:A1994PF45600011},
+}
+
+@article{ 92CaMcGa.AlO,
+Author = {CAMPBELL, ML and MCCLEAN, RE and GARLAND, NL and NELSON, HH},
+Title = {ELECTRONIC QUENCHING OF THE B2-SIGMA+ STATE OF ALO},
+Journal = CPL,
+Year = {1992},
+Volume = {194},
+Number = {3},
+Pages = {187-190},
+Month = {JUN 26},
+Abstract = {Electronic quenching rate constants for the B2-SIGMA+ state of AlO were
+   determined using a pulsed-laser photolysis laser-induced fluorescence
+   technique by examining fluorescence decay rates in the presence of seven
+   atomic and molecular collision partners. The two polar molecules CO and
+   NO were found to have rate constants of 4.8 x 10(-12) and 1.8 x 10(-10)
+   cm3 s-1, respectively. The nonpolar gases He, H2, N2, CO2 and Xe were
+   found to be poor quenchers with a bimolecular quenching rate constant
+   having an upper bound of 1 X 10(-13) cm3 s-1 for He, H-2, N2 and Xe and
+   1 x 10(-12) cm3 for CO2.},
+DOI = {10.1016/0009-2614(92)85532-F},
+ISSN = {0009-2614},
+Times-Cited = {7},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:A1992JB82000009},
+}
+
+@article{ 90YaCoFu.AlO,
+Author = {YAMADA, C and COHEN, EA and FUJITAKE, M and HIROTA, E},
+Title = {THE MICROWAVE-SPECTRUM OF THE ALO RADICAL},
+Journal = JCP,
+Year = {1990},
+Volume = {92},
+Number = {4},
+Pages = {2146-2149},
+Month = {FEB 15},
+DOI = {10.1063/1.458005},
+ISSN = {0021-9606},
+Times-Cited = {27},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1990CP03000002},
+}
+
+@article{ 89SaGhSi.AlO,
+Author = {SAKSENA, MD and GHODGAONKAR, GS and SINGH, M},
+Title = {THE B2-SIGMA+-X2-SIGMA+ SYSTEM OF ALO},
+Journal = {JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS},
+Year = {1989},
+Volume = {22},
+Number = {12},
+Pages = {1993-1996},
+Month = {JUN 28},
+DOI = {10.1088/0953-4075/22/12/014},
+ISSN = {0953-4075},
+Times-Cited = {11},
+Journal-ISO = {J. Phys. B-At. Mol. Opt. Phys.},
+Unique-ID = {ISI:A1989AD59300014},
+}
+
+@article{ 86KoToxx.AlO,
+Author = {KOVBA, VM and TOPOL, IA},
+Title = {CALCULATIONS ON THE ELECTRONIC-STRUCTURE AND SPECTRA OF THE ALO, GAO AND
+   INO MOLECULES BY THE X-ALPHA-SW METHOD},
+Journal = {THEOCHEM-JOURNAL OF MOLECULAR STRUCTURE},
+Year = {1986},
+Volume = {30},
+Number = {1-2},
+Pages = {65-79},
+Month = {MAY 1},
+DOI = {10.1016/0166-1280(86)80086-0},
+ISSN = {0166-1280},
+Times-Cited = {2},
+Journal-ISO = {Theochem-J. Mol. Struct.},
+Unique-ID = {ISI:A1986C299900006},
+}
+
+@article{ 85SiZoKr.AlO,
+Author = {SINGH, M and ZOPE, GV and KRISHNAMACHARI, SLNG},
+Title = {THE B2-SIGMA+-X2-SIGMA+ TRANSITION OF ALO},
+Journal = {JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS},
+Year = {1985},
+Volume = {18},
+Number = {9},
+Pages = {1743-1745},
+DOI = {10.1088/0022-3700/18/9/009},
+ISSN = {0953-4075},
+Times-Cited = {8},
+Journal-ISO = {J. Phys. B-At. Mol. Opt. Phys.},
+Unique-ID = {ISI:A1985AHN1400009},
+}
+
+@article{ 85CoNaxx.AlO,
+Author = {COXON, JA and NAXAKIS, S},
+Title = {ROTATIONAL ANALYSIS OF THE B2-SIGMA+-]X2-SIGMAT SYSTEM OF THE ALUMINUM
+   MONOXIDE RADICAL, ALO},
+Journal = JMS,
+Year = {1985},
+Volume = {111},
+Number = {1},
+Pages = {102-113},
+DOI = {10.1016/0022-2852(85)90073-6},
+ISSN = {0022-2852},
+Times-Cited = {37},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:A1985AHM5700012},
+}
+
+@article{ 84BeGrxx.AlO,
+Author = {BERNARD, A and GRAVINA, R},
+Title = {ON THE INFRARED A2-PI-I-X2-SIGMA+ SYSTEM OF ALUMINUM MONOXIDE IN
+   RELATION WITH THE SPECTRA OF M-GIANT-TYPE AND MIRA-TYPE STARS},
+Journal = {ZEITSCHRIFT FUR NATURFORSCHUNG SECTION A-A JOURNAL OF PHYSICAL SCIENCES},
+Year = {1984},
+Volume = {39},
+Number = {11},
+Pages = {1049-1055},
+ISSN = {0932-0784},
+Times-Cited = {6},
+Journal-ISO = {Z. Naturfors. Sect. A-J. Phys. Sci.},
+Unique-ID = {ISI:A1984TW29700006},
+}
+
+@article{ 82SiSaxx.AlO,
+Author = {SINGH, M and SAKSENA, MD},
+Title = {A NEW ELECTRONIC-TRANSITION C-2-PI-R-A-2-PI-I OF ALO},
+Journal = {CANADIAN JOURNAL OF PHYSICS},
+Year = {1982},
+Volume = {60},
+Number = {12},
+Pages = {1730-1742},
+ISSN = {0008-4204},
+Times-Cited = {13},
+Journal-ISO = {Can. J. Phys.},
+Unique-ID = {ISI:A1982PZ66800004},
+}
+
+@article{ 81SiSaxx.AlO,
+Author = {SINGH, M and SAKSENA, MD},
+Title = {THE ULTRAVIOLET-SPECTRUM OF ALO},
+Journal = {CANADIAN JOURNAL OF PHYSICS},
+Year = {1981},
+Volume = {59},
+Number = {7},
+Pages = {955-966},
+ISSN = {0008-4204},
+Times-Cited = {14},
+Journal-ISO = {Can. J. Phys.},
+Unique-ID = {ISI:A1981MB20500017},
+}
+
+@article{ 78Muxxxx.AlO,
+Author = {MURTY, PS},
+Title = {ELECTRONIC-TRANSITIONS OF ALUMINUM MONOXIDE},
+Journal = {CHEMICAL PHYSICS},
+Year = {1978},
+Volume = {29},
+Number = {3},
+Pages = {391-397},
+DOI = {10.1016/0301-0104(78)85090-3},
+ISSN = {0301-0104},
+Times-Cited = {6},
+Journal-ISO = {Chem. Phys.},
+Unique-ID = {ISI:A1978EW36500014},
+}
+
+@article{ 78MuBaMu.AlO,
+Author = {MURTHY, NS and BAGARE, SP and MURTHY, BN},
+Title = {DISSOCIATION-ENERGY FOR GROUND-STATE OF AIO FROM TRUE POTENTIAL-ENERGY
+   CURVE},
+Journal = JQSRT,
+Year = {1978},
+Volume = {19},
+Number = {4},
+Pages = {455-459},
+DOI = {10.1016/0022-4073(78)90121-8},
+ISSN = {0022-4073},
+Times-Cited = {8},
+Journal-ISO = JQSRT,
+Unique-ID = {ISI:A1978EV99800009},
+}
+
+@article{ 73Scxxxx.AlO,
+Author = {Schamps, J.},
+Title = {The energy spectrum of aluminium monoxide},
+Journal = {CHEMICAL PHYSICS},
+Year = {1973},
+Volume = {2},
+Number = {3},
+Pages = {352-366},
+Month = {NOV},
+Abstract = {SCF calculations using an extended double-zeta basis set have been
+   performed in order to obtain information about the energy spectrum of
+   AlO. The variational calculations concerned six states of AlO and three
+   states of AlO+. Correlation energy differences were estimated
+   semiempirically to correct the single-configuration approximation. The
+   predominant configurations of the observed states of AlO have been
+   identified by using a comparison between the calculated and observed
+   spectroscopic elements: term values, rotational, vibrational and
+   spin-orbit constants, compatibility of observed systems. This has led us
+   to deduce the probable locations of as yet unobserved states and to
+   predict the wavelength of a number of transitions in which they are
+   involved. The ground state of AlO+ has been found to be stable but its
+   symmetry ((3)Pi or (1)Sigma(+)) could not be ascertained. Particular
+   emphasis has been laid on a study of the (2 pi(3) 6 sigma(2) 7o3 pi)
+   configuration or the highest-lying observed states of AlO. D-2 Sigma(+)
+   and E-2 Delta(j). It is suggested that the quartet levels of this
+   configuration are responsible for the perturbations experimentally found
+   in C-2 Pi(I). The predissociation observed for E-2 Delta(i) is finally
+   discussed in terms of avoided crossings of potential curves.},
+DOI = {10.1016/0301-0104(73)80038-2},
+ISSN = {0301-0104},
+Times-Cited = {40},
+Journal-ISO = {Chem. Phys.},
+Unique-ID = {ISI:000202880300010},
+}
+
+@article{ 98AdZaSt.AlO,
+Author = {Adamson, SO and Zaitsevskii, A and Stepanov, NF},
+Title = {Ab initio finite-field transition moment calculations},
+Journal = {JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS},
+Year = {1998},
+Volume = {31},
+Number = {24},
+Pages = {5275-5280},
+Month = {DEC 28},
+Abstract = {The finite-field perturbation theory is applied to the ab initio
+   calculations of electronic transition dipole moments in molecules. The
+   results are less sensitive to the level of electron correlation
+   treatment than the directly computed electric dipole off-diagonal matrix
+   elements. The finite-field approach can provide a substantial gain in
+   accuracy when simple MCSCF electronic wavefunctions are used.},
+DOI = {10.1088/0953-4075/31/24/009},
+ISSN = {0953-4075},
+Times-Cited = {0},
+Journal-ISO = {J. Phys. B-At. Mol. Opt. Phys.},
+Unique-ID = {ISI:000077974200009},
+}
+
+@article{ 96LeMaVi.AlO,
+Author = {LeyKoo, E and MateosCortes, S and VillaTorres, G},
+Title = {Vibrational-rotational levels and Franck-Condon factors of diatomic
+   molecules via Morse potentials in a box},
+Journal = {INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY},
+Year = {1996},
+Volume = {58},
+Number = {1},
+Pages = {23-28},
+Month = {APR 5},
+Abstract = {Pekeris' solution for vibrational-rotational levels of the Morse
+   potential includes the unphysical domain -infinity < r < 0 of the
+   internuclear separation, just like Morse's solution for vibrational
+   levels. Ln this article, the method of confinement in a box is
+   implemented to obtain the vibrational-rotational J = 1 levels of Morse
+   potentials in the physical domain 0 < r < infinity, as well as the
+   corresponding Franck-Condon factors. Applications to Li-2 and AlO are
+   presented as illustrations. (C) 1996 John Wiley \& Sons, Inc.},
+DOI = {10.1002/(SICI)1097-461X(1996)58:1<23::AID-QUA3>3.0.CO;2-#},
+ISSN = {0020-7608},
+Times-Cited = {1},
+Journal-ISO = {Int. J. Quantum Chem.},
+Unique-ID = {ISI:A1996TX56500004},
+}
+
+@article{ 10Chxxxx.AlO,
+Author = {Chervonnyi, A. D.},
+Title = {Composition of the Gas Phase over Al(2)O(3) and the Enthalpies of
+   Atomization of AlO, Al(2)O, and Al(2)O(2)},
+Journal = {RUSSIAN JOURNAL OF INORGANIC CHEMISTRY},
+Year = {2010},
+Volume = {55},
+Number = {4},
+Pages = {556-559},
+Month = {APR},
+Abstract = {The A1, O, AlO, A1(2)O, A1(2)O(2), WO(2) and WO(3) partial pressures in
+   the vapor over Al(2)O(3) in a tungsten Knudsen effusion cell between
+   2300 and 2600 K were derived from A1(+), O(+), AlO(+), A1(2)O(+),
+   A1(2)O(2)(+) , WO(2)(+), and WO(3)(+) ion intensities. The mass
+   spectrometer was calibrated against the equilibrium constant of the
+   WO(3)(g) = WO(2)(g) + O(g) reaction. Refined values of the ionization
+   cross sections of AlO and A1(2)O(2) were used in the partial pressure
+   calculations. The enthalpies of atomization of aluminum suboxides were
+   determined to be Delta(at)H(o)(AlO, g, 0) = 510.7 +/- 3.3 kJ mol(-1),
+   Delta(at)H(o)(Al(2)O, g, 0) = 1067.2 +/- 6.9 kJ mol(-1), and
+   Delta(at)H(o)(Al(2)O(2), g, 0) = 1556.7 +/- 9.9 kJ mol(-1).},
+DOI = {10.1134/S003602361004011X},
+ISSN = {0036-0236},
+Times-Cited = {0},
+Journal-ISO = {Russ. J. Inorg. Chem.},
+Unique-ID = {ISI:000277345800023},
+}
+
+@article{ 09TeZixx.AlO,
+Author = {Tenenbaum, E. D. and Ziurys, L. M.},
+Title = {MILLIMETER DETECTION OF AlO (X (2)Sigma(+)): METAL OXIDE CHEMISTRY IN
+   THE ENVELOPE OF VY CANIS MAJORIS},
+Journal = {ASTROPHYSICAL JOURNAL LETTERS},
+Year = {2009},
+Volume = {694},
+Number = {1},
+Pages = {L59-L63},
+Month = {MAR 20},
+Abstract = {A new circumstellar molecule, the radical AlO (X (2)Sigma(+)), has been
+   detected toward the envelope of the oxygen-rich supergiant star VY Canis
+   Majoris (VY CMa) using the Arizona Radio Observatory (ARO). The N = 7 ->
+   6 and 6 -> 5 rotational transitions of AlO at 268 and 230 GHz were
+   observed at 1 mm using the ARO Submillimeter Telescope (SMT) and the N =
+   4 -> 3 line was detected at 2 mm using the ARO 12 m telescope. Based on
+   the shape of the line profiles, AlO most likely arises from the
+   dust-forming region in the spherical outflow of VY CMa, as opposed to
+   the blue or redshifted winds, with a source size of theta(s) similar to
+   0.'' 5. Given this source size, the column density of AlO was found to
+   be N(tot) similar to 2 x 10(15) cm(-2) for T(rot) similar to 230 K, with
+   a fractional abundance, relative to H(2), of similar to 10(-8).
+   Gas-phase thermodynamic equilibrium chemistry is the likely formation
+   mechanism for AlO in VY CMa, but either shocks disrupt the condensation
+   process into Al(2)O(3), or chemical ``freezeout{''} occurs. The species
+   therefore survives further into the circumstellar envelope to a radius
+   of r similar to 20 R({*}). The detection of AlO in VY CMa is additional
+   evidence of an active gas-phase refractory chemistry in oxygen-rich
+   envelopes, and suggests such objects may be fruitful sources for other
+   new oxide identifications.},
+DOI = {10.1088/0004-637X/694/1/L59},
+Times-Cited = {9},
+Journal-ISO = {Astrophys. J. Lett.},
+Unique-ID = {ISI:000264196500013},
+}
+
+
+
+@article{ 06JeGwxx.AlO,
+Author = {Jeung, Gwang-Hi},
+Title = {Ionisation potential, electron affinity and polar bond: a first-order
+   correction method for interaction energy},
+Journal = {TCA},
+Year = {2006},
+Volume = {116},
+Number = {4-5},
+Pages = {450-455},
+Month = {SEP},
+Abstract = {A new first-order method is proposed to improve the potential energy of
+   the polar molecules. The nature of the polar bonding is illustrated by
+   some examples, LiF, LiO, LiH, ScO, and AlO molecules, covering from
+   strong to weak ionic cases. A simple first-order correction method using
+   the dipole moment or the effective charge, and the experimental and
+   theoretical ionisation potentials and electron affinities is explained.
+   Application of this method to those molecules improves remarkably the
+   spectroscopic constants. This method can be easily extended to
+   polyatomic cases involving a polar bonding between an electropositive
+   moiety (electron donor) and an electronegative functional group
+   (electron acceptor).},
+DOI = {10.1007/s00214-006-0097-1},
+ISSN = {1432-881X},
+Times-Cited = {3},
+Journal-ISO = {Theor. Chem. Acc.},
+Unique-ID = {ISI:000240062400009},
+}
+
+@article{ 06ChLoBe.AlO,
+Author = {Chaudhari, MM and Londhe, CT and Behere, SH},
+Title = {Determination of rotational temperature of AlO from the B-2 Sigma(+)-X-2
+   Sigma(+) system},
+Journal = {PRAMANA-JOURNAL OF PHYSICS},
+Year = {2006},
+Volume = {66},
+Number = {3},
+Pages = {597-600},
+Month = {MAR},
+Abstract = {AlO molecule was excited in a DC arc in air running between two
+   aluminium electrodes. Rotational structure of the (0,0) band of the B-2
+   Sigma(+)-X-2 Sigma(+) system of AlO molecule was photographed in the
+   first order of a 10.6 m concave grating spectrograph. Intensity
+   distribution amongst the well-resolved rotational lines of R(1)and R-2
+   branches was recorded and the average rotational temperature calculated
+   from these has been determined as 2880 +/- 100 K.},
+DOI = {10.1007/BF02704502},
+ISSN = {0304-4289},
+Times-Cited = {0},
+Journal-ISO = {Pramana-J. Phys.},
+Unique-ID = {ISI:000236181900012},
+}
+
+@article{ 06Grxxxx.AlO,
+Author = {Grein, F},
+Title = {Hyperfine coupling constants for N-2(+), BO, AlO and GaO in rare gas
+   matrices, using the polarizable continuum model},
+Journal = CPL,
+Year = {2006},
+Volume = {418},
+Number = {1-3},
+Pages = {100-104},
+Month = {JAN 25},
+Abstract = {Rare gas matrix effects on hyperfine coupling constants of N-2(+), BO,
+   AlO and GaO were investigated by performing density functional
+   calculations with 6-311 + G(3df) basis sets, using the polarizable
+   continuum model with dielectric constants epsilon from 1 to 2. Known
+   experimental values of A(ISO) (Al-27) for AlO correspond to e values of
+   about 1.1 in Ne (766 MHz), 1.75 in Ar (899 MHz), and 1.85 in Kr matrices
+   (920 MHz). A(iso)(M) of BO, AlO and GaO (MO) increases with epsilon, but
+   A(dip)(M) and A(dip)(O) decrease, indicating that the s-spin density on
+   M increases at the expense of p-spin densities on M and O. (c) 2005
+   Elsevier B.V. All rights reserved.},
+DOI = {10.1016/j.cplett.2005.10.079},
+ISSN = {0009-2614},
+Times-Cited = {3},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:000234849500020},
+}
+
+@article{ 05Grxxx1.AlO,
+Author = {Grein, F},
+Title = {Rare gas effects on hyperfine coupling constants of BO, AlO, and GaO},
+Journal = JPCA,
+Year = {2005},
+Volume = {109},
+Number = {41},
+Pages = {9270-9278},
+Month = {OCT 20},
+Abstract = {Using density functional theory methods and large basis sets, we
+   calculated hyperfine coupling constants (HFCCs) for the B-11, O-17,
+   Al-27, and Ga-69 nuclei of the radicals BO, AlO, and GaO (XO), embedded
+   in 2-14 rare gas (Rg) Ne and Ar atoms. Kr atoms were included for AlO.
+   The distance of the Rg atoms from XO was varied from 4 to 12 bohr.
+   Matrix effects cause A(iso)(X) to increase, accompanied by decreases in
+   A(dip)(X) and A(dip)(O), while A(iso)(O) remains close to zero. Changes
+   are largest for AlO, slightly smaller for GaO, and very small for BO, in
+   line with the molecular polarizabilities. Observed changes of A(iso)(X)
+   and A(dip)(X) for BO in Ne matrixes and for AlO in Ne, Ar, and Kr
+   matrixes are reproduced in complexes with 12 Rg atoms at distances of
+   5-6 bohr or 14 Rg atoms at distances of 6-7 bohr. For GaO, experimental
+   data are available only in Ne matrixes. Theoretical results obtained for
+   HFCCs of O-17 could not be verified due to insufficient experimental
+   information. Estimates of HFCCs in matrixes not yet experimentally
+   studied and for GaO in the gas phase have been made. Due to the
+   interaction with rare gas atoms, p-spin density on the X and O atoms of
+   XO is converted into s-spin density on X, thereby causing an increase
+   (in magnitude) of A(iso)(X), accompanied by decreases in A(dip) of X and
+   O. The higher polarizability of XO along the bond axis is reflected in
+   complexes that have axial Rg atoms showing larger changes in HFCCs than
+   comparable complexes without axial Rg atoms.},
+DOI = {10.1021/jp052908n},
+ISSN = {1089-5639},
+Times-Cited = {2},
+Journal-ISO = {J. Phys. Chem. A},
+Unique-ID = {ISI:000232612000012},
+}
+
+@article{ 03ZhLixx.AlO,
+Author = {Zhang, SD and Li, HY},
+Title = {Formation mechanism and emission spectrum of AlO radicals in reaction of
+   laser-ablated Al Atom and oxygen},
+Journal = {CHEMICAL RESEARCH IN CHINESE UNIVERSITIES},
+Year = {2003},
+Volume = {19},
+Number = {3},
+Pages = {320-323},
+Month = {JUL},
+Abstract = {The emission spectrum of AlO radicals was analyzed in 440-540 nm in the
+   reaction of laser ablated At beam and O-2. The carrier of spectrum was
+   assigned to Deltanu = 0, +/-1, +/-2 vibrational sequences of
+   B(2)Sigma(+)-X(2)Sigma(+) transition of AlO radicals, the observed
+   maximum vibrational quantum number was root = 6. The rotational and
+   vibrational temperatures of B state were estimated at 3000 and 7500 K by
+   spectrally simulating the rovibronic population distribution. There is a
+   strong evidence that the production of excited Al(S-2) atoms is
+   essential to the formation of excited AlO radicals.},
+ISSN = {1005-9040},
+Times-Cited = {0},
+Journal-ISO = {Chem. Res. Chin. Univ.},
+Unique-ID = {ISI:000184995900016},
+}
+
+@article{ 01GlSeKr.AlO,
+Author = {Glumac, NG and Servaites, J and Krier, H},
+Title = {AlO vibrational temperature measurements from burning aluminum particles
+   at elevated pressure},
+Journal = {COMBUSTION SCIENCE AND TECHNOLOGY},
+Year = {2001},
+Volume = {172},
+Pages = {97-107},
+Abstract = {A streak camera is used to obtain time-resolved AlO emission spectra
+   from burning 10 micron aluminum particles in a CO2/Ar mixture at 8.6
+   atmospheres in a shock tube. Digital spectra are obtained with a
+   temporal resolution of 16 microseconds over the entire 180 microsecond
+   combustion event. These spectra are fit to vibrational temperatures in
+   the range of 4225 to 5900 K, with uncertainties ranging from 500 to 1400
+   K. The estimated temperatures are in agreement to within experimental
+   uncertainty with the predicted aluminum combustion temperatures under
+   these conditions. The spectra show some evidence of a non-equilibrium
+   vibrational population distribution during peak of the combustion event.},
+DOI = {10.1080/00102200108935840},
+ISSN = {0010-2202},
+Times-Cited = {6},
+Journal-ISO = {Combust. Sci. Technol.},
+Unique-ID = {ISI:000174946400006},
+}
+
+@article{ 00VaFoFo.AlO,
+Author = {Varenne, O and Fournier, PG and Fournier, J and Bellaoui, B and Fake, AI
+   and Rostas, J and Taieb, G},
+Title = {Internal population distribution of the B state of AlO formed by fast
+   ion beam bombardment or laser ablation of an Al2O3 (Al) surface},
+Journal = {NUCLEAR INSTRUMENTS \& METHODS IN PHYSICS RESEARCH SECTION B-BEAM
+   INTERACTIONS WITH MATERIALS AND ATOMS},
+Year = {2000},
+Volume = {171},
+Number = {3},
+Pages = {259-276},
+Month = {NOV},
+Abstract = {A complex emission spectrum in the 440-550 nm region has been recorded
+   by bombarding targets of Al2O3 (and Al under low O-2 partial pressure)
+   polycrystalline surface with fast (5 keV) Kr+ ion beams under high
+   vacuum (10(-8) Torr). This spectrum has been compared with the
+   chemiluminescence spectrum of AlO formed by laser ablation of an Al
+   target in the presence of oxygen. Both spectra exhibit strong Al lines,
+   weak Al+ lines and very weak molecular features, among which bandheads
+   of the Delta nu = 0, +/-1, +/-2 sequences of the AlO B(2)Sigma
+   (+)-X(2)Sigma (+) system have been identified. The internal energy
+   distribution of the AlO B state, determined by simulation of the B-X
+   system, shows that both techniques yield highly vibrationally and
+   rotationally excited AlO molecules in the B state. Local equilibrium is
+   achieved (T-rot = T-vib similar or equal to 4000 K) for the B(2)Sigma
+   (+) State of AlO formed via laser ablation, in agreement with previous
+   studies and with a reaction scheme proceeding through a long-lived
+   intermediate. In contrast, the AlO molecules formed in the B(2)Sigma (+)
+   state through fast ion beam bombardment are much more rotationally than
+   vibrationally excited. The rovibronic population distributions, most
+   probably highly non-thermal, can be roughly represented by thermal
+   populations corresponding to rotational and vibrational temperatures of
+   13 000 and 5000 K, respectively. (C) 2000 Elsevier Science B.V. All
+   rights reserved.},
+DOI = {10.1016/S0168-583X(00)00262-7},
+ISSN = {0168-583X},
+Times-Cited = {11},
+Journal-ISO = {Nucl. Instrum. Methods Phys. Res. Sect. B-Beam Interact. Mater. Atoms},
+Unique-ID = {ISI:000165213500002},
+}
+
+@article{ 00JiChPe.AlO,
+Author = {Jin, J and Chen, Y and Pei, LS and Hu, CJ and Ma, XX and Chen, CX},
+Title = {Fluorescence excitation spectrum of B-2 Sigma(+)-X-2 Sigma(+) of AlO
+   radical in a supersonic jet},
+Journal = {ACTA PHYSICA SINICA},
+Year = {2000},
+Volume = {49},
+Number = {9},
+Pages = {1689-1691},
+Month = {SEP},
+Abstract = {Laser-induced fluorescence excitation spectrum of
+   B(2)Sigma(+)-X(2)Sigma(+) transition of gas-phase AlO radical cooled in
+   a supersonic jet has been observed in the range of 430-480 nm. AlO was
+   produced by reacting O-2 with Al atoms from a de discharge-sputtering
+   source. The observed vibrational bands were identified as V' -
+   V{''}=1,2,3 transitions respectively. The vibrational frequencies and
+   anharmonic constants were obtained for both the ground state
+   X(2)Sigma(+) and the excited state B(2)Sigma(+). Furthermore a
+   rotational analysis of the (1,1) band was made. The abnormal intensity
+   of the V{''}=5 transitions is discussed.},
+ISSN = {1000-3290},
+Times-Cited = {2},
+Journal-ISO = {Acta Phys. Sin.},
+Unique-ID = {ISI:000089304200007},
+}
+
+@article{ 00SwCaxx.AlO,
+Author = {Swihart, MT and Catoire, L},
+Title = {Thermochemistry of aluminum species for combustion modeling from ab
+   initio molecular orbital calculations},
+Journal = {COMBUSTION AND FLAME},
+Year = {2000},
+Volume = {121},
+Number = {1-2},
+Pages = {210-222},
+Month = {APR},
+Abstract = {High accuracy ab initio methods for computational thermochemistry have
+   been applied to aluminum compounds expected to be present during
+   combustion of aluminum particles. The computed enthalpies of formation
+   at 298.15 It agree well with experimental values from the literature for
+   AlCl, AlCl3, AlO, AlOAl, linear OAlO, planar Al2O2, AlOH, AlH, and AlN.
+   The agreement is fair for AlCl2. Major revisions to the recommended
+   thermochemistry must be considered for OAlCl, OAlH, OAlOH, and AlC. This
+   is not surprising since the thermodynamic data for OAlCl, OAlN, OAlOH,
+   and AlC are given in the literature as rough estimates. Calculated
+   thermochemical data are also presented for several species never studied
+   experimentally including AlH2, AlH3, AlOO, cyclic-AlO2, linear AlOAlO,
+   AlHCl, AlHCl2, and others. Based on the performance of the CBS-Q and G2,
+   methods observed in other systems, the calculated enthalpies of
+   formation would be expected to be accurate to within +/-1 to 2 kcal
+   mol(-1). However, relatively large differences between the results from
+   the CBS-Q and G2 methods for the aluminum oxides indicate that the
+   uncertainties are slightly larger for these compounds. The
+   thermochemistry proposed here is shown to predict substantially
+   different equilibrium composition from the thermochemistry previously
+   available in the literature. (C) 2000 by The Combustion Institute.},
+DOI = {10.1016/S0010-2180(99)00128-5},
+ISSN = {0010-2180},
+Times-Cited = {35},
+Journal-ISO = {Combust. Flame},
+Unique-ID = {ISI:000085534000014},
+}
+
+@article{ 98ReNaRa.AlO,
+Author = {Reddy, RR and Nazeer Ahammed, Y and Rama Gopal, K and Abdul Azeem, P and
+   Anjaneyulu, S},
+Title = {RKRV potential energy curves, dissociation energies, gamma-centroids and
+   Franck-condon factors of YO, CrO, BN, ScO, SiO and AlO molecules},
+Journal = {ASTROPHYSICS AND SPACE SCIENCE},
+Year = {1998},
+Volume = {262},
+Number = {2},
+Pages = {223-240},
+Abstract = {The potential energy curves for the electronic ground states of
+   astrophysically important YO, CrO, BN, ScO, SiO and AlO molecules are
+   constructed techniques using the five-parameter Hulburt-Hirschfelder
+   function. The estimated dissociation energies are 7.235 +/- 0.15, 4.337
+   +/- 0.09, 3.917 +/- 0.09, 6.899 +/- 0.14, 8.181 +/- 0.17 and 5.202 +/-
+   0.11 eV for YO, CrO, BN, ScO, SiO and AlO, respectively. The estimated
+   D-0 values are in reasonably good agreement with literature values. The
+   r-Centroids and Franck-Condon factors for the bands of B-2 Sigma(+) -
+   X-2 Sigma(+) of YO, B-5 Pi -X-5 Pi> of CrO, A(3) Pi - X-3 Pi of BN, B-2
+   Sigma(+) -X-2 Sigma(+) of ScO, E-1 Sigma(+) - X-1 Sigma(+) of SiO and
+   D-2 Sigma(+) - X-2 Sigma(+) and B-2 Sigma(+) -X-2 Sigma(+) of AlO
+   molecules have been determined. The Franck-Condon factors are evaluated
+   by the approximate analytical method of Jarmain and Fraser. The absence
+   of the bands in these systems is explained.},
+DOI = {10.1023/A:1001848028629},
+ISSN = {0004-640X},
+Times-Cited = {4},
+Journal-ISO = {Astrophys. Space Sci.},
+Unique-ID = {ISI:000083368100011},
+}
+
+@article{ 93NeSexx.AlO,
+Author = {NEMUKHIN, AV and SEREBRENNIKOV, LV},
+Title = {MOLECULAR-SPECTRA AND STRUCTURE OF THE BORON AND ALUMINUM-OXIDES},
+Journal = {USPEKHI KHIMII},
+Year = {1993},
+Volume = {62},
+Number = {6},
+Pages = {566-578},
+Abstract = {The results of theoretical and experimental studies of molecular
+   structure of the boron and aluminum oxides X2O3, X2O2, X2O, XO2 (X = B,
+   Al) carried out primarily by spectroscopic methods using matrix
+   isolation technique and by quantum chemical calculations are discussed.
+   Bibliography - 70 references.},
+ISSN = {0042-1308},
+Times-Cited = {10},
+Journal-ISO = {Uspekhi Khimii},
+Unique-ID = {ISI:A1993LX77700002},
+}
+
+@article{ 92RiCaPa.AlO,
+Author = {RIVASSILVA, JF and CAMPOY, G and PALMA, A},
+Title = {IMPROVING AN ALGEBRAIC APPROACH TO CALCULATE APPROXIMATE FRANCK-CONDON
+   FACTORS OF DIATOMIC-MOLECULES},
+Journal = {INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY},
+Year = {1992},
+Volume = {43},
+Number = {6},
+Pages = {747-753},
+Month = {AUG 10},
+Abstract = {Using the BCH theorem, we express the Hamiltonian of a Morse oscillator
+   as a complete series of powers of the creation and annihilation
+   operators for the harmonic oscillator. In this way, we improve the
+   results of a previous work that uses a Bogoliubov-Tyablikov
+   tranformation to calculate the Franck-Condon factors by means of
+   equivalent harmonic oscillators potentials.},
+DOI = {10.1002/qua.560430603},
+ISSN = {0020-7608},
+Times-Cited = {6},
+Journal-ISO = {Int. J. Quantum Chem.},
+Unique-ID = {ISI:A1992JF95700002},
+}
+
+@article{ 91KrPuNe.AlO,
+Author = {KRYLOVA, AI and PUPYSHEV, VI and NEMUKHIN, AV},
+Title = {VIBRATIONAL-SPECTRA SIMULATIONS FOR THE MATRIX-ISOLATED ALUMINUM-OXIDE
+   MOLECULES},
+Journal = {VESTNIK MOSKOVSKOGO UNIVERSITETA SERIYA 2 KHIMIYA},
+Year = {1991},
+Volume = {32},
+Number = {6},
+Pages = {556-560},
+Month = {NOV-DEC},
+ISSN = {0579-9384},
+Times-Cited = {3},
+Journal-ISO = {Vestn. Mosk. Univ. Seriya 2 Khimiya},
+Unique-ID = {ISI:A1991HC48900002},
+}
+
+@article{ 91SaSaAs.AlO,
+Author = {SALZBERG, AP and SANTIAGO, DI and ASMAR, F and SANDOVAL, DN and WEINER,
+   BR},
+Title = {COLLISION-INDUCED ELECTRONIC QUENCHING OF ALUMINUM MONOXIDE},
+Journal = CPL,
+Year = {1991},
+Volume = {180},
+Number = {3},
+Pages = {161-167},
+Month = {MAY 17},
+Abstract = {Pulsed laser vaporization-laser-induced fluorescence has been used to
+   produce AlO(beta-2-SIGMA+). Electronic quenching cross-sections for
+   AlO(beta-2-SIGMA+, nu' = 1) were determined by examining fluorescence
+   decay rates in the presence of eight atomic and diatomic collision
+   partners. The measured electronic quenching cross-sections extend from
+   0.2 to 14 angstrom 2. Some possible molecular mechanisms rationalizing
+   the observed quenching cross-sections are discussed.},
+DOI = {10.1016/0009-2614(91)87134-W},
+ISSN = {0009-2614},
+Times-Cited = {27},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:A1991FQ31700004},
+}
+
+@article{ 89ToHexx.AlO,
+Author = {TORRING, T and HERRMANN, R},
+Title = {FINE AND HYPERFINE-STRUCTURE IN THE X2-SIGMA+-STATE OF ALO},
+Journal = MP,
+Year = {1989},
+Volume = {68},
+Number = {6},
+Pages = {1379-1381},
+Month = {DEC 20},
+DOI = {10.1080/00268978900102981},
+ISSN = {0026-8976},
+Times-Cited = {12},
+Journal-ISO = {Mol. Phys.},
+Unique-ID = {ISI:A1989CJ57400015},
+}
+
+@article{ 89MeStxx.AlO,
+Author = {MEIER, U and STAEMMLER, V},
+Title = {AN EFFICIENT 1ST-ORDER CASSCF METHOD BASED ON THE RENORMALIZED
+   FOCK-OPERATOR TECHNIQUE},
+Journal = {THEORETICA CHIMICA ACTA},
+Year = {1989},
+Volume = {76},
+Number = {2},
+Pages = {95-111},
+Month = {AUG},
+DOI = {10.1007/BF00532127},
+ISSN = {0040-5744},
+Times-Cited = {82},
+Journal-ISO = {Theor. Chim. Acta},
+Unique-ID = {ISI:A1989AK58400003},
+}
+
+@article{ 88JoMaJh.AlO,
+Author = {JOSHY, NV and MANDAL, TK and JHA, BL},
+Title = {SPECTROSCOPIC STUDIES OF ALUMINUM MONOXIDE},
+Journal = {ACTA PHYSICA POLONICA A},
+Year = {1988},
+Volume = {73},
+Number = {4},
+Pages = {613-617},
+Month = {APR},
+ISSN = {0587-4246},
+Times-Cited = {1},
+Journal-ISO = {Acta Phys. Pol. A},
+Unique-ID = {ISI:A1988N381800012},
+}
+
+@article{ 87LaHiBr.AlO,
+Author = {LAMOREAUX, RH and HILDENBRAND, DL and BREWER, L},
+Title = {HIGH-TEMPERATURE VAPORIZATION BEHAVIOR OF OXIDES .2. OXIDES OF BE, MG,
+   CA, SR, BA, B, AL, GA, IN, TL, SI, GE, SN, PB, ZN, CD, AND HG},
+Journal = {JOURNAL OF PHYSICAL AND CHEMICAL REFERENCE DATA},
+Year = {1987},
+Volume = {16},
+Number = {3},
+Pages = {419-443},
+ISSN = {0047-2689},
+Times-Cited = {127},
+Journal-ISO = {J. Phys. Chem. Ref. Data},
+Unique-ID = {ISI:A1987K288600002},
+}
+
+@article{ 87BaBhGo.AlO,
+Author = {BALASUBRAMANIAN, TK and BHALE, GL and GOPAL, S and KRISHNAMURTHY, G and
+   LAKSHMINARAYANA, G and SAKSENA, MD and SARASWATHY, P and SHETTY, BJ and
+   SINGH, M},
+Title = {HIGH-RESOLUTION SPECTRAL STUDIES OF SOME DIATOMIC-MOLECULES OF
+   ASTROPHYSICAL INTEREST},
+Journal = {IAU SYMPOSIA},
+Year = {1987},
+Number = {120},
+Pages = {91-92},
+ISSN = {0074-1809},
+Times-Cited = {0},
+Unique-ID = {ISI:A1987F763700016},
+}
+
+@article{ 85BaHaNi.AlO,
+Author = {BARES, SJ and HAAK, M and NIBLER, JW},
+Title = {SPECTROSCOPIC STUDIES OF ALO IN ARGON MATRICES},
+Journal = JCP,
+Year = {1985},
+Volume = {82},
+Number = {2},
+Pages = {670-675},
+DOI = {10.1063/1.448543},
+ISSN = {0021-9606},
+Times-Cited = {23},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1985ABZ0900010},
+}
+
+@article{ 85SiSaxx.AlO,
+Author = {SINGH, M and SAKSENA, MD},
+Title = {THE D2-SIGMA+ - A2-PI-I AND C2-PI-R - A2-PI-I TRANSITIONS OF AIO},
+Journal = {CANADIAN JOURNAL OF PHYSICS},
+Year = {1985},
+Volume = {63},
+Number = {9},
+Pages = {1162-1172},
+ISSN = {0008-4204},
+Times-Cited = {12},
+Journal-ISO = {Can. J. Phys.},
+Unique-ID = {ISI:A1985AUP5100006},
+}
+
+@article{ 85Jaxxxx.AlO,
+Author = {JACOX, ME},
+Title = {COMPARISON OF THE GROUND-STATE VIBRATIONAL FUNDAMENTALS OF
+   DIATOMIC-MOLECULES IN THE GAS-PHASE AND IN INERT SOLID MATRICES},
+Journal = JMS,
+Year = {1985},
+Volume = {113},
+Number = {2},
+Pages = {286-301},
+DOI = {10.1016/0022-2852(85)90268-1},
+ISSN = {0022-2852},
+Times-Cited = {64},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:A1985ATT9000003},
+}
+
+@article{ 84WaRaxx.AlO,
+Author = {WALVEKAR, AP and RAMA, MA},
+Title = {F-C FACTORS BY PSHM AND VARIATION OF ELECTRONIC-TRANSITION MOMENT FOR
+   ALO BLUE-GREEN BAND SYSTEM},
+Journal = {INDIAN JOURNAL OF PURE \& APPLIED PHYSICS},
+Year = {1984},
+Volume = {22},
+Number = {1},
+Pages = {53-55},
+ISSN = {0019-5596},
+Times-Cited = {1},
+Journal-ISO = {Indian J. Pure Appl. Phys.},
+Unique-ID = {ISI:A1984SM31800015},
+}
+
+@article{ 83SiSaxx.AlO,
+Author = {SINGH, M and SAKSENA, MD},
+Title = {C2-PI-R-X2-SIGMA+ TRANSITION OF ALO},
+Journal = {CANADIAN JOURNAL OF PHYSICS},
+Year = {1983},
+Volume = {61},
+Number = {9},
+Pages = {1347-1358},
+ISSN = {0008-4204},
+Times-Cited = {14},
+Journal-ISO = {Can. J. Phys.},
+Unique-ID = {ISI:A1983RE13900013},
+}
+
+@article{ 83PaLaLe.AlO,
+Author = {PARTRIDGE, H and LANGHOFF, SR and LENGSFIELD, BH and LIU, B},
+Title = {THEORETICAL-STUDY OF THE ALO BLUE-GREEN (B2 SIGMA+-X2 SIGMA+) BAND
+   SYSTEM},
+Journal = JQSRT,
+Year = {1983},
+Volume = {30},
+Number = {5},
+Pages = {449-462},
+DOI = {10.1016/0022-4073(83)90108-5},
+ISSN = {0022-4073},
+Times-Cited = {28},
+Journal-ISO = JQSRT,
+Unique-ID = {ISI:A1983RQ12500008},
+}
+
+@article{ 82LeLixx.AlO,
+Author = {LENGSFIELD, BH and LIU, B},
+Title = {ABINITIO DIPOLE-MOMENT FUNCTIONS FOR THE X2-SIGMA+ AND B2-SIGMA+ STATES
+   OF AIO},
+Journal = JCP,
+Year = {1982},
+Volume = {77},
+Number = {12},
+Pages = {6083-6089},
+DOI = {10.1063/1.443852},
+ISSN = {0021-9606},
+Times-Cited = {42},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1982PT40300021},
+}
+
+@article{ 81GoKoxx.AlO,
+Author = {GOLE, JL and KOLB, CE},
+Title = {ON THE UPPER ATMOSPHERIC CHEMI-LUMINESCENT EMISSION OBSERVED UPON
+   RELEASE OF ALUMINUM VAPOR AND ITS COMPOUNDS},
+Journal = {JOURNAL OF GEOPHYSICAL RESEARCH-SPACE PHYSICS},
+Year = {1981},
+Volume = {86},
+Number = {NA11},
+Pages = {9125-9136},
+DOI = {10.1029/JA086iA11p09125},
+Times-Cited = {6},
+Journal-ISO = {J. Geophys. Res-Space Phys.},
+Unique-ID = {ISI:A1981ML90700029},
+}
+
+
+@article{ 81TaTuxx.AlO,
+Author = {TAWDE, NR and TULASIGERI, VG},
+Title = {FRANCK-CONDON FACTORS, R-CENTROIDS AND ELECTRONIC-TRANSITION MOMENT
+   VARIATION WITH INTER-NUCLEAR DISTANCE FOR ALO
+   (ALPHA-2-SIGMA-CHI-2-SIGMA) BAND SYSTEM USING RKR POTENTIALS},
+Journal = {ACTA PHYSICA ACADEMIAE SCIENTIARUM HUNGARICAE},
+Year = {1981},
+Volume = {50},
+Number = {1},
+Pages = {103-120},
+ISSN = {0001-6705},
+Times-Cited = {6},
+Unique-ID = {ISI:A1981MZ32600010},
+}
+
+@article{ 80RaRaRa.AlO,
+Author = {RAO, VM and RAO, MLP and RAO, PT},
+Title = {THE GROUND-STATE DISSOCIATION-ENERGY OF THE ALO RADICAL},
+Journal = {JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN},
+Year = {1980},
+Volume = {48},
+Number = {2},
+Pages = {583-585},
+DOI = {10.1143/JPSJ.48.583},
+ISSN = {0031-9015},
+Times-Cited = {1},
+Journal-ISO = {J. Phys. Soc. Jpn.},
+Unique-ID = {ISI:A1980JM64000033},
+}
+
+@article{ 80HeNiLi.AlO,
+Author = {HEBERT, GR and NICHOLLS, RW and LINTON, C},
+Title = {ABSOLUTE BAND STRENGTHS FOR THE ALO BLUE-GREEN (B2SIGMA-X2SIGMA) BAND
+   SYSTEM},
+Journal = JQSRT,
+Year = {1980},
+Volume = {23},
+Number = {2},
+Pages = {229-235},
+DOI = {10.1016/0022-4073(80)90010-2},
+ISSN = {0022-4073},
+Times-Cited = {8},
+Journal-ISO = JQSRT,
+Unique-ID = {ISI:A1980JD70700010},
+}
+
+
+
+@article{ 79MuJyxx.AlO,
+Author = {MUMMIGATTI, VM and JYOTI, BG},
+Title = {RKRV FRANCK-CONDON FACTORS AND R-CENTROIDS FOR THE (D2SIGMA+-X2SIGMA+)
+   TRANSITION OF ALO},
+Journal = {INDIAN JOURNAL OF PHYSICS AND PROCEEDINGS OF THE INDIAN ASSOCIATION FOR
+   THE CULTIVATION OF SCIENCE-PART B},
+Year = {1979},
+Volume = {53},
+Number = {4-5},
+Pages = {260-261},
+ISSN = {0019-5480},
+Times-Cited = {0},
+Unique-ID = {ISI:A1979JP00500015},
+}
+
+@article{ 78SrFaxx.AlO,
+Author = {SRIVASTAVA, RD and FARBER, M},
+Title = {THERMODYNAMIC PROPERTIES OF GROUP-3 OXIDES},
+Journal = {CHEMICAL REVIEWS},
+Year = {1978},
+Volume = {78},
+Number = {6},
+Pages = {627-638},
+DOI = {10.1021/cr60316a002},
+ISSN = {0009-2665},
+Times-Cited = {35},
+Journal-ISO = {Chem. Rev.},
+Unique-ID = {ISI:A1978FX42600002},
+}
+
+
+
+@article{ 77SaGoxx.AlO,
+Author = {SAYERS, MJ and GOLE, JL},
+Title = {CHEMILUMINESCENCE FROM AL+O3 - PERTURBATIONS, POPULATIONS, AND
+   VIBRATIONAL ANALYSIS FOR ALO API-2-XSIGMA-2(+) TRANSITION},
+Journal = JCP,
+Year = {1977},
+Volume = {67},
+Number = {12},
+Pages = {5442-5451},
+DOI = {10.1063/1.434765},
+ISSN = {0021-9606},
+Times-Cited = {36},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1977EG63300005},
+}
+
+@article{ 77LiGoxx.AlO,
+Author = {LINDSAY, DM and GOLE, JL},
+Title = {AL+O3 CHEMILUMINESCENCE - PERTURBATIONS AND VIBRATIONAL POPULATION
+   ANOMALIES IN B2-SIGMA+ STATE OF ALO},
+Journal = JCP,
+Year = {1977},
+Volume = {66},
+Number = {9},
+Pages = {3886-3898},
+DOI = {10.1063/1.434464},
+ISSN = {0021-9606},
+Times-Cited = {45},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1977DE08400006},
+}
+
+@article{ 76FrKrxx.AlO,
+Author = {FRANK, P and KRAUSS, L},
+Title = {DETERMINATION OF AIO GROUND-STATE DISSOCIATION-ENERGY BY MEANS OF
+   NORMALIZED TEMPERATURE METHOD},
+Journal = {ZEITSCHRIFT FUR NATURFORSCHUNG SECTION A-A JOURNAL OF PHYSICAL SCIENCES},
+Year = {1976},
+Volume = {31},
+Number = {10},
+Pages = {1193-1202},
+ISSN = {0932-0784},
+Times-Cited = {7},
+Journal-ISO = {Z. Naturfors. Sect. A-J. Phys. Sci.},
+Unique-ID = {ISI:A1976CK12900010},
+}
+
+@article{ 76Goxxxx.AlO,
+Author = {GOLE, JL},
+Title = {HIGH-TEMPERATURE CHEMISTRY - MODERN RESEARCH AND NEW FRONTIERS},
+Journal = {ANNUAL REVIEW OF PHYSICAL CHEMISTRY},
+Year = {1976},
+Volume = {27},
+Pages = {525-551},
+DOI = {10.1146/annurev.pc.27.100176.002521},
+ISSN = {0066-426X},
+Times-Cited = {24},
+Journal-ISO = {Annu. Rev. Phys. Chem.},
+Unique-ID = {ISI:A1976CT88400021},
+}
+
+@article{ 75MaJaSc.AlO,
+Author = {MAHIEU, JM and JACQUINOT, D and SCHAMPS, J and HALL, JA},
+Title = {SPIN DOUBLING IN OBSERVED 2SIGMA+ STATES OF ALO},
+Journal = {JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS},
+Year = {1975},
+Volume = {8},
+Number = {2},
+Pages = {308-312},
+DOI = {10.1088/0022-3700/8/2/020},
+ISSN = {0953-4075},
+Times-Cited = {21},
+Journal-ISO = {J. Phys. B-At. Mol. Opt. Phys.},
+Unique-ID = {ISI:A1975V708300020},
+}
+
+@article{ 75RoStBr.AlO,
+Author = {ROSENWAKS, S and STEELE, RE and BROIDA, HP},
+Title = {CHEMILUMINESCENCE OF ALO},
+Journal = JCP,
+Year = {1975},
+Volume = {63},
+Number = {5},
+Pages = {1963-1965},
+DOI = {10.1063/1.431530},
+ISSN = {0021-9606},
+Times-Cited = {47},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1975AN07000032},
+}
+
+@article{ 75DaCrZa.AlO,
+Author = {DAGDIGIAN, PJ and CRUSE, HW and ZARE, RN},
+Title = {LASER FLUORESCENCE STUDY OF ALO FORMED IN REACTION AL + O2 - PRODUCT
+   STATE DISTRIBUTION, DISSOCIATION-ENERGY, AND RADIATIVE LIFETIME},
+Journal = JCP,
+Year = {1975},
+Volume = {62},
+Number = {5},
+Pages = {1824-1833},
+DOI = {10.1063/1.430710},
+ISSN = {0021-9606},
+Times-Cited = {127},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1975V758400027},
+}
+
+@article{ 75Suxxxx.AlO,
+Author = {SULZMANN, KGP},
+Title = {SHOCK-TUBE MEASUREMENTS OF F-NUMBER FOR FUNDAMENTAL VIBRATION-ROTATION
+   BANDS OF ALO IN CHI2-SIGMA+ ELECTRONIC GROUND-STATE},
+Journal = JQSRT,
+Year = {1975},
+Volume = {15},
+Number = {4},
+Pages = {313-331},
+DOI = {10.1016/0022-4073(75)90126-0},
+ISSN = {0022-4073},
+Times-Cited = {5},
+Journal-ISO = JQSRT,
+Unique-ID = {ISI:A1975V908600005},
+}
+
+@article{ 74FrKrxx.AlO,
+Author = {FRANK, P and KRAUSS, L},
+Title = {SPECTROSCOPIC DETERMINATION OF DISSOCIATION-ENERGY OF ALUMINUM MONOXIDE
+   FROM EQUILIBRIA IN FLAMES},
+Journal = {ZEITSCHRIFT FUR NATURFORSCHUNG SECTION A-A JOURNAL OF PHYSICAL SCIENCES},
+Year = {1974},
+Volume = {A 29},
+Number = {5},
+Pages = {742-749},
+ISSN = {0932-0784},
+Times-Cited = {4},
+Journal-ISO = {Z. Naturfors. Sect. A-J. Phys. Sci.},
+Unique-ID = {ISI:A1974T225800014},
+}
+
+@article{ 74LuLaxx.AlO,
+Author = {LUCK, RE and LAMBERT, DL},
+Title = {ALUMINUM-OXIDE IN STELLAR SPECTRA - INFRARED ELECTRONIC-TRANSITION},
+Journal = {PUBLICATIONS OF THE ASTRONOMICAL SOCIETY OF THE PACIFIC},
+Year = {1974},
+Volume = {86},
+Number = {511},
+Pages = {276-278},
+DOI = {10.1086/129598},
+ISSN = {0004-6280},
+Times-Cited = {4},
+Journal-ISO = {Publ. Astron. Soc. Pac.},
+Unique-ID = {ISI:A1974T513300007},
+}
+
+@article{ 74DaJaWa.AlO,
+Author = {DAS, G and JANIS, T and WAHL, AC},
+Title = {GROUND AND EXCITED-STATES OF DIATOMS CN AND AIO},
+Journal = JCP,
+Year = {1974},
+Volume = {61},
+Number = {4},
+Pages = {1274-1279},
+DOI = {10.1063/1.1682049},
+ISSN = {0021-9606},
+Times-Cited = {45},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1974T884500002},
+}
+
+@article{ 73YoMcLi.AlO,
+Author = {YOSHIMIN.M and MCLEAN, AD and LIU, B},
+Title = {BAND STRENGTHS FOR ELECTRIC DIPOLE TRANSITIONS FROM AB-INITIO
+   COMPUTATION - LIO(X2PI-X2PI), (A2-SIGMA+-A2-SIGMA+), (X2PI-A2-SIGMA+),
+   ALO(X2-SIGMA+-X2-SIGMA+),(A2PI-A2PI),(X2SIGMA+-A2PI),
+   (B2-SIGMA+-B2SIGMA+), (X2-SIGMA+-B2-SIGMA+)},
+Journal = JCP,
+Year = {1973},
+Volume = {58},
+Number = {10},
+Pages = {4412-4429},
+DOI = {10.1063/1.1679002},
+ISSN = {0021-9606},
+Times-Cited = {79},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1973P771000045},
+}

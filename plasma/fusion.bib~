@@ -1,0 +1,386 @@
+@article{ KupBeITER,
+Author = {Kupriyanov, I. B. and Nikolaev, G. N. and Kurbatova, L. A. and
+   Porezanov, N. P. and Podkovyrov, V. L. and Muzichenko, A. D. and
+   Zhitlukhin, A. M. and Gervash, A. A. and Safronov, V. M.},
+Title = {{Erosion of beryllium under ITER - Relevant transient plasma loads}},
+Journal = {J. Nuc. Materials}, 
+Year = {{2015}},
+Volume = {{463}},
+Pages = {781-786},
+Abstract = {{Beryllium will be used as a armor material for the ITER first wall. It
+   is expected that erosion of beryllium under transient plasma loads such
+   as the edge-localized modes (ELMs) and disruptions will mainly determine
+   a lifetime of the ITER first wall. This paper presents the results of
+   recent experiments with the Russian beryllium of TGP-56FW ITER grade on
+   QSPA-Be plasma gun facility. The Be/CuCrZr mock-ups were exposed to up
+   to 100 shots by deuterium plasma streams (5 cm in diameter) with pulse
+   duration of 0.5 ms and heat loads range of 0.2-0.5 MJ/m(2) at different
+   temperature of beryllium tiles. The temperature of Be tiles has been
+   maintained about 250 and 500 degrees C during the experiments. After
+   10,40 and 100 shots, the beryllium mass loss/gain under erosion process
+   were investigated as well as evolution of surface microstructure and
+   cracks morphology. (C) 2015 Published by Elsevier B.V.}},
+DOI = {{10.1016/j.jnucmat.2015.01.050}},
+}
+
+@article{ ,
+Author = {Airila, M. I. and Jarvinen, A. and Groth, M. and Belo, P. and Wiesen, S.
+   and Brezinsek, S. and Lawson, K. and Borodin, D. and Kirschner, A. and
+   Coad, J. P. and Heinola, K. and Likonen, J. and Rubel, M. and Widdowson,
+   A. and JET-EFDA Contributors},
+Title = {{Preliminary Monte Carlo simulation of beryllium migration during JET
+   ITER-like wall divertor operation}},
+Journal = {J. Nuc. Materials}, 
+Year = {{2015}},
+Volume = {{463}},
+Pages = {{800-804}},
+Abstract = {{Migration of beryllium into the divertor and deposition on tungsten in
+   the final phase of the first ITER-like-wall campaign of JET are modelled
+   with the 3D Monte Carlo impurity transport code ERO. The simulation
+   covers the inner wall and the inner divertor. To generate the plasma
+   background for Monte Carlo tracing of impurity particles, we use the
+   EDGE2D/EIRENE code set. At the relevant regions of the wall, the
+   estimated plasma conditions vary around T-e approximate to 5eV and n(e)
+   2 x 10(17) m(-3) (far-scrape-off layer; more than 10 cm away from the
+   LCFS). We calculate impurity distributions in the plasma using the main
+   chamber source as a free parameter in modelling and attempt to reproduce
+   inter-ELM spectroscopic BeII line (527 nm) profiles at the divertor. The
+   present model reproduces the level of emission close to the inner wall,
+   but further work is needed to match also the measured emission peak
+   values and ultimately link the modelled poloidal net deposition profiles
+   of beryllium to post mortem data.}},
+DOI = {{10.1016/j.jnucmat.2014.09.010}},
+}
+
+@article{winter1975present,
+  title={The present state of controlled nuclear fusion research},
+  author={Winter, H},
+  journal={Vacuum},
+  volume={25},
+  pages={497--511},
+  year={1975},
+}
+
+@book{lister2006fusion,
+  title={Fusion: The Energy of the Universe},
+  author={Lister, J},
+  year={2006},
+  publisher={IOP Publishing}
+}
+
+@article{keilhacker2001scientific,
+  title={The scientific success of JET},
+  author={Keilhacker, M and Gibson, A and Gormezano, C and Rebut, PH},
+  journal={Nucl. Fusion},
+  volume={41},
+  pages={1925},
+  year={2001},
+}
+
+@article{15BrWiMa ,
+Author = {Brezinsek, S. and Widdowson, A. and Mayer, M. and Philipps, V. and
+   Baron-Wiechec, P. and Coenen, J. W. and Heinola, K. and Huber, A. and
+   Likonen, J. and Petersson, P. and Rubel, M. and Stamp, M. F. and
+   Borodin, D. and Coad, J. P. and Carrasco, A. G. and Kirschner, A. and
+   Krat, S. and Krieger, K. and Lipschultz, B. and Linsmeier, Ch. and
+   Matthews, G. F. and Schmid, K. and JET Contributors},
+Title = {{Beryllium migration in JET ITER-like wall plasmas}},
+Journal = {Nuc. Fusion},
+Year = {{2015}},
+Volume = {{55}},
+Abstract = {{JET is used as a test bed for ITER, to investigate beryllium migration
+   which connects the lifetime of first-wall components under erosion with
+   tokamak safety, in relation to long-term fuel retention. The (i) limiter
+   and the (ii) divertor configurations have been studied in JET-ILW (JET
+   with a Be first wall and W divertor), and compared with those for the
+   former JET-C (JET with carbon-based plasma-facing components (PFCs)).
+   (i) For the limiter configuration, the Be gross erosion at the contact
+   point was determined in situ by spectroscopy as between 4\% (E-in = 35
+   eV) and more than 100\%, caused by Be self-sputtering (E-in = 200 eV).
+   Chemically assisted physical sputtering via BeD release has been
+   identified to contribute to the effective Be sputtering yield, i.e. at
+   E-in = 75 eV, erosion was enhanced by about 1/3 with respect to the bare
+   physical sputtering case. An effective gross yield of 10\% is on average
+   representative for limiter plasma conditions, whereas a factor of 2
+   difference between the gross erosion and net erosion, determined by
+   post-mortem analysis, was found. The primary impurity source in the
+   limiter configuration in JET-ILW is only 25\% higher (in weight) than
+   that for the JET-C case. The main fraction of eroded Be stays within the
+   main chamber. (ii) For the divertor configuration, neutral Be and BeD
+   from physically and chemically assisted physical sputtering by charge
+   exchange neutrals and residual ion flux at the recessed wall enter the
+   plasma, ionize and are transported by scrape-off layer flows towards the
+   inner divertor where significant net deposition takes place. The amount
+   of Be eroded at the first wall (21 g) and the Be amount deposited in the
+   inner divertor (28 g) are in fair agreement, though the balancing is as
+   yet incomplete due to the limited analysis of PFCs. The primary impurity
+   source in the JET-ILW is a factor of 5.3 less in comparison with that
+   for JET-C, resulting in lower divertor material deposition, by more than
+   one order of magnitude. Within the divertor, Be performs far fewer
+   re-erosion and transport steps than C due to an energetic threshold for
+   Be sputtering, and inhibits as a result of this the transport to the
+   divertor floor and the pump duct entrance. The target plates in the
+   JET-ILW inner divertor represent at the strike line a permanent net
+   erosion zone, in contrast to the net deposition zone in JET-C with thick
+   carbon deposits on the CFC (carbon-fibre composite) plates. The Be
+   migration identified is consistent with the observed low long-term fuel
+   retention and dust production with the JET-ILW.}},
+DOI = {{10.1088/0029-5515/55/6/063021}},
+pages = {{063021}}
+}
+
+@article{ ,
+Author = {Bjorkas, C. and Vortler, K. and Nordlund, K. and Nishijima, D. and
+   Doerner, R.},
+Title = {{Chemical sputtering of Be due to D bombardment}},
+Journal = NJP,
+Year = {{2009}},
+Volume = {{11}},
+Abstract = {{While covalently bonded materials such as carbon are well known to be
+   eroded by chemical sputtering when exposed to plasmas or low-energy ion
+   irradiation, pure metals have been believed to sputter only physically.
+   The erosion of Be when subject to D bombardment was in this work
+   measured at the PISCES-B facility and modelled with molecular dynamics
+   simulations. During the experiments, a chemical effect was observed,
+   since a fraction of the eroded Be was in the form of BeD molecules. This
+   fraction decreased with increasing ion energy. The same trend was seen
+   in the simulations and was explained by the swift chemical sputtering
+   mechanism, showing that pure metals can, indeed, be sputtered
+   chemically. D ions of only 7 eV can erode Be through this mechanism.}},
+DOI = {{10.1088/1367-2630/11/12/123017}},
+pages = {123017}}
+
+@article{ ,
+Author = {Shikama, T. and Fujii, K. and Mizushiri, K. and Hasuo, M. and Kado, S.
+   and Zushi, H.},
+Title = {{Calculation of a magnetic field effect on emission spectra of light
+   diatomic molecules for diagnostic application to fusion edge plasmas}},
+Journal = PPCF,
+Year = {{2009}},
+Volume = {{51}},
+Abstract = {{A scheme for computation of emission spectra of light diatomic molecules
+   under external magnetic and electric fields is presented. As model
+   species in fusion edge plasmas, the scheme is applied to
+   polarization-resolved emission spectra of H(2), CH, C(2), BH and BeH
+   molecules. The possibility of performing spatially resolved measurements
+   of these spectra is examined.}},
+DOI = {{10.1088/0741-3335/51/12/122001}},
+pages = {{122001}}}
+
+@article{doerner2009 ,
+Author = {Doerner, R. P. and Baldwin, M. J. and Buchenauer, D. and De Temmerman,
+   G. and Nishijima, D.},
+Title = {{The role of beryllium deuteride in plasma-beryllium interactions}},
+Journal = {J. Nuc. Materials},
+Year = {{2009}},
+Volume = {{390-91}},
+Pages = {681-684},
+Abstract = {{Beryllium deuteride has been measured in plasma-exposed surfaces and in
+   the plasma column of the PISCES-B experiment. XPS measurements of
+   high-purity BeH(2) samples, used as standards, confirm the presence of
+   beryllium deuteride in beryllium codeposited material (Be 1s energy of
+   BeH(2) bond = 115.0 eV). TDS measurements of high-purity BeD(2) samples
+   are used to accurately determine the decomposition temperature of the
+   beryllium deuteride molecule (similar to 540 K). Deuterium release is
+   observed from plasma-exposed beryllium samples and from Be codeposited
+   layers at this temperature. BeD molecular (A-X) band emission is
+   observed in beryllium seeded plasma discharges and during deuterium
+   sputtering measurements of beryllium. Band emission intensities during
+   Be-seeding are used to estimate the photon emission coefficient, <sigma
+   v >, for the band. The <sigma v > value verifies that molecular
+   sputtering of BeD (from beryllium targets saturated with deuterium from
+   the plasma exposure) is a small fraction of the physical sputtering of
+   beryllium atoms.}},
+DOI = {{10.1016/j.jnucmat.2009.01.187}},
+}
+
+@article{08NiDoBa ,
+Author = {Nishijima, D. and Doerner, R. P. and Baldwin, M. J. and De Temmerman, G.
+   and Hollmann, E. M.},
+Title = {{Properties of BeD molecules in edge plasma relevant conditions}},
+Journal = PPCF,
+Year = {{2008}},
+Volume = {{50}},
+Abstract = {{The A (2)Pi-X (2)Sigma(+) band (the Delta nu = 0 sequence) emission of
+   beryllium deuteride (BeD) molecules has been observed both in Be-seeded
+   deuterium plasma and in front of Be targets exposed to deuterium plasma.
+   The particle interchange reaction, Be(+) + D(2) -> BeD + D(+), is
+   thought to be a dominant process for the BeD formation in the plasma. On
+   the other hand, BeD observed in front of Be targets is a product of
+   chemical sputtering of Be bombarded by deuterium plasma. The photon
+   emission coefficient of the A-X band at lambda similar to 497.3-499.2 nm
+   around the prominent Q branch is estimated to be similar to 5x10(-14)
+   m(3) s(-1) for electron temperatures greater than or similar to 8 eV as
+   deduced from particle balance between Be, Be(+), and BeD in D(2) neutral
+   pressure scans. The surface temperature dependence of chemical
+   sputtering of Be released as BeD is investigated, and the sputtering
+   yield of BeD is found to peak at similar to 440 K. This peak temperature
+   is consistent with the onset temperature of the decomposition of BeD(2),
+   obtained from thermal desorption spectrometry of BeD(2) powder. Also,
+   the chemical sputtering yield is observed to be decreased with
+   increasing incident ion flux, similar to carbon. Vibrational (T(vib))
+   and rotational (T(rot)) temperatures of BeD molecules are evaluated by
+   fitting a measured A-X band spectrum with a simulated spectrum. Spectra
+   taken from BeD formed in the plasma are well fitted with a single pair
+   of T(vib) and T(rot), which increase linearly with electron density.
+   However, the vibrational and rotational energy of sputtered BeD is found
+   not to be consistent with a Boltzmann distribution.}},
+DOI = {{10.1088/0741-3335/50/12/125007}},
+pages = {125007}}
+
+@article{98DuStSu,
+Author = {Duxbury, G and Stamp, M F and Summers, H P},
+Title = {{Observations and modelling of diatomic molecular spectra from JET}},
+Journal = PPCF,
+Year = {{1998}},
+Volume = {{40}},
+Pages = {361-370},
+Abstract = {{Spectra in the visible range may be obtained along multiple lines of
+   sight directed at the axisymmetric poloidal divertor of the JET tokamak.
+   In X-point magnetic field configurations, the scrape-off-layer plasma
+   contacts the divertor target plates. We have conducted observations and
+   analysis of diatomic spectra in the divertor plasma along lines of sight
+   in the strike zone vicinity. We have identified unambiguously CD, C-2
+   and BeD. Synthetic spectra have been calculated. In addition to
+   identification of the molecular features and separation of overlapping
+   atomic lines, the comparison of simulations and observations allow quite
+   sensitive determination of rotational and vibrational temperatures for
+   the above diatomics in a divertor fusion plasma. Systematic studies show
+   that T-r and T-v are comparable for BeD but T-v is significantly less
+   than T-r for CD and C-2. The BeD spectrum time history during a pulse
+   (modulated by sweeping) appears as localized emission from the strike
+   points similar to that of the atomic Bet visible spectrum lines. On the
+   other hand, the CD bands during a swept pulse: indicate a more
+   distributed source. Thus both the BeD spectrum and time history suggest
+   physical sputtering of BeD at the strike points. In contrast, the CD
+   spectrum and time history indicate chemical release of higher deuterides
+   followed by catabolism to CD. This work constitutes the first detailed
+   study of diatomic species in the JET tokamak.}},
+DOI = {{10.1088/0741-3335/40/3/002}},
+}
+
+@article{ ,
+Author = {BESSENRODTWEBERPALS, M and HACKMANN, J and UHLENBUSCH, J},
+Title = {{BERYLLIUM RELEASE AND BERYLLIUM TRANSPORT IN THE TOKAMAK UNITOR}},
+Journal = {J. Nuc. Materials}, 
+Year = {{1987}},
+Volume = {{145}},
+Pages = {849-853},
+DOI = {{10.1016/0022-3115(87)90458-2}},
+}
+
+
+@article{09RoLaLa ,
+Author = {Roos, J. B. and Larsson, M. and Larson, A. and Orel, A. E.},
+Title = {{Dissociative recombination of BeH+}},
+Journal =PRA,
+Year = {{2009}},
+Volume = {{80}},
+Abstract = {{The cross section for dissociative recombination of BeH+ is calculated
+   by the solution of the time-dependent Schrodinger equation in the local
+   complex potential approximation. The effects of couplings between
+   resonant states and the Rydberg states converging to the ground state of
+   the ion are studied. The relevant potentials, couplings, and
+   autoionization widths are extracted using ab initio electron scattering
+   and structure calculations, followed by a diabatization procedure. The
+   calculated cross sections show a sizable magnitude at low energy,
+   followed by a high-energy peak centered around 1 eV. The electronic
+   couplings between the neutral states induce oscillations in the cross
+   section. Analytical forms for the cross sections at low collision
+   energies are given.}},
+DOI = {{10.1103/PhysRevA.80.012501}},
+pages = {012501}}
+
+
+@article{schumacher1983jet,
+  title={JET, the European nuclear fusion experiment},
+  author={Schumacher, U},
+  journal={Atw. Atomwirtschaft, Atomtechnik},
+  volume={28},
+  pages={500--504},
+  year={1983}
+}
+
+@Article{Gibson1979,
+author="Gibson, A.",
+title="The JET Project",
+journal="Naturwissenschaften",
+year="1979",
+volume="66",
+pages="481--488",
+abstract="Nuclear fusion research aims to make available a new energy resource for mankind. This energy is released when isotopes of hydrogen fuse to form helium. The process occurs naturally in the centre of the Sun and similar very high temperature conditions are necessary to release fusion energy on earth. JET is a major European nuclear fusion experiment, it is intended to produce conditions approaching those necessary in a fusion reactor and to permit a realistic evaluation of the prospects for fusion as a future energy source.",
+doi="10.1007/BF00404857",
+}
+
+@article{bessenrodt1987beryllium,
+  title={Beryllium release and beryllium transport in the tokamak unitor},
+  author={Bessenrodt-Weberpals, M and Hackmann, J and Uhlenbusch, J},
+  journal={J. Nucl. Materials},
+  volume={145},
+  pages={849--853},
+  year={1987},
+}
+
+@article{doerner2007interaction,
+  title={Interaction of beryllium containing plasma with ITER materials},
+  author={Doerner, RP and Baldwin, M and Hanna, J and Linsmeier, Ch and Nishijima, D and Pugno, R and Roth, J and Schmid, K and Wiltner, A},
+  journal={Phys. Scr.},
+  volume={T128},
+  pages={115},
+  year={2007},
+}
+
+@article{federici2006plasma,
+  title={{Plasma wall interactions in ITER}},
+  author={Federici, G},
+  journal={Phys. Scr. },
+  volume={T124},
+  pages={1},
+  year={2006},
+bstract = {{Designing the interface between a thermonuclear plasma and the solid
+   material environment is arguably one of the highest technical challenges
+   of ITER and of the successful development of future fusion power
+   reactors. Carbon-based materials are recognized to have superior
+   thermomechanical properties and do not melt, but they retain high levels
+   of tritium by co-deposition with eroded carbon that could severely
+   constrain plasma operations. A carbon-fibre-composite (CFC) divertor
+   target in ITER would survive long enough only with methods of
+   mitigation/suppression of large edge localised modes (ELMs). Metallic
+   materials, such as tungsten, would avoid the tritium retention issue,
+   but melt layer losses due to large ELMs and disruptions may lead to
+   severe damage and unacceptably short lifetimes. Maintaining plasma
+   purity with high-Z materials remains a concern. A mix of several
+   different plasma-facing materials is proposed in ITER to optimize the
+   requirements of areas with different power and particle flux
+   characteristics (i.e., Be for the first wall, CFC for the divertor
+   strike point tiles and W elsewhere in the divertor). However, this will
+   inevitably lead to cross-material contamination and the formation of
+   material mixtures, whose behaviour remains uncertain and requires
+   further investigation. Some of the most outstanding plasma-wall
+   interaction problems that are still at issue in the design of ITER are
+   briefly discussed in this paper, together with prospects for their
+   resolution, by either R\&D or design changes and/or dedicated operation
+   provisions. They include: (i) plasma thermal loads and material damage
+   during type I ELMs and disruptions, and prospects for mitigation, (ii)
+   control of co-deposited tritium inventory in the carbon films, (iii)
+   effects of mixed-materials and (iv) plasma operation with tungsten
+   plasma-facing components. Directions and priorities of future research
+   are proposed to narrow the remaining uncertainties and improve
+   confidence in solutions in these areas.}},
+DOI = {{10.1088/0031-8949/2006/T124/001}}}
+
+@incollection{samm2005plasma,
+  title={Plasma—Wall Interaction: Status and Data Needs},
+  author={Samm, U},
+  booktitle={Nuclear Fusion Research},
+  pages={3--28},
+  year={2005},
+Editors ={Clark, Robert E. H and Reiter, Detlev},
+  publisher={Springer}
+}
+
+@manual{03HuRaKr,
+  author={Humbert D and Ralchenko Y and Krstic P and Clark R E H},
+  year={2003},
+  title={Classification of Processes},
+  url = {https://www-amdis.iaea.org/DCN/ProcessClassification.pdf}}

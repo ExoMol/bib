@@ -1,0 +1,912 @@
+@article{ 11XiDeJi.C2,
+Author = {Xiao-Niu, Z and De-Heng, S and Jing-Fen, S and Zun-Lue, Z},
+Title = {MRCI study of spectroscopic and molecular properties of
+	X(1)SIGMA-g+ and A(1)Pi-u electronic states of C2 radical},
+Journal = {Chin. Phys. B},
+Year = {2011},
+Volume = {20},
+Number = {4},
+Pages = {043105},
+}
+
+
+
+@article{ 91BrWrig.C2,
+Author = {BRUNA, PJ and WRIGHT, JS},
+Title = {THEORETICAL-STUDY OF THE TRANSITION-PROBABILITIES OF THE DOUBLY-EXCITED
+   STATES E1-SIGMA-G+ OF C2 AND 2(2)SIGMA-G+ OF C2+},
+Journal = {JOURNAL OF PHYSICAL CHEMISTRY},
+Year = {1992},
+Volume = {96},
+Number = {4},
+Pages = {1630-1640},
+Month = {FEB 20},
+Abstract = {The radiative properties of the doubly-excited states
+   E(1)SIGMA(g)+(sigma(u)2 --> sigma(g)2) of C2 and
+   2(2)SIGMA(g)+(sigma(u)2 --> pi(u)2) of C2+ are investigated
+   theoretically by using MRD-CI wave functions.  Due to a heavy mixing
+   between bonding and antibonding configurations, the E state (with a
+   maximum contribution of sigma(u)2 --> sigma(g)2 of 45\%) does not show
+   the typical features of strongly bound states (short R(e) and high
+   omega(e)).  Because of the mixing, the experimental Freymark system
+   E(1)SIGMA(g)+ - A(1)PI(u) of C2 exhibits a moderate intensity though.
+   At R = 2.43 bohr (an intermediate geometry between both minima), a
+   calculated transition moment SIGMA-R(e'e'')2 of 0.151 au2 disagrees
+   with an experimental estimate of 2.26 +/- 1.13 au2 from Cooper and
+   Nicholls.  The same authors assigned to the Mulliken band D(1)SIGMA(u)+
+   - X(1)SIGMA(g)+ of C2 a SIGMA-R(e'e'')2 of 0.13 +/- 0.05 au2, whereas
+   this work and earlier data from the literature indicate a higher value
+   of 0.41 au2 for that quantity.  A total radiative lifetime tau(0)
+   almost-equal-to 15 ns for the E(1)SIGMA(g)+ state is mainly dicated by
+   the radiative process E --> A, the competitive decay E --> D being
+   about 10 times slower.  The 2(2)SIGMA(g)+(sigma(u)2 --> pi(u)2) state
+   of C2+ is strongly bound, with a shortening DELTA-R(e) = 0.35 bohr and
+   an increase DELTA-omega(e) almost-equal-to 800 cm-1 (60\%) relative to
+   the X(4)SIGMA(g)- ground state.  A lifetime tau(0)(2(2)SIGMA(g)+)
+   almost-equal-to 28 ns results from radiative decay into both
+   1(2)SIGMA(u)+ and 2(2)PI(u) states.  On the basis of the present
+   spectroscopic data for C2+, an absorption band observed at 2.77 eV
+   (assumed as belonging to C2) is tentatively reassigned to the
+   2(2)SIGMA(g)+ <-- 1(2)SIGMA(u)+ transition of C2+, with a calculated
+   DELTA-E00 = 2.81 eV.},
+ISSN = {0022-3654},
+Journal-ISO = {J. Phys. Chem.},
+Unique-ID = {ISI:A1992HF28300027},
+}
+
+@article{ 92WaBart.C2,
+Author = {WATTS, JD and BARTLETT, RJ},
+Title = {COUPLED-CLUSTER CALCULATIONS ON THE C2 MOLECULE AND THE C2(+) AND C2(-)
+   MOLECULAR-IONS},
+Journal = JCP,
+Year = {1992},
+Volume = {96},
+Number = {8},
+Pages = {6073-6084},
+Month = {APR 15},
+Abstract = {Coupled-cluster methods including effects of triple excitations have
+   been used with large basis sets to study several electronic states of
+   C2, C2-, and C2+. r(e), omega(e), D(e), and T(e) have been computed for
+   each state considered.  For those states for which experimental data
+   are available, the errors are typically less than 0.002 angstrom, 20
+   cm-1, and 0.1 eV for r(e), omega(e), and D(e), respectively.  These
+   errors are comparable with the best previous results on C2 and
+   significantly smaller than those for previous calculations on C2- and
+   C2+.  For T(e) the results are also satisfactory and comparable with
+   previous work, but some difficulties arise when one or both of the
+   states have considerable multireference character.  For two states of
+   C2+ not experimentally characterized, the present data should be
+   sufficiently accurate to be of some assistance to experimental studies.
+    The electron affinity of the ground state of C2 and the ionization
+   potentials of the ground and first excited states of C2 have been
+   computed, and particular attention has been given to correlation errors
+   in these quantities.  It has been shown that triple excitations
+   significantly decrease the electron affinity.  By neglecting or taking
+   insufficient account of triple excitations, some previous calculations
+   were biased towards the anion and obtained fortuitously good agreement
+   with experiment.  The correlation error of the present calculations is
+   such that the calculations are slightly biased towards the neutral
+   molecule, but the error is only 0.2 eV.  For the ionization potentials,
+   too, triple excitations play an important role.  Reasonable agreement
+   with experiment has been achieved by the present calculations.
+   Overall, the present study:  (1) underscores the importance of triple
+   excitations; (2) shows the success of single-reference couple-cluster
+   theory in calculating properties of a single state, even when that
+   state has considerable multireference character; and (3) highlights the
+   care which must be taken when comparing different electronic states
+   with these methods when one or both states have considerable
+   multireference character.},
+ISSN = {0021-9606},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1992HN26800053},
+}
+
+
+@article{ 11SchmBa,
+Author = {Schmidt, Timothy W. and Bacskay, George B.},
+Title = {The 1(5)Pi(g) state of C-2},
+Journal = JCP,
+Year = {2011},
+Volume = {134},
+Number = {22},
+Month = {JUN 14},
+Abstract = {We report ab initio spectroscopic constants for the recently identified
+   1(5)Pi(g) state of C-2 {[}P. Bornhauser, Y. Sych, G. Knopp, T. Gerber,
+   and P. P. Radi, J. Chem. Phys. 134, 044302 (2011)]. The calculations
+   are performed at the multi-reference configuration interaction level of
+   theory with Davidson's correction using aug-cc-pV6Z basis sets and
+   include core-valence correlation and relativistic corrections obtained
+   with quadruple-zeta bases. Such treatment accurately reproduces the
+   experimentally observed constants of the a(3)Pi(u) and other states.
+   Thus, we expect our calculated omega(e) value for the 1(5)Pi(g) state
+   to be within a few cm(-1), and rotational constants to be within 0.1\%
+   of experiment. Agreement with available spectroscopic data is
+   excellent, with the calculations strongly suggesting that the 1(5)Pi(g)
+   vibrational level observed by Bornhauser et al. is v = 0. (C) 2011
+   American Institute of Physics. {[}doi:10.1063/1.3599933]},
+DOI = {10.1063/1.3599933},
+pages = {224311},
+ISSN = {0021-9606},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000291660200018},
+}
+
+@article{ 11JiWils.C2,
+Author = {Jiang, Wanyi and Wilson, Angela K.},
+Title = {Multireference composite approaches for the accurate study of ground
+   and excited electronic states: C-2, N-2, and O-2},
+Journal = JCP,
+Year = {2011},
+Volume = {134},
+Number = {3},
+Month = {JAN 21},
+Abstract = {A multireference analog of the correlation consistent composite
+   approach (MR-ccCA) based on complete active space with second-order
+   perturbation theory (CASPT2) has been utilized in an investigation of
+   the ground and valence excited states of C-2, N-2, and O-2. The
+   performance of different second-order multireference perturbation
+   theory methods including second-order n-electron valence state
+   perturbation theory, second-order multireference Moller-Plesset, and
+   second-order generalized van Vleck perturbation theory has been
+   analyzed as potential alternatives to CASPT2 within MR-ccCA. The
+   MR-ccCA-P predicts spectroscopic constants with overall mean absolute
+   deviations from experimental values of 0.0006 angstrom, 7.0 cm(-1), and
+   143 cm(-1) for equilibrium bond length (r(e)), harmonic frequency
+   (omega(e)), and term values (T-e), respectively, which are comparable
+   to the predictions by more computationally costly multireference
+   configuration interaction-based methods. (C) 2011 American Institute of
+   Physics. {[}doi:10.1063/1.3514031]},
+DOI = {10.1063/1.3514031},
+pages = {034101},
+ISSN = {0021-9606},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000286472200004},
+}
+
+@article{ 08Varand,
+Author = {Varandas, A. J. C.},
+Title = {Extrapolation to the complete-basis-set limit and the implications of
+   avoided crossings: The X (1)Sigma(+)(g), B (1)Delta(g), and B-'
+   (1)Sigma(+)(g) states of C-2},
+Journal = JCP,
+Year = {2008},
+Volume = {129},
+Number = {23},
+Month = {DEC 21},
+Abstract = {The uniform singlet- and triplet-pair extrapolation scheme and its
+   generalized variant are utilized to describe bond breaking of the C-2
+   molecule in the ground electronic state, as well as in two other
+   excited states of the same spin symmetry by extrapolating
+   multireference configuration interaction energies calculated with the
+   correlation consistent basis sets of Dunning to the complete-basis set
+   limit. It is shown that the correlation energy changes drastically
+   (with a symmetric sigmoidal-type shape) near the geometry (R similar to
+   1.6 A) where the two lowest (1)Sigma(+)(g) adiabatic states show the
+   avoided crossing. The implications of such a feature on extrapolating
+   the dynamical correlation are then analyzed, and the attributes of the
+   extrapolated ground electronic state shown to be in excellent agreement
+   with the most recent experimental data available in the literature.},
+DOI = {10.1063/1.3036115},
+pages = {234103},
+ISSN = {0021-9606},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000261896700004},
+}
+
+@article{ 07ScBaxx,
+Author = {Schmidt, Timothy W. and Bacskay, George B.},
+Title = {Oscillator strengths of the Mulliken, Swan, Ballik-Ramsay, Phillips,
+   and d(3)Pi(g)<- c(3)Sigma(+)(u) systems of C-2 calculated by MRCI
+   methods utilizing a biorthogonal transformation of CASSCF orbitals},
+Journal = JCP,
+Year = {2007},
+Volume = {127},
+Number = {23},
+Month = {DEC 21},
+Abstract = {Ab initio oscillator strengths and lifetimes for the D (1)Sigma(+)(u)<-
+   X (1)Sigma(+)(g) Mulliken system of C-2 are reported. The calculations
+   were carried out at the MRCI level of theory with Davidson's correction
+   using aug-cc-pV6Z basis sets and include core and core-valence
+   correlation as well as relativistic corrections, computed with
+   aug-cc-pCVQZ and cc-pVQZ bases, respectively. The MRCI calculations of
+   transition moments utilize a biorthogonal transformation of the CASSCF
+   orbitals. This approach was also employed to recompute the transition
+   moments of the Swan, Ballik-Ramsay, Phillips, and d (3)Pi(g)<- c
+   (3)Sigma(+)(u) systems of C-2, which were the subject of our previous
+   study {[}D. L. Kokkin , J. Chem. Phys. 126, 084302 (2007)], resulting
+   in an improved set of oscillator strengths for the latter systems as
+   well. The oscillator strength of the Mulliken origin band, f(00)(DA),
+   was calculated to be 0.0535, in excellent agreement with the accepted
+   astronomical value of 0.054. (c) 2007 American Institute of Physics.},
+DOI = {10.1063/1.2806988},
+pages = {234310},
+ISSN = {0021-9606},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000251908500018},
+}
+
+@article{ 07JoNaRe.C2,
+Author = {Joester, Jenna A. and Nakajima, Masakazu and Reilly, Neil J. and
+   Kokkin, Damien L. and Nauta, Klaas and Kable, Scott H. and Schmidt,
+   Timothy W.},
+Title = {The d (3)Pi(g)-c (3)Sigma(+)(u) band system of C-2},
+Journal = JCP,
+Year = {2007},
+Volume = {127},
+Number = {21},
+Month = {DEC 7},
+Abstract = {A two-dimensional fluorescence (excitation/emission) spectrum of C-2
+   produced in an acetylene discharge was used to identify and separate
+   emission bands from the d (3)Pi(g)<- c (3)Sigma(+)(u) and d (3)Pi(g)<-
+   a (3)Pi(u) excitations. Rotationally resolved excitation spectra of the
+   (4 <- 1), (5 <- 1), (5 <- 2), and (7 <- 3) bands in the d (3)Pi(g)<- c
+   (3)Sigma(+)(u) system of C-2 were observed by laser-induced
+   fluorescence spectroscopy. The molecular constants of each vibrational
+   level, determined from rotational analysis, were used to calculate the
+   spectroscopic constants of the c (3)Sigma(+)(u) state. The principal
+   molecular constants for the c (3)Sigma(+)(u) state are B-e=1.9319(19)
+   cm(-1), alpha(e)=0.018 55(69) cm(-1), omega(e)=2061.9 cm(-1),
+   omega(e)x(e)=14.84 cm(-1), and T-0(c-a)=8662.925(3) cm(-1). We report
+   also the first experimental observations of dispersed fluorescence from
+   the d (3)Pi(g) state to the c (3)Sigma(+)(u) state, namely, d
+   (3)Pi(g)(v=3)-> c (3)Sigma(+)(u)(v=0,1).},
+DOI = {10.1063/1.2805090},
+pages = {214303},
+ISSN = {0021-9606},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000251450900014},
+}
+
+@article{ 07KoBaSc.C2,
+Author = {Kokkin, Damian L. and Bacskay, George B. and Schmidt, Timothy W.},
+Title = {Oscillator strengths and radiative lifetimes for C-2: Swan,
+   Ballik-Ramsay, Phillips, and d (3)Pi(g)<- c (3)Sigma(+)(u) systems},
+Journal = JCP,
+Year = {2007},
+Volume = {126},
+Number = {8},
+Month = {FEB 28},
+Abstract = {High level ab initio calculations, using multireference configuration
+   interaction (MRCI) techniques, have been carried out to investigate the
+   spectroscopic properties of the singlet A (1)Pi(u)<- X (1)Sigma(+)(g)
+   Phillips, the triplet d (3)Pi(g)<- a (3)Sigma(u) Swan, the b
+   (3)Sigma(-)(g)<- a (3)Pi(u) Ballik-Ramsay, and the d (3)Pi(g)<- c
+   (3)Sigma(+)(u) transitions of C-2. The MRCI expansions are based on
+   full-valence complete active space self-consistent-field reference
+   states and utilize the aug-cc-pV6Z basis set to resolve valence
+   electron correlation. Core and core-valence correlations and scalar
+   relativistic energy corrections were also incorporated in the computed
+   potential energy surfaces. Nonadiabatic and spin-orbit effects were
+   explored and found to be of negligible importance in the calculations.
+   Harmonic frequencies and rotational constants are typically within
+   0.1\% of experiment. The calculated radiative lifetimes compare very
+   well with the available experimental data. Oscillator strengths are
+   reported for all systems: f(v)(')v('), where 0 <= v <= 5. (c) 2007
+   American Institute of Physics.},
+DOI = {10.1063/1.2436879},
+pages = {084302},
+ISSN = {0021-9606},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000244530900011},
+}
+
+@article{ 06KoReMo.C2,
+Author = {Kokkin, Damian L. and Reilly, Neil J. and Morris, Christopher W. and
+   Nakajima, Masakazu and Nauta, Klaas and Kable, Scott H. and Schmidt,
+   Timothy W.},
+Title = {Observation of the d(3)Pi(g)<- c(3)Sigma(+)(u) band system of C-2},
+Journal = JCP,
+Year = {2006},
+Volume = {125},
+Number = {23},
+Month = {DEC 21},
+Abstract = {A new band system of C-2, d (3)Pi(g)<- c (3)Sigma(+)(u) is observed by
+   laser induced fluorescence spectroscopy, constituting the first direct
+   detection of the c (3)Sigma(+)(u) state of C-2. Observations were made
+   by laser excitation of c (3)Sigma(+)(u)(v(')=0) C-2, produced in an
+   acetylene discharge, to the d (3)Pi(g)(v(')=3) level, followed by
+   detection of Swan band fluorescence. Rotational analysis of this band
+   yielded rotational constants for the c (3)Sigma(+)(u)(v(')=0) state:
+   B-0=1.9218(2) cm(-1), lambda(0)=-0.335(4) cm(-1) and gamma(0)=0.011(2)
+   cm(-1). The vibrational band origin was determined to be
+   nu(3-0)=15861.28 cm(-1). (c) 2006 American Institute of Physics.},
+DOI = {10.1063/1.2408412},
+pages = {231101},
+ISSN = {0021-9606},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000243415300001},
+}
+
+@article{ 05ShPixx.C2,
+Author = {Sherrill, CD and Piecuch, P},
+Title = {The X-1 Sigma(+)(g), B-1 Delta(g), and B ` (1)Sigma(+)(g) states of
+   C-2: A comparison of renormalized coupled-cluster and multireference
+   methods with full configuration interaction benchmarks},
+Journal = JCP,
+Year = {2005},
+Volume = {122},
+Number = {12},
+Month = {MAR 22},
+Abstract = {Unusual bonding and electronic near degeneracies make the lowest-lying
+   singlet states of the C-2 molecule particularly challenging for
+   electronic structure theory. Here we compare two alternative approaches
+   to modeling bond-breaking reactions and excited states: sophisticated
+   multireference configuration interaction and multireference
+   perturbation theory methods, and a more ``black box,{''}
+   single-reference approach, the completely renormalized coupled-cluster
+   method. These approximate methods are assessed in light of their
+   ability to reproduce the full configuration interaction potential
+   energy curves for the X (1)Sigma(g)(+), B (1)Delta(g), and B-'
+   (1)Sigma(g)(+) states of C-2, which are numerically exact solutions of
+   the electronic Schrodinger equation within the space spanned by a
+   6-31G({*}) basis set. Both the multireference methods and the
+   completely renormalized coupled-cluster approach provide dramatic
+   improvements over the standard single-reference methods. The
+   multireference methods are nearly as reliable for this challenging test
+   case as for simpler reactions which break only single bonds. The
+   completely renormalized coupled-cluster approach has difficulty for
+   large internuclear separations R in this case, but over the wide range
+   of R=1.0-2.0 A, it compares favorably with the more complicated
+   multireference methods.},
+DOI = {10.1063/1.1867379},
+pages = {124104},
+ISSN = {0021-9606},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000228287900004},
+}
+
+@article{ 04AbSherr.C2,
+Author = {Abrams, ML and Sherrill, CD},
+Title = {Full configuration interaction potential energy curves for the X-1
+   Sigma(+)(g), B-1 Delta(g), and B-'1 Sigma(+)(g) states of C-2: A
+   challenge for approximate methods},
+Journal = JCP,
+Year = {2004},
+Volume = {121},
+Number = {19},
+Pages = {9211-9219},
+Month = {NOV 15},
+Abstract = {The C-2 molecule exhibits unusual bonding and several low-lying excited
+   electronic states, making the prediction of its potential energy curves
+   a challenging test for quantum chemical methods. We report full
+   configuration interaction results for the X (1)Sigma(g)(+), B
+   (1)Delta(g), and B (1)Sigma(g)(+) states of C-2, which exactly solve
+   the electronic Schrodinger equation within the space spanned by a
+   6-31G({*}) basis set. Within the D-2h subgroup used by most electronic
+   structure programs, these states all have the same symmetry ((1)A(g)),
+   and all three states become energetically close for interatomic
+   distances beyond 1.5 Angstrom. The quality of several single-reference
+   ab initio methods is assessed by comparison to the benchmark results.
+   Unfortunately, even coupled-cluster theory through perturbative triples
+   using an unrestricted Hartree-Fock reference exhibits large
+   nonparallelity errors (>20 kcal mol(-1)) for the ground state. The
+   excited states are not accurately modeled by any commonly used
+   single-reference method, nor by configuration interaction including
+   full quadruple substitutions. The present benchmarks will be helpful in
+   assessing theoretical methods designed to break bonds in ground and
+   excited electronic states. (C) 2004 American Institute of Physics.},
+DOI = {10.1063/1.1804498},
+ISSN = {0021-9606},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000224895000002},
+}
+
+@article{ 01MuDaLi.C2,
+Author = {Muller, T and Dallos, M and Lischka, H and Dubrovay, Z and Szalay, PG},
+Title = {A systematic theoretical investigation of the valence excited states of
+   the diatomic molecules B-2, C-2, N-2 and O-2},
+Journal = {THEORETICAL CHEMISTRY ACCOUNTS},
+Year = {2001},
+Volume = {105},
+Number = {3},
+Pages = {227-243},
+Month = {JAN},
+Abstract = {A quantitative survey on the performance of multireference (MR),
+   configuration interaction with all singles and doubles (CISD), MRCISD
+   with the Davidson correction and MR-average quadratic coupled cluster
+   (AQCC) methods for a wide range of excited states of the diatomic
+   molecules B-2, C-2, N-2 and O-2 is presented. The spectroscopic
+   constants r(e), omega (e), T-e and D-e for a total of 60 states have
+   been evaluated and critically compared with available experimental
+   data. Basis set extrapolations and size-extensivity corrections are
+   essential for highly accurate results: MR-AQCC mean-errors of 0.001
+   Angstrom, 10 cm(-1), 300 cm(-1) and 300 cm(-)1 have been obtained for
+   r(e), omega (e), T-e and D-e, respectively. Owing to the very
+   systematic behavior of the results depending on the basis sst and the
+   choice of method, shortcomings of the calculations. such as Rydberg
+   state coupling or insufficient configuration spaces. can be identified
+   independently of experimental data. On the other hand, significant
+   discrepancies with experiment for states which indicate no shortcomings
+   whatsoever in the theoretical treatment suggest the re-evaluation of
+   experimental result. The broad variety of states included in our survey
+   and the uniform quality of the results indicate that the observed
+   systematics is a general feature of the methods and, hence, is
+   molecule-independent.},
+ISSN = {1432-881X},
+Journal-ISO = {Theor. Chem. Acc.},
+Unique-ID = {ISI:000166771100007},
+}
+
+@article{ 00BoVoHa.C2,
+Author = {Boggio-Pasqua, M and Voronin, AI and Halvick, P and Rayez, JC},
+Title = {Analytical representations of high level ab initio potential energy
+   curves of the C-2 molecule},
+Journal = {JOURNAL OF MOLECULAR STRUCTURE-THEOCHEM},
+Year = {2000},
+Volume = {531},
+Pages = {159-167},
+Month = {OCT 23},
+Abstract = {Realistic analytical representations of the twelve lowest singlet and
+   triplet electronic adiabatic potential energy curves of C-2 molecule
+   are given in this article. The corresponding electronic states are
+   correlated with C atoms both in their P-3 state, A ew set of high level
+   MRCI calculations coupled with a double many-body expansion analytical
+   fitting based on the extended Hartree-Fock approximate correlation
+   energy model have been used in this work. Using RKR data available in
+   the literature, comparison is made between our results and RKR turning
+   pints concerning the four lowest singlet states X(1)Sigma (+)(g),
+   A(1)Pi (u), B(1)Delta (g), and B(11)Sigma (+)(g) of C-2. The agreement
+   is very satisfying. (C) 2000 Elsevier Science B.V. All rights reserved.},
+ISSN = {0166-1280},
+Journal-ISO = {Theochem-J. Mol. Struct.},
+Unique-ID = {ISI:000090110500016},
+}
+
+@article{ 88NaCoDo.C2,
+Author = {NAULIN, C and COSTES, M and DORTHE, G},
+Title = {C-2 RADICALS IN A SUPERSONIC MOLECULAR-BEAM - RADIATIVE LIFETIME OF THE
+   D3-PI-G STATE MEASURED BY LASER-INDUCED FLUORESCENCE},
+Journal = {CHEMICAL PHYSICS LETTERS},
+Year = {1988},
+Volume = {143},
+Number = {5},
+Pages = {496-500},
+Month = {JAN 29},
+ISSN = {0009-2614},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:A1988L943400015},
+}
+
+@article{ 88DaAbPh.C2,
+Author = {DAVIS, SP and ABRAMS, MC and PHILLIPS, JG and RAO, MLP},
+Title = {INFRARED BANDS OF THE C2 PHILLIPS SYSTEM},
+Journal = JOSAB,
+Year = {1988},
+Volume = {5},
+Number = {10},
+Pages = {2280-2285},
+Month = {OCT},
+ISSN = {0740-3224},
+Journal-ISO = {J. Opt. Soc. Am. B-Opt. Phys.},
+Unique-ID = {ISI:A1988Q582200029},
+}
+
+@article{ 95BlLiSo.C2,
+Author = {BLUNT, VM and LIN, H and SORKHABI, O and JACKSON, WM},
+Title = {REVISED MOLECULAR-CONSTANTS FOR THE D(1)SIGMA(+)(U) STATE OF C-2},
+Journal = {JOURNAL OF MOLECULAR SPECTROSCOPY},
+Year = {1995},
+Volume = {174},
+Number = {1},
+Pages = {274-276},
+Month = {NOV},
+ISSN = {0022-2852},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:A1995TD04300024},
+}
+
+@article{ 95ErIwam.C2,
+Author = {ERMAN, P and IWAMAE, A},
+Title = {THE OSCILLATOR-STRENGTHS OF THE C-2 PHILLIPS SYSTEM},
+Journal = {ASTROPHYSICAL JOURNAL},
+Year = {1995},
+Volume = {450},
+Number = {1, Part 2},
+Pages = {L31-L34},
+Month = {SEP 1},
+Abstract = {Radiative lifetimes of the C(2)A(1) Pi(u)-X(1) Sigma(g)(+) (Phillips)
+   system have been remeasured using the High-Frequency Deflection
+   technique. Using catalyzer gases, it is shown that collisional transfer
+   effects are present which tend to lengthen the registered lifetimes,
+   yielding too low f-values.
+   The remeasured value f(2,0)(A-X) = (1.36 +/- 0.15) x 10(-3) is
+   45\%-75\% larger than earlier laboratory experiments and agrees within
+   the error limits with recent results obtained from spectra of zeta Oph
+   as well as ab initio calculations.},
+ISSN = {0004-637X},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1995RQ58000007},
+}
+
+@article{ 92Martin.C2,
+Author = {MARTIN, M},
+Title = {C2 SPECTROSCOPY AND KINETICS},
+Journal = {JOURNAL OF PHOTOCHEMISTRY AND PHOTOBIOLOGY A-CHEMISTRY},
+Year = {1992},
+Volume = {66},
+Number = {3},
+Pages = {263-289},
+Month = {JUN 30},
+Abstract = {The spectroscopic and kinetic properties of different electronic states
+   of C2 are reviewed. Special emphasis is given to the work in which the
+   formation and study of C2 states involve photochemical or
+   chemiluminescent processes.},
+ISSN = {1010-6030},
+Journal-ISO = {J. Photochem. Photobiol. A-Chem.},
+Unique-ID = {ISI:A1992JD48600001},
+}
+
+@article{ 88DoNiBe.C2,
+Author = {DOUAY, M and NIETMANN, R and BERNATH, PF},
+Title = {THE DISCOVERY OF 2 NEW INFRARED ELECTRONIC-TRANSITIONS OF C2 -
+   BETA-1-DELTA-G-ALPHA-1-PI-U AND BETA-' 1-SIGMA-+G-ALPHA-1-PI-U},
+Journal = {JOURNAL OF MOLECULAR SPECTROSCOPY},
+Year = {1988},
+Volume = {131},
+Number = {2},
+Pages = {261-271},
+Month = {OCT},
+ISSN = {0022-2852},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:A1988R018100007},
+}
+
+@article{ 87BaLang.C2,
+Author = {BAUSCHLICHER, CW and LANGHOFF, SR},
+Title = {ABINITIO CALCULATIONS ON C2, SI2, AND SIC},
+Journal = JCP,
+Year = {1987},
+Volume = {87},
+Number = {5},
+Pages = {2919-2924},
+Month = {SEP 1},
+ISSN = {0021-9606},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1987J808000058},
+}
+
+@article{ 83ChPeBu.C2,
+Author = {CHABALOWSKI, CF and PEYERIMHOFF, SD and BUENKER, RJ},
+Title = {THE BALLIK-RAMSAY, MULLIKEN, DESLANDRES-DAZAMBUJA AND PHILLIPS SYSTEM
+   IN C2 - A THEORETICAL-STUDY OF THEIR ELECTRONIC-TRANSITION MOMENTS},
+Journal = {CHEMICAL PHYSICS},
+Year = {1983},
+Volume = {81},
+Number = {1-2},
+Pages = {57-72},
+ISSN = {0301-0104},
+Journal-ISO = {Chem. Phys.},
+Unique-ID = {ISI:A1983RM94500006},
+}
+
+@article{ 83GoBrCo.C2,
+Author = {GOEBEL, JH and BREGMAN, JD and COOPER, DM and GOORVITCH, D and
+   LANGHOFF, SR and WITTEBORN, FC},
+Title = {THE C2H, C-2, AND CN ELECTRONIC ABSORPTION-BANDS IN THE CARBON STAR
+   HD-19557},
+Journal = {ASTROPHYSICAL JOURNAL},
+Year = {1983},
+Volume = {270},
+Number = {1},
+Pages = {190-199},
+ISSN = {0004-637X},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1983QW20700018},
+}
+
+@article{ 79Hobbss.C2,
+Author = {HOBBS, LM},
+Title = {INTER-STELLAR C2 MOLECULES TOWARD ZETA PERSEI},
+Journal = {ASTROPHYSICAL JOURNAL},
+Year = {1979},
+Volume = {232},
+Number = {3},
+Pages = {L175-L177},
+ISSN = {0004-637X},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1979HM19400008},
+}
+
+@article{ 78Snowxx.C2,
+Author = {SNOW, TP},
+Title = {KINETIC TEMPERATURE IN INTERIOR OF ZETA-OPHIUCHI CLOUD FROM COPERNICUS
+   OBSERVATIONS OF INTER-STELLAR C2},
+Journal = {ASTROPHYSICAL JOURNAL},
+Year = {1978},
+Volume = {220},
+Number = {3},
+Pages = {L93-L96},
+ISSN = {0004-637X},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1978ER31600007},
+}
+
+@article{ 77ChMaMa.C2,
+Author = {CHAUVILLE, J and MAILLARD, JP and MANTZ, AW},
+Title = {INFRARED PART OF C2 PHILLIPS SYSTEM (2.3-0.9 MU-M)},
+Journal = {JOURNAL OF MOLECULAR SPECTROSCOPY},
+Year = {1977},
+Volume = {68},
+Number = {3},
+Pages = {399-411},
+ISSN = {0022-2852},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:A1977EB51400006},
+}
+
+@article{ 76CuEnEr.C2,
+Author = {CURTIS, L and ENGMAN, B and ERMAN, P},
+Title = {HIGH-RESOLUTION LIFETIME STUDIES OF D3PIG, C1PIG AND D1SIGMAU(+) STATES
+   IN C2 WITH APPLICATIONS TO ESTIMATES OF SOLAR CARBON ABUNDANCE},
+Journal = {PHYSICA SCRIPTA},
+Year = {1976},
+Volume = {13},
+Number = {5},
+Pages = {270-274},
+ISSN = {0281-1847},
+Journal-ISO = {Phys. Scr.},
+Unique-ID = {ISI:A1976BV08900003},
+}
+
+@article{ 75CrCoHu.C2,
+Author = {CRAMPTON, D and COWLEY, AP and HUMPHREYS, RM},
+Title = {SPECTROSCOPIC OBSERVATIONS OF CRL-2688},
+Journal = {ASTROPHYSICAL JOURNAL},
+Year = {1975},
+Volume = {198},
+Number = {3},
+Pages = {L135-\&},
+ISSN = {0004-637X},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1975AG89000011},
+}
+
+@article{ 75CoNich.C2,
+Author = {COOPER, DM and NICHOLLS, RW},
+Title = {MEASUREMENTS OF ELECTRONIC-TRANSITION MOMENTS OF C2-BAND SYSTEMS},
+Journal = {JOURNAL OF QUANTITATIVE SPECTROSCOPY \& RADIATIVE TRANSFER},
+Year = {1975},
+Volume = {15},
+Number = {2},
+Pages = {139-150},
+ISSN = {0022-4073},
+Journal-ISO = {J. Quant. Spectrosc. Radiat. Transf.},
+Unique-ID = {ISI:A1975V458100002},
+}
+
+@article{ 69Smithx.C2,
+Author = {SMITH, WH},
+Title = {TRANSITION PROBABILITIES FOR SWAN AND MULLIKEN C2 BANDS},
+Journal = {ASTROPHYSICAL JOURNAL},
+Year = {1969},
+Volume = {156},
+Number = {2P1},
+Pages = {791-\&},
+ISSN = {0004-637X},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1969D265200033},
+}
+
+
+
+
+
+
+
+
+
+@article{ ISI:A19636019A00005,
+Author = {BALLIK, EA and RAMSAY, DA},
+Title = {AN EXTENSION OF PHILLIPS SYSTEM OF C2 AND A SURVEY OF C2 STATES},
+Journal = {ASTROPHYSICAL JOURNAL},
+Year = {1963},
+Volume = {137},
+Number = {1},
+Pages = {84-\&},
+ISSN = {0004-637X},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A19636019A00005},
+}
+
+@article{ xxBrGrein.C2,
+Author = {Bruna, PJ and Grein, F},
+Title = {Spectroscopy of the C-2 molecule: Valence and Rydberg states in the
+   7-10 eV region. An ab initio study},
+Journal = {CANADIAN JOURNAL OF PHYSICS},
+Year = {2001},
+Volume = {79},
+Number = {2-3},
+Pages = {653-671},
+Month = {OCT},
+Abstract = {The potential curves of selected valence and Rydberg states of C-2
+   lying in the 7-10 eV region are reported for the first time. The states
+   studied, using MRCI wave functions, include (2-5)(3,1)Pi (u),
+   (1-3)(3)Sigma (+)(g), (2-5)(3)Sigma (g-), (1-3)(3)(g), and relevant
+   quintet stares. The f (3)Sigmag(-), g(3)Deltag and F (1)Pi (u) states
+   observed in absorption from 8.88 to 9.25 eV by Herzberg et al. have
+   originally been assumed to be pi (u) --> 3s Rydberg states, with
+   respect to a (3)Pi (u)(1 (3)Pi (u)) for the triplets and to X(1)Sigma
+   (+)(g) for the singlet. Our calculations partially support such
+   assignments: f (3)Sigma (-)(g) corresponding to 3 (3)Sigma (-)(g) has
+   mixed valence sigma (u)sigma (g)pi (u) (3)pi (g) and Rydberg sigma
+   (2)(u)sigma (g)pi (u) (2)3s character g(3)Delta (g) corresponding to
+   2(3)Delta (g) has a valence sigma (u)sigma (g)pi (u) (3)pi (g),
+   structure, while F(1)Pi (u)(2(1)Pi (u)) is confirmed to be a sigma (u)
+   (2)pi (u) (3)3s state. The calculated f(00)-values for these bands are
+   0.027 for f <-- a, 0.051 for g <-- a, and 0.098 for F <-- X. The
+   singlet-singlet transition F <-- X constitutes the strongest absorption
+   band reported so far for C-2. Our theoretical value agrees with f(00)(F
+   <-- X) = 0.10 +/- 0.01 derived indirectly from interstellar data
+   collected by the Hubble Space Telescope. The 1 (3) Sigma (+)(g) (sigma
+   (u)sigma (g)pi (u) (3)pi (g)) state at T-e = 7.57 eV lies much higher
+   than expected by experimentalists.},
+ISSN = {0008-4204},
+Journal-ISO = {Can. J. Phys.},
+Unique-ID = {ISI:000169869900043},
+}
+
+@article{ 95LaShFe.C2,
+Author = {LAMBERT, DL and SHEFFER, Y and FEDERMAN, SR},
+Title = {HUBBLE-SPACE-TELESCOPE OBSERVATIONS OF C-2 MOLECULES IN DIFFUSE
+   INTERSTELLAR CLOUDS},
+Journal = {ASTROPHYSICAL JOURNAL},
+Year = {1995},
+Volume = {438},
+Number = {2, Part 1},
+Pages = {740-749},
+Month = {JAN 10},
+Abstract = {Interstellar C-2 F-X (1342 Angstrom) and D-X (2313 Angstrom) bands in
+   the spectrum of zeta Oph were detected using the Goddard
+   High-Resolution Spectrograph on the Hubble Space Telescope. The total
+   C-2 column density is (179 +/- 0.06) 10(13) cm(-2) for an adopted
+   f-value of 0.0545 for the 2313 Angstrom band of the Mulliken (D-X)
+   system. Relative f-values for the 0-0 F-X, 0-0 D-X, and 2-0 A-X
+   (Phillips) bands are derived by combining ultraviolet and near-infrared
+   spectra: f(00)(FX)/f(00)(DX) = 1.83 +/- 0.18 and f(20)(AX)/f(00)(DX) =
+   0.0226 +/- 0.0029. For the Mulliken system, lines are detected up to a
+   rotational level J(n) = 24. The relative populations along the
+   rotational ladder are shown to be consistent with the physical and
+   environmental conditions suggested by other diagnostics. Interstellar
+   C-2 molecules were detected towards xi Per {[}N(C-2) = (0.80 +/- 0.23)
+   10(13) cm(-2)] but not towards beta(1), pi, and omega(1) Sco
+   {[}N(C-2)less than or equal to 0.17 x 10(13) cm(-2)].},
+ISSN = {0004-637X},
+Journal-ISO = {Astrophys. J.},
+Unique-ID = {ISI:A1995QA90600023},
+}
+
+@article{ 09NaJoPa.C2,
+Author = {Nakajima, Masakazu and Joester, Jenna A. and Page, Nathan I. and
+   Reilly, Neil J. and Bacskay, George B. and Schmidt, Timothy W. and
+   Kable, Scott H.},
+Title = {Quantum chemical study and experimental observation of a new band
+   system of C-2, e (3)Pi(g)-c (3)Sigma(+)(u)},
+Journal = JCP,
+Year = {2009},
+Volume = {131},
+Number = {4},
+Month = {JUL 28},
+Abstract = {A new band system of C-2, e (3)Pi(g)-c (3)Sigma(+)(u) was studied by ab
+   initio quantum chemical and experimental methods. The calculations were
+   carried out at the multireference configuration interaction level of
+   theory with Davidson's correction using aug-cc-pV6Z basis set and
+   include core and core-valence correlation as well as relativistic
+   corrections computed with aug-cc-pCVQZ and cc-pVQZ bases, respectively.
+   The vibrational energies and rotational constants of the upper e
+   (3)Pi(g) state were calculated from the computed ab initio potential
+   energy curve. The ab initio results indicate that the electronic
+   transition moment of the e (3)Pi(g)-c (3)Sigma(+)(u) system is
+   approximately one-half that of the Fox-Herzberg e (3)Pi(g)-a (3)Pi(u)
+   system. Franck-Condon factors were calculated for both systems and used
+   to guide experiments aimed at discovering the e (3)Pi(g)-c
+   (3)Sigma(+)(u) system. The e (3)Pi(g)(v(')=4)-c (3)Sigma(+)(u)(v(')=3)
+   band of jet-cooled C-2 was successfully observed by laser-induced
+   fluorescence spectroscopy by monitoring the ensuing e (3)Pi(g)-a
+   (3)Pi(u) emission.},
+DOI = {10.1063/1.3175013},
+pages = {044301},
+ISSN = {0021-9606},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000268613700032},
+}
+
+@article{ 90LaBaRe.C2,
+Author = {LANGHOFF, SR and BAUSCHLICHER, CW and RENDELL, AP and KOMORNICKI, A},
+Title = {THEORETICAL-STUDY OF THE RADIATIVE LIFETIME OF THE A-1-PI-U STATE OF C-2},
+Journal = JCP,
+Year = {1990},
+Volume = {92},
+Number = {11},
+Pages = {6599-6603},
+Month = {JUN 1},
+ISSN = {0021-9606},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1990DE14600031},
+}
+
+@article{ 88DoNix2.C2,
+Author = {DOUAY, M and NIETMANN, R and BERNATH, PF},
+Title = {NEW OBSERVATIONS OF THE ALPHA-1-PI-U-CHI-1-SIGMA-G+ TRANSITION
+   (PHILLIPS SYSTEM) OF C2},
+Journal = {JOURNAL OF MOLECULAR SPECTROSCOPY},
+Year = {1988},
+Volume = {131},
+Number = {2},
+Pages = {250-260},
+Month = {OCT},
+ISSN = {0022-2852},
+Journal-ISO = {J. Mol. Spectrosc.},
+Unique-ID = {ISI:A1988R018100006},
+}
+
+@article{ 79KiLixx.C2,
+Author = {KIRBY, K and LIU, B},
+Title = {VALENCE STATES OF C2 - CONFIGURATION INTERACTION STUDY},
+Journal = JCP,
+Year = {1979},
+Volume = {70},
+Number = {2},
+Pages = {893-900},
+ISSN = {0021-9606},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:A1979GG62100039},
+}
+
+@article{ 07TaHiAm.C2,
+Author = {Tanabashi, A. and Hirao, T. and Amano, T. and Bernath, P. F.},
+Title = {The Swan system of C-2: A global analysis of Fourier transform emission
+   spectra},
+Journal = ApJS,
+Year = {2007},
+Volume = {169},
+Number = {2},
+Pages = {472-484},
+Month = {APR},
+Abstract = {The C-2 Swan system (d(3)Pi(g)-a(3)Pi(u)) was observed in emission for
+   the Delta v = -3 to Delta v = +2 sequences in the 14,000-24,000 cm(-1)
+   spectral range using a Fourier transform spectrometer. We carried out a
+   global simultaneous fit by including a wide range of vibrational states.
+   A total of 34 bands with v' = 0-10 and v `' = 0-9 were rotationally
+   assigned. Numerous discrepancies were found in the assignments and in
+   the measured transition wavenumbers between the new measurements and
+   previous results. Most of the measured transition wavenumbers and their
+   assignments for relatively low-v bands agreed with published data. On
+   the contrary, for high-v bands our line positions and assignments
+   disagreed with the tabulated literature values. In particular, the lines
+   of six bands involving the levels with v' = 4, 5, and 6 are almost
+   completely different from the previous work. Major sources of the
+   disagreement are thought to be line congestion and perturbations found
+   in these bands. From the analysis, perturbations for v' = 0, 1, 2, 4, 6,
+   8, 9, and 10 in the d(3)Pi(g) state were identified. A study of these
+   rotational perturbations suggest that some of them are likely caused by
+   interactions with high-v levels of the b (3)Sigma(-)(g) state.}}
+
+@article{ 11BoSyKn.C2,
+Author = {Bornhauser, P. and Sych, Y. and Knopp, G. and Gerber, T. and Radi, P. P.},
+Title = {Shedding light on a dark state: The energetically lowest quintet state
+   of C(2)},
+Journal = JCP,
+Year = {2011},
+Volume = {134},
+DOI = {10.1063/1.3526747},
+pages = {044302},
+ISSN = {0021-9606},
+Times-Cited = {1},
+Unique-ID = {ISI:000286897600045}
+}
+
+@article{ 10BoKnGe.C2,
+Author = {Bornhauser, P. and Knopp, G. and Gerber, T. and Radi, P. P.},
+Title = {Deperturbation study of the d(3)Pi(g), v `=4 state of C(2) by applying
+   degenerate and two-color resonant four-wave mixing},
+Journal = JMS,
+Year = {2010},
+Volume = {262},
+Number = {2},
+Pages = {69-74},
+Month = {AUG},
+DOI = {10.1016/j.jms.2010.05.008},
+ISSN = {0022-2852},
+Times-Cited = {1},
+Unique-ID = {ISI:000280930600002},
+}

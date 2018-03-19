@@ -1,0 +1,727 @@
+
+@article{ 17DaVaDe.SiS,
+	author = {Danilovich, T. and {Van de Sande}, M. and {De Beck}, E. and Decin, L. and Olofsson, H. and Ramstedt, S. and Millar, T. J.},
+	title = {{Sulphur-bearing molecules in AGB stars - I. The occurrence of hydrogen sulphide}},
+	doi={10.1051/0004-6361/201731203},
+	journal = AA,
+	year = {2017},
+	volume = 606,
+	pages = "A124",
+}
+
+@ARTICLE{07ScBaOl.Sis,
+   author = {{Sch{\"o}ier}, F. L. and {Bast}, J. and {Olofsson}, H. and {Lindqvist}, M},
+    title = "{The abundance of SiS in circumstellar envelopes around AGB stars}",
+  journal = ApJ,
+ keywords = {stars: AGB and post-AGB , stars: circumstellar matter, stars: late-type, stars: mass-loss},
+     year = 2007,
+   volume = 473,
+    pages = {871-882},
+      doi = {10.1051/0004-6361:20077887},
+}
+
+@article{ 11ShXiZh.SiS,
+Author = {Shi, Deheng and Xing, Wei and Zhang, Xiaoniu and Sun, Jinfeng and Zhu,
+   Zunlue and Liu, Yufang},
+Title = {Spectroscopic and molecular properties of X-1 Sigma(+), a(3)Sigma(+),
+   b(3)Pi, d(3)Delta, C-1 Sigma(-), e(3)Sigma(-), D-1 Delta and A(1)Pi
+   electronic states of SiS molecule},
+Journal = {Comput. Theor. Chem.},
+Year = {2011},
+Volume = {969},
+Pages = {17-26},
+Abstract = {The potential energy curves (PECs) of eight low-lying electronic states
+   (X-1 Sigma(+), a(3)Sigma(+), b(3)Pi, d(3)Delta, C-1 Sigma(-), e3
+   Sigma(-), D-1 Delta and A(1)Pi) of SiS molecule were investigated with
+   the full valence complete active space self-consistent field (CASSCF)
+   method followed by the highly accurate valence internally contracted
+   multireference configuration interaction (MRCI) approach with the
+   correlation-consistent basis sets, aug-cc-pV5Z and aug-cc-pV6Z. Effect
+   on the PECs by the relativistic correction is taken into account. The
+   way to consider the relativistic correction is to use the second-order
+   Douglas-Kroll Hamiltonian (DKH2) approximation. And the relativistic
+   correction is made at the level of cc-pV5Z basis set. To obtain more
+   reliable results, the PECs determined by the MRCI calculations are also
+   corrected for size-extensivity errors by means of the Davidson
+   modification (MRCI+Q). The PECs are extrapolated to the complete basis
+   set (CBS) limit by the two-point total-energy extrapolation scheme. With
+   these PECs, the spectroscopic parameters (T-e, D-e, R-e, omega(e)x(e),
+   omega Y-e(e), B-e and alpha(e)) are determined and compared with those
+   reported in the literature. With the PECs obtained by the MRCI+Q/DK+56
+   calculations, the vibrational levels and inertial rotation and
+   centrifugal distortion constants of the first 30 vibrational states are
+   calculated for each electronic state involved here when the rotational
+   quantum number J is equal to zero. Comparison with the measurements
+   shows that the present total-energy extrapolation could improve the
+   quality of spectroscopic parameters. On the whole, as expected, the
+   spectroscopic parameters and molecular constants closest to the
+   experimental data are determined by the MRCI+QJDK+56 calculations for
+   these electronic states.},
+DOI = {10.1016/j.comptc.2011.05.007},
+Keywords = {Relativistic correction; Spectroscopic parameter; Molecular constant;
+   Extrapolation},
+Keywords-Plus = {GAUSSIAN-BASIS SETS; CONFIGURATION-INTERACTION CALCULATIONS;
+   POTENTIAL-ENERGY CURVES; CONSISTENT BASIS-SETS; SILICON MONOSULFIDE;
+   ROTATIONAL ANALYSIS; DIATOMIC-MOLECULES; CHEMI-LUMINESCENT; 2ND-ROW
+   ATOMS; GROUND-STATE},
+}
+
+@article{ 14LiZhLi.SiS,
+Author = {Li, Rui and Zhang, Xiao-Mei and Li, Qi-Nan and Luo, Wang and Jin, Ming-Xing
+   and Xu, Hai-Feng and Yan Bing},
+Title = {{All-electron configuration interaction study on potential energy curves
+   of low-lying excited states and spectroscopic properties of SiS}},
+Journal = {{Acta Physica Sinica}},
+Year = {{2014}},
+Volume = {{63}},
+DOI = {{10.7498/aps.63.113102}},
+pages = {113102},
+}
+
+@article{ 07MuMcBi.SiS,
+Author = {Mueller, H. S. P. and McCarthy, M. C. and Bizzocchi, L. and Gupta, H.
+   and Esser, S. and Lichau, H. and Caris, M. and Lewen, F. and Hahn, J.
+   and Esposti, C. Degli and Schlemmer, S. and Thaddeus, P.},
+Title = {{Rotational spectroscopy of the isotopic species of silicon monosulfide,
+   SiS}},
+Journal = PCCP,
+Year = {{2007}},
+Volume = {{9}},
+Pages = {1579-1586},
+DOI = {10.1039/b618799d}}
+
+
+@article{ 92CoHaxx.SiS,
+Author = {Coxon, J A and Hajigeorgiou, P G},
+Title = {ON THE DIRECT DETERMINATION OF ANALYTICAL DIATOMIC POTENTIAL-ENERGY
+   FUNCTIONS FROM SPECTROSCOPIC DATA - THE X1-SIGMA+ ELECTRONIC STATES OF
+   NAF, LII, CS, AND SIS},
+Journal = CP,
+Year = {1992},
+Volume = {167},
+Pages = {327-340},
+Abstract = {Line positions available in the literature for vibrational-rotational
+   and pure rotational transitions have been employed to determine accurate
+   effective potential energy curves for the ground electronic states of
+   (NaF)-Na-23-F-19 and (LiI)-Li-7-I-127, and Born-Oppenheimer potentials
+   and associated radial functions describing Born-Oppenheimer breakdown
+   corrections for CS and SiS. In each case, a small number of fitted
+   parameters represents the entire data to within the measurement
+   accuracies. Rotational and centrifugal distortion constants are
+   calculated a posteriori through perturbation theory. For SiS, the
+   results are compared with those of a recent analysis by Ogilvie, and it
+   is found that eigenvalues calculated by numerical solution of the radial
+   equation with effective Hamiltonians defined by the present results are
+   greatly improved over those calculated from Hamiltonians defined by
+   Ogilvie's parameters.},
+DOI = {10.1016/0301-0104(92)80206-B},
+}
+﻿
+@article{ 08TpLiKl.SiS,
+Author = {Tobola, R. and Lique, F. and Klos, J. and Chalasinski, G.},
+Title = {{Ro-vibrational excitation of SiS by He}},
+Journal = JPB,
+Year = {{2008}},
+Volume = {{41}},
+Abstract = {{Modelling of the astrophysical spectra requires accurate radiative and
+   collisional rates for species of astrophysical interest. The present
+   paper focuses on the calculation of ro-vibrational excitation rate
+   coefficients of SiS by He, useful for studies of high-temperature
+   interstellar . A new accurate three-dimensional potential energy surface
+   for the SiS-He system, which explicitly takes into account the
+   r-dependence of the SiS vibration, was determined from ab initio
+   calculations. The dynamic calculations were performed using the
+   vibrational close-coupling rotational infinite order sudden (VCC-IOS)
+   method. Cross sections among the first 100 rotational levels of v = 0-4
+   are calculated for total energies up to 12 000 cm(-1). Rate coefficients
+   between the ro-vibrational levels are calculated for temperatures from
+   300 K to 1500 K.}},
+DOI = {{10.1088/0953-4075/41/15/155702}},
+pages = {155702}}
+
+@article{ 15FoCeRi.SiS,
+Author = {Fonfria, J. P. and Cernicharo, J. and Richter, M. J. and
+   Fernandez-Lopez, M. and Velilla Prieto, L. and Lacy, J. H.},
+Title = {{The abundance of (SiS)-Si-28-S-32, (SiS)-Si-29-S-32, (SiS)-Si-28-S-34,
+   and (Si32S)-Si-30 in the inner layers of the envelope of IRC+10216}},
+Journal = MNRAS,
+Year = {{2015}},
+Volume = {{453}},
+Pages = {439-449},
+Abstract = {{We present high spectral resolution mid-IR observations of SiS towards
+   the C-rich AGB star IRC+10216 carried out with the Texas
+   Echelon-cross-Echelle Spectrograph mounted on the NASA Infrared
+   Telescope Facility. We have identified 204 ro-vibrational lines of
+   (SiS)-Si-28-S-32, 26 of (SiS)-Si-29-S-32, 20 of (SiS)-Si-28-S-34, and 15
+   of (SiS)-Si-30-S-32 in the frequency range 720-790 cm(-1). These lines
+   belong to bands v = 1-0, 2-1, 3-2, 4-3, and 5-4, and involve rotational
+   levels with J(low) less than or similar to 90. About 30 per cent of
+   these lines are unblended or weakly blended and can be partially or
+   entirely fitted with a code developed to model the mid-IR emission of a
+   spherically symmetric circumstellar envelope composed of expanding gas
+   and dust. The observed lines trace the envelope at distances to the star
+   less than or similar to 35R(star) (similar or equal to 0.7 arcsec). The
+   fits are compatible with an expansion velocity of 1 + 2.5(r/R-star-1) km
+   s(-1) between 1 and 5R(star), 11km s(-1) between 5 and 20R(star), and
+   14.5 km s(-1) outwards. The derived abundance profile of
+   (SiS)-Si-28-S-32 with respect to H-2 is 4.9 x 10(-6) between the stellar
+   photosphere and 5R(star), decreasing linearly down to 1.6 x 10(-6) at
+   20R(star) and to 1.3 x 10(-6) at 50R(star). (SiS)-Si-28-S-32 seems to be
+   rotationally under local thermodynamic equilibrium (LTE) in the region
+   of the envelope probed with our observations and vibrationally out of
+   LTE in most of it. There is a red-shifted emission excess in the
+   (SiS)-Si-28-S-32 lines of band v = 1-0 that cannot be found in the lines
+   of bands v = 2-1, 3-2, 4-3, and 5-4. This excess could be explained by
+   an enhancement of the vibrational temperature around 20R(star) behind
+   the star. The derived isotopic ratios Si-28/Si-29, and S-32/S-34 are 17
+   and 14, compatible with previous estimates.}},
+DOI = {10.1093/mnras/stv1634}}
+
+@article{06ExAgTe.SiS,
+Author = {Fonfria Exposito, J. P.  and Agundez, M. and Tercero, B. and Pardo, J. R.
+   and Cernicharo, J.},
+Title = {{High-J v = SiS maser emission in IRC+10216: A new case of infrared
+   overlaps}},
+Journal = ApJ,
+Year = {{2006}},
+Volume = {{646}},
+Pages = {L127-L130},
+Abstract = {{We report on the first detection of maser emission in the J = 11-10, J =
+   14-13, and J = 15-14 transitions of the p 0 vibrational state of SiS
+   toward the carbon-rich star IRC + 10216. These masers seem to be
+   produced v in the very inhomogeneous region between the star and the
+   inner dust formation zone, located at similar or equal to(5-7)R-{*},
+   with expansion velocities below 10 km s(-1). We interpret the pumping
+   mechanism as being due to overlaps between upsilon = 1-0 rovibrational
+   lines of SiS and mid-IR lines of C2H2, HCN, and their C-13
+   isotopologues. The large number of overlaps found suggest the existence
+   of strong masers for high-J upsilon = 0 and upsilon = 1 SiS transitions,
+   located in the submillimeter range. In addition, it could be possible to
+   find several rotational lines of the SiS isotopologues displaying maser
+   emission.}},
+DOI = {10.1086/507104}}
+
+@article{ 07ScBaOl.SiS,
+Author = {Schoier, F. L. and Bast, J. and Olofsson, H. and Lindqvist, M.},
+Title = {{The abundance of SiS in circumstellar envelopes around AGB stars}},
+Journal = AA,
+Year = {{2007}},
+Volume = {{473}},
+Pages = {871-882},
+Abstract = {{Aims. Given their photospheric origin and refractive nature, SiS
+   molecules can provide major constraints on the relative roles of dust
+   condensation and non-equilibrium processes in regulating the chemistry
+   in circumstellar envelopes around evolved stars.
+   Methods. New SiS multi-transition (sub-) millimetre line observations of
+   a sample of AGB stars with varying photospheric C/O-ratios and mass-loss
+   rates are presented. A combination of low- and high-energy lines are
+   important in constraining the circumstellar distribution of SiS
+   molecules. A detailed radiative transfer modelling of the observed SiS
+   line emission is performed, including assessment of the effect of
+   thermal dust grains in the excitation analysis.
+   Results. We find that the circumstellar fractional abundance of SiS in
+   these environments has a strong dependence on the photospheric C/O-ratio
+   as expected from chemical models. The carbon stars (C/O > 1) have a mean
+   fractional abundance of 3.1 x 10(-6), about one order of magnitude
+   higher than that found for the M-type AGB stars (C/O < 1) where the mean
+   value is 2.7 x 10(-7). These numbers are in reasonable agreement with
+   photospheric LTE chemical models. SiS appears to behave similarly to SiO
+   in terms of photodissociation in the outer part of the circumstellar
+   envelope. In contrast to previous results for the related molecule SiO,
+   there is no strong correlation of the fractional abundance with density
+   in the CSE, as would be the case if freeze-out onto dust grains were
+   important. However, possible time-variability of the line emission in
+   the lower J transitions and the sensitivity of the line emission to
+   abundance gradients in the inner part of the CSE may mask a correlation
+   with the density of the wind. There are indications that the SiS
+   fractional abundance could be significantly higher closer to the star
+   which, at least in the case of M-type AGB stars, would require
+   non-equilibrium chemical processes.}},
+DOI = {10.1051/0004-6361:20077887}}
+
+
+
+@article{ 97Turner.SiS,
+Author = {Turner, B E},
+Title = {{DETECTION OF VIBRATIONALLY EXCITED SIS IN IRC+10216}},
+Journal = AA,
+Year = {{1987}},
+Volume = {{183}},
+Pages = {L23-L26}}
+
+@article{ 72TiReHo.SiS,
+Author = {Tiemann, E and Renwanz, E and Hoeft, J and Torring, T},
+Title = {{ISOTOPIC EFFECTS IN ROTATIONAL SPECTRUM OF SIS}},
+Journal = {Z. Naturforschung A},
+Year = {{1972}},
+Volume = {{A 27}},
+Pages = {1566-1570}}
+
+@article{ 90FrEnBe.SiS,
+Author = {Frum, C I and Engleman, R and Bernath, P F},
+Title = {{FOURIER-TRANSFORM EMISSION-SPECTROSCOPY AT 13 MU-M - VIBRATION-ROTATION
+   SPECTRUM OF SIS}},
+Journal = JCP,
+Year = {{1990}},
+Volume = {{93}},
+Pages = {5457-5461},
+DOI = {10.1063/1.459642}}
+
+@article{ 96Bernat,
+Author = {Bernath, P F},
+Title = {{Infrared Fourier transform emission spectroscopy}},
+Journal = {Chem. Soc. Rev.},
+Year = {{1996}},
+Volume = {{25}},
+Number = {{2}},
+Pages = {111-\&},
+Month = {{APR}},
+Abstract = {{Infrared emission spectroscopy has been unjustly neglected. For high
+   temperature systems, infrared emission spectroscopy offers an
+   improvement in sensitivity over traditional absorption methods. The
+   power of the emission technique is illustrated with a series of examples
+   ranging from LiH to C-60.}},
+DOI = {{10.1039/cs9962500111}},
+}
+
+@article{ 85LaShGo.SiS, 
+Author = {Lakshminarayana, G and Shetty, B J and Gopal, S},
+Title = {{ROTATIONAL ANALYSIS OF THE E1-SIGMA+-X1-SIGMA+ BANDS OF SIS}},
+Journal = JMS,
+Year = {{1985}},
+Volume = {{112}},
+Pages = {1-7},
+DOI = {10.1016/0022-2852(85)90185-7}}
+
+@article{ 83KrGoSa.SiS,
+Author = {Krishnamurty, G and Gopal, S and Saraswathy, P and Lakshminarayana, G},
+Title = {{ROTATIONAL ANALYSIS OF THE A1-PI-X1-SIGMA+ BANDS OF (SIS)-SI-38-S-34 -
+   PERTURBATION STUDIES IN THE A1-PI STATE}},
+Journal = CJP,
+Year = {{1983}},
+Volume = {{61}},
+Pages = {714-724}}
+
+@article{ 15VeCeQu.SiS,
+Author = {Velilla Prieto, L. and Cernicharo, J. and Quintana-Lacaci, G. and
+   Agundez, M. and Castro-Carrizo, A. and Fonfria, J. P. and Marcelino, N.
+   and Zuniga, J. and Requena, A. and Bastida, A. and Lique, F. and Guelin,
+   M.},
+Title = {{Si-BEARING MOLECULES TOWARD IRC+10216: ALMA UNVEILS THE MOLECULAR
+   ENVELOPE OF CWLeo}},
+Journal = ApJL,
+Year = {{2015}},
+Volume = {{805}},
+Abstract = {{We report the detection of SiS rotational lines in high-vibrational
+   states as well as SiO and SiC2 lines in their ground vibrational state
+   toward IRC+10216 during the Atacama Large Millimeter Array Cycle 0. The
+   spatial distribution of these molecules shows compact emission for SiS
+   and a more extended emission for SiO and SiC2 and also proves the
+   existence of an increase in the SiC2 emission at the outer shells of the
+   circumstellar envelope (CSE). We analyze the excitation conditions of
+   the vibrationally excited SiS using the population diagram technique,
+   and we use a large velocity gradient model to compare with the
+   observations. We found moderate discrepancies between the observations
+   and the models that could be explained if SiS lines detected are
+   optically thick. Additionally, the line profiles of the detected
+   rotational lines in the high-energy vibrational states show a decreasing
+   linewidth with increasing energy levels. This may be evidence that these
+   lines could be excited only in the inner shells, i.e., the densest and
+   hottest, of the CSE of IRC+10216.}},
+DOI = {{10.1088/2041-8205/805/2/L13}},
+pages = {L13}}
+
+
+@article{ 04MaOtHe.SiS,
+Author = {Mauersberger, R and Ott, U and Henkel, C and Cernicharo, J and Gallino,
+   R},
+Title = {{The abundance of (36)S in IRC+10216 and its production in the Galaxy}},
+Journal = AA,
+Year = {{2004}},
+Volume = {{426}},
+Pages = {219-227},
+Abstract = {{The J = 2-1 and 3-2 rotational lines of the rare isotopomer C(36)S and
+   the J = 5-4 and 6-5 transitions of Si(36)S were detected in the carbon
+   star IRC+10216 (CWLeo). These are the first detections of (36)S-bearing
+   molecules in a star and the first spectroscopic detection of Si(36)S.
+   From a comparison of (34)S- and (36)S-bearing isotopomers, the
+   (34)S/(36)S isotopic ratio is 107(+/-15). This value is comparable to
+   values in the interstellar medium of the inner Galactic disk (115) but
+   is smaller than the solar value of 288 (Ding et al. 2001). The increase
+   of the (36)S abundance relative to (34)S only qualitatively follows
+   model predictions of a low mass AGB star. Quantitative agreement of the
+   observed (34)S/(36)S ratio with the stellar models can be reached if the
+   age of IRC+10216 and Galactic chemical evolution are taken into account.
+   Other less likely possibilities are the presence of considerable
+   inhomogeneities in the interstellar medium and either IRC+10216 or the
+   Sun started with a peculiar (36)S abundance. Other production mechanisms
+   potentially capable of enhancing the Galactic interstellar medium are
+   discussed. From the observed line density toward IRC+10216 and toward
+   Galactic star forming regions, we estimate the confusion limit toward
+   those sources.}},
+DOI = {{10.1051/0004-6361:20040451}},
+}
+
+@article{ 02ChChDa.SiS,
+Author = {Chattopadhyaya, S and Chattopadhyay, A and Das, K K},
+Title = {{Electronic spectrum of silicon monosulfide: Configuration interaction
+   study}},
+Journal = JPCA,
+Year = {{2002}},
+Volume = {{106}},
+Pages = {833-841},
+Abstract = {{Ab initio based configuration interaction calculations using
+   relativistic effective core potentials and compatible basis sets have
+   been performed to study the electronic spectrum of the silicon
+   monosulfide molecule. Potential energy curves of low-lying states of SiS
+   have been computed. Spectroscopic properties of many observed states
+   such as X(1)Sigma(+), a(3)Sigma(+), d(3)Delta, b(3)Pi, C(1)Sigma(-),
+   e(3)Sigma(-), D(1)Delta, A(1)Pi, and E(1)Sigma(+) up to 42000 cm(-1) of
+   energy have been calculated and compared. The ground state of SiS is
+   represented mainly by ...pi(4) (74\%) and ...pi(3)pi({*}) (12\%)
+   configurations with r(e) = 1.957 Angstrom (3.7 a(0)) and omega(e) = 733
+   cm(-1), which compare well with the observed values. The dissociation
+   energies of the ground and excited states have been estimated. All 18
+   A-S states correlating with the lowest asymptote have been allowed to
+   mix through the spin-orbit coupling. Effects of spin-orbit interactions
+   on the potential energy curves and spectroscopic properties of the
+   low-lying states of SiS are studied. Dipole-allowed transitions such as
+   E-X and A-X are found to be strong. Several spin-forbidden weak
+   transitions are also noted. The radiative lifetimes of many upper states
+   are estimated. The E(1)Sigma(0+)(+) and A(1)Pi(1) states are predicted
+   to be short-lived with radiative lifetimes of about 10.2 and 103 ns,
+   respectively.}},
+DOI = {{10.1021/jp013332e}}}
+
+@article{ 00MaMaXe.SiS,
+Author = {Maroulis, G and Makris, C and Xenides, D and Karamanis, P},
+Title = {{Electric dipole and quadrupole moment and dipole polarizability of CS,
+   SiO and SiS}},
+Journal = MP,
+Year = {{2000}},
+Volume = {{98}},
+Pages = {481-491},
+Abstract = {{Accurate values have been obtained for the electric dipole (mu) and
+   quadrupole (Theta) moment and the dipole polarizability (alpha(alpha
+   beta)) of CS, SiO and SIS from finite-field many-body perturbation
+   theory and coupled cluster calculations. For the ground state of the
+   dipole moment we have obtained mu/e a(o) = 0.7903 (CS), -1.1843 (SiO)
+   and -0.6124 (SIS) and for the quadrupole moment Theta/e a(o)(2) = -1.85
+   (CS), -2.94 (SiO) and -0.37 (SiS). These values agree well with the
+   available experimental data for the dipole moment. Discrepancies between
+   theory and experiment are observed for the quadrupole moment of CS, SiO
+   and SiS. Our best values for the mean dipole polarizability of the
+   isoelectronic CS and SiO are <(alpha)over bar>/e(2) a(o)(2) E(h)(-1) =
+   28.87 (CS) and 29.67 (SiO). SiO is less anisotropic than CS, as Delta
+   alpha/e(2) a(o)(2) E(h)(-1) = 14.45 (CS) and 7.66 (SiO). The dipole and
+   quadrupole moments, the mean and the anisotropy of the polarizability of
+   SiS at the MP4 level of theory vary around the equilibrium bond length
+   R(e) as
+   mu(R)/e a(o) = -0.5658 - 0.6070 Delta R + 0.2997 Delta R(2) + 0.2316
+   Delta R(3)
+   Theta(R)/e a(o)(2) = -0.42 + 2.37 Delta R - 0.62 Delta R(2) + 0.26 Delta
+   R(3)
+   <(alpha)over bar>(R)/e(2) a(o)(2) E(h)(-1) = 50.10 + 15.67 Delta R +
+   3.68 Delta R(2) + 0.17 Delta R(3),
+   Delta alpha(R)/e(2) a(o)(2) E(h)(-1) = 27.23 + 26.00 Delta R + 10.02
+   Delta R(2) + 3.57 Delta R(3),
+   with Delta R = (R - R(e))/a(o).}}}
+
+@article{ 00CeGuKa.SiS,
+Author = {Cernicharo, J and Guelin, M and Kahane, C},
+Title = {{A lambda 2 mm molecular line survey of the C-star envelope IRC+10216}},
+Journal = {A\&A Suppl. Ser.},
+Year = {{2000}},
+Volume = {{142}},
+Pages = {181-215},
+Abstract = {{The mm-wave spectrum of the C-star envelope IRC+10216 has been
+   continuously surveyed between 129.0 and 172.5 GHz with the IRAM 30-m
+   telescope. 380 lines are detected, of which 317 have been identified.
+   The identified lines arise from 30 different molecules and radicals
+   which, in their vast majority, are not observed in hot and dense
+   interstellar clouds such as Orion A or W3(OH). Actually, half of the
+   molecular species identified in the mm-wave spectrum of IRC+10216 were
+   first observed in the course of this spectral survey.
+   The new species include several carbon-chain molecules and radicals, as
+   well as silicon and metallic compounds;. They also include molecules
+   containing rare isotopes of C, Mg, Si, S and Cl, whose elemental
+   abundance ratios in the envelope are redetermined. We observe, in
+   particular, four (13)C isotopomers of C(4)H, three of C(3)N and HC(3)N,
+   and four doubly-substituted isotopomers of SiS and CS.
+   63 lines remain unidentified. Probably, a large fraction of those are
+   rotational transitions inside the excited bending states of the abundant
+   species NaCN, C(5)H, and C(6)H. We call also expect some lines to be
+   ground state transitions of poorly known silicon and metal compounds,
+   such as the slightly asymmetrical top molecule SiCSi.}},
+}
+
+
+
+@article{ 04BoKeJe.SiS,
+Author = {Boyle, R J and Keady, J J and Jennings, D E and Hirsch, K L and Wieldemann,   G R},
+Title = {{OBSERVATIONS OF 13.5 MICRON ROTATION-VIBRATION LINES OF SIS IN IRC PLUS
+   10216}},
+Journal = ApJ,
+Year = {{1994}},
+Volume = {{420}},
+Pages = {863-868},
+Abstract = {{We report the first observations of the 13.5 mu m fundamental band of
+   SiS in the spectrum of the heavily obscured carbon star IRC +10216. The
+   lines are formed in the inner region of the circumstellar envelope where
+   the gas is accelerating and where the temperature ranges from 800-500 K.
+   We have carried out a detailed model of the observed line profiles. Our
+   observations are best fit by a gradient in the abundance of SiS. We
+   derive an abundance relative to molecular hydrogen of x(SiS) = 4.3 x
+   10(-6) ata distance of twelve stellar radii from the central star rising
+   to x(SiS)= 4.3 x 10(-5) at a few Stellar radii from the surface of the
+   star.}},
+DOI = {{10.1086/173609}},
+}
+
+@article{ 93HuMiSe.SiS,
+Author = {Huzinaga, S and Miyoshi, E and Sekiya, M},
+Title = {{ELECTRIC-DIPOLE POLARITY OF DIATOMIC-MOLECULES}},
+Journal = JCC,
+Year = {{1993}},
+Volume = {{14}},
+Pages = {1440-1445},
+Abstract = {{The restricted SCF (single-configuration SCF) and MCSCF
+   (multiconfiguration SCF) calculations are performed to compute the
+   ground-state electric dipole moments of four pairs of diatomic
+   molecules-(1) CO and BF; (2) SiO and AlF; (3) CS and BCl; and (4) SiS
+   and AlCl-at a number of internuclear distances on both sides of the
+   equilibrium position. Near Hartree-Fock accuracy is obtained in the SCF
+   calculations. All eight molecules have a range of internuclear distance
+   in which electric dipole moments are of the polarity of A-B+. The shapes
+   of computed electric dipole moment functions are discussed in the
+   language of the molecular orbital method and in relationship to
+   electronegativities of atoms. The present study gives us deeper
+   understanding of electron transfer inside molecules and consequently of
+   the apparent contradiction between electronegativity and the dipole
+   polarity of some molecules. }},
+DOI = {{10.1002/jcc.540141205}},
+}
+
+@article{ 90BiJoxx.SiS,
+Author = {Birk, H and Jones, H},
+Title = {{DIODE-LASER MEASUREMENT OF THE INFRARED-SPECTRUM OF SILICON MONOSULFIDE}},
+Journal = CPL,
+Year = {{1990}},
+Volume = {{175}},
+Pages = {536-542},
+Abstract = {{The infrared spectra of four isotopic forms of silicon monosulfide in
+   natural abundance (SiS)-Si-28-S-32:  87\%, (SiS)-Si-28-S-34:  8\%,
+   (SiS)-Si-29-S-32:  4.4\%, (SiS)-Si-30-S-32:  2.9\%) in their ground
+   electronic states (1-SIGMA) have been measured using a diode laser
+   spectrometer.  An accurate set of Dunham parameters, mass-independent
+   parameters and mass scaling coefficients were calculated.  The
+   coefficients of the Dunham potential of SiS were also accurately
+   determined using a direct fitting procedure.}},
+DOI = {{10.1016/0009-2614(90)85577-Y}},
+}
+
+@article{ 89MuLaxx.SiS,
+Author = {Muller-Plathe, F and Laaksonen, L},
+Title = {{HARTREE-FOCK-LIMIT PROPERTIES FOR SIC, SIN, SI2, SI-2STAR AND SIS}},
+Journal = CPL,
+Year = {{1989}},
+Volume = {{160}},
+Pages = {175-182},
+DOI = {{10.1016/0009-2614(89)87578-5}},
+}
+
+
+@article{ 88LiMoZh.SiS,
+Author = {Li, S Z and Moncrieff, D and Zhao, J G and Brown, F B},
+Title = {{ABINITIO STUDY INCLUDING ELECTRON CORRELATION OF THE GROUND-STATE
+   (CHI-1-EPSILON+) OF SIS}},
+Journal = CPL,
+Year = {{1988}},
+Volume = {{151}},
+Pages = {403-408},
+DOI = {{10.1016/0009-2614(88)85157-1}},
+}
+
+@article{ 88KaGoCe.SiS,
+Author = {Kahane, C and Gomez-Gonzalez, J and Cernicharo, J and Guelin, M},
+Title = {{CARBON, NITROGEN, SULFUR AND SILICON ISOTOPIC-RATIOS IN THE ENVELOPE OF
+   IRC+10216}},
+Journal = AA,
+Year = {{1988}},
+Volume = {{190}},
+Pages = {167-177},
+}
+
+@article{ 87Turner.SiS,
+Author = {Turner, B E},
+Title = {{DETECTION OF VIBRATIONALLY EXCITED SIS IN IRC+10216}},
+Journal = AA,
+Year = {{1987}},
+Volume = {{183}},
+Pages = {L23-L26},
+}
+
+@article{ 84JoAnEl.SiS,
+Author = {Johansson, L E B and Andersson, C and Ellder, J and Friberg, P and
+   Hjalmarson, A and Hoglund, B and Irvine, W M and Olofsson, H and Rydbeck,
+   G},
+Title = {{SPECTRAL SCAN OF ORION-A AND IRC + 10216 FROM 72 TO 91 GHZ}},
+Journal = AA,
+Year = {{1984}},
+Volume = {{130}},
+Pages = {227-256},
+}
+
+@article{ 84ZiClSa.SiS,
+Author = {Ziurys, L M and Cu, D P and Saykally, R J and Colvin, M and Schaefer,  H F},
+Title = {{A SEARCH FOR INTERSTELLAR SILICON-NITRIDE}},
+Journal = ApJ,
+Year = {{1984}},
+Volume = {{281}},
+Pages = {219-224},
+DOI = {{10.1086/162091}},
+}
+
+@article{ 83HeMaMo.SiS,
+Author = {Henkel, C and Matthews, H E and Morris, M},
+Title = {{SIS MASER EMISSION FROM IRC +10-DEGREES-216}},
+Journal = ApJ,
+Year = {{1983}},
+Volume = {{267}},
+Pages = {184-190},
+DOI = {{10.1086/160857}},
+}
+
+@article{ 81RoLeCo.SiS,
+Author = {Robbe, J M and Lefebvre-Brion, H and Gottscho, R A},
+Title = {{THEORETICAL ELECTRONIC-STRUCTURE AND PERTURBATIONS IN SIS}},
+Journal = JMS,
+Year = {{1981}},
+Volume = {{85}},
+Pages = {215-224},
+DOI = {{10.1016/0022-2852(81)90320-9}},
+}
+
+@article{ 80Linton, 
+Author = {Linton , C},
+Title = {{EXAMINATION OF 2 NEW LOW-LYING ELECTRONIC STATES OF SIS OBSERVED IN
+   CHEMI-LUMINESCENT FLAME SPECTRA}},
+Journal = JMS,
+Year = {{1980}},
+Volume = {{80}},
+Pages = {279-290},
+DOI = {{10.1016/0022-2852(80)90140-X}},
+}
+
+@article{ 75BrCoDu.SiS,
+Author = {Bredohl, H and Cornet, R and Dubois, I and Wilderia, D},
+Title = {{IDENTIFICATION OF A NON-ASSIGNED ELECTRONIC SYSTEM OF SIS RADICAL}},
+Journal = JPB,
+Year = {{1975}},
+Volume = {{8}},
+Pages = {L259-L261},
+DOI = {{10.1088/0022-3700/8/11/013}},
+}
+
+@article{ 76BrCoDu.SiS,
+Author = {Bredohl, H and Cornet, R and Dubois, I},
+Title = {{A3-PI-R-X1-SIGMA+ TRANSITION OF SIS}},
+Journal = JPB,
+Year = {{1976}},
+Volume = {{9}},
+Pages = {L207-L209},
+DOI = {{10.1088/0022-3700/9/8/006}},
+}
+
+@article{ 75MoGiPa.SiS,
+Author = {Morris, M and Gilmore, W and Palmer, P and Turner, B E and Zuckerman, B},
+Title = {{DETECTION OF INTERSTELLAR SIS AND A STUDY OF IRC+10216 MOLECULAR
+   ENVELOPE}},
+Journal = ApJ,
+Year = {{1975}},
+Volume = {{199}},
+Pages = {L47-L51},
+DOI = {{10.1086/181846}},
+}
+
+@article{70HoLoTi.SiS,
+Author = {Hoeft, J and Lovas, F J and Tiemann, E and Torring, T},
+Title = {{DIPOLE MOMENTS AND HYPERFINE STRUCTURE OF GROUP-4/6 DIATOMIC MOLECULES}},
+Journal = JCP,
+Year = {{1970}},
+Volume = {{53}},
+Pages = {2736-2743},
+DOI = {{10.1063/1.1674397}},
+}
+
+@article{ 69MuCuxx.SiS,
+Author = {Murty, A N and Curl, R F},
+Title = {{DIPOLE MOMENTS OF SULFIDES OF PB SN AND SI FROM STARK EFFECT
+   MEASUREMENTS}},
+Journal = JMS,
+Year = {{1969}},
+Volume = {{30}},
+Pages = {102-110},
+DOI = {{10.1016/0022-2852(69)90239-2}},
+}
+
+@article{ 69HoLoTi.SiS,
+Author = {Hoeft, J and Lovas, F J and Tiemann, E and Torring, T},
+Title = {{ELECTRICAL DIPOLE MOMENTS AND MICROWAVE ROTATIONAL SPECTRA OF SIS}},
+Journal = {Z. Natuurforschung A},
+Year = {{1969}},
+Volume = {{24}},
+Pages = {1422-1423},
+}
+
+@article{ 65NaSiRa.SiS,
+Author = {Nair, K P R and Singh, R B and Rai, D K},
+Title = {{POTENTIAL-ENERGY CURVES AND DISSOCIATION ENERGIES OF OXIDES AND SULFIDES
+   OF GROUP 4 A ELEMENTS}},
+Journal = JCP,
+Year = {{1965}},
+Volume = {{43}},
+Pages = {3570-3574},
+DOI = {{10.1063/1.1696520}},
+}
+
+@article{ 61BaLaDe.SiS,
+Author = {Barrow, R F and Lagerqvist, A and Deutsch, J L and Westerlund, B},
+Title = {{ROTATIONAL ANALYSIS OF E-X SYSTEM OF SILICON MONOSULPHIDE}},
+Journal = {Proc. Phys. Soc. London},
+Year = {{1961}},
+Volume = {{78}},
+Pages = {1307-1309},
+DOI = {{10.1088/0370-1328/78/6/334}},
+}
+
+@article{ 46Barrow.SiS,
+Author = {Barrow, R F},
+Title = {{THE ROTATIONAL ANALYSIS OF SOME BANDS OF THE NEAR ULTRA-VIOLET SYSTEM
+   (D-X) OF SILICON MONOSULPHIDE}},
+Journal = {Proc. Phys. Soc. London},
+Year = {{1946}},
+Volume = {{58}},
+Pages = {606-615},
+DOI = {{10.1088/0959-5309/58/5/308}},
+}
+
+@article{ 46VaBaxx.SiS,
+Author = {Vago, E E and Barrow, R F},
+Title = {{ULTRA-VIOLET ABSORPTION BAND-SYSTEMS OF SIS, SISE AND SITE}},
+Journal = {Proc. Phys. Soc. London},
+Year = {{1946}},
+Volume = {{58}},
+Pages = {538-544},
+DOI = {{10.1088/0959-5309/58/5/303}}}
+
+@article{ 38BaJexx.SiS,
+Author = {Barrow, R F and Jevons, W},
+Title = {{The band spectrum of silicon monosulphide and its relation to the band
+   spectra of similar molecules}},
+Journal = {Proc. Roy Soc. A},
+Year = {{1938}},
+Volume = {{169}},
+Pages = {45-65},
+DOI = {{10.1098/rspa.1938.0194}},
+}

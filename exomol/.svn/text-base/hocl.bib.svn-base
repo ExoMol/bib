@@ -1,0 +1,22 @@
+﻿
+@article{ 99SoPeBo.HOCl,
+Author = {Skokov, S and Peterson, K A and Bowman, J M},
+Title = {Perturbative inversion of the HOCl potential energy surface via singular
+   value decomposition},
+Journal = CPL,
+Year = {1999},
+Volume = {312},
+Pages = {494-502},
+Abstract = {A global, ab initio potential energy surface for HOCl {[}K.A. Peterson,
+   S. Skokov, J.M. Bowman, J. Chem. Phys. (in press)] is corrected to
+   exactly reproduce experimental vibrational energies for 22 known bound
+   states, and rotational constants for 9 low-energy states. The ab initio
+   potential is first `morphed' by means of coordinate scaling to
+   substantially improve its accuracy. Then a small correction potential is
+   determined by the inverse perturbation theory via the singular value
+   decomposition method {[}Q. Wu, J.Z.H. Zhang, Chem. Phys. Lett. 252
+   (1996) 195]. The correction potential expanded in the truncated basis
+   set of distributed gaussian functions, is an analytical function of the
+   coordinates, and yields results that are within 0.14 cm(-1) of the
+   experimental energies.},
+DOI = {10.1016/S0009-2614(99)00996-3}}

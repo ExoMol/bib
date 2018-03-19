@@ -1,0 +1,4 @@
+#!/bin/bash -l
+
+
+`echo ls -ltra` | awk '{if($4 == "syurchenko"){ printf( "%s \n", $4 ) };}'

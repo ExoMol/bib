@@ -1,0 +1,51 @@
+@ARTICLE{00GuHiBu.CH2,
+  author = {Gu, JP and Hirsch, G and Buenker, RJ and Brumm, M and Osmann, G and
+	Bunker, PR and Jensen, P},
+  title = {A theoretical study of the absorption spectrum of singlet CH2},
+  year = {2000},
+  volume = {517},
+  pages = {247-264},
+  month = {FEB 16},
+  abstract = {This paper is a continuation of our earlier work aimed at characterizing
+	the electronic states of the methylene free radical CH2. In the present
+	paper we focus attention on the lowest pair of singlet states, (a)
+	over tilde(1)A(1) and (b) over tilde(1)B(1). These states are degenerate
+	when they are linear and therefore participate in a Renner interaction.
+	Our previous refinement of the (a) over tilde state potential energy
+	surface ignored the Renner effect. Now we include this effect and
+	refine both the potential energy surfaces by a fitting of the data.
+	Using these two new potential energy surfaces, allowing for the Renner
+	effect, and making an ab initio calculation of the dipole moment
+	surfaces and transition moment surface, we make a simulation of the
+	absorption spectrum associated with this pair of interacting electronic
+	states. These predictions have been of use for the assignment of
+	the spectrum. Further experimental work aimed at identifying rotational
+	levels belonging to the vibrational ground state of the (b) over
+	tilde stare is necessary before we can consider better refinements
+	of the potential surfaces. Also spectra that fill other gaps in the
+	data available for the two states would be highly desirable. One
+	important new feature to emerge is that the adiabatic Renner effect
+	correction A(L-z(2)) to the (a) over tilde-state potential energy
+	surface causes a significant increase in the energy of the (a) over
+	tilde state; this means that the experimentally derived vibrationless
+	singlet-triplet splitting in methylene, T-e((a) over tilde), is reduced
+	by 64 cm(-1) to 3159 cm(-1). This is essentially in perfect agreement
+	with the best theoretical value for this quantity. (C) 2000 Elsevier
+	Science B.V. All rights reserved.},
+  doi = {10.1016/S0022-2860(99)00256-2},
+  issn = {0022-2860},
+  journal = {J. Mol. Struct.},
+  times-cited = {32}
+}
+
+
+@article{88Jensen.CH2,
+title = "Calculation of rotation-vibration linestrengths for triatomic molecules using a variational approach: Application to the fundamental bands of \{CH2\} ",
+journal = JMS,
+volume = "132",
+pages = "429 - 457",
+year = "1988",
+doi = "http://dx.doi.org/10.1016/0022-2852(88)90338-4",
+author = "Per Jensen",
+abstract = "The present paper describes a method for calculating the linestrengths and (if the molecules are in thermal equilibrium) absolute intensities for triatomic molecules using the rotation-vibration energies and wavefunctions obtained in the \{MORBID\} (Morse oscillator rigid bender internal dynamics) approach [P. Jensen, J. Mol. Spectrosc. 128, 478–501 (1988)] together with ab initio dipole moment values. A computer program that carries out these calculations has been written and used to compute the rotation-vibration spectrum of X̃3B1 12CH2 in the wavenumber region around 1000 cm−1, containing the observed ν2 fundamental band [M. D. Marshall and A. R. W. McKellar, J. Chem. Phys. 85, 3716–3723 (1986), and references therein], and around 3000 cm−1, where the stretching fundamental bands ν1 and ν3 are found together with the 3ν2 band. No transitions belonging to these latter bands have been observed and one of the aims of the present work is to provide the best possible theoretical predictions to guide the experimental search for them. It is found that the strongest transition in the region around 3000 cm−1 is the ν3 514 ← 413 line calculated to have a frequency of 3285.49 cm−1 and an integrated intensity of 1.04 × 103 mole−1 cm at an absolute temperature of 293 K. The integrated intensity of this line is about half of the integrated intensity of the weakest ν2 transition observed, the 523 ← 532 line observed at 910.1660 cm−1. Even when the decrease in peak absorption due to Doppler line broadening is taken into account, it should not be entirely out of the question to observe at least stronger ν3 lines. "
+}}

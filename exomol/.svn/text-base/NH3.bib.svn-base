@@ -1,0 +1,1358 @@
+@article{15CaMiLoKa,
+    Author = {A. Campargue and S. N. Mikhailenko and Benoit Guillo Lohan and
+    E. V. Karlovets and D. Mondelain and S. Kassi},
+	Title = {{The absorption spectrum of water vapor in the 1.25 $\mu$m atmospheric 
+	window (7911 – 8337 cm$^{-1}$)}},
+	Journal = JQSRT,
+	Year = {2015},
+	Volume = {157},
+	Pages = {135-152}
+}
+
+@techreport{11DTxxxx.NH3,
+    author    = {Trimble, D C},
+    title     = {{AIR QUALITY: Information on Tall Smokestacks and Their Contribution to Interstate Transport of Air Pollution}},
+    institution = {GAO U.S. Government Accountability Office},
+    year      = {2011},
+    note = {Published: May 11. Publicly Released: Jun 10}
+}
+
+@article{58Pixxxx.NH3,
+    author = {Pirie, J M},
+    title = {{The manufacture of Hydrocyanic Acid by the Andrussow Process}},
+    journal = {{Platinum Metals Rev.}},
+    year = {1958},
+    volume = {2},
+    pages = {7-11}
+}
+
+@article{99IrCaSi.NH3,
+    author = {Irwin, P. G. J and Calcutt, S. B. and Sihra, K. and Taylor, F. W. and Weir, A. L. and Ballard, J. and Johnston, W. B.},
+    title = {{Band Parameters and k Coefficients for Self-Broadened Ammonia  in the Range 400-11000 cm$^{-1}$}},
+    journal = JQSRT,
+    year = {1999},
+    volume = {62},
+    pages = {193-204}
+}
+
+@article{ 10VoBrFa.NH3,
+Author = {von Bobrutzki, K. and Braban, C. F. and Famulari, D. and Jones, S. K.
+   and Blackall, T. and Smith, T. E. L. and Blom, M. and Coe, H. and
+   Gallagher, M. and Ghalaieny, M. and McGillen, M. R. and Percival, C. J.
+   and Whitehead, J. D. and Ellis, R. and Murphy, J. and Mohacsi, A. and
+   Pogany, A. and Junninen, H. and Rantanen, S. and Sutton, M. A. and
+   Nemitz, E.},
+Title = {{Field inter-comparison of eleven atmospheric ammonia measurement
+   techniques}},
+Journal = {{Atmos. Meas. Tech.}},
+Year = {{2010}},
+Volume = {{3}},
+Pages = {91-112},
+Abstract = {{Eleven instruments for the measurement of ambient concentrations of
+   atmospheric ammonia gas (NH(3)), based on eight different measurement
+   methods were inter-compared above an intensively managed agricultural
+   field in late summer 2008 in Southern Scotland. To test the instruments
+   over a wide range of concentrations, the field was fertilised with urea
+   midway through the experiment, leading to an increase in the average
+   concentration from 10 to 100 ppbv. The instruments deployed included
+   three wet-chemistry systems, one with offline analysis (annular rotating
+   batch denuder, RBD) and two with online-analysis (Annular Denuder
+   sampling with online Analysis, AMANDA; AiRRmonia), two Quantum Cascade
+   Laser Absorption Spectrometers (a large-cell dual system; DUAL-QCLAS,
+   and a compact system; c-QCLAS), two photo-acoustic spectrometers
+   (WaSul-Flux; Nitrolux-100), a Cavity Ring Down Spectrosmeter (CRDS), a
+   Chemical Ionisation Mass Spectrometer (CIMS), an ion mobility
+   spectrometer (IMS) and an OpenPath Fourier Transform Infra-Red (OP-FTIR)
+   Spectrometer. The instruments were compared with each other and with the
+   average concentration of all instruments. An overall good agreement of
+   hourly average concentrations between the instruments (R(2)>0.84), was
+   observed for NH(3) concentrations at the field of up to 120 ppbv with
+   the slopes against the average ranging from 0.67 (DUAL-QCLAS) to 1.13
+   (AiRRmonia) with intercepts of -0.74 ppbv (RBD) to + 2.69 ppbv (CIMS).
+   More variability was found for performance for lower concentrations(<10
+   ppbv). Here the main factors affecting measurement precision are (a) the
+   inlet design, (b) the state of inlet filters (where applicable), and (c)
+   the quality of gas-phase standards (where applicable). By reference to
+   the fast (1 Hz) instruments deployed during the study, it was possible
+   to characterize the response times of the slower instruments.}},
+DOI = {10.5194/amt-3-91-2010}}
+
+
+@article{ 15LeMoCa.NH3,
+Author = {Leggett, S. K. and Morley, Caroline V. and Marley, M. S. and Saumon, D.},
+Title = {{NEAR-INFRARED PHOTOMETRY OF Y DWARFS: LOW AMMONIA ABUNDANCE AND THE
+   ONSET OF WATER CLOUDS}},
+Journal = ApJ,
+Year = {{2015}},
+Volume = {{799}},
+Abstract = {{We present new near-infrared photometry for seven late-type T dwarfs and
+   nine Y-type dwarfs, and lower limit magnitudes for a tenth Y dwarf,
+   obtained at Gemini Observatory. We also present a reanalysis of H-band
+   imaging data from the Keck Observatory Archive, for an 11th Y dwarf.
+   These data are combined with earlier MKO-system photometry, Spitzer and
+   WISE mid-infrared photometry, and available trigonometric parallaxes, to
+   create a sample of late-type brown dwarfs that includes 10 T9-T9.5
+   dwarfs or dwarf systems, and 16 Y dwarfs. We compare the data to our
+   models, which include updated H-2 and NH3 opacity, as well as
+   low-temperature condensate clouds. The models qualitatively reproduce
+   the trends seen in the observed colors; however, there are discrepancies
+   of around a factor of two in flux for the Y0-Y1 dwarfs, with T-eff
+   approximate to 350-400 K. At T-eff similar to 400 K, the problems could
+   be addressed by significantly reducing the NH3 absorption, for example
+   by halving the abundance of NH3 possibly by vertical mixing. At T-eff
+   similar to 350 K, the discrepancy may be resolved by incorporating thick
+   water clouds. The onset of these clouds might occur over a narrow range
+   in T-eff, as indicated by the observed small change in 5 mu m flux over
+   a large change in J -W2 color. Of the known Y dwarfs, the reddest in
+   J-W2 are WISEP J182831.08 + 265037.8 and WISE J085510.83-071442.5. We
+   interpret the former as a pair of identical 300-350 K dwarfs, and the
+   latter as a 250 K dwarf. If these objects are similar to 3 Gyr old,
+   their masses are similar to 10 and similar to 5 Jupiter-masses,
+   respectively.}},
+DOI = {{10.1088/0004-637X/799/1/37}},
+pages = {37}}
+
+@article{ 13ErGaSe.NH3,
+Author = {Erisman, Jan Willem and Galloway, James N. and Seitzinger, Sybil and
+   Bleeker, Albert and Dise, Nancy B. and Petrescu, A. M. Roxana and Leach,
+   Allison M. and de Vries, Wim},
+Title = {{Consequences of human modification of the global nitrogen cycle}},
+journal = {Phil.  Trans.  Royal Soc.  London B},
+Year = {{2013}},
+Volume = {{368}},
+bstract = {{The demand for more food is increasing fertilizer and land use, and the
+   demand for more energy is increasing fossil fuel combustion, leading to
+   enhanced losses of reactive nitrogen (N-r) to the environment. Many
+   thresholds for human and ecosystem health have been exceeded owing to Nr
+   pollution, including those for drinking water (nitrates), air quality
+   (smog, particulate matter, ground-level ozone), freshwater
+   eutrophication, biodiversity loss, stratospheric ozone depletion,
+   climate change and coastal ecosystems (dead zones). Each of these
+   environmental effects can be magnified by the `nitrogen cascade': a
+   single atom of Nr can trigger a cascade of negative environmental
+   impacts in sequence. Here, we provide an overview of the impact of Nr on
+   the environment and human health, including an assessment of the
+   magnitude of different environmental problems, and the relative
+   importance of Nr as a contributor to each problem. In some cases, Nr
+   loss to the environment is the key driver of effects (e.g. terrestrial
+   and coastal eutrophication, nitrous oxide emissions), whereas in some
+   other situations nitrogen represents a key contributor exacerbating a
+   wider problem (e.g. freshwater pollution, biodiversity loss). In this
+   way, the central role of nitrogen can remain hidden, even though it
+   actually underpins many trans-boundary pollution problems.}},
+DOI = {{10.1098/rstb.2013.0116}}
+}
+
+@article{ 12SuBrHu.NH3,
+Author = {Sung, Keeyoon and Brown, Linda R. and Huang, Xinchuan and Schwenke,
+   David W. and Lee, Timothy J. and Coy, Stephen L. and Lehmann, Kevin K.},
+Title = {Extended line positions, intensities, empirical lower state energies and
+   quantum assignments of {$^{14}$NH$_3$} from 6300 to 7000 {cm$^{-1}$}},
+Journal = JQSRT,
+Year = {2012},
+Volume = {113},
+Pages = {1066-1083},
+Abstract = {Nearly 4800 features of ammonia between 6300 and 7000 cm(-1) with
+   intensities >= 4 x 10(-24) cm(-1)/(molecule . cm(-2)) at 296 K were
+   measured using 16 pure NH3 spectra recorded at various temperatures
+   (296-185 K) with the McMath-Pierce Fourier Transform Spectrometer at
+   Kitt Peak National Observatory, AZ. The line positions and intensities
+   were retrieved by fitting individual spectra based on a Voigt line shape
+   profile and then averaging the values to form the experimental linelist.
+   The integrated intensity of the region was 4.68 x 10(-19)
+   cm(-1)/(molecule . cm(-2)) at 296 K. Empirical lower state energies were
+   also estimated for 3567 absorption line features using line intensities
+   retrieved from 10 spectra recorded at gas temperature between 185 and
+   233 K. Finally, using Ground State Combination Differences (GSCDs) and
+   the empirical lower state energy estimates, the quantum assignments were
+   determined for 1096 transitions in the room temperature linelist, along
+   with empirical upper state energies for 434 levels. The assignments
+   correspond to seven vibrational states, as confirmed from recent ab
+   initio calculations. The resulting composite database of (NH3)-N-14 line
+   parameters will provide experimental constraints to ab initio
+   calculations and support remote sensing of gaseous bodies including the
+   atmospheres of Earth, (exo)planets, brown dwarfs, and other
+   astrophysical environments. (C) 2012 Elsevier Ltd. All rights reserved.},
+DOI = {10.1016/j.jqsrt.2012.02.037},
+ISSN = {0022-4073},
+Times-Cited = {0},
+Journal-ISO = {J. Quant. Spectrosc. Radiat. Transf.},
+}
+
+@article{ 11HuScLe.NH3,
+Author = {Huang, Xinchuan and Schwenke, David W. and Lee, Timothy J.},
+Title = {Rovibrational spectra of ammonia. {I.} {U}nprecedented accuracy of a
+   potential energy surface used with nonadiabatic corrections},
+Journal = JCP,
+Year = {2011},
+Volume = {134},
+Abstract = {In this work, we build upon our previous work on the theoretical
+   spectroscopy of ammonia, NH(3). Compared to our 2008 study, we include
+   more physics in our rovibrational calculations and more experimental
+   data in the refinement procedure, and these enable us to produce a
+   potential energy surface (PES) of unprecedented accuracy. We call this
+   the HSL-2 PES. The additional physics we include is a second-order
+   correction for the breakdown of the Born-Oppenheimer approximation, and
+   we find it to be critical for improved results. By including
+   experimental data for higher rotational levels in the refinement
+   procedure, we were able to greatly reduce our systematic errors for the
+   rotational dependence of our predictions. These additions together lead
+   to a significantly improved total angular momentum (J) dependence in our
+   computed rovibrational energies. The root-mean-square error between our
+   predictions using the HSL-2 PES and the reliable energy levels from the
+   HITRAN database for J = 0-6 and J = 7/8 for (14)NH(3) is only 0.015
+   cm(-1) and 0.020/0.023 cm(-1), respectively. The root-mean-square errors
+   for the characteristic inversion splittings are approximately 1/3
+   smaller than those for energy levels. The root-mean-square error for the
+   6002 J = 0-8 transition energies is 0.020 cm(-1). Overall, for J = 0-8,
+   the spectroscopic data computed with HSL-2 is roughly an order of
+   magnitude more accurate relative to our previous best ammonia PES
+   (denoted HSL-1). These impressive numbers are eclipsed only by the
+   root-mean-square error between our predictions for purely rotational
+   transition energies of (15)NH(3) and the highly accurate Cologne
+   database (CDMS): 0.00034 cm(-1) (10 MHz), in other words, 2 orders of
+   magnitude smaller. In addition, we identify a deficiency in the
+   (15)NH(3) energy levels determined from a model of the experimental
+   data. (C) 2011 American Institute of Physics. {[}doi:10.1063/1.3541351]},
+DOI = {10.1063/1.3541351},
+pages = {044320},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+@article{ 11HuScLe2.NH3,
+Author = {Huang, Xinchuan and Schwenke, David W. and Lee, Timothy J.},
+Title = {Rovibrational spectra of ammonia. {II.} {D}etailed analysis, comparison, and
+   prediction of spectroscopic assignments for {$^{14}$NH$_3$}, {$^{15}$NH$_3$}, and
+   {$^{14}$ND$_3$}},
+Journal = JCP,
+Year = {2011},
+Volume = {134},
+Abstract = {Several aspects of ammonia rovibrational spectra have been investigated
+   using the new HSL-2 potential energy surface that includes an
+   approximate correction for nonadiabatic effects. The unprecedented
+   accuracy of rovibrational energy levels and transition energies computed
+   using HSL-2 was demonstrated in Part I of this study. For (NH3)-N-14,
+   new assignments for a few nu(3) + nu(4) band transitions and energy
+   levels are suggested, and discrepancies between computed and HITRAN
+   energy levels in the 2 nu(4) band are analyzed (2 nu(4) is the most
+   difficult band below 5000 cm (1)). New assignments are suggested for
+   existing or missing 2 nu(4) levels. Several new vibrational bands are
+   identified from existing, unassigned HITRAN data, including 2 nu(2) +
+   nu(4), (nu(3) + nu(4)) -A'/A `', nu(1) + 2 nu(2), and 2 nu(2) + 2 nu(4).
+   The strong mixing between the 2 nu(4) and 2 nu(2) + nu(4) bands is
+   carefully examined and found to be the source of the difficulties in the
+   experimental modeling of 2 nu(4). Discussion is presented for
+   preliminary J = 10 results, where the overall root-mean-square error is
+   estimated to be less than 0.039 cm(-1). The analysis of the 4 nu(2) band
+   demonstrates both the reliability and the accuracy of predictions from
+   HSL-2. The full list of computed J = 0 band origins (with assignments)
+   and the inversion splittings up to 7000-8000 cm(-1) above the zero-point
+   energy are presented. J = 0-2 levels are reported for those bands below
+   5100 cm(-1) that are missing from the HITRAN database. For (NH3)-N-15,
+   excellent agreement is found for the available nu(2) and nu(3) +
+   nu(4)(E) transition energies, but significant deficiencies are shown for
+   HITRAN levels and several corrections are suggested. The N-15 isotopic
+   effects are presented for the J = 0-6 levels of 13 HITRAN bands. For
+   (ND3)-N-14, we reproduce the pure rotational inversion spectra line
+   frequencies with an accuracy similar to that for (NH3)-N-14. However, it
+   is not possible to reproduce simultaneously all four pairs of
+   inversion-split vibrational fundamentals to better than 0.05 cm(-1)
+   uncertainty. It is suggested that a reanalysis of some suspicious
+   (ND3)-N-14 fundamental bands is required. The analyses presented here
+   and in Part I show that rovibrational energy levels and transition
+   frequencies computed with HSL-2 (with nonadiabatic corrections) remain
+   highly accurate well beyond the experimental data used in the refinement
+   procedure. Calculations using HSL-2 are capable of revealing many
+   deficiencies in experimental analyses of ammonia spectra and provide
+   reliable predictions with similar accuracy. It is expected that the
+   results of this study will be useful in the future interpretation of
+   high-resolution spectra from laboratory experiments or from astronomical
+   observations. The present work represents a very significant advance in
+   the state of our knowledge of the spectroscopy of ammonia and its
+   isotopologues. (C) 2011 American Institute of Physics.
+   {[}doi:10.1063/1.3541352]},
+DOI = {10.1063/1.3541352},
+pages = {044321},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+
+@article{ 01CoTaKl.NH3,
+Author = {Cottaz, C and Tarrago, G and Kleiner, I and Brown, LR},
+Title = {Assignments and intensities of (NH3)-N-14 hot bands in the 5-to 8-mu m
+   (3 nu(2)-nu(2),nu(2)+nu(4)-nu(2)) and 4-mu m (4 nu(2)-nu(2),
+   nu(1)-nu(2), nu(3)-nu(2) and 2 nu(4)-nu(2)) regions},
+Journal = JMS,
+Year = {2001},
+Volume = {209},
+Pages = {30-49},
+Abstract = {To complete the analysis of the complex infrared spectra of (NH3)-N-14
+   in the 4- to 8-mum region, we assigned nearly 1200 transitions in the 3
+   upsilon (2) - upsilon (2), upsilon (2) + upsilon (4) - upsilon (2),
+   upsilon (1) - upsilon (2), upsilon (3) - upsilon (2), 2 upsilon (4) -
+   upsilon (2), and 4 upsilon (2) - upsilon (2) hot bands using the upper
+   state energy levels determined by our previous studies at 4 and 3 mum
+   (J. Mol. Spectrosc. 173, 120-145 (1995); 193, 46-71 (1999)). Line
+   intensities of those hot bands were analyzed using measurements
+   retrieved from 0.0056 and 0.011 cm(-1) unapodized resolution FT spectra
+   recorded at Kitt Peak National Observatory. By a least-squares fit of
+   vibrational-inversion transition moments, over 770 intensity
+   measurements are modeled to +/-7.2\% and +/-8.9\% in the 5- to 8-mum and
+   4-mum in regions, respectively. The values of the transition dipole
+   moment were determined to obtain the band strengths of hot bands. In the
+   5- to 8-mum region, the band strengths in cm(-2) atm(-1) at 296 K of 3
+   upsilon (2) - upsilon (2) (a <-- s), 3 upsilon (2) - upsilon (2) (s <--
+   a), upsilon (2) + upsilon4 - upsilon (2) (s <-- s) and upsilon (2) +
+   upsilon (4) - upsilon (2) (a <-- a) were found to be 0.000075(23),
+   0.351(22), 0.689(32), and 0.525(44), respectively. In the 4-mum region,
+   for the upsilon (3) - upsilon (2) (s <-- s), upsilon (3) - upsilon (2),
+   (a <-- a), 2 upsilon (l4=+/-2)(4)-upsilon (2) (s <-- s). and 2 upsilon
+   (l4=+/-2)(4)-upsilon (2) (a <-- a), they were estimated to be
+   0.0703(32), 0.0599(27), 0.00547(34), and 0.00473(29), respectively at
+   296 K. Also, about 100 line intensities of the upsilon (1)- upsilon (2)
+   (a <-- s), upsilon (1)- upsilon (2) (s <-- a), 2 upsilon
+   (l4=+/-2)(4)-upsilon (2) (a <-- s), 2 upsilon (l4=0)(4)-upsilon (2) (s
+   <-- a), and 4 upsilon (2) - upsilon (2) (s <-- a) weak hot bands were
+   measured and reported. The prediction generated by the present study is
+   available for the detection of (NH3)-N-14 in exoplanet atmospheres and
+   brown dwarf stars with relatively high temperature (similar to 1000 K),
+   A few self-broadened linewidths are reported to demonstrate that there
+   is a large variation with the vibrational quanta. (C) 2001 Academic
+   Press.},
+DOI = {10.1006/jmsp.2001.8406},
+Journal-ISO = {J. Mol. Spectrosc.},
+}
+
+@article{ 00CoKlTa.NH3,
+Author = {Cottaz, C and Kleiner, I and Tarrago, G and Brown, LR and Margolis, JS
+   and Poynter, RL and Pickett, HM and Fouchet, T and Drossart, P and
+   Lellouch, E},
+Title = {Line positions and intensities in the 2 nu(2)/nu(4) vibrational system
+   of (NH3)-N-14 near 5-7 mu m},
+Journal = JMS,
+Year = {2000},
+Volume = {203},
+Pages = {285-309},
+Abstract = {Line positions and intensities belonging to the vibrational system 2
+   nu(2)/nu(4) of ammonia N-14(3) are measured and analyzed between 1200
+   and 2200 cm(-1) in order to improve the molecular database. For this,
+   laboratory spectra are obtained at 0.006 and 0.011 cm(-1) unapodized
+   resolution and with 4\% precisions for the intensities using Fourier
+   transform spectrometers located at the Kitt Peak National Observatory
+   and the Jet Propulsion Laboratory. The observed data contain transitions
+   of the nu(4) fundamental band near 1626.276(1) and 1627.375(2) cm(-1)
+   (for s and a inversion upper states, respectively) and the 2 nu(2)
+   overtone band near 1597.470(3) and 1882.179(5) cm(-1) (for s and a
+   inversion states, respectively). A total of 2345 lines with J' less than
+   or equal to 15 is assigned from which 2114 line positions with J' less
+   than or equal to 15 are fitted using an effective
+   rotation-inversion-rotation Hamiltonian to achieve an rms of 0.003
+   cm(-1) with 57 molecular parameters. Over 1200 intensity measurements
+   are modeled to +/-4.7\% using 16 terms of the dipole moment expansion. A
+   dyad model is used in order to model all the interactions expected
+   within the 2 nu(2)/nu(4) system. The bandstrengths of 2 nu(2) (s <-- a),
+   2v(2) (a <-- s), and v(4) (s <-- s and a <-- a) are estimated to be
+   6.68(24), 0.201(5), and 116(3) cm(-2) atm(-1), respectively, at 296 K.
+   The prediction generated by this study is available for planetary
+   studies. (C) 2000 Academic Press.},
+DOI = {10.1006/jmsp.2000.8182},
+Journal-ISO = {J. Mol. Spectrosc.},
+}
+
+@article{ Wu-NH3-1.5mum-1993,
+Author = {Wu, T. and An, H. Z. and Jiang, P. X. and Fang, Y. C. and Tao, S. P. and Ye, P. D.},
+Title = {SPECTRAL MEASUREMENTS OF NH3 ABSORPTION-LINES BY A 1.5-MU-M
+   GRATING-EXTERNAL-CAVITY SEMICONDUCTOR-LASER},
+Year = {1993},
+Volume = {18},
+Pages = {729-731},
+Journal = {Opt. Lett.}
+}
+
+@article{ Delabachelerie-NH3-1.5mum-1991,
+Author = {Delabachelerie, M. and Latrasse, C. and Diomande, K. and Kemssu, P. and  Cerez, P.},
+Title = {A 1.5-MU-M ABSOLUTELY STABILIZED EXTENDED-CAVITY SEMICONDUCTOR-LASER},
+Year = {1991},
+Volume = {40},
+Pages = {185-190},
+Journal = {IEEE Trans. Instrum. Meas.}
+}
+
+@article{ Ohtsu-NH3-1.5mum-1983,
+Author = {Ohtsu, M. and Kotani, H. and Tagawa, H.},
+Title = {SPECTRAL MEASUREMENTS OF NH3 AND H2O FOR POLLUTANT GAS MONITORING BY
+   1.5-MU-M INGAASP/INP LASERS},
+Year = {1983},
+Volume = {22},
+Pages = {1553-1557},
+Journal = {Jpn. J. Appl. Phys.}
+}
+
+@article{ 99KlBrTa.NH3,
+Author = {Kleiner, I and Brown, L R and Tarrago, G and Kou, Q L and Picque, N and
+   Guelachvili, G and Dana, V and Mandin, J Y},
+Title = {Positions and intensities in the 2 nu(4)/nu(1)/nu(3) vibrational system
+   of (NH3)-N-14 near 3 mu m},
+Journal = JMS,
+Year = {1999},
+Volume = {193},
+Pages = {46-71},
+Abstract = {Line positions and line intensities of the nu(1), nu(3), and 2 nu(4)
+   bands of (NH3)-N-14 were analyzed using line positions from 0.0054
+   cm(-1) apodized resolution FT spectra recorded at Orsay and using line
+   intensities from 0.011 cm(-1) unapodized resolution FT spectra recorded
+   at Kitt Peak National Observatory. About 2110 lines with J' w less than
+   or equal to 10 were assigned from which 1832 line positions were fitted
+   using an effective rotation-inversion Hamiltonian to achieve an rms of
+   0.085 cm(-1), Nearly 1000 line intensities were measured with an
+   accuracy of 6\% or better and modeled to 11 terms of dipole moment
+   expansion to +/-9.4\%. The bandstrengths of the nu(1), nu(3), and 2
+   nu(4) bands (determined for the first time in the case of the 2 nu(4)
+   band) are, respectively, 23.6(2), 11.8(1), and 2.82(4) cm(-2)/atm at 296
+   K. A prediction of the line positions and intensities was generated for
+   some similar to 2700 lines with intensities calculated greater than 1 x
+   10(-4) cm(-2) atm(-1) at 296 K, suitable for planetological purposes.
+   Tentative assignments involving 22 upper state levels of 4 nu(2)(s) were
+   identified, but these were not included in the modeling at the present
+   stage. The theoretical model and the set of programs developed for
+   treating the infrared system nu(1)/nu/2 nu(4) of ammonia are briefly
+   discussed. (C) 1999 Academic Press.},
+DOI = {10.1006/jmsp.1998.7728},
+Journal-ISO = {J. Mol. Spectrosc.},
+}
+
+@article{ 95KlTaBr.NH3,
+Author = {Kleiner, I and Tarrago, G and Brown, L R},
+Title = {POSITIONS AND INTENSITIES IN THE 3-NU(2)/NU(2)+NU(4) VIBRATIONAL SYSTEM
+   OF (NH3)-N-14 NEAR 4 MU-M},
+Journal = JMS,
+Year = {1995},
+Volume = {173},
+Pages = {120-145},
+Abstract = {We report experimental line positions and intensities of the 3 nu(2) and
+   nu(2) + nu(4) bands of (NH3)-N-14 obtained from 0.011 cm(-1) unapodized
+   resolution spectra recorded with the Fourier transform spectrometer at
+   Kitt Peak National Observatory, A total of 1366 lines with J' less than
+   or equal to 13 have been assigned from which 1213 line positions with J'
+   less than or equal to 12 are fitted. using an effective
+   rotation-inversion Hamiltonian to achieve a rms of 0.0069 cm(-1); 726
+   intensity measurements are modeled to 12 terms of dipole moment
+   expansion to +/-6\%. The band strengths of 3 nu(2) (s - a) at 2384.15
+   cm(-1), of 3 nu(2) (a - s) at 2895.52 cm(-1), of nu(2) + nu(4) (s - s)
+   at 2540.53 cm(-1), and of nu(2) + nu(4) (a - a) at 2586.13 cm(-1) are
+   estimated to be 0.61(3), 0.244(7), 0.186(3) and 0.174(25) cm(-2)
+   atm(-1), respectively, at 296 K. In addition to the 3 nu(2)/nu(2) +
+   nu(4) system, there are a number of strong lines that are thought to
+   belong to hot bands. A prediction of the line positions and intensities
+   has been generated for all lines with intensities greater than 0.1 X
+   10(-6) cm(-2) atm(-1) at 296 K and submitted to the HITRAN database.
+   Implications about the suitability of the Hamiltonian used are explored,
+   given that the experimental accuracy is about 16 times better than has
+   been achieved by the fit. (C) 1995 Academic Press, Inc.},
+DOI = {10.1006/jmsp.1995.1224},
+ISSN = {0022-2852},
+Times-Cited = {23},
+Journal-ISO = {J. Mol. Spectrosc.},
+}
+
+
+@article{ 73PaStSp.NH3,
+Author = {Papou{\v s}ek, D and Stone,  J M R and {\v S}pirko, V},
+Title = {VIBRATION-INVERSION-ROTATION SPECTRA OF AMMONIA -
+   VIBRATION-INVERSION-ROTATION HAMILTONIAN FOR NH3},
+Journal = JMS,
+Year = {1973},
+Volume = {48},
+Pages = {17-37},
+DOI = {10.1016/0022-2852(73)90132-X},
+Journal-ISO = {J. Mol. Spectrosc.},
+}
+
+@article{ 12HaLiBe,
+Author = {Hargreaves, Robert J. and  Li, Gang and   Bernath, Peter F.},
+Title = {{Ammonia line lists from 1650 to 4000 cm$^{-1}$}},
+Journal = JQSRT,
+Year = {2012},
+Volume = {113},
+Pages = {670-679},
+abstract = {We present further line lists of ammonia (NH3) at high temperatures
+   obtained by recording Fourier transform infrared emission spectra.
+   Calibrated line lists are presented for 12 temperatures (300-1400
+   degrees C in 100 degrees C intervals) and each line list covers the
+   1650-4000 cm(-1) range, which includes the nu(1) and nu(3) fundamental
+   modes (3 mu m) plus a number of combination, overtone and hot bands.
+   Using our NH3 spectra, we have estimated empirical lower state energies
+   (E-Low in cm(-1)) and our values have been incorporated into the line
+   lists along with line positions ((nu) over bar in cm(-1)) and calibrated
+   line intensities (S' in cm/molecule). We expect our hot NH3 line lists
+   to find direct application in the modeling of planetary atmospheres and
+   brown dwarfs.}}
+
+@article{ 11HaLiBe,
+Author = {Hargreaves, Robert J. and  Li, Gang and   Bernath, Peter F.},
+Title = {HOT {NH$_3$} SPECTRA FOR ASTROPHYSICAL APPLICATIONS},
+Journal = ApJ,
+Year = {2012},
+Volume = {735},
+Pages = {111},
+abstract = {We present further line lists of ammonia (NH3) at high temperatures
+   obtained by recording Fourier transform infrared emission spectra.
+   Calibrated line lists are presented for 12 temperatures (300-1400
+   degrees C in 100 degrees C intervals) and each line list covers the
+   1650-4000 cm(-1) range, which includes the nu(1) and nu(3) fundamental
+   modes (3 mu m) plus a number of combination, overtone and hot bands.
+   Using our NH3 spectra, we have estimated empirical lower state energies
+   (E-Low in cm(-1)) and our values have been incorporated into the line
+   lists along with line positions ((nu) over bar in cm(-1)) and calibrated
+   line intensities (S' in cm/molecule). We expect our hot NH3 line lists
+   to find direct application in the modeling of planetary atmospheres and
+   brown dwarfs.}}
+
+
+@article{ 73SpStPa.NH3,
+Author = {{\v S}pirko, V and Stone, J M R and Papou{\v s}ek, D},
+Title = {VIBRATION-INVERSION-ROTATION SPECTRA OF AMMONIA - INVERSE EIGENVALUE
+   PROBLEM FOR ONE-DIMENSIONAL SCHRODINGER EQUATION},
+Journal = JMS,
+Year = {1973},
+Volume = {48},
+Pages = {38-46},
+DOI = {10.1016/0022-2852(73)90133-1},
+Journal-ISO = {J. Mol. Spectrosc.},
+}
+
+
+
+@article{ 88MaRoWe.NH3,
+Author = {Manz, U and Rosmus, P and Werner, H J and Botschwina, P},
+Title = {THE 1ST EXCITED TRIPLET-STATE OF NH3},
+Journal = CP,
+Year = {1988},
+Volume = {122},
+Pages = {387-393},
+DOI = {10.1016/0301-0104(88)80020-X},
+Journal-ISO = {Chem. Phys.},
+}
+
+
+@ARTICLE{10YuPeDrSu.NH3,
+ author = {Yu, S.S.  and  Pearson, J.C. and Drouin,  B.J.  and Sung, K.  and Pirali,  O.  and Vervloet, M.  and Mart M.-A. and
+ Endres, C. P.  and Shiraishi, T.  and Kobayashi, K.  and Matsushima, F. },
+ journal =JCP,
+ title = {{Submillimeter-wave and far-infrared spectroscopy of high-J transitions of the ground and $\nu_2=1$ states of ammonia}},
+ year = {2010},
+ volume = {137},
+ pages = {174317},
+ abstreact = {Complete and reliable knowledge of the ammonia spectrum is needed to enable the analysis and interpretation of astrophysical and planetary observations. Ammonia has been observed in the interstellar medium up to J = 18 and more highly excited transitions are expected to appear in hot exoplanets and brown dwarfs. As a result, there is considerable interest in observing and assigning the high J (rovibrational) spectrum. In this work, numerous spectroscopic techniques were employed to study its high J transitions in the ground and nu(2) = 1 states. Measurements were carried out using a frequency multiplied submillimeter spectrometer at Jet Propulsion Laboratory (JPL), a tunable far-infrared spectrometer at University of Toyama, and a high-resolution Bruker IFS 125 Fourier transform spectrometer (FTS) at Synchrotron SOLEIL. Highly excited ammonia was created with a radiofrequency discharge and a dc discharge, which allowed assignments of transitions with J up to 35. One hundred and seventy seven ground state and nu(2) = 1 inversion transitions were observed with microwave accuracy in the 0.3-4.7 THz region. Of these, 125 were observed for the first time, including 26 Delta K = 3 transitions. Over 2000 far-infrared transitions were assigned to the ground state and nu(2) = 1 inversion bands as well as the nu(2) fundamental band. Of these, 1912 were assigned using the FTS data for the first time, including 222 Delta K = 3 transitions. The accuracy of these measurements has been estimated to be 0.0003-0.0006 cm(-1). A reduced root mean square error of 0.9 was obtained for a global fit of the ground and nu(2) = 1 states, which includes the lines assigned in this work and all previously available microwave, terahertz, far-infrared, and mid-infrared data. The new measurements and predictions reported here will support the analyses of astronomical observations by high-resolution spectroscopy telescopes such as Herschel, SOFIA, and ALMA. The comprehensive experimental rovibrational energy levels reported here will permit further refinement of the potential energy surface to improve ammonia ab initio calculations and facilitate assignment of new high-resolution spectra of hot ammonia. [doi:10.1063/1.3499911]}
+}
+
+
+  	
+@article{12SaMaAb.NH3,
+  author={Didier Saumon and Mark S. Marley and Martin Abel and Lothar Frommhold and Richard S. Freedman},
+  title={New H2 Collision-induced Absorption and NH3 Opacity and the Spectra of the Coolest Brown Dwarfs},
+  journal={The Astrophysical Journal},
+  volume={750},
+  pages={74},
+  url={http://stacks.iop.org/0004-637X/750/i=1/a=74},
+  year={2012},
+  abstract={We present new cloudy and cloudless model atmospheres for brown dwarfs using recent ab initio calculations of the line list of ammonia (NH 3 ) and of the collision-induced absorption of molecular hydrogen (H 2 ). We compare the new synthetic spectra with models based on an earlier description of the H 2 and NH 3 opacities. We find a significant improvement in fitting the nearly complete spectral energy distribution of the T7p dwarf Gliese 570D and in near-infrared color-magnitude diagrams of field brown dwarfs. We apply these new models to the identification of NH 3 absorption in the H -band peak of very late T dwarfs and the new Y dwarfs and discuss the observed trend in the NH 3 - H spectral index. The new NH 3 line list also allows a detailed study of the medium-resolution spectrum of the T9/T10 dwarf UGPS J072227.51–054031.2 where we identify several specific features caused by NH 3 .}
+}
+	
+
+
+@article{ 12SzFaSz.NH3,
+Author = {Szabo, Istvan and Fabri, Csaba and Czako, Gabor and Matyus, Edit and
+   Csaszar, Attila G.},
+Title = {Temperature-Dependent, Effective Structures of the (NH3)-N-14 and
+   (ND3)-N-14 Molecules},
+Journal = JPCA,
+Year = {2012},
+Volume = {116},
+Pages = {4356-4362},
+Abstract = {Measurements result in effective, usually temperature-dependent
+   structural parameters of molecules, and never directly in equilibrium
+   structures, which are theoretical constructs. A recent high-accuracy
+   semiglobal potential energy surface of the electronic ground state of
+   the ammonia molecule, called NH3-Y2010 (J. Mol. Spectrosc. 2011, 268,
+   123), which exhibits mass-independent equilibrium NH bond length and a
+   HNH bond angle of 1.0109 angstrom and 106.75 degrees, respectively, is
+   employed together with the variational nuclear motion code GENIUSH (J.
+   Chem. Phys. 2009, 130, 134112; 2011, 134, 074105) to determine directly
+   measurable, effective structural parameters of the (NH3)-N-14 and
+   (ND3)-N-14 molecules. The effective r(g)- and r(a)-type NH(ND) distances
+   determined at 300 K are 1.0307(1.0254) and 1.0256(1.0217) angstrom,
+   respectively, with an estimated accuracy of 2 X 10(-4) angstrom. The
+   effective theta(g) HNH and DND bond angles at 300 K are 106.91 degrees
+   and 106.85 degrees, respectively. The root-mean-square amplitudes of
+   vibration, l(g), for the NH(ND) distances at 300 K are 0.073(0.062)
+   angstrom. These structural parameters confirm the less accurate results
+   of a room-temperature gas-electron-diffraction study (J. Chem. Phys.
+   1968, 49, 2488, all data in angstrom): r(g)(NH) = 1.030(2), l(g)(NH) =
+   0.073(2), r(g)(ND) = 1.027(3), and l(g)(ND) = 0.061(2). The computed
+   difference in the r(g,T)(NH) bond lengths of the two spin isomers (Ortho
+   and para forms) of (NH3)-N-14 is 3 x 10(-5) angstrom at 0 K, the
+   difference diminishes at temperatures of about 30-50 K.},
+DOI = {10.1021/jp211802y},
+}
+
+@article{ 13DuWiDa.NH3,
+author = {Duxbury, Geoffrey and Wilson, David and Hay, Kenneth and Langford, Nigel},
+title = {Study of the Q Branch Structure of the 14N and 15N Isotopologues of the ν4 Band of Ammonia Using Frequency Chirped Quantum Cascade Lasers},
+journal = JPCA,
+volume = {117},
+pages = {9738-9745},
+year = {2013},
+doi = {10.1021/jp3123665},
+eprint = {http://pubs.acs.org/doi/pdf/10.1021/jp3123665},
+abstract = { Intrapulse quantum cascade (QC) laser spectrometers are able to produce both saturation and molecular alignment of a gas sample owing to the rapid sweep of the radiation through the absorption features. In the QC lasers used to study the 14N and 15N isotopologues of the ν4 band of ammonia centered near 1625 cm–1, the variation of the chirp rate during the scan is very large, from ca. 85 to ca. 15 MHz ns–1. In the rapid chirp zone the collisional interaction time of the laser radiation with the gas molecules is short, and large rapid passage effects are seen, whereas at the slow chirp end the line shape resembles that of a Doppler broadened line. The total scan range of the QC laser of ca. 10 cm–1 is sufficient to allow the spectra of both isotopologues to be recorded and the rapid and slow interactions with the laser radiation to be seen. The rapid passage effects are enhanced by the use of an off axis Herriott cell with an effective path length of 62 m, which allows a buildup of polarization to occur. The effective resolution of the chirped QC laser is ca. 0.012 cm–1 full width at half-maximum in the 1625 cm–1 region. The results of these experiments are compared with those of other studies of the ν4 band of ammonia carried out using Fourier transform and Laser Stark spectroscopy. They also demonstrate the versatility of the down chirped QC laser for investigating collisional effects in low pressure gases using long absorbing path lengths. }
+}
+
+
+@article{ 13ViMaMu.NH3,
+Author = {Villanueva, G. L. and Magee-Sauer, K. and Mumma, M. J.},
+Title = {Modeling of nitrogen compounds in cometary atmospheres: Fluorescence
+   models of ammonia (NH3), hydrogen cyanide (HCN), hydrogen isocyanide
+   (HNC) and cyanoacetylene (HC3N)},
+Journal = JQSRT,
+Year = {2013},
+Volume = {129},
+Pages = {158-168},
+Abstract = {We developed full cascade fluorescence models for NH3, HCN and HNC, and
+   a new band model for the nu(1) ro-vibrational band of HC3N. The models
+   are based on ab-initio spectral databases containing millions of
+   spectral lines and also include extremely precise spectral information
+   contained in several high-resolution spectral databases. Using these new
+   models we derive detailed cascade maps for these species, and obtain
+   realistic fluorescence efficiencies applicable to high-resolution
+   infrared spectra. The new models permit accurate synthesis of
+   line-by-line spectra for a wide range of rotational temperatures. We
+   validated the models by comparing simulated emissions of these nitrogen
+   species with measured spectra of comet C/2007 W1 (Boattini) acquired
+   with high-resolution infrared spectrometers at high altitude sites. The
+   new models accurately describe the complex emission spectrum, providing
+   distinct rotational temperatures and production rates at greatly
+   improved accuracy compared with results derived from earlier
+   fluorescence models. In addition, we made use of the completeness and
+   scope of the new databases to investigate possible HCN <-> HNC radiative
+   isomerization mechanisms, obtaining estimates of conversion efficiencies
+   under typical cometary conditions. (C) 2013 Elsevier Ltd. All rights
+   reserved.},
+DOI = {10.1016/j.jqsrt.2013.06.010},
+Keywords = {Planetary atmospheres; Nitrogen species; Comets; Fluorescence},
+Keywords-Plus = {COMPUTED LINE LIST; O1 HALE-BOPP; SYNTHETIC SPECTRA; ISOTOPIC CO2; BAND
+   SYSTEM; MOLECULES; TRANSMITTANCE; PLANETARY; HALLEY; WATER},
+Times-Cited = {0},
+Journal-ISO = {J. Quant. Spectrosc. Radiat. Transf.},
+}
+
+@article{08HuScLe,
+   author = "Huang, Xinchuan and Schwenke, David W. and Lee, Timothy J.",
+   title = "An accurate global potential energy surface, dipole moment surface, and rovibrational frequencies for NH3",
+   journal = JCP,
+   year = "2008",
+   volume = "129",
+   pages = "214304",
+   doi = "http://dx.doi.org/10.1063/1.3025885"
+}
+
+
+
+
+@article{ 14FoGoHe.NH3,
+author = {F\"{o}ldes, T. and Golebiowski, D. and Herman, M. and Softley, T.P. and Di Lonardo, G. and Fusina, L.},
+title = {Low-temperature high-resolution absorption spectrum of {$^{14}$NH$_3$} in the {$\nu_1+\nu_3$} band region ({1.51 $\mu$m })},
+journal = MP,
+volume = {112},
+number = {18},
+pages = {2407-2418},
+year = {2014},
+doi = {10.1080/00268976.2014.904944},
+abstract = { Jet-cooled spectra of 14NH3 and 15NH3 in natural abundance were recorded
+using cavity ring-down (CRDS, 6584-6700 cm-11)
+and cavity enhanced absorption (CEAS, 6530-6700�cm-1) spectroscopy.
+Line broadening effects in the CRDS spectrum allowed lines
+with J�-values between 0 and 3 to be identified. Intensity ratios in 14NH3 between the jet-cooled CRDS
+and literature room-temperature data from Sung et�al.
+(J. Quant. Spectrosc. Radiat. Transfer, 113 (2012), 1066)
+further assisted the line assignments. Ground state combination differences were
+extensively used to support the assignments, providing reliable values for
+J, K and inversion symmetry of the ground state vibrational levels.
+CEAS data helped in this respect for the lowest J lines, some of which are
+saturated in the CRDS spectrum. Further information on a/s doublets arose
+from the observed spectral structures. Thirty-two transitions of 14NH3
+were assigned in this way and a limited but significant number (19)
+of changes in the assignments results, compared to Sung et�al. or to
+Cacciani et al. (J. Quant. Spectrosc. Radiat. Transfer, 113 (2012), 1084).
+Sixteen known and 25 new low-J transitions were identified for
+15NH3 in the CRDS spectrum but the much scarcer literature information
+did not allow for any more refined assignment. The present line position measurements
+improve on literature values published for 15NH3 and on some line positions for 14NH3. }
+}
+
+
+
+@article{ 05YuCaLi.NH3,
+Author = {Yurchenko, S N and Carvajal, M and Lin, H and Zheng, J J and Thiel, W and
+   Jensen, P},
+Title = {Dipole moment and rovibrational intensities in the electronic ground
+   state of {NH$_3$}: {B}ridging the gap between ab initio theory and
+   spectroscopic experiment},
+Journal = JCP,
+Year = {2005},
+Volume = {122},
+Abstract = {We report theoretical values for the transition moments of an extensive
+   set of vibrational bands in the electronic ground state of (NH3)-N-14.
+   For selected bands, we have further made detailed simulations of the
+   rotational structure. The calculations are carried out by means of
+   recently developed computational procedures for describing the nuclear
+   motion and are based on a high-level ab initio potential energy surface,
+   and high-level dipole moment surfaces, for the electronic ground state
+   of NH3. The reported theoretical intensity values are compared to, and
+   found to agree very well with, corresponding experimental results. It is
+   believed that the computational method, in conjunction with high-quality
+   ab initio potential energy and dipole moment surfaces, can simulate
+   rotation-vibration spectra of XY3 pyramidal molecules prior to
+   observation with sufficient accuracy to facilitate the observation of
+   these spectra. By degrading the accuracy of selected elements of the
+   calculations, we have also investigated the influence of customary
+   approximations on the computed intensity values.},
+DOI = {10.1063/1.1862620},
+pages = {104317},
+Times-Cited = {20},
+Journal-ISO = {J. Chem. Phys.},
+}
+
+
+@article{ 05YuCaJe.NH3,
+Author = {Yurchenko, S N and Carvajal, M and Jensen, P and Lin, H and Zheng, J J   and Thiel, W},
+Title = {Rotation-vibration motion of pyramidal {XY3} molecules described in the
+   {E}ckart frame: {T}heory and application to {NH$_3$}},
+Journal = MP,
+Year = {2005},
+Volume = {103},
+Pages = {359-378},
+Abstract = {We present a new model for the rotation-vibration motion of pyramidal
+   XY3 molecules, based on the Hougen-Bunker-Johns approach. Inversion is
+   treated as a large-amplitude motion, while the small-amplitude
+   vibrations are described by linearized stretching and bending
+   coordinates. The rotation-vibration Schrodinger equation is solved
+   variationally. We report three applications of the model to (NH3)-N-14
+   using an analytic potential function derived from high-level ab initio
+   calculations. These applications address the J = 0 vibrational energies
+   up to 6100 cm, the J less than or equal to 2 energies for the
+   vibrational ground state and the nu(2), nu(4), and 2nu(2) excited
+   vibrational states, and the J less than or equal to 7 energies for the
+   4nu(2)(+) vibrational state. We demonstrate that also for four-atomic
+   molecules, theoretical calculations of rotation-vibration energies can
+   be helpful in the interpretation and assignment of experimental,
+   high-resolution rotation vibration spectra. Our approach incorporates an
+   optimum inherent separation of different types of nuclear motion and
+   thus remains applicable for rotation-vibration states with higher J
+   values where alternative variational treatments are no longer feasible.},
+DOI = {10.1080/002689705412331517255},
+Times-Cited = {28},
+Journal-ISO = {Mol. Phys.},
+}
+
+@article{ 02LeHaSt.NH3,
+title = {The vibrational levels of ammonia },
+journal = {Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy },
+volume = {58},
+number = {4},
+pages = {825 - 838},
+year = {2002},
+note = {},
+issn = {1386-1425},
+doi = {http://dx.doi.org/10.1016/S1386-1425(01)00671-0},
+url = {http://www.sciencedirect.com/science/article/pii/S1386142501006710},
+author = {Céline L\'{e}onard and Nicholas C Handy and Stuart Carter and Joel M Bowman},
+keywords = {Internal kinetic energy operator},
+keywords = {MULTIMODE},
+keywords = {Reaction path hamiltonian },
+abstract = {A new six-dimensional potential energy function (PEF) of ammonia expressed in internal coordinates is determined by fitting to points evaluated by Density Functional Theory with the B97-1 functional. The \{C3v\} and \{D3h\} structures are treated on an equal footing. The inversion barrier is 1820 cm−1, which is in very good agreement with the experimental value of 1834 cm−1. The minimum 'reaction path' is well defined by the analytic function up to 40° for the umbrella angle. Using this PEF, the vibrational levels are calculated variationally using three different methods. The first employs the internal kinetic energy operator developed for ammonia by Handy, Carter and Colwell (Mol. Phys. 96 (1999) 477). The second uses the code \{MULTIMODE\} (J. Chem. Phys. 107 (1997) 10458), which involves the kinetic energy operator as expressed in normal coordinates by Watson. The third uses an implementation of the reaction path hamiltonian (J. Chem. Phys. 72 (1980) 99) within the \{MULTIMODE\} code. All three approaches give similar energies for the vibrational energies of ammonia, and these agree with experiment to within 15 cm−1 for the fundamental vibrations. }
+}
+
+@article{ 03RaMiHa.NH3,
+Author = {Rajam\"{a}ki, T and Miani, A and Halonen, L},
+Title = {Vibrational energy levels for symmetric and asymmetric isotopomers of
+   ammonia with an exact kinetic energy operator and new potential energy
+   surfaces},
+Journal = JCP,
+Year = {2003},
+Volume = {118},
+Number = {14},
+Pages = {6358-6369},
+Month = {APR 8},
+Abstract = {A new vibrational Hamiltonian operator for ammonia is presented. The
+   potential energy part is expressed in terms of symmetrized bond-angle
+   valence coordinates and an inversion coordinate, which is a function of
+   the bond angles. In the exact kinetic energy operator, the stretching
+   part is instead given in terms of unsymmetrized bond displacement
+   coordinates. Six-dimensional ammonia potential energy surfaces are
+   calculated using high-level ab initio tools, the CCSD(T) method with
+   aug-cc-pVQZ and aug-cc-pVTZ basis sets. The potential energy functions
+   are constructed in two, two-dimensional steps. The surfaces are
+   expressed as a Taylor-type series with respect to the doubly degenerate
+   asymmetric stretching and bending coordinates. This representation is
+   given along a two-dimensional surface of the totally symmetric
+   stretching and inversion coordinates of ammonia. Vibrational energies
+   are calculated variationally in a finite basis representation. Employing
+   successive basis set contractions, it is possible to optimize some
+   potential energy parameters simultaneously for seven symmetric and
+   asymmetric isotopomers very effectively. The symmetric part of the
+   surface is fitted to experimentally observed vibrational band centers up
+   to 6000 cm(-1). This reduces the mean absolute error from 7.84 cm(-1)
+   with a pure ab initio potential to 0.44 cm(-1) compared to the
+   experimental values for (14)NH(3). In addition, vibrational energy
+   levels of (14)NH(3) have been calculated up to about 15 000 cm(-1) using
+   the pure ab initio surface obtained with the aug-cc-pVTZ basis set. The
+   nuclear motion calculation converges all levels up to about 10 000
+   cm(-1) to within 0.05 cm(-1). (C) 2003 American Institute of Physics.},
+DOI = {10.1063/1.1555801},
+Keywords-Plus = {INVERSION-ROTATION SPECTRA; GEOMETRIC ALGEBRA APPROACH; ANHARMONIC-FORCE
+   FIELD; GROUND-STATE; MU-M; SPECTROSCOPIC PARAMETERS; FERMI RESONANCES;
+   OVERTONE SPECTRA; LOCAL MODES; NH3},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000181834900029},
+}
+
+@article{ 02RaMiPe.NH3,
+Author = {Rajam\"{a}ki, T and Miani, A and Pesonen, J and Halonen, L},
+Title = {Six-dimensional variational calculations for vibrational energy levels
+   of ammonia and its isotopomers},
+Journal = CPL,
+Year = {2002},
+Volume = {363},
+Number = {3-4},
+Pages = {226-232},
+Month = {SEP 9},
+Abstract = {Results of six-dimensional variational calculations of vibrational
+   energy levels are presented for ammonia using a Hamiltonian expressed in
+   curvilinear internal bond coordinates. A two-dimensional potential
+   energy surface, which was introduced in a preliminary study on the
+   inversion motion, is combined with a surface by Martin et al. Both
+   surfaces are calculated at the aug-cc-pVTZ/CCSD(T) ab initio level. The
+   exact kinetic energy operator is an enlargement of the one used in the
+   previous two-dimensional calculations. Eigenvalues are computed
+   variationally using successive basis set contractions for some symmetric
+   and asymmetric isotopomers of ammonia. (C) 2002 Elsevier Science B.V.
+   All rights reserved.},
+DOI = {10.1016/S0009-2614(02)01137-5},
+Keywords-Plus = {GEOMETRIC ALGEBRA APPROACH; ROTATION SPECTRA; FERMI RESONANCES;
+   MATRIX-ELEMENTS; FORCE-FIELD; LOCAL MODES; MOLECULES; NH2D; COORDINATE;
+   ND2H},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:000178090000005},
+}
+
+@article{01RaMiPe.NH3,
+Author = {Rajam\"{a}ki, T and Miani, A and Pesonen, J and Halonen, L},
+Title = {Bidimensional vibrational Hamiltonian for asymmetric ammonia-like
+   pyramidal molecules: application to the calculation of the inversion
+   spectrum of NH2D and NHD2},
+Journal = CPL,
+Year = {2001},
+Volume = {345},
+Number = {1-2},
+Pages = {207-211},
+Month = {SEP 7},
+Abstract = {A bidimensional vibrational Hamiltonian expressed in terms of internal
+   coordinates has been developed to describe the symmetric stretch and the
+   inversion of asymmetric pyramidal ammonia-like molecules. This work is
+   an extension of the approach we have recently presented on NH3 and on
+   some of its C-3v isotopomers {[}J. Chem. Phys. 115 (2001) 1243]. A new
+   set of internal coordinates, which reflects the symmetry of the problem,
+   has been defined and used to obtain a new bidimensional kinetic energy
+   operator. Inversion levels for NH2D and NHD2 have been calculated
+   variationally using an ab initio CCSD(T) bidimensional potential energy
+   surface (PES). A good agreement with experimental values has been
+   obtained. (C) 2001 Elsevier Science B.V. All rights reserved.},
+DOI = {10.1016/S0009-2614(01)00802-8},
+Keywords-Plus = {POTENTIAL FUNCTION; NH3},
+Journal-ISO = {Chem. Phys. Lett.},
+Unique-ID = {ISI:000171066300033},
+}
+
+@article{ 01PeMiHa.NH3,
+Author = {Pesonen, J and Miani, A and Halonen, L},
+Title = {New inversion coordinate for ammonia: Application to a CCSD(T)
+   bidimensional potential energy surface},
+Journal = {JOURNAL OF CHEMICAL PHYSICS},
+Year = {2001},
+Volume = {115},
+Number = {3},
+Pages = {1243-1250},
+Month = {JUL 15},
+Abstract = {A new inversion coordinate is defined for ammonia as a function of the
+   valence angles. Its square is similar to the often used totally
+   symmetric bending displacement coordinate for the pyramidal XY3-type
+   molecules. We have used this in a two-dimensional calculation including
+   the totally symmetric stretching and the inversion mode. A conventional
+   symmetrized internal coordinate is employed for the symmetric stretch. A
+   two-dimensional potential energy surface is calculated using the ab
+   initio CCSD(T) method together with the aug-cc-pVTZ, cc-pVQZ, and
+   aug-cc-pVQZ basis sets. The corresponding eigenvalues are calculated
+   variationally using a Morse oscillator basis set for the stretch and a
+   harmonic oscillator basis set for the inversion. A good agreement is
+   obtained between the calculated and 22 experimental inversion levels, 9
+   of (NH3)-N-14 and the others involving 4 other isotopomers ((ND3)-N-14,
+   (NH3)-N-15, (ND3)-N-15, and (NT3)-N-14). With the aug-cc-pVTZ basis, a
+   mean absolute error of 5.0 cm(-1) is obtained whereas with the
+   aug-cc-pVQZ basis set the error becomes 7.9 cm(-1). (C) 2001 American
+   Institute of Physics.},
+DOI = {10.1063/1.1379752},
+Keywords-Plus = {QUARTIC FORCE-FIELD; BASIS-SETS; NH3; SPECTRUM; HAMILTONIANS; HYDROGEN;
+   DYNAMICS; STATES; BORON; TERMS},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000169776100013},
+}
+
+
+
+@article{ 04RaKaNo.NH3,
+Author = {Rajam\"{a}ki, T and Kallay, M and Noga, J and Valiron, P and Halonen, L},
+Title = {High excitations in coupled-cluster series: vibrational energy levels of
+   ammonia},
+Journal = MP,
+Year = {2004},
+Volume = {102},
+Number = {21-22},
+Pages = {2297-2310},
+Month = {NOV 10},
+Abstract = {The ammonia molecule, containing large amplitude inversion motion is a
+   revealing system in examining high-order correlation effects on
+   potential energy surfaces. Correlation contributions to the equilibrium
+   and saddle point geometries, inversion barrier height and vibrational
+   energy levels, including inversion splittings, have been investigated. A
+   six-dimensional Taylor-type series expansion of the Born-Oppenheimer
+   potential energy surface, which is scaled to different levels of theory,
+   is used to determine vibrational energy levels and inversion splittings
+   variationally. The electronic energies are calculated by coupled-cluster
+   methods, combining explicitly correlated R12 theory (which includes the
+   interelectronic coordinate in the electronic wave function) with a
+   conventional approach including excitations up to the pentuple level.
+   Finally, the electronic correlation contribution is scaled to the full
+   configuration interaction limit. Corrections due to relativistic and
+   non-Born-Oppenheimer effects are also included. Special emphasis is put
+   on the convergence of the high-order contributions with respect to the
+   size of the atomic basis set. To achieve an accuracy of 1 cm(-1), it is
+   essential to be at the basis set limit, include all the subtle effects
+   and also include highly excited configurations-even up to the pentuple
+   level in the coupled-cluster expansion.},
+DOI = {10.1080/00268970412331292759},
+Keywords-Plus = {CONSISTENT BASIS-SETS; AB-INITIO CALCULATIONS; CONFIGURATION-INTERACTION
+   MODELS; ELECTRON CORRELATION THEORIES; DOUGLAS-KROLL TRANSFORMATION;
+   BODY PERTURBATION-THEORY; SPECTROSCOPIC ACCURACY; MOLECULAR
+   CALCULATIONS; ATOMIZATION ENERGIES; WAVE-FUNCTIONS},
+ResearcherID-Numbers = {Kallay, Mihaly/H-2813-2012},
+Journal-ISO = {Mol. Phys.},
+Unique-ID = {ISI:000225979200015},
+}
+
+@article{ 03RaMiHa.NH3i,
+Author = {Rajam\"{a}ki, T and Miani, A and Halonen, L},
+Title = {Six-dimensional ab initio potential energy surfaces for H(3)O(+) and
+   NH(3): Approaching the subwave number accuracy for the inversion
+   splittings},
+Journal = JCP,
+Year = {2003},
+Volume = {118},
+Number = {24},
+Pages = {10929-10938},
+Month = {JUN 22},
+Abstract = {New potential energy surfaces are calculated for the hydronium ion using
+   high-order coupled cluster ab initio methods. Large basis sets are used
+   especially for the inversion part of the full surface. Electronic
+   energies obtained with different correlation consistent basis sets are
+   extrapolated to the infinite basis set limit. Core-valence and first
+   order relativistic effects are also included. The influence of these two
+   contributions and basis set sizes on both the inversion barrier height
+   and equilibrium geometry are investigated thoroughly. The same methods
+   are also adopted for ammonia in order to further improve a recently
+   published surface {[}J. Chem. Phys. 118, 6358 (2003)]. The vibrational
+   eigenvalues are calculated variationally both for the symmetric and
+   asymmetric isotopomers using exact six-dimensional kinetic energy
+   operators and successive basis set contractions. With the new surfaces,
+   the mean absolute deviations obtained for all experimentally observed
+   inversion splittings for different isotopomers of H(3)O(+) (8 states)
+   and (14)NH(3) (17 states) are 0.78 and 0.25 cm(-1), respectively.
+   Inversion levels are calculated with almost similar accuracy. These
+   results indicate that the calculated inversion barrier heights for
+   H(3)O(+) and NH(3), 650 and 1792 cm(-1), respectively, are close to the
+   real values. The value for ammonia is also close to the height
+   determined from published experimental data in our previous work. The
+   lowest energies for the high-frequency modes are computed with the mean
+   absolute deviation being less than 2 cm(-1) for isotopomers of H(3)O(+)
+   and less than 4.5 cm(-1) for (14)NH(3) with respect to experimental
+   energies. (C) 2003 American Institute of Physics.},
+DOI = {10.1063/1.1574784},
+Keywords-Plus = {BASIS-SET CONVERGENCE; INFRARED-LASER SPECTROSCOPY; HYDRONIUM ION;
+   VIBRATIONAL ENERGIES; ISOTOPOMERS; BAND; AMMONIA; WATER; DYNAMICS;
+   SPECTRUM},
+Journal-ISO = {J. Chem. Phys.},
+Unique-ID = {ISI:000183402200013},
+}
+
+
+
+
+@article{ 04LaNaxx.NH3,
+Author = {Lauvergnat, D and Nauts, A},
+Title = {A harmonic adiabatic approximation to calculate vibrational states of
+   ammonia},
+Journal = CP,
+Year = {2004},
+Volume = {305},
+Number = {1-3},
+Pages = {105-113},
+Month = {OCT 25},
+Abstract = {In the present work, we study the vibrational spectrum of ammonia in
+   full dimensionality (6D), with special emphasis on the tunneling
+   splitting. The inversion motion, i.e., the active mode v(2), is indeed
+   relatively well decoupled from the other five inactive modes. Therefore,
+   an adiabatic separation in an active wave function and an inactive one,
+   approximated with a 5D-harmonic basis function, is certainly well
+   adapted to describing this motion. This separation leads to several
+   1D-effective Hamiltonians for each 5D-harmonic basis function or
+   adiabatic channel. Two models have been tested: the harmonic adiabatic
+   approximation (HADA), when only one channel is used and the coupled HADA
+   (cHADA), when several channels are coupled.
+   In order to get reliable values for tunneling splitting, our
+   calculations have shown that: (i) the calculation of the electronic
+   potential has to be performed with a large atomic basis set (up to
+   quintuple zeta) with a method including core-valence correlation; (ii)
+   the cHADA is required since the HADA overestimates the energy levels.
+   Furthermore, our values for the tunneling splitting are in good
+   agreement with the experimental data of ammonia and several isotopomers.
+   (C) 2004 Elsevier B.V. All rights reserved.},
+DOI = {10.1016/j.chemphys.2004.06.026},
+Keywords = {vibrational spectrum; ammonia; theory},
+Keywords-Plus = {CORRELATED MOLECULAR CALCULATIONS; DISCRETE VARIABLE REPRESENTATION;
+   CANONICAL PERTURBATION-THEORY; POTENTIAL-ENERGY SURFACES; WEAK-MODE
+   REPRESENTATION; ANHARMONIC-FORCE FIELD; GAUSSIAN-BASIS SETS; FLOPPY
+   MOLECULES; KINETIC-ENERGY; POLYATOMIC-MOLECULES},
+Journal-ISO = {Chem. Phys.},
+Unique-ID = {ISI:000224321000011},
+}
+
+
+
+@article{ 14CeHoVe.NH3,
+Author = {Cermak, P. and Hovorka, J. and Veis, P. and Cacciani, P. and Cosleou, J.
+   and El Romh, J. and Khelkhal, M.},
+title = {Spectroscopy of $^{14}$NH$_3$ and $^{15}$NH$_3$ in the 2.3 $\mu$m spectral range with a new VECSEL laser source},
+Journal = JQSRT,
+Year = {2014},
+Volume = {137},
+Pages = {13-22},
+Month = {APR},
+Abstract = {A spectroscopic study of ammonia molecule in the 23 mu m water
+   atmospheric window is presented. Compared to previous experimental works
+   a narrow, broadly tunable, continuous laser source was applied in order
+   to obtain high resolution spectra in this range. It was the first
+   application of the newly developed Vertical External Cavity Surface
+   Emitting Laser (VECSEL). The analysis of the absorption spectra of two
+   different isotopologue admixtures allowed to identify 336 (NH3)-N-14 and
+   244 (NH3)-N-15 lines in the studied region from 4275 to 4340 cm(-1).
+   These data were compared to previous line list based on experimental
+   data - the HITRAN database and the work of Urban et al., as well as to
+   the theoretical predictions by Yurchenko et al. and Huang et al.
+   Together for 235 (NH3)-N-14 and 183 (NH3)-N-15 lines a complete
+   assignment was proposed. From those 63 (NH3)-N-14 and 114 (NH3)-N-15
+   transitions were newly assigned. The complete peaklist of transitions
+   containing ro-vibrational state identifications is presented in
+   Supplementary materials. (C) 2014 Elsevier Ltd. All rights reserved.},
+DOI = {10.1016/j.jqsrt.2014.01.005},
+Keywords = {Absorption spectroscopy; Ammonia; Isotopologues; VECSEL},
+Keywords-Plus = {OPTICAL PARAMETRIC OSCILLATOR; SURFACE-EMITTING LASER; DATABASE;
+   AMMONIA; NH3},
+ResearcherID-Numbers = {Cermak, Peter/J-3408-2012},
+Journal-ISO = {J. Quant. Spectrosc. Radiat. Transf.},
+Unique-ID = {ISI:000332805100002},
+}
+
+@article{ 14CaCeCo.NH3,
+Author = {Cacciani, P. and Cermak, P. and Cosleou, J. and El Romh, J. and Hovorka,
+   J. and Khelkhal, M.},
+Title = {Spectroscopy of ammonia in the range 6626-6805 cm$^{-1}$: using temperature
+   dependence towards a complete list of lower state energy transitions},
+Journal = MP,
+Year = {2014},
+Volume = {112},
+Number = {18, SI},
+Pages = {2476-2485},
+Abstract = {Systematic analysis of the temperature dependence of the intensity ratio
+   between already assigned and unassigned transitions enabled the
+   determination of the most probable energy of the lower state of the
+   unassigned transition. Such a procedure has been applied to transitions
+   of (NH3)-N-14 ammonia in the range 6626-6805 cm(-1) between 130 and 300
+   K. This information is of great interest in the considerable task of the
+   assignment of the complete 1.5 mu m infrared spectral range where
+   combination and overtone vibrational bands are present. 2451 transitions
+   have been observed at different temperatures. For 2133 the line strength
+   and for 1956 transitions the values of lower state energies were
+   derived. Our work was compared with recent Fourier transform study
+   covering a larger energy range (6300-7000 cm(-1)) with smaller
+   temperature range (185-296 K)},
+DOI = {10.1080/00268976.2014.924653},
+Keywords = {laser spectroscopy; ammonia; high resolution; infrared},
+Keywords-Plus = {(NH3)-N-14; SPECTRA; BAND; ASSIGNMENTS; DATABASE; METHANE; REGION; NH3},
+Journal-ISO = {Mol. Phys.},
+}
+
+@article{ 15Yurche.NH3,
+Author = {Yurchenko, Sergei N.},
+Title = {{A theoretical room-temperature line list for (NH3)-N-15}},
+Journal = JQSRT,
+Year = {{2015}},
+Volume = {{152}},
+Pages = {{28-36}},
+Abstract = {{A new room temperature line list for (NH3)-N-15 is presented. This line
+   list comprised of transition frequencies and Einstein coefficients has
+   been generated using the `spectroscopic' potential energy surface
+   NH3-Y2010 and an ab initio dipole moment surface. The (NH3)-N-15 line
+   list is based on the same computational procedure used for the line list
+   for (NH3)-N-14 BYTe reported recently and should be as accurate.
+   Comparisons with experimental frequencies and intensities are presented.
+   The synthetic spectra show excellent agreement with experimental
+   spectra.}},
+DOI = {{10.1016/j.jqsrt.2014.10.023}}}
+
+@Article{15OwYuTh.NH3,
+Title = {Accurate prediction of the ammonia probes of a variable proton-to-electron mass ratio},
+Author = {Owens, A. and Yurchenko, S. N. and Thiel, W. and \v{S}pirko, V.},
+Journal = MNRAS,
+Year = {2015},
+Pages = {3191-3200},
+Volume = {450},
+Doi = {10.1093/mnras/stv869}
+}
+
+@article{15DiMiQu.NH3,
+   author = "Dietiker, P. and Miloglyadov, E. and Quack, M. and Schneider, A. and Seyfang, G.",
+   title = "Infrared laser induced population transfer and parity selection in 14NH3: A proof of principle experiment towards detecting parity violation in chiral molecules",
+   journal = JCP,
+   year = "2015",
+   volume = "143",
+   pages = {244305},
+   doi = "http://dx.doi.org/10.1063/1.4936912" 
+}
+
+@ARTICLE{02LiThYu.NH3,
+  author = {Lin, H and Thiel, W and Yurchenko, S N and Carvajal, M and Jensen,
+        P},
+  title = {Vibrational energies for {NH}$_3$ based on high level ab initio potential
+        energy surfaces},
+  journal = JCP,
+  year = {2002},
+  volume = {117},
+  pages = {11265-11276},
+  abstract = {Ab initio coupled cluster calculations with single and double substitutions
+        and a perturbative treatment of connected triple substitutions {[}CCSD(T)]
+        have been carried out to generate six-dimensional (6D) potential
+        energy surfaces (PES) and dipole moment surfaces (DMS) for the electronic
+        ground state of ammonia. Full 6D-PES and 6D-DMS (14400 points) were
+        computed with the augmented correlation-consistent triple-zeta basis
+        (aug-cc-pVTZ). For a selected number of points (420 in C-3v symmetry
+        and 1260 in lower symmetry), more accurate energies (CBS+) were obtained
+        by extrapolating the CCSD(T) results for the aug-cc-pVXZ (X=T,Q,5)
+        basis sets to the complete basis set limit and adding corrections
+        for core-valence correlation and relativistic effects. Two procedures
+        were investigated to enhance the quality of the 6D-PES from CCSD(T)/aug-cc-pVTZ
+        by including the CBS+ data points. The resulting 6D-PES were represented
+        by analytical functions involving Morse variables for the stretches,
+        symmetry-adapted bending coordinates, and a specially designed inversion
+        coordinate (up to 76 fitted parameters, rms deviations of about 5
+        cm(-1) for 14 400 ab initio data points). For these analytical surfaces,
+        vibrational energies were calculated with a newly developed computer
+        program using a variational model that employs an Eckart-frame kinetic
+        energy operator. Results are presented and compared to experiment
+        for the vibrational band centers of NH3 and its isotopomers up to
+        around 15 000 cm(-1). For our best 6D-PES, the term values of the
+        fundamentals are reproduced with rms deviations of 4.4 cm(-1) (NH3)
+        and 2.6 cm(-1) (all isotopomers), the maximum deviation being 7.9
+        cm(-1).},
+  doi = {10.1063/1.1521762},
+  journal-iso = {J. Chem. Phys.},
+}
+
+@article{ MLT-NH3-1992,
+Author = {Martin, J. M. L. and Lee, T. J. and Taylor, P. R.},
+Title = {AN ACCURATE ABINITIO QUARTIC FORCE-FIELD FOR AMMONIA},
+Year = {1992},
+Volume = {97},
+Pages = {8361-8371},
+Journal = JCP,
+}
+
+
+@article{ 12HaLiBe.NH3,
+Author = {Hargreaves, Robert J. and Li, Gang and Bernath, Peter F.},
+Title = {{Ammonia line lists from 1650 to 4000 cm$^{-1}$}},
+Journal = JQSRT,
+Year = {{2012}},
+Volume = {{113}},
+Pages = {670-679},
+bstract = {{We present further line lists of ammonia (NH3) at high temperatures
+   obtained by recording Fourier transform infrared emission spectra.
+   Calibrated line lists are presented for 12 temperatures (300-1400
+   degrees C in 100 degrees C intervals) and each line list covers the
+   1650-4000 cm(-1) range, which includes the nu(1) and nu(3) fundamental
+   modes (3 mu m) plus a number of combination, overtone and hot bands.
+   Using our NH3 spectra, we have estimated empirical lower state energies
+   (E-Low in cm(-1)) and our values have been incorporated into the line
+   lists along with line positions ((nu) over bar in cm(-1)) and calibrated
+   line intensities (S' in cm/molecule). We expect our hot NH3 line lists
+   to find direct application in the modeling of planetary atmospheres and
+   brown dwarfs.}}}
+
+@article{06SaMaCu.NH3,
+  title={Ammonia as a tracer of chemical equilibrium in the {T7. 5} dwarf {Gliese 570D}},
+  author={Saumon, D and Marley, M S and Cushing, M C and Leggett, S K and Roellig, T L and Lodders, K and Freedman, R S},
+  journal=ApJ,
+  volume={647},
+  pages={552},
+  year={2006},
+}
+
+@article{32DeUh,
+  title={The two-minima problem and the ammonia molecule},
+  author={Dennison, David M and Uhlenbeck, G E},
+  journal={Phys.  Rev.},
+  volume={41},
+  pages={313},
+  year={1932},
+}
+
+@article{ 16CsFuxx.NH3,
+Author = {Csaszar, Attila G. and Furtenbacher, Tibor},
+Title = {{Promoting and inhibiting tunneling via nuclear motions}},
+Journal = PCCP,
+Year = {{2016}},
+Volume = {{18}},
+Pages = {1092-1104},
+Abstract = {{Accurate, experimental rotational-vibrational energy levels determined
+   via the MARVEL (Measured Active Rotational-Vibrational Energy Levels)
+   algorithm and published recently for the symmetric-top (NH3)-N-14
+   molecule in J. Quant. Spectrosc. Radiat. Transfer, 2015, 116, 117-130
+   are analyzed to unravel the promoting and inhibiting effects of
+   vibrations and rotations on the tunneling splittings of the
+   corresponding symmetric (s) and antisymmetric (a) rovibrational energy
+   level pairs. The experimental transition data useful from the point of
+   view of the present analysis cover the range 0.7-7000 cm(-1),
+   sufficiently detailed rovibrational energy sets worth analyzing are
+   available for 20 vibrational bands. The highest J value, where J stands
+   for the rotational quantum number, within the experimental dataset
+   employed is 30. Coupling of the ``umbrella'' motion of (NH3)-N-14 with
+   other vibrational degrees of freedom has only a minor effect on the a-s
+   tunneling splitting characterizing the ground vibrational state,
+   0.79436(70) cm(-1). In the majority of the cases rotation around the C-3
+   axis increases, while rotation around the two perpendicular axes
+   decreases the tunneling splittings. For example, for the pair of
+   vibrational ground states, 0(+) and 0(-), the tunneling splitting
+   basically disappears at around J = 25 for the (J, K) = (J,1) states,
+   where K = vertical bar k vertical bar is the usual quantum number
+   characterizing the projection of the rotational angular momentum on the
+   principal axis. The tunneling splittings, defined as energy differences
+   E(a) - E(s) of corresponding energy level pairs, as a function of J and
+   K show a very regular behavior for the ground state (GS) and the n nu(2)
+   bands. For the other bands investigated exceptions from a regular
+   behavior do occur, especially for bands characterized by degenerate
+   vibrations, and occasionally the data available are not sufficient to
+   arrive at definitive conclusions. The most irregular behavior is
+   observed for rotational states characterized by the k - l = 3n rule (l
+   is the vibrational angular momentum quantum number), with n = 0, 1,
+   2,... High-quality, variationally computed rovibrational data support
+   all the conclusions of this study based on experimental energy levels.}},
+DOI = {{10.1039/c5cp04270d}}
+}
+
+@ARTICLE{09YuBaYa.NH3,
+  author = {Yurchenko, Sergei N. and Barber, Robert J. and Yachmenev, Andrey
+	and Thiel, Walter and Jensen, Per and Tennyson, Jonathan},
+  title = {A variationally computed {$T$=300} {K} line list for {NH$_3$}},
+  journal = JPCA,
+  year = {2009},
+  volume = {113},
+  pages = {11845-11855},
+  abstract = {Calculations are reported on the rotation-vibration energy levels
+	of ammonia with associated transition intensities. A potential energy
+	surface obtained from coupled cluster CCSD(T) calculations and subsequent
+	fitting against experimental data is further refined by a slight
+	adjustment of the equilibrium geometry, which leads to a significant
+	improvement in the rotational energy level structure. A new accurate
+	ab initio dipole moment surface is determined at the frozen core
+	CCSD(T)/aug-cc-pVQZ level. The calculation of an extensive ammonia
+	line list necessitates a number of algorithmic improvements in the
+	program TROVE that is used for the variational treatment of nuclear
+	motion. Rotation-vibration transitions for (NH3)-N-14 involving states
+	with energies up to 12000 cm(-1) and rotational quantum number J
+	= 20 are calculated. This gives 3.25 million transitions between
+	184400 energy levels. Comparisons show good agreement with data in
+	the HITRAN database but suggest that HITRAN is missing significant
+	ammonia absorptions, particularly in the near-infrared.},
+  doi = {10.1021/jp9029425},
+  journal-iso = {J. Phys. Chem. A},
+  times-cited = {32}
+}
+
+@article{ 11YuBaTe.NH3,
+Author = {Yurchenko, S. N. and Barber, R. J. and Tennyson, J.},
+Title = {A variationally computed line list for hot {NH$_3$}},
+Journal = MNRAS,
+Year = {2011},
+Volume = {413},
+Pages = {1828-1834},
+Abstract = {We present `BYTe', a comprehensive `hot' line list for the
+   ro-vibrational transitions of ammonia, 14NH(3), in its ground electronic
+   state. This line list has been computed variationally using the program
+   suite trove, a new spectroscopically determined potential energy surface
+   and an ab initio dipole moment surface. BYTe, is designed to be used at
+   all temperatures up to 1500 K. It comprises 1138 323 351 transitions in
+   the frequency range from 0 to 12 000 cm-1, constructed from 1373 897
+   energy levels below 18 000 cm-1 having J values < 36. Comparisons with
+   laboratory data confirm the accuracy of the line list which is suitable
+   for modelling a variety of astrophysical problems including the
+   atmospheres of extrasolar planets and brown dwarfs.},
+DOI = {10.1111/j.1365-2966.2011.18261.x},
+Times-Cited = {20},
+Journal-ISO = {Mon. Not. Roy. Astron. Soc.},
+}
+
+@article{ 15BaYuTe.NH3,
+Author = {Barton, Emma J. and Yurchenko, Sergei N. and Tennyson, Jonathan and
+   Clausen, Sonnik and Fateev, Alexander},
+Title = {High-resolution absorption measurements of NH3 at high temperatures:
+   500-2100 cm(-1)},
+Journal = JQSRT,
+Year = {2015},
+Volume = {167},
+Pages = {126-134},
+Month = {DEC},
+Abstract = {High-resolution absorption spectra of NH3 in the region 500-2100 cm(-1)
+   at temperatures up to 1027 degrees C and approximately atmospheric
+   pressure (1013 +/- 20 mbar) are measured. NH3 concentrations of 1000
+   ppm, 0.5\% and 1\% in volume fraction were used in the measurements.
+   Spectra are recorded in high temperature gas flow cells using a Fourier
+   Transform Infrared (FTIR) spectrometer at a nominal resolution of 0.09
+   cm(-1). Measurements at 22.7 degrees C are compared to high-resolution
+   cross sections available from the Pacific Northwest National Laboratory
+   (PNNL). The higher temperature spectra are analysed by comparison to a
+   variational line list, BYTe, and experimental energy levels determined
+   using the MARVEL procedure. Approximately 2000 lines have been assigned,
+   of which 851 are newly assigned to mainly hot bands involving
+   vibrational states as high as v(2)=5. (C) 2015 Published by Elsevier
+   Ltd.},
+DOI = {10.1016/j.jqsrt.2015.07.020},
+Keywords = {High temperature; Ammonia; Absorption; FTIR spectroscopy;
+   High-temperature flow gas cell; Line assignments},
+Keywords-Plus = {HOT BANDS; INFRARED-SPECTROSCOPY; VIBRATIONAL SYSTEM; AMMONIA SPECTRA;
+   LINE POSITIONS; MU-M; (NH3)-N-14; WATER; INTENSITIES; ATMOSPHERES},
+ResearcherID-Numbers = {Tennyson, Jonathan/I-2222-2012
+   Yurchenko, Sergey/G-9929-2012},
+ORCID-Numbers = {Tennyson, Jonathan/0000-0002-4994-5238
+   Yurchenko, Sergey/0000-0001-9286-9501},
+Journal-ISO = {J. Quant. Spectrosc. Radiat. Transf.},
+Unique-ID = {ISI:000364249600012},
+}

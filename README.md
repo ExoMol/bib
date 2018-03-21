@@ -33,7 +33,7 @@ If it is not installed, see [Install Git](#install-git)
 
 Please note you will need a GitHub account to collaborate in the ExoMol bib project. GitHub accounts can be created [here](https://github.com/).
 
-### First-Time git Setup
+### First-time GitHub setup
 
 You only need to set the following up **once** i.e., if you have not used GitHub or git before. The first thing you should do when you install Git is to set your user name and email address. This is important because every Git commit uses this information, and it’s immutably baked into the commits you start creating:
 
@@ -42,7 +42,7 @@ You only need to set the following up **once** i.e., if you have not used GitHub
 
 Note, that you have to use the email address that you registered your GitHub account with. You can check the changes have been made by typing:
 
-    git config --list
+    $ git config --list
 
 ### Clone .bib Files From GitHub
 

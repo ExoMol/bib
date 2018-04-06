@@ -1,0 +1,124 @@
+Notes on formatting and name of bib files in our communial area
+Please try to keep them to minimise errors, duplications and latex crashes.
+
+Jonathan Tennyson
+March 2018
+
+
+
+For the @Article the following fields are required:
+
+author: 
+1. Both the format 
+J.  Tennyson AND A.  {van der Avoird}
+or 
+Tennyson, J. and van der Avoird, A
+are acceptable but in the former, multiword surname must be surrounded by {braces}. Do not use braces otherwise. Convert all capital forms into correct upper/lower case format.
+2. Initials must be separated by a space in both formats.
+
+title:
+Best to use correct upper and lower case and surround by {{double braces}}
+
+journal:
+Where possible use simple name given in journal_astro.bib and journal_phys.bib files in the form:
+journal=MNRAS
+otherwise uses standard abbreviation with correct upper/lower case letters.
+This form allows journal names to properly resolved for astronomy and
+physics/chemistry journals which used different naming conventions and
+facilitates the use of other conventions.
+
+year
+
+volume
+
+pages:
+1. This may be given as article-number, eid or some other varient. Rename as pages in all cases. Include end page if possible (but not for article-numbers).
+2. pages MUST be surrounded by {single braces}. Use of {{double braces}} crashes most bibstyles.
+
+The following are to be encouraged:
+
+doi 
+Give this in the reduced form eg doi = {10.1063/1.444316}
+not as a fully qualified web address
+
+abstract
+
+keywords
+
+The following should be removed/deleted:
+month
+number
+url
+
+Other fields are usually best deleted but are not generally significant.
+
+For other type (@inproceedings, @book, etc) use similar rules. 
+
+--------------------------
+
+Naming conventions
+
+There is no single naming convention in use. Instead they are by folder.
+Please follow them to avoid duplication and multiple citatioos of the same
+paper.
+
+folder jt   entries named jtn where n is the number of the article on the
+     webpage 
+ http://www.ucl.ac.uk/physics-astronomy/amopp/people/jonathan_tennyson/papers
+so paper 659
+is jt 659
+
+
+folder exomol  entries should be named as follows:
+        First 2 characters the year eg 18
+        Next  2 digits first 2 characters of first  author surname
+        Next  2 digits first 2 characters of second author surname
+        Next  2 digits first 2 characters of third  author surname.
+If single author use first six characters of authors name
+If two authors (or first author name less than 6 characters) pad with x's
+then a full stop
+then chemical formula of the molcules.
+Eg
+
+Author = {Karthikeyan, B. and Rajamanickam, N. and Bagare, S. P.},
+Title = {On the Rotational Temperature of AlH in Sunspots},
+Year = {2010},
+is denoted  10KaRaBa.AlH,
+
+while 
+
+
+Author = {Halfen, D. T. and Ziurys, L. M.},
+Title = {{THz SPECTROSCOPY OF AlH (X (1)Sigma(+)): DIRECT MEASUREMENT OF THE J=2
+   <- 1 TRANSITION}},
+Year = {{2014}},
+is denoted 14HaZixx.AlH
+
+Author = {Cobos, C J},
+Title = {Heats of formation for AlH, AlOH, OAlH and OAlOH and their monocations},
+Year = {2002},
+should be 02Cobosx.AlH but may be given as 02Coxxxx.AlH
+
+folder RmatReact (broadly) follows the exomol conventions.
+
+
+folder MARVEL uses the IUPAC convention which is similar to exomol but not
+quite the same
+
+        First 2 characters the year eg 18
+        Next  2 digits first 2 characters of first  author surname
+repeat for up to four (not three authors)
+Single author papers use full name (up to first 8 characters)
+Do not pad with xx's.
+
+eg 
+author = {A.-W. Liu AND K.-F. Song AND H.-Y. Ni AND S.-M. Hu AND O.~V. Naumenko AND I.~A. Vasilenko AND S.~N. Mikhailenko},
+title = {{(0~0~0) and (0~1~0) energy levels of the HD$^{18}$O and D$_2$$^{18}$O molecules from analysis of their $\nu_2$ bands}},
+year  = {2011},
+is denoted 11LiSoNiHu
+
+Other folders have less well defined naming conventions.
+
+Jonathan Tennyson
+
+6 April 2018

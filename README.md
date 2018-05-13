@@ -6,20 +6,30 @@ If you have not used gitHub or git before please see below for more detailed ins
 1. To grab a copy simply type: `git clone git@github.com:ExoMol/bib.git` (**you must have a GitHub account**)
 1. This will create a local copy of all the bib files on your machine
 1. You can add to the bib files as normal (although please adhere to the naming conventions)
-1. To submit your changes back to Github:
+1. To submit your changes back to gitHub:
 	* `git add .` (or `git add <file 1> <file 2> <file 3>`)
 	* `git commit -m "<your message here>"`
 	* `git pull`
 	* `git push`
 1. Your changes will now be added to the global gitHub repo
 
-(**Note:** you must be a collbaorator to add directly to the gitHub repo. If you are not a collaborator, the best option is to fork the gitHub repo instead and then submit a pull request)
+(**Note:** you must be a collaborator to add directly to the gitHub repo. If you are not a collaborator, the best option is to fork the gitHub repo instead and then submit a pull request)
+
+
+If you get a `permission denied (publickey)` error, please follow the steps below:
+
+1. `cd ~/.ssh`
+1. There should be a file called `id_rsa.pub` - open this and copy the contents
+1. On the gitHub website, go to "Settings" and the "SSH and GPG keys" tab
+1. Create a new SSH key, paste in the contents of `id_rsa.pub` and save
+
+(Thanks to Katy for pointing this out - also see [link here](https://gist.github.com/adamjohnson/5682757) for more info)
 
 ## Detailed Instructions
 ### Check Git Installation
 If you would like a copy of the .bib files on your local machine please follow the below instructions to download them. If not they can still be found on the shared folder in the usual place.
 
-To **clone** (download) the .bib files from this reposistory you will first need **git** installed on your machine. It is more than likely that you may already have git installed on your machine. To check, type the following command in your terminal:
+To **clone** (download) the .bib files from this repository you will first need **git** installed on your machine. It is more than likely that you may already have git installed on your machine. To check, type the following command in your terminal:
 
     $ git --version
 
@@ -81,7 +91,7 @@ If so then you have successfully cloned .bib git repository.
 
 ### Making Changes
 
-Chances are, if you are making ammendments to a certain .bib file then others will also need this change as well. The process to change a bib file, and upload back to GitHub repo (folder) is as follows:
+Chances are, if you are making amendments to a certain .bib file then others will also need this change as well. The process to change a bib file, and upload back to GitHub repo (folder) is as follows:
 
 1. Edit/Create file as normal
 1. Make change(s) and save
@@ -110,7 +120,7 @@ Then modify the file (using any program vim/nano/gedit/notepad etc.):
 
     $ vim test.bib
 
-Make your changes and then save. In this case I add a line to the file "Hello World!". Running the command `git status` will verfiy any changes made to the local version.
+Make your changes and then save. In this case I add a line to the file "Hello World!". Running the command `git status` will verify any changes made to the local version.
 
     $ git status 
     On branch master

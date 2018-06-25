@@ -103,10 +103,62 @@ publisher = {Oxford University Press, New York, 3rd edn.}}
   edition = {2}
 }
 
-@BOOK{98BuJexx,
+@BOOK{97GrEaxx,
   title = {Chemistry of the Elements},
   publisher = {Butterworth-Heinemann},
   year = {1997},
   author = {Greenwood, N. N. and Earnshaw, A.},
   edition = {2}
 }
+
+@Book{11Tennyson.book,
+author = {J. Tennyson},
+title = {Astronomical Spetroscopy: An Introduction to the Atomic and Molecular Physics of Astronomical Spectra},
+publisher = {World Scientific},
+address ={London},
+year = {2011},
+edition = {2}
+}
+
+@Book{10Seager.book,
+author = {S. Seager},
+title = {Exoplanet Atmospheres: Physical Processes},
+publisher = {Princeton University Press},
+year = {2010}
+}
+
+@article{ 97BuScHo,
+Author = {Bunker, P R and Schutte, C J H and Hougen, J T and Mills, I M and Watson, J K G
+   and Winnewisser, B P},
+Title = {{Notations and conventions in molecular spectroscopy .3. Permutation and
+   permutation-inversion symmetry notation}},
+Journal = {Pure Appl. Chem.},
+Year = {{1997}},
+Volume = {{69}},
+Pages = {1651-1657},
+Abstract = {{The field of Molecular Spectroscopy was surveyed in order to determine a
+   set of conventions and symbols which are in common use in the
+   spectroscopic literature. This document, which is Part 3 in a series,
+   deals with symmetry notation referring to groups that involve nuclear
+   permutations and the inversion operation. Further parts will follow,
+   dealing inter alia with vibration-rotation spectroscopy and electronic
+   spectroscopy.}},
+DOI = {10.1351/pac199769081651}}
+
+
+@BOOK{88Zare.book,
+  title = {Angular Momentum: Understanding Spatial Aspects in Chemistry and Physics},
+  publisher = {Wiley},
+  year = {1988},
+  author = {Zare, R N},
+  edition = {1st}
+}
+
+@BOOK{11Atkins.book,
+  title = {Molecular Quantum Mechanics},
+  publisher = {Oxford University Press},
+  year = {2011},
+  author = {Atkins, P and Friedman, R},
+  edition = {4th}
+
+

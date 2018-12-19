@@ -61,13 +61,12 @@ Unique-ID = {ISI:000082222500014},
 }
 
 @article{ 69MaKuMo.PF3,
-Author = {MARINO, Y and KUCHITSU, K and MORITANI, T},
-Title = {MOLECULAR STRUCTURE OF PHOSPHORUS TRIFLUORIDE STUDIED BY GAS ELECTRON
-   DIFFRACTION},
+Author = {Marino, Y and Kuchitsu, K and Moritani, T},
+Title = {Molecular structure of phosphorus trifluoride studied by gas electron diffraction},
 Year = {1969},
 Volume = {8},
 Number = {4},
-Pages = {867-\&},
+Pages = {867-871},
 Journal = {Inorg. Chem.},
 Unique-ID = {ISI:A1969D116600033},
 }
@@ -76,11 +75,10 @@ Unique-ID = {ISI:A1969D116600033},
 title = {{The $\nu_4$=1 and $\nu_4$=2 rovibrational levels of PF3 revisited: New solutions for old topics}},
 journal = JMS,
 volume = {316},
-number = {Supplement C},
 pages = {11 - 21},
 year = {2015},
 issn = {0022-2852},
-doi = {https://doi.org/10.1016/j.jms.2015.07.004},
+doi = {10.1016/j.jms.2015.07.004},
 url = {http://www.sciencedirect.com/science/article/pii/S0022285215001514},
 author = {Adina Ceausu-Velcescu and Petr Pracna and Jürgen Breidung and Walter Thiel and Mohamed Badaoui}
 }
@@ -101,7 +99,7 @@ author = {Hamid Najib}
 @article{11NaMs.PF3,
 author = {Hamid Najib and Hicham Msahal},
 title = {{A new study of the ν 2(A 1) infrared band of phosphorus trifluoride}},
-journal = {Molecular Physics},
+journal = MP,
 volume = {109},
 number = {15},
 pages = {1953-1956},
@@ -190,7 +188,7 @@ pages = {195-196}
 
 @article{77KaCo.PF3,
 author = {Yoshiyuki Kawashima and A. Peter Cox}, 
-title = {{Microwave l-type Resonance Transitions of the $\nu_4$=1 State in PF$_3$, Detailed Interactions and Molecular Structure}},
+title = {Microwave l-type Resonance Transitions of the $\nu_4$=1 State in PF$_3$, Detailed Interactions and Molecular Structure},
  journal = JMS, 
 year = {1977}, 
 volume = {65},
@@ -211,12 +209,12 @@ author = {E. Thiessen and J. Cosl\'eou and P. Dr\'ean and H. Harder and H. M\"ad
 title = {{Radiofrequency, centimeter-, millimeter- and submillimeterwave spectra of PF3 in the $\nu_4$=1 vibrational state}},
 journal = JMS, 
 year = {2000}, 
-volume = {517-518},
+volume = {517},
 pages = { 91-103}
 }
 
 @article{64MiFlSc.PF3,
-author = { Anna M. Mirri, Flavio Scappini and Paolo G. Favero},
+author = {Mirri, A M and Scappini, F and Favero, P G},
 title = {{Millimeter Wave Spectrum of PF$_3$ and PCl$_3$ and Force Constants Determination}},
  journal = {Spectrochimica Acta}, 
 year = {1965}, 
@@ -225,7 +223,7 @@ pages = {965-971}
 }
 
 @article{97BaSaNa.PF3,
-author = {M. Badaoui, N. Ben Sari-Zizi, H. Najib and G. Graner}, 
+author = {Badaoui, M and Ben Sari-Zizi, N and Najib, H and Graner, G}, 
 title = {{Study of the $\nu_4$=2 and $\nu_4$=3 States of PF$_3$ by High Resolution Infrared Spectroscopy}},
 journal = JMS, 
 year = {1997},
@@ -233,18 +231,9 @@ volume = {184},
 pages = { 318-329}
 }
 
-@article{09MaTaxx.PF3, 
-author = {Motamedi, Masoud and Zohrevand, Tahere}, 
-title = {Study of Millimeter-Wave Rotational Spectra of Phosphorus Trifluoride in Ground, $\nu_2$=1 and $\nu_4$=1 States},
-journal ={E-Journal of Chemistry},
-year = {2009}, 
-volume = {6},
-number ={3}, 
-pages = {849-865}
-}
 
 @article{93NaSaBu.PF3,
-author = {H. Najib and N. Ben Sari-Zizi and H. B\={u}rger and A. Rahner and L. Halonen}, 
+author = {Najib, H and Ben Sari-Zizi, N and B\={u}rger, H and Rahner, A and Halonen, L}, 
 title = {{High-Resolution FTIR Investigation of PF$_3$ in the 300-550cm\textsuperscript{-1} Region: The Ground, $\nu_2$=1 and $\nu_4$=1 states}},
  journal = JMS, 
 year={1993}, 
@@ -254,8 +243,8 @@ doi= {10.1006/jmsp.1993.1121}
 }
 	
 @article{95CoClDo.PF3,
-author = {G. Cotti and L. Cludi and L. Dore and G. Cazzoli and P. Dr\'ean}, 
-title = {{Millimeter- and Submillimeter-Wave Spectrum of PF$_3$: Observation of K=3 Line Splitting}},
+author = {G. Cotti and L. Cludi and L. Dore and G. Cazzoli and P. Dr{\'e}an}, 
+title = {Millimeter- and Submillimeter-Wave Spectrum of PF$_3$: Observation of K=3 Line Splitting},
  journal =JMS,
 year = {1995}, 
 volume = {174},
@@ -266,7 +255,7 @@ doi = {10.1006/jmsp.1995.1268}
 @article{49GiEdGo.PF3,
 author = {O. R. Gilliam and H. D. Edwards and Walter Gordy}, 
 title = {Microwave Investigations of Methyl Fluoride, Fluoroform and Phosphorus Trifluoride}, 
-journal = {Physical Review}, 
+journal = PR, 
 year = {1949}, 
 volume ={75},
 number={7}, 
@@ -323,7 +312,7 @@ pages = {4105}
 }
 
 @article{90BrScTh,
-author = {J. Breidung, W. Schneider and W. Thiel}, 
+author = {J. Breidung and W. Schneider and W. Thiel and H.F. Schafer}, 
 title = {The Anharmonic Force Fields of PH$_3$, PHF$_2$, PF$_3$, PH$_5$, and H$_3$PO},
  journal =JMS, 
 year = {1990}, 
@@ -334,122 +323,119 @@ pages = {226-236}
 @article{88BrThxx, 
 author = {J. Breidung and W. Thiel}, 
 title = {Ab Initio Calculation of Harmonic Force Fields and Vibrational Spectra for the Fluorophosphines PH$_n$F$_{3-n}$ (n=0-3)},
- journal =JMS,
-year ={ 1990},
-volume={ 140},
-pages={ 226-236}
+ journal = J. Phys. Chem,
+year ={1988},
+volume={92},
+pages={5597-5602}
 }
 
 @article{70BaLlHi.PF3,
-title = {{A theoretical and experimental study of the electronic structure of PF3O and the ligand properties of PF3}},
+title = {A theoretical and experimental study of the electronic structure of $PF$_3$O$ and the ligand properties of {PF$_3$}},
 journal = {Chemical Physics Letters},
 volume = {6},
 pages = {253 - 254},
 year = {1970},
-issn = {0009-2614},
-doi = {https://doi.org/10.1016/0009-2614(70)85066-7},
+doi = {10.1016/0009-2614(70)85066-7},
 author = {P.J. Bassett and D.R. Lloyd and I.H. Hillier and V.R. Saunders}
 }
 
 @article{52WiPoxx.PF3,
 author = {M. Kent Wilson and Santiago R. Polo},
-title = {{The Infrared Spectra of NF3 and PF3}},
+title = {The Infrared Spectra of {NF$_3$} and {PF$_3$}},
 journal = JCP,
 volume = {20},
 pages = {1716-1719},
 year = {1952},
-doi = {10.1063/1.1700275},
-eprint = {https://doi.org/10.1063/1.1700275}
+doi = {10.1063/1.1700275}
 }
 
 @article{70ReOvxx.PF3,
-title = {{High-resolution spectra of AsF3 and PF3}},
+title = {High-resolution spectra of {AsF$_3$} and {PF$_3$}},
 journal = {Spectrochimica Acta},
 volume = {26},
 pages = {379 - 389},
 year = {1970},
-issn = "0584-8539",
 doi = {10.1016/0584-8539(70)80083-6},
-author = "Sandor Reichman and John Overend"
+author = {Sandor Reichman and John Overend}
 }
 
 @article{96BeBuLi.PF3,
 author = {Ben Sari-Zizi, N and B\={u}rger, H and Litz, M and Najib, Hamid and Radtke, J},
+journal = JMS,
 year = {1996},
 pages = {46-57},
-title = {{High resolution FTIR study of PF3 in the 800-950 cm(-1) region. The nu(1) and nu(3) fundamental and nu(2)+nu(4) combination bands}},
-volume = {177},
-booktitle = JMS
+title = {High resolution {FTIR} study of {PF}$_3$ in the 800-950 cm$^{-1} region. The nu(1) and nu(3) fundamental and nu(2)+nu(4) combination bands},
+volume = {177}
 }
 
 @article{98SaNaSe.PF3,
-title = {{High-Resolution FTIR Study of the (ν3+ ν4, ν1+ ν4) Interacting System of Rovibrational Bands of PF Between 1100 and 1300 cm-1}}
-journal = JMS
+title = {High-Resolution {FTIR} Study of the ($\nu_3$ + $\nu_4$, $\nu_1$ + $\nu_4$) Interacting System of Rovibrational Bands of {PF$_3$} Between 1100 and 1300 cm$^{-1}$},
+author = {Ben Sari-Zizi, N and Najib, H and Sebihi, R and Pracna, P},
+journal = JMS,
 volume = {190},
 pages = {15-27},
-year = {1998},
-author = "N. Ben Sari-Zizi and H. Najib and R. Sebihi and P. Pracna",
+year = {1998}
 }
 
 @article{00BeNaSe.PF3,
-title = {{High-resolution FTIR study of the ν1+ν2 combination band of PF3 around 1380cm-1}}
+title = {High-resolution {FTIR} study of the $\nu_1$+$\nu_2$ combination band of {PF}$_3$ around 1380cm$^{-1}$},
+author = {Ben Sari-Zizi, N and Najib, H and Sebihi, R and Badaoui, M},
 journal = JMS,
-volume = {517-518},
+volume = {517},
 pages = {79-89},
 year = {2000},
-doi = "https://doi.org/10.1016/S0022-2860(99)00294-X",
-author = {N. Ben Sari-Zizi and H. Najib and R. Sebihi and M. Badaoui},
+doi = {10.1016/S0022-2860(99)00294-X}
 }
 
 @article{08Naxxxx.PF3,
-author = { H.   Najib },
-title = {{Vibrational constants of the symmetric top molecule PF3}},
+author = { H. Najib },
+title = {Vibrational constants of the symmetric top molecule {PF}$_3$},
 journal = MP,
 volume = {106},
 pages = {1199-1204},
 year  = {2008},
-doi = {10.1080/00268970802056060},
+doi = {10.1080/00268970802056060}
 }
 
 @article{10MsNaHm.PF3,
-title = {{A new analysis of the ν4(E) rovibrational band of the symmetric top molecule PF3}},
+title = {A new analysis of the $\nu_4$(E) rovibrational band of the symmetric top molecule {PF}$_3$},
 journal = JMS,
 volume = {264},
 pages = {37-42},
 year = {2010},
-doi = "https://doi.org/10.1016/j.jms.2010.08.005",
-author = "Hicham Msahal and Hamid Najib and Siham Hmimou",
+doi = {10.1016/j.jms.2010.08.005},
+author = {Hicham Msahal and Hamid Najib and Siham Hmimou}
 }
 
 @article{13Naxxxx.PF3,
-title = {{A new treatment of the v4=2 excited state of the symmetric top molecule PF3 around 693cm1}},
+title = {A new treatment of the $\nu_4$=2 excited state of the symmetric top molecule {PF}$_3$ around 693cm$^{-1}$},
 journal = JMS,
 volume = {289},
 pages = {61-64},
 year = {2013},
-doi = "https://doi.org/10.1016/j.jms.2013.05.001",
-author = {Hamid Najib},
+doi = {10.1016/j.jms.2013.05.001},
+author = {Hamid Najib}
 }
 
 @article{13Naxxxb.PF3,
-title = {{Reinvestigation of The 2?4(A, E) Infrared Band of Phosphorus Trifluoride}},
+title = {Reinvestigation of The 2$\nu_4$(A, E) Infrared Band of Phosphorus Trifluoride},
 journal = {J. Mater. Environ. Sci.},
 volume = {4},
 pages = {721-725},
 year = {2013},
-author = {Hamid Najib},
+author = {Hamid Najib}
 }
 
 @article{14Naxxxx.PF3,
-title = {{Experimental rovibrational constants and equilibrium structure of phosphorus trifluoride}},
+title = {Experimental rovibrational constants and equilibrium structure of phosphorus trifluoride},
 journal = JMS,
 volume = {305},
 pages = {17-21},
 year = {2014},
-doi = "https://doi.org/10.1016/j.jms.2014.09.008",
-author = {Hamid Najib},
+doi = {10.1016/j.jms.2014.09.008},
+author = {Hamid Najib}
 }
-@article{18.HiHoBl.PF3,
+@article{18HiHoBl.PF3,
 author = {N. Hishiyama and M. Hoshino and F. Blanco and G. García and H. Tanaka},
 title = {Absolute cross section measurements for the scattering of low- and intermediate-energy electrons from PF3. II. Inelastic scattering of vibrational and electronic excitations},
 journal = JCP,
@@ -458,6 +444,56 @@ pages = {084313},
 year = {2018},
 doi = {10.1063/1.5012844},
 }
+
+@article{19MaChYa.PF3,
+author = {Barry P. Mant and Katy L. Chubb and Andrey Yachmenev and Jonathan Tennyson  and  Sergei N. Yurchenko},
+title = {The Infrared Spectrum of PF$_3$ and the Analysis of Rotational Energy Clustering Effects},
+journal = MP,
+volume = {To be submitted},
+pages = {},
+year = {2019},
+}
+
+
+
+@article{89TaLaLo.PF3,
+author = {A. Taleb-Bendiab and M.S. LaBarge and L.L. Lohr and R.C. Taylor and 
+K.W. Hillig II and R.L. Kuczkowski and R.K. Bohn},
+title = {The structures and dipole moments of Ar-PF$_3$ and Kr-PF$_3$},
+journal = JCP,
+volume = {90},
+pages = {6949},
+year = {1989},
+doi = {10.1063/1.456270},
+}
+
+@article{80Maxxxx.PF3,
+author = {D. S. Marynick},
+title = {The inversion barriers of NF$_3$, NCl$_3$, PF$_3$, and PCl$_3$. 
+	A theoretical study},
+journal = JCP,
+volume = {73},
+number = {8},
+pages = {3939-3943},
+year = {1980},
+doi = {10.1063/1.440579},
+}
+
+@article{81BoSexx.PF3,
+author = {J. E. Boggs and D. Seida},
+title = {The inversion barriers of PH$_3$, PH$_2$F, PHF$_2$, and PF$_3$},
+journal = JCP,
+volume = {75},
+number = {7},
+pages = {3645-3645},
+year = {1981},
+doi = {10.1063/1.442440},
+
+
+
+
+
+
 
 
 

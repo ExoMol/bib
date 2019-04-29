@@ -540,3 +540,42 @@ eprint = {/oup/backfile/content_public/journal/mnras/pap/10.1093_mnras_stx2748/1
 	MECHANICAL REACTIVE SCATTERING; FILTER-DIAGONALIZATION METHOD; QUANTUM
 	MOLECULAR-DYNAMICS; REACTION CROSS-SECTIONS; SINGLE-PARTICLE STATES}
 }
+
+
+@misc{ maxima,
+note    = {\textit{http://maxima.sourceforge.net/documentation.html}, downloaded on September 20th, 2018}
+}
+
+@article{ GAIN,
+Author = {Al-Refaie, Ahmed F. and Yurchenko, Sergei N. and Tennyson, Jonathan},
+Title = {GPU Accelerated INtensities MPI (GAIN-MPI): A new method of computing
+   Einstein-A coefficients},
+Journal = CPC,
+Year = {2017},
+Volume = {214},
+Pages = {216-224},
+Abstract = {Calculating dipole transition intensities or the related Einstein A
+   coefficients can dominate the computer usage for large line lists of
+   transitions such as those being computed to model radiative transport
+   through hot atmospheres. An algorithm for the efficient computation of
+   line strengths is presented based on the use of the half-linestrength.
+   This is implemented on GPUs that are shown to give up to a thousandfold
+   speed-up compared to calculations on conventional computers. This
+   algorithm is implemented in the program GAIN which was developed as part
+   of the TROVE nuclear motion program, but can be adapted for use by other
+   similar programs in a straightforward fashion.
+   Program summary
+   Program title: GAIN-MPI
+   Program Files doi: http://dx.doLorg/10.17632/4x75jsphc6.1
+   Licensing provisions: MIT licence.
+   Programming language: C++ 99, CUDA C and Fortran 95.
+   Nature of problem: Computation of linestrengths using GPU hardware
+   Solution method: Split the linestrength into smaller blocks and compute
+   them in the GPU in parallel
+   Restrictions: The current version is restricted to separable
+   rovibrational basis sets
+   Unusual features: Can be extended by user supplied concrete C++ classes
+   for the MPI version (C) 2017 Elsevier B.V. All rights reserved.},
+DOI = {10.1016/j.cpc.2017.01.013},
+Keywords = {Rotation-vibration spectra; Transition probabilities; Intensities}
+}

@@ -1,0 +1,14 @@
+# Compiled python modules.
+__pycache__/
+*.pyc
+
+# Setuptools distribution folder.
+/dist/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+
+# ignore vim/nano/gedit backups
+*.swp
+*.swo
+*~

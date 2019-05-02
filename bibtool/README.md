@@ -117,7 +117,9 @@ following.
     * write the new bibtex refs. to `CaH.bib`<sup>3</sup>
 
 [1] Optional.
+
 [2] `--sort` is the default behaviour, `--no-sort` will disable sorting.
+
 [3] If option `-i` is specified then the original CaH.bib file will be
 overwritten. Otherwise a new file CaH.fmt.bib will be created which can be
 useful to compare changes.
@@ -141,7 +143,9 @@ To format an existing file e.g., CaH.bib we can do the following.
     * write the formatted bibtex refs. to `CaH.bib`<sup>3</sup>
 
 [1] Optional.
+
 [2] `--sort` is the default behaviour, `--no-sort` will disable sorting.
+
 [3] If option `-i` is specified then the original CaH.bib file will be
 overwritten. Otherwise a new file CaH.fmt.bib will be created which can be
 useful to compare changes.

@@ -97,7 +97,7 @@ following.
 
 1. Run the bibtool as follows:
 
-        $ bibtool add -ix -m CaH
+        $ bibtool add -m CaH -ix CaH.bib
 
 1. This will open your default text editor `$EDITOR` (to find out what this is
    run `$ echo $EDITOR` in your terminal).
@@ -130,7 +130,7 @@ To format an existing file e.g., CaH.bib we can do the following.
 
 1. Run the bibtool as follows:
 
-        $ bibtool format -ivx -m CaH
+        $ bibtool format -m CaH -ivx CaH.bib
 
 1. The bibtool will then:
     * validate the references found in `CaH.bib`

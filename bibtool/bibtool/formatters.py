@@ -59,7 +59,10 @@ def format_doi(entry):
     except KeyError as e:
         return entry
 
-    doi = doi.replace('http://dx.doi.org/', '')
+    match = re.match('(^\s*http.*/)(10.*)(\s*$)', doi)
+
+    if match:
+        doi = match.group(2)
 
     entry['doi'] = doi
 

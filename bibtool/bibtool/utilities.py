@@ -382,6 +382,8 @@ def format_bib_db(bib_db, sort, generate_exomol_key, molecule, verbose):
     bib_db = check_duplicate_entries(bib_db, verbose)
     bib_db = check_duplicate_tags(bib_db, verbose)
 
+    bib_db.comments = ''
+
     bib_db.entries = [v for k, v in bib_db.entries_dict.items()]
 
     return bib_db

@@ -1,20 +1,77 @@
-% Encoding: UTF-8
+
+@article{ 19HuLexx,
+Author = {Hutson, Jeremy M. and Le Sueur, C. Ruth},
+Title = {{BOUND and FIELD: Programs for calculating bound states of interacting
+   pairs of atoms and molecules}},
+Journal = CPC,
+Year = {{2019}},
+Volume = {{241}},
+Pages = {1-8},
+Abstract = {{The BOUND program calculates the bound states of a complex formed from
+   two interacting particles using coupled-channel methods. It is
+   particularly suitable for the bound states of atom-molecule and
+   molecule-molecule van der Waals complexes and for the near-threshold
+   bound states that are important in ultracold physics. It uses a basis
+   set for all degrees of freedom except R, the separation of the centres
+   of mass of the two particles. The Schrodinger equation is expressed as a
+   set of coupled equations in R. Solutions of the coupled equations are
+   propagated outwards from the classically forbidden region at short range
+   and inwards from the classically forbidden region at long range, and
+   matched at a point in the central region. Built-in coupling cases
+   include atom + rigid linear molecule, atom + vibrating diatom, atom +
+   rigid symmetric top, atom + asymmetric or spherical top, rigid diatom +
+   rigid diatom, and rigid diatom + asymmetric top. Both programs provide
+   an interface for plug-in routines to specify coupling cases
+   (Hamiltonians and basis sets) that are not built in. With appropriate
+   plug-in routines, BOUND can take account of the effects of external
+   electric, magnetic and electromagnetic fields, locating bound-state
+   energies at fixed values of the fields. The related program FIELD uses
+   the same plug-in routines and locates values of the fields where bound
+   states exist at a specified energy. As a special case, it can locate
+   values of the external field where bound states cross scattering
+   thresholds and produce zero-energy Feshbach resonances. Plug-in routines
+   are supplied to handle the bound states of a pair of alkali-metal atoms
+   with hyperfine structure in an applied magnetic field.
+   Program summary
+   Program Titles: BOUND and FIELD
+   Program Files doi:http://dx.doLorg/10.17632/rtzgf5mwpn.1
+   Licensing provisions: GPLv3
+   Programming language: Fortran 90
+   External routines/libraries: LAPACK, BIAS
+   Nature of problem: Solve the Schrodinger equation to locate the bound
+   states of an interacting pair of atoms or molecules as a function of
+   energy (for BOUND) or external field (for FIELD).
+   Solution method: The Schrodinger equation is expressed in terms of
+   coupled equations in the inter-particle distance, R. Solutions of the
+   coupled-channel equations are propagated outwards from the classically
+   forbidden region at short range and inwards from the classically
+   forbidden region at long range, and matched at a point in the central
+   region. Bound states exist at energies where one of the eigenvalues of
+   the log-derivative matching matrix is zero. BOUND calculates the number
+   of bound states in a specified range of energy and then converges on the
+   bound-state energies. FIELD operates in a similar manner to BOUND but
+   converges on bound states as a function of external field at fixed
+   energy, or energy fixed with respect to a field-dependent threshold
+   energy. The programs can also generate bound-state wavefunctions if
+   desired.
+   Unusual features:
+   1. The programs include Hamiltonians for simple atom-molecule and
+   molecule-molecule interactions, and provide an interface that allows
+   users to specify Hamiltonians and basis sets for more complex systems.
+   This interface allows users to include multiple external fields in the
+   Hamiltonian.
+   2. The programs can propagate very efficiently to long range, making
+   them particularly suited to locating very high-lying bound states.}},
+DOI = {10.1016/j.cpc.2019.02.017}}
 
 
-@MISC{CFOUR-www,
-  note = {CFOUR, a quantum chemical program package written by J.F. Stanton,
-	J. Gauss, M.E. Harding, P.G. Szalay with contributions from A.A.
-	Auer, R.J. Bartlett, U. Benedikt, C. Berger, D.E. Bernholdt, Y.J.
-	Bomble, L. Cheng, O. Christiansen, M. Heckert, O. Heun, C. Huber,
-	T.-C. Jagau, D. Jonsson, J. Jus\'{e}lius, K. Klein, W.J. Lauderdale,
-	D.A. Matthews, T. Metzroth, L.A. M\"{u}ck, D.P. O'Neill, D.R. Price,
-	E. Prochnow, C. Puzzarini, K. Ruud, F. Schiffmann, W. Schwalbach,
-	S. Stopkowicz, A. Tajti, J. V\'{a}zquez, F. Wang, J.D. Watts and
-	the integral packages MOLECULE (J. Alml\"{o}f and P.R. Taylor), PROPS
-	(P.R. Taylor), ABACUS (T. Helgaker, H.J. Aa. Jensen, P. J{\o}rgensen,
-	and J. Olsen), and ECP routines by A. V. Mitin and C. van W\"{u}llen.
-	For the current version, see http://www.cfour.de. },
-  key = {CFOUR}
+@article{ Spectropedia,
+title = {Spectropedia },
+year = {2017},
+url = {respecth.chem.elte.hu:8080/spectro2017D},
+urldate = {2017-11-01},
+note = {visited 01/11/2017},
+author = {Czinki, E. and Furtenbacher, T.and {Cs\'asz\'ar}, A. G.}
 }
 
 

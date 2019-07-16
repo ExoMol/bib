@@ -1,0 +1,349 @@
+@book{86GrHaxx.book,
+ author = {Griffiths, P R and {de Haseth}, J A},
+ title = {{Fourier transform infrared spectrometry: chemical analysis}},
+ publisher = {John Wiley and Sons}, 
+ address ={New York},
+ year = {1986}
+}
+
+@Book{ 79HeHuxx.book,
+author = {K. P. Huber and G. Herzberg},
+title = {Molecular Spectra and Molecular Structure IV. Constants of Diatomic Molecules},
+publisher = {Van Nostrand Reinhold Company},
+address ={New York},
+year = {1979},
+edition = {},
+}
+
+@BOOK{ 68Gaydon.book,
+   author = {A. G. Gaydon},
+    title = "{Dissociation Energies and Spectra of Diatomic Molecules}",
+publisher={Chapman and Hall, Ltd.},
+edition={3},
+address={London},
+     year = 1968,
+}
+
+
+@BOOK{05Bernath.book,
+  title = {Spectra of Atoms and Molecules},
+  publisher = {Oxford University Press},
+  year = {2005},
+  author = {P F. Bernath},
+  edition = {2nd}
+}
+
+@BOOK{15Bernath.book,
+  title = {Spectra of Atoms and Molecules},
+  publisher = {Oxford University Press},
+  year = {2015},
+  author = {P F. Bernath},
+  edition = {3rd}
+}
+
+@BOOK{03BrCaxx.book,
+  title = {Rotational Spectroscopy of Diatomic Molecules},
+  publisher = {Cambridge University Press},
+  year = {2003},
+  author = {John M. Brown and Alan Carrington},
+}
+
+
+@BOOK{83Woodgate.book,
+title = {Elementary Atomic Structure},
+  publisher = {Oxford University Press},
+  year = {1983},
+  author = {G. K. Woodgate},
+  edition = {2nd}
+}
+
+@BOOK{12ToSc.book,
+title = {Microwave Spectroscopy},
+year = {2012},
+author = {C. H. Townes and  A. L. Schawlow},
+publisher = {Dover}}
+
+@book{08HaBoRo,
+author = {J.-M. Hartmann and C. Boulet and D. Robert},
+title = {Collisional effects on molecular spectra. Laboratory experiments and models, consequences for applications},
+publisher ={Elsevier}, 
+address = {Amsterdam},
+year = {2008}}
+
+@book{10BuLaSt, 
+title = {Collisional Line Broadening and Shifting of Atmospheric Gases:
+A Practical Guide for Line Shape Modelling by Current Semi-classical Approaches},
+author ={Jeanna Buldyreva and Nina Lavrentieva and Vitaly Starikov},
+publisher = {Imperial College Press},
+address = {London},
+year = {2010}}
+
+@book{GreenBook,
+  title = {Quantities, Units andÃymbols in Physical Chemistry},
+  publisher = {IUPAC and RSC Publishing},
+  year = {2008},
+  address = "Cambridge",
+  author = {E. R. Cohen AND T. Cvitas AND J. G. Frey AND B. Holmstr\"{o}m AND K. Kuchitsu AND R. Marquardt AND I. M. Mills AND F. Pavese AND M. Quack AND J. Stohner AND H.~L. Strauss AND M. Takami and A. J. Thor},
+  edition = {2}
+}
+
+@book{00Wayne,
+author = {R. P. Wayne},
+title = {Chemistry of atmospheres},
+year = {2000},
+publisher = {Oxford University Press, New York, 3rd edn.}}
+
+
+@BOOK{98BuJexx,
+  title = {Molecular Symmetry and Spectroscopy},
+  publisher = {NRC Research Press},
+  year = {1998},
+  author = {Bunker, P. R. and Jensen, P.},
+  address = {Ottawa},
+  edition = {2}
+}
+
+@BOOK{97GrEaxx,
+  title = {Chemistry of the Elements},
+  publisher = {Butterworth-Heinemann},
+  year = {1997},
+  address={Oxford},
+  author = {Greenwood, N. N. and Earnshaw, A.},
+  edition = {2}
+}
+
+@Book{11Tennyson.book,
+author = {J. Tennyson},
+title = {Astronomical Spetroscopy: An Introduction to the Atomic and Molecular Physics of Astronomical Spectra},
+publisher = {World Scientific},
+address ={London},
+year = {2011},
+edition = {2}
+}
+
+@Book{10Seager.book,
+author = {S. Seager},
+title = {Exoplanet Atmospheres: Physical Processes},
+publisher = {Princeton University Press},
+year = {2010}
+}
+
+@article{ 97BuScHo,
+Author = {Bunker, P R and Schutte, C J H and Hougen, J T and Mills, I M and Watson, J K G
+   and Winnewisser, B P},
+Title = {{Notations and conventions in molecular spectroscopy .3. Permutation and
+   permutation-inversion symmetry notation}},
+Journal = {Pure Appl. Chem.},
+Year = {{1997}},
+Volume = {{69}},
+Pages = {1651-1657},
+Abstract = {{The field of Molecular Spectroscopy was surveyed in order to determine a
+   set of conventions and symbols which are in common use in the
+   spectroscopic literature. This document, which is Part 3 in a series,
+   deals with symmetry notation referring to groups that involve nuclear
+   permutations and the inversion operation. Further parts will follow,
+   dealing inter alia with vibration-rotation spectroscopy and electronic
+   spectroscopy.}},
+DOI = {10.1351/pac199769081651}}
+
+
+@BOOK{88Zare.book,
+  title = {Angular Momentum: Understanding Spatial Aspects in Chemistry and Physics},
+  publisher = {Wiley},
+  year = {1988},
+  author = {Zare, R N},
+  edition = {1st}
+}
+
+@BOOK{11Atkins.book,
+  title = {Molecular Quantum Mechanics},
+  publisher = {Oxford University Press},
+  year = {2011},
+  author = {Atkins, P and Friedman, R},
+  edition = {4th}
+}
+
+@BOOK{07Luo.book,
+  title = {Comprehensive Handbook of Chemical Bond Energies},
+  publisher = {CRC Press, Boca Raton, FL},
+  year = {2007},
+  author = {Luo, Y. R.},
+  edition = {1st},
+  doi = {https://doi.org/10.1201/9781420007282}
+}
+
+
+@BOOK{18Rumble.book,
+  title = {CRC Handbook of Chemistry and Physics},
+  publisher = {CRC Press},
+  year = {2018},
+  author = {John Rumble},
+  edition = {99th}
+}
+
+
+@BOOK{06Cotton.book,
+  title = {Scandium, Yttrium \& the Lanthanides: Inorganic \& Coordination Chemistry},
+  publisher = {John Wiley \& Sons, Ltd.},
+  year = {2006},
+  author = {Simon A. Cotton},
+}
+
+
+@book{ 76LaBoxx.book,
+ author = {Landolt, H and B{\"o}rnstein, I},
+ title = {Numerical data and Functional Relationships in Science and Technology Group II Volume 7},
+ year = {{1976}},
+ publisher = {Springer-Verlag},
+ address = {New York},
+}
+
+@Book{ 79HeHuxx.book,
+author = {K.\ P.\ Huber and G.\ Herzberg},
+title = {Molecular Spectra and Molecular Structure IV. Constants of Diatomic Molecules},
+publisher = {Van Nostrand Reinhold Company},
+address ={New York},
+year = {1979},
+edition = {},
+}
+
+@BOOK{ 68Gaydon.book,
+   author = {A. G. Gaydon},
+    title = "{Dissociation Energies and Spectra of Diatomic Molecules}",
+publisher={Chapman and Hall, Ltd.},
+edition={3},
+address={London},
+     year = 1968,
+}
+
+@book{86GrHaxx.book,
+ author = {Griffiths, P R and {de Haseth}, J A},
+ title = {{Fourier transform infrared spectrometry: chemical analysis}},
+ publisher = {John Wiley and Sons}, 
+ address ={New York},
+ year = {1986}
+}
+
+@book{ 07Grdexx.book,
+author = {P R Griffiths and J A {de Haseth}},
+title = {Fourier transform infrared spectroscopy},
+publisher = {Wiley},
+address ={Chichester, UK},
+year = {2007},
+edition = {2nd},
+}
+
+@book{12Gray.book,
+  author = {Gray, M},
+  title = {Maser Sources in Astrophysics},
+  year = {2012},
+  publisher ={Cambridge University Press},
+  series = {Cambridge Astrophysics Series}}
+
+@book{ 05Bernath.book,
+  title = {Spectra of Atoms and Molecules},
+  publisher = {Oxford University Press},
+  year = {2005},
+  author = {P. F. Bernath},
+  edition = {2nd}
+}
+
+@Book{ 10BaChxx.book,
+author = {R.\ G.\ Barry and R.\ J.\ Chorley},
+title = {Atmosphere, Weather and Climate},
+publisher = {Van Nostrand Reinhold Company},
+address ={London and New York},
+year = {2010},
+edition = {9},
+}
+ 
+@Book{ 00Waxxxx.book,
+author = {R. P. Wayne},
+title = {Chemistry of Atmospheres},
+publisher = {Oxford University Press},
+address ={Oxford},
+year = {2000},
+edition = {3},
+}
+ 
+@Book{ 88FlSexx.book,
+author = {R. C. Flagan and J. H. Seinfeld},
+title = {Fundamentals of Air Pollution Engineering},
+publisher = {Prentice Hall},
+address ={New Jersey},
+year = {1988},
+edition = {1},
+}
+ 
+@Book{ 13VeSexx.book,
+author = {J. P. de Vera and J. Seckbach},
+title = {Habitability of Other Planets and Satellites},
+publisher = {Springer},
+address ={New York},
+year = {2013},
+edition = {},
+}
+  
+@Book{14Perryman.book,
+author = {M. Perryman},
+title = {The Exoplanet Handbook},
+publisher = {Cambridge University Press},
+address ={Cambridge},
+year = {2014},
+edition = {1},
+}
+  
+@Book{ 06Jensen.book,
+author = {F. Jensen},
+title = {Introduction to Computational Chemistry},
+publisher = {Wiley},
+address ={NewYork},
+year = {2006},
+edition = {2},
+}
+ 
+@Book{ 04Hollas.book,
+author = {J. M. Hollas},
+title = {Modern Spectroscopy},
+publisher = {Wiley},
+address ={Chichester},
+year = {2004},
+edition = {4},
+}
+ 
+@Book{11Tennyson.book,
+author = {J. Tennyson},
+title = {Astronomical Spetroscopy: An Introduction to the Atomic and Molecular Physics of Astronomical Spectra},
+publisher = {World Scientific},
+address ={London},
+year = {2011},
+edition = {2},
+}
+
+
+@article{55WiDeCr,
+  doi = {10.1149/1.2430134},
+  year  = {1955},
+  volume = {102},
+  pages = {235C},
+  author = {E. B. Wilson and J. C. Decius and P. C. Cross and Benson R. Sundheim},
+  title = {Molecular Vibrations: The Theory of Infrared and Raman Vibrational Spectra},
+  journal = {J. Electrochem. Soc.}
+}
+
+@BOOK{88Zare.book,
+  title = {Angular Momentum: Understanding Spatial Aspects in Chemistry and Physics},
+  publisher = {Wiley},
+  year = {1988},
+  author = {Zare, R N},
+  edition = {1st}
+}
+
+
+@BOOK{82PaAlxx,
+  title = {Molecular Vibrational-Rotational Spectra},
+  publisher = {Elsevier},
+  year = {1982},
+  author = {Papou{\v s}ek, D. and Aliev, M.~R.},
+  address = {Amsterdam}
+}

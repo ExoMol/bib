@@ -22,7 +22,7 @@
   title = {{Experiemtal molecular line lists in the ExoMol database}},
   journal = JQSRT,
   year = {2019},
-  volume = {In preparation}
+  volume = {}
 }
 
 
@@ -73,20 +73,44 @@ abstract = {Abstract Infrared solar occultation measurements are well establishe
 }
 
 
-@ARTICLE{ 17HeBoDi,
-   author = {{Heays}, A.~N. and {Bosman}, A.~D. and {van Dishoeck}, E.~F.
-	},
-    title = "{Photodissociation and photoionisation of atoms and molecules of astrophysical interest}",
-  journal = {ArXiv e-prints},
-archivePrefix = "arXiv",
-   eprint = {1701.04459},
- primaryClass = "astro-ph.SR",
- keywords = {Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Astrophysics of Galaxies},
-     year = 2017,
-    month = jan,
-   adsurl = {http://adsabs.harvard.edu/abs/2017arXiv170104459H},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+@ARTICLE{17HeBova,
+author = {Heays, A.-N. and Bosman, A.-D. and van Dishoeck, E.-F.},
+title = {{Photodissociation and photoionisation of atoms and molecules of astrophysical interest}},
+journal = AA,
+year = 2017,
+volume = {602},
+pages = {A105/1-62},
+abstract = {A new collection of photodissociation and photoionisation cross
+sections for 102 atoms and molecules of astrochemical interest has been assembled,
+along with a brief review of the basic physical processes involved. These have been
+used to calculate dissociation and ionisation rates, with uncertainties, in a
+standard ultraviolet interstellar radiation field (ISRF) and for other wavelength-dependent
+radiation fields, including cool stellar and solar radiation, Lyman-α dominated radiation,
+and a cosmic-ray induced ultraviolet flux. The new ISRF rates generally agree within
+30% with our previous compilations, with a few notable exceptions. Comparison with
+other databases such as PHIDRATES is made. The reduction of rates in shielded regions
+was calculated as a function of dust, molecular and atomic hydrogen, atomic C, and
+self-shielding column densities. The relative importance of these shielding types
+depends on the atom or molecule in question and the assumed dust optical properties.
+All of the new data are publicly available from the Leiden photodissociation and
+ionisation database. Sensitivity of the calculated rates to variation of temperature
+and isotope, and uncertainties in measured or calculated cross sections, are tested
+and discussed. Tests were conducted on the new rates with an interstellar-cloud
+chemical model, and find general agreement (within a factor of two) in abundances
+obtained with the previous iteration of the Leiden database assuming an ISRF, and
+order-of-magnitude variations assuming various kinds of stellar radiation. The
+newly parameterised dust-shielding factors makes a factor-of-two difference to
+many atomic and molecular abundances relative to parameters currently in the UDfA
+and KIDA astrochemical reaction databases. The newly-calculated cosmic-ray induced
+photodissociation and ionisation rates differ from current standard values up to a
+factor of 5. Under high temperature and cosmic-ray-flux conditions the new rates
+alter the equilibrium abundances of abundant dark cloud abundances by up to a factor
+of two. The partial cross sections for H2O and NH3 photodissociation forming
+OH, O, NH2 and NH are also evaluated and lead to radiation-field-dependent
+branching ratios. },
+doi = {10.1051/0004-6361/201628742}
 }
+
 
 @book{ 17Heng,
 author = {K Heng},
@@ -98,7 +122,7 @@ address={Princeton, NY}}
 
 
 @ARTICLE{CDMS_3_2016,
-   author = {{Endres}, C.~P. and {Schlemmer}, S. and {Schilke}, P. and {Stutzki}, J. and 
+   author = {{Endres}, C.~P. and {Schlemmer}, S. and {Schilke}, P. and {Stutzki}, J. and
 	{M{\"u}ller}, H.~S.~P.},
     title = "{The Cologne Database for Molecular Spectroscopy, CDMS, in the Virtual Atomic and Molecular Data Centre, VAMDC}",
   journal = JMS,
@@ -151,12 +175,26 @@ volume  = {},
 pages = {},
 notes={(submitted)},
 }
-@article{ Honline,
+
+
+@article{16HiGoKo,
 Author = {C. Hill and  I. E. Gordon and R. V. Kochanov and L. Barrett and L. S. Rothman},
-Title = {{HITRANonline: A modern online interface and the flexible representation of spectroscopic data in the HITRAN database}},
+Title = {{HITRANonline: A modern online interface and the flexible representation
+of spectroscopic data in the HITRAN database}},
 Journal = JQSRT,
 year  = {2016},
-pages = {(in preparation)}}
+volume = {177},
+pages = {4-14},
+abstract = {We describe a new, online interface to the HITRAN database that
+overcomes the many limitations of the existing, 160-character fixed-width, text
+based format (the “.par” files mostly distributed through an FTP site until now).
+The interface, called HITRANonline, accesses a relational database [JQSRT 2013:130, 57-61]
+in which the spectroscopic data are stored in a flexible, extensible and structured format.
+This allows an arbitrary number of different parameters for each transition to be stored
+so that HITRAN can represent, for example, non-Voigt line shape profiles as well as
+parameters representing broadening by species other than “air” and “self”.},
+doi = {10.1016/j.jqsrt.2015.12.012}
+}
 
 
 @article{16WaGeMo,
@@ -246,9 +284,10 @@ Author = {Parigger, Christian G. and Woods, Alexander C. and Surmick, David M. a
 Title = {{Computation of diatomic molecular spectra for selected transitions of
    aluminum monoxide, cyanide, diatomic carbon, and titanium monoxide}},
 Journal = SCAB,
-Year = {{2015}},
+Year = {2015},
+volume = {107},
 Pages = {132-138},
-Abstract = {{Laser ablation studies with laser-induced breakdown spectroscopy (LIBS)
+Abstract = {Laser ablation studies with laser-induced breakdown spectroscopy (LIBS)
    typically emphasize atomic species yet fingerprints from molecular
    species can occur subsequently or concurrently. In this work, selected
    molecular transitions of aluminum monixide (AlO), diatomic carbon (C-2),
@@ -263,8 +302,10 @@ Abstract = {{Laser ablation studies with laser-induced breakdown spectroscopy (L
    optimize such parameters, this procedure is used to infer information
    from an experimentally obtained spectrum. Furthermore, the programs and
    data files are provided for LIBS investigations that also reveal MO,
-   C-2, CN, and TiO diatomic spectra.}},
-DOI = {{10.1016/j.sab.2015.02.018}}}
+   C-2, CN, and TiO diatomic spectra.},
+DOI = {10.1016/j.sab.2015.02.018}
+}
+
 
 @article{15CoLixx,
 title = "A database of narrow-band parameters for fuels commonly encountered in fire applications ",
@@ -453,15 +494,16 @@ URL = {http://dx.doi.org/10.1051/0004-6361/201220465}
 
 
 @ARTICLE{13BaWeSu,
-  author = {Yaye Awa Ba and Christian Wenger and Romain Surleau and Vincent Boudon
+author = {Yaye Awa Ba and Christian Wenger and Romain Surleau and Vincent Boudon
 	and Maud Rotger and Ludovic Daumont and David A. Bonhommeau and Vladimir
 	G. Tyuterev and Marie-Lise Dubernet},
-  title = {{MeCaSDa and ECaSDa}: Methane and ethene calculated spectroscopic databases
+title = {{MeCaSDa and ECaSDa}: Methane and ethene calculated spectroscopic databases
 	for the virtual atomic and molecular data centre },
-  journal = JQSRT,
-  year = {2013},
-  pages = {62-68},
-  abstract = {Abstract Two spectroscopic relational databases, denoted MeCaSDa and
+journal = JQSRT,
+year = {2013},
+volume = {130},
+pages = {62-68},
+abstract = {Abstract Two spectroscopic relational databases, denoted MeCaSDa and
 	ECaSDa, have been implemented for methane and ethene, and included
 	in \{VAMDC\} (Virtual Atomic and Molecular Data Centre, http://portal.vamdc.eu/vamdc_portal/home.seam).
 	These databases collect calculated spectroscopic data from the accurate
@@ -475,10 +517,10 @@ URL = {http://dx.doi.org/10.1051/0004-6361/201220465}
 	to enable the better compromise between data retrieval and compatibility
 	with the \{XSAMS\} (XML Schema for Atoms, Molecules, and Solids)
 	format adopted within the \{VAMDC\} European project.},
-  doi = {10.1016/j.jqsrt.2013.05.001},
-  keywords = {Spectroscopic databases, Calculated line lists, Methane, Ethene, VAMDC
-	},
+doi = {10.1016/j.jqsrt.2013.05.001},
+keywords = {Spectroscopic databases, Calculated line lists, Methane, Ethene, VAMDC},
 }
+
 
 @Article{ HITRAN2012,
 author = "L. S. Rothman and I. E. Gordon and Y. Babikov and A. Barbe and D. Chris Benner and P. F. Bernath and M. Birk and L. Bizzocchi and V. Boudon and L. R. Brown and A. Campargue and K. Chance and E. A. Cohen and L. H. Coudert and V. M. Devi and B. J. Drouin and A. Fayt and J.-M. Flaud and R. R. Gamache and J. J. Harrison and J.-M. Hartmann and C. Hill and J. T. Hodges and D. Jacquemart and A. Jolly and J. Lamouroux and R. J. {Le Roy} and G. Li and D. A. Long and O. M. Lyulin and C. J. Mackie and S. T. Massie and S. Mikhailenko and H. S. P. M{\"u}ller and O. V. Naumenko and A. V. Nikitin and J. Orphal and V. Perevalov and A. Perrin and E. R. Polovtseva and C. Richard and M. A. H. Smith and E. Starikova and K. Sung and S. Tashkun and J. Tennyson and G. C. Toon and Vl. G. Tyuterev and G. Wagner",
@@ -775,10 +817,10 @@ Journal-ISO = {J. Quant. Spectrosc. Radiat. Transf.},
 title = {{Molecular line parameters for the MIPAS (Michelson Interferometer for Passive Atmospheric Sounding) experiment}},
 author = {Flaud, J.-M. and Piccolo, C. and Carli, B. and A. Perrin and L. H. Coudert and  J.-L. Teffo  and L. R. Brown},
 journal={Atmos. Oceanic Opt.},
-Volume={16},   
+Volume={16},
 Pages= {172-182},
 year= {2003}
-} 
+}
 
 
 @ARTICLE{98PiPoCo.db,

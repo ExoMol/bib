@@ -1,77 +1,20 @@
-
-@article{ 19HuLexx,
-Author = {Hutson, Jeremy M. and Le Sueur, C. Ruth},
-Title = {{BOUND and FIELD: Programs for calculating bound states of interacting
-   pairs of atoms and molecules}},
-Journal = CPC,
-Year = {{2019}},
-Volume = {{241}},
-Pages = {1-8},
-Abstract = {{The BOUND program calculates the bound states of a complex formed from
-   two interacting particles using coupled-channel methods. It is
-   particularly suitable for the bound states of atom-molecule and
-   molecule-molecule van der Waals complexes and for the near-threshold
-   bound states that are important in ultracold physics. It uses a basis
-   set for all degrees of freedom except R, the separation of the centres
-   of mass of the two particles. The Schrodinger equation is expressed as a
-   set of coupled equations in R. Solutions of the coupled equations are
-   propagated outwards from the classically forbidden region at short range
-   and inwards from the classically forbidden region at long range, and
-   matched at a point in the central region. Built-in coupling cases
-   include atom + rigid linear molecule, atom + vibrating diatom, atom +
-   rigid symmetric top, atom + asymmetric or spherical top, rigid diatom +
-   rigid diatom, and rigid diatom + asymmetric top. Both programs provide
-   an interface for plug-in routines to specify coupling cases
-   (Hamiltonians and basis sets) that are not built in. With appropriate
-   plug-in routines, BOUND can take account of the effects of external
-   electric, magnetic and electromagnetic fields, locating bound-state
-   energies at fixed values of the fields. The related program FIELD uses
-   the same plug-in routines and locates values of the fields where bound
-   states exist at a specified energy. As a special case, it can locate
-   values of the external field where bound states cross scattering
-   thresholds and produce zero-energy Feshbach resonances. Plug-in routines
-   are supplied to handle the bound states of a pair of alkali-metal atoms
-   with hyperfine structure in an applied magnetic field.
-   Program summary
-   Program Titles: BOUND and FIELD
-   Program Files doi:http://dx.doLorg/10.17632/rtzgf5mwpn.1
-   Licensing provisions: GPLv3
-   Programming language: Fortran 90
-   External routines/libraries: LAPACK, BIAS
-   Nature of problem: Solve the Schrodinger equation to locate the bound
-   states of an interacting pair of atoms or molecules as a function of
-   energy (for BOUND) or external field (for FIELD).
-   Solution method: The Schrodinger equation is expressed in terms of
-   coupled equations in the inter-particle distance, R. Solutions of the
-   coupled-channel equations are propagated outwards from the classically
-   forbidden region at short range and inwards from the classically
-   forbidden region at long range, and matched at a point in the central
-   region. Bound states exist at energies where one of the eigenvalues of
-   the log-derivative matching matrix is zero. BOUND calculates the number
-   of bound states in a specified range of energy and then converges on the
-   bound-state energies. FIELD operates in a similar manner to BOUND but
-   converges on bound states as a function of external field at fixed
-   energy, or energy fixed with respect to a field-dependent threshold
-   energy. The programs can also generate bound-state wavefunctions if
-   desired.
-   Unusual features:
-   1. The programs include Hamiltonians for simple atom-molecule and
-   molecule-molecule interactions, and provide an interface that allows
-   users to specify Hamiltonians and basis sets for more complex systems.
-   This interface allows users to include multiple external fields in the
-   Hamiltonian.
-   2. The programs can propagate very efficiently to long range, making
-   them particularly suited to locating very high-lying bound states.}},
-DOI = {10.1016/j.cpc.2019.02.017}}
+% Encoding: UTF-8
 
 
-@article{ Spectropedia,
-title = {Spectropedia },
-year = {2017},
-url = {respecth.chem.elte.hu:8080/spectro2017D},
-urldate = {2017-11-01},
-note = {visited 01/11/2017},
-author = {Czinki, E. and Furtenbacher, T.and {Cs\'asz\'ar}, A. G.}
+@MISC{CFOUR-www,
+  note = {CFOUR, a quantum chemical program package written by J.F. Stanton,
+	J. Gauss, M.E. Harding, P.G. Szalay with contributions from A.A.
+	Auer, R.J. Bartlett, U. Benedikt, C. Berger, D.E. Bernholdt, Y.J.
+	Bomble, L. Cheng, O. Christiansen, M. Heckert, O. Heun, C. Huber,
+	T.-C. Jagau, D. Jonsson, J. Jus\'{e}lius, K. Klein, W.J. Lauderdale,
+	D.A. Matthews, T. Metzroth, L.A. M\"{u}ck, D.P. O'Neill, D.R. Price,
+	E. Prochnow, C. Puzzarini, K. Ruud, F. Schiffmann, W. Schwalbach,
+	S. Stopkowicz, A. Tajti, J. V\'{a}zquez, F. Wang, J.D. Watts and
+	the integral packages MOLECULE (J. Alml\"{o}f and P.R. Taylor), PROPS
+	(P.R. Taylor), ABACUS (T. Helgaker, H.J. Aa. Jensen, P. J{\o}rgensen,
+	and J. Olsen), and ECP routines by A. V. Mitin and C. van W\"{u}llen.
+	For the current version, see http://www.cfour.de. },
+  key = {CFOUR}
 }
 
 
@@ -105,15 +48,36 @@ P. R. Surj{\'a}n, J. Chem. Phys., {\bf 115}, 2945 (2001),
  as well as: www. mrcc. hu}
 }
 
-@ARTICLE{ 17Min,
-   author = {{Min}, M.},
-    title = {Random sampling technique for ultra-fast computations of molecular opacities for exoplanet atmospheres},
-  journal = AA,
- keywords = {Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
-     year = {2017},
+@ARTICLE{17Min,
+author = {Min, M.},
+title = {{Random sampling technique for ultra-fast computations of molecular opacities for exoplanet atmospheres}},
+journal = AA,
+year = {2017},
 volume = {607},
 number = {A9},
-      doi = {10.1051/0004-6361/201731612},
+pages = {A9},
+abstract = {Opacities of molecules in exoplanet atmospheres rely on increasingly
+detailed line-lists for these molecules. The line lists available today contain
+for many species up to several billions of lines. Computation of the spectral line
+profile created by pressure and temperature broadening, the Voigt profile, of all
+of these lines is becoming a computational challenge. Aims. We aim to create a
+method to compute the Voigt profile in a way that automatically focusses the
+computation time into the strongest lines, while still maintaining the continuum
+contribution of the high number of weaker lines. Methods. Here, we outline a statistical
+line sampling technique that samples the Voigt profile quickly and with high accuracy.
+The number of samples is adjusted to the strength of the line and the local spectral
+line density. This automatically provides high accuracy line shapes for strong
+lines or lines that are spectrally isolated. The line sampling technique automatically
+preserves the integrated line opacity for all lines, thereby also providing the
+continuum opacity created by the large number of weak lines at very low computational cost.
+Results. The line sampling technique is tested for accuracy when computing line
+spectra and correlated-k tables. Extremely fast computations (~3.5 × 105 lines
+per second per core on a standard current day desktop computer) with high accuracy
+(≤1% almost everywhere) are obtained. A detailed recipe on how to perform the
+computations is given.},
+keywords = {Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation
+and Methods for Astrophysics},
+doi = {10.1051/0004-6361/201731612}
 }
 
 
@@ -248,14 +212,16 @@ abstract = {Abstract SpectraPlot is a web-based application for simulating spect
  journal = {PeerJ Comp. Sci.},
  doi = {10.7717/peerj-cs.103}
 }
+
 @article{ Spectropedia,
-title = {Spectropedia },
+author = {Czinki, E. and Furtenbacher, T.and {Cs\'asz\'ar}, A. G.},
+title = {{Spectropedia}},
 year = {2017},
 url = {respecth.chem.elte.hu:8080/spectro2017D},
 urldate = {2017-11-01},
 note = {visited 01/11/2017},
-author = {Czinki, E. and Furtenbacher, T.and {Cs\'asz\'ar}, A. G.},
 }
+
 
 @article{ ATMO,
 Author = {Drummond, B. and Tremblin, P. and Baraffe, I. and Amundsen, D. S. and
@@ -614,14 +580,15 @@ Journal-ISO = {Comput. Phys. Commun.},
 }
 
 
-@ARTICLE{MCTDH,
-  author = {Beck, M H and J\"{a}ckle, A and Worth, G A and Meyer, H D},
-  title = {The multiconfiguration time-dependent Hartree (MCTDH) method: a highly
-	efficient algorithm for propagating wavepackets},
-  year = {2000},
-  volume = {324},
-  pages = {1-105},
-  abstract = {A review is given on the multiconfiguration time-dependent Hartree
+@ARTICLE{00BeJaWo,
+author = {Beck, M. H. and J\"{a}ckle, A. and Worth, G. A. and Meyer, H. D.},
+title = {{The multiconfiguration time-dependent Hartree (MCTDH) method: a highly
+	efficient algorithm for propagating wavepackets}},
+journal = {Physics Reports},
+year = {2000},
+volume = {324},
+pages = {1-105},
+abstract = {A review is given on the multiconfiguration time-dependent Hartree
 	(MCTDH) method, which is an algorithm for propagating wavepackets.
 	The formal derivation, numerical implementation, and performance
 	of the method are detailed. As demonstrated by example applications,
@@ -639,14 +606,15 @@ Journal-ISO = {Comput. Phys. Commun.},
 	for determining optimal fits of product form. An alternative to the
 	product representation, the correlation discrete variable representation
 	(CDVR) method, is also briefly discussed. },
-  doi = {10.1016/S0370-1573(99)00047-2},
-  keywords = {MCTDH; multi-dimensional wavefunction propagation; quantum molecular
+doi = {10.1016/S0370-1573(99)00047-2},
+keywords = {MCTDH; multi-dimensional wavefunction propagation; quantum molecular
 	dynamics},
-  keywords-plus = {DISCRETE VARIABLE REPRESENTATION; POTENTIAL-ENERGY SURFACES; ABSORBING
-	BOUNDARY-CONDITIONS; SELF-CONSISTENT-FIELD; COUPLING WAVE-PACKET;
-	MECHANICAL REACTIVE SCATTERING; FILTER-DIAGONALIZATION METHOD; QUANTUM
-	MOLECULAR-DYNAMICS; REACTION CROSS-SECTIONS; SINGLE-PARTICLE STATES}
+keywords-plus = {Discrete Variable Representation; Potential-Energy Surfaces; Absorbing
+	Boundary-Conditions; Self-Consistent-Field; Coupling Wave-Packet;
+	Mechanical Reactive Scattering; Filter-Diagonalization Method; Quantum
+	Molecular-Dynamics; Reaction Cross-Sections; Single-Particle States}
 }
+
 
 @ARTICLE{ VTET,
   author = { D. W. Schwenke},

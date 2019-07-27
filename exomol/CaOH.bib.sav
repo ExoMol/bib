@@ -1,3 +1,4 @@
+% Encoding: UTF-8
 ﻿
 @article{19KoStYu.CaOH,
 Author = {Kozyryev, Ivan and Steimle, Timothy C. and Yu, Phelan and Duc-Trung
@@ -1403,3 +1404,5 @@ Number = {1187},
 Pages = {437},
 DOI = {10.1098/rspa.1955.0185}
 }
+
+@Comment{jabref-meta: databaseType:bibtex;}

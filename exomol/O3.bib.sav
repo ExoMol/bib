@@ -1114,6 +1114,45 @@ Abstract = {The metastable ring structure of the ozone 1(1)A(1) ground state, wh
 DOI = {10.1063/1.4942019}
 }
 
+@Article{16ScCrFr.O3,
+  author   = {Schroeder, Jason R. and Crawford, James H. and Fried, Alan and Walega, James and Weinheimer, Andrew and Wisthaler, Armin and Muller, Markus and Mikoviny, Tomas and Chen, Gao and Shook, Michael and Blake, Donald R. and Diskin, Glenn and Estes, Mark and Thompson, Anne M. and Lefer, Barry L. and Long, Russell and Mattson, Eric},
+  title    = {{Formaldehyde column density measurements as a suitable pathway to estimate near-surface ozone tendencies from space}},
+  journal  = JGRA,
+  year     = {2016},
+  volume   = {121},
+  number   = {21},
+  pages    = {13088-13112},
+  abstract = {In support of future satellite missions that aim to address the current
+   shortcomings in measuring air quality from space, NASA's Deriving
+   Information on Surface Conditions from Column and Vertically Resolved
+   Observations Relevant to Air Quality (DISCOVER-AQ) field campaign was
+   designed to enable exploration of relationships between column
+   measurements of trace species relevant to air quality at high spatial
+   and temporal resolution. In the DISCOVER-AQ data set, a modest
+   correlation (r(2) = 0.45) between ozone (O-3) and formaldehyde (CH2O)
+   column densities was observed. Further analysis revealed regional
+   variability in the O-3-CH2O relationship, with Maryland having a strong
+   relationship when data were viewed temporally and Houston having a
+   strong relationship when data were viewed spatially. These differences
+   in regional behavior are attributed to differences in volatile organic
+   compound (VOC) emissions. In Maryland, biogenic VOCs were responsible
+   for similar to 28\% of CH2O formation within the boundary layer column,
+   causing CH2O to, in general, increase monotonically throughout the day.
+   In Houston, persistent anthropogenic emissions dominated the local
+   hydrocarbon environment, and no discernable diurnal trend in CH2O was
+   observed. Box model simulations suggested that ambient CH2O mixing
+   ratios have a weak diurnal trend (+/- 20\% throughout the day) due to
+   photochemical effects, and that larger diurnal trends are associated
+   with changes in hydrocarbon precursors. Finally, mathematical
+   relationships were developed from first principles and were able to
+   replicate the different behaviors seen in Maryland and Houston. While
+   studies would be necessary to validate these results and determine the
+   regional applicability of the O-3-CH2O relationship, the results
+   presented here provide compelling insight into the ability of future
+   satellite missions to aid in monitoring near-surface air quality.},
+  doi      = {10.1002/2016JD025419},
+}
+
 
 @Article{16JaBoJe.O3,
 author = {C. Janssen and C. Boursier and P. Jeseck and Y. Te},
@@ -1303,6 +1342,26 @@ Abstract = {The O atom exchange reaction, O-16(P-3) + (OO)-O-18-O-18((3)Sigma(-)
 DOI = {10.1021/acs.jpca.6b01855}
 }
 
+@Article{16BaIrxx.O3,
+  author   = {Barstow, J. K. and Irwin, P. G. J.},
+  title    = {{Habitable worlds with JWST: transit spectroscopy of the TRAPPIST-1 system?}},
+  journal  = MNRAS,
+  year     = {2016},
+  volume   = {461},
+  number   = {1},
+  pages    = {L92-L96},
+  abstract = {The recent discovery of three Earth-sized, potentially habitable planets
+   around a nearby cool star, TRAPPIST-1, has provided three key targets
+   for the upcoming James Webb Space Telescope (JWST). Depending on their
+   atmospheric characteristics and precise orbit configurations, it is
+   possible that any of the three planets may be in the liquid water
+   habitable zone, meaning that they may be capable of supporting life. We
+   find that present-day Earth levels of ozone, if present, would be
+   detectable if JWST observes 60 transits for innermost planet 1b and 30
+   transits for 1c and 1d.},
+  doi      = {10.1093/mnrasl/slw109},
+}
+
 
 @article{16LaAlKo.O3,
 Author = {Lapierre, David and Alijah, Alexander and Kochanov, Roman and
@@ -1393,73 +1452,6 @@ Abstract = {This paper presents an extensive intercomparison and validation for 
    the middle stratosphere (above 30 hPa/25 km) as shown by the comparison
    with ozonesonde data.},
 DOI = {10.5194/amt-9-4327-2016}
-}
-
-
-@article{16ScCrFr.O3,
-Author = {Schroeder, Jason R. and Crawford, James H. and Fried, Alan and Walega,
-   James and Weinheimer, Andrew and Wisthaler, Armin and Muller, Markus and
-   Mikoviny, Tomas and Chen, Gao and Shook, Michael and Blake, Donald R.
-   and Diskin, Glenn and Estes, Mark and Thompson, Anne M. and Lefer, Barry
-   L. and Long, Russell and Mattson, Eric},
-Title = {{Formaldehyde column density measurements as a suitable pathway to
-   estimate near-surface ozone tendencies from space}},
-Journal = JGRA,
-Year = {2016},
-Volume = {121},
-Number = {21},
-Pages = {13088-13112},
-Abstract = {In support of future satellite missions that aim to address the current
-   shortcomings in measuring air quality from space, NASA's Deriving
-   Information on Surface Conditions from Column and Vertically Resolved
-   Observations Relevant to Air Quality (DISCOVER-AQ) field campaign was
-   designed to enable exploration of relationships between column
-   measurements of trace species relevant to air quality at high spatial
-   and temporal resolution. In the DISCOVER-AQ data set, a modest
-   correlation (r(2) = 0.45) between ozone (O-3) and formaldehyde (CH2O)
-   column densities was observed. Further analysis revealed regional
-   variability in the O-3-CH2O relationship, with Maryland having a strong
-   relationship when data were viewed temporally and Houston having a
-   strong relationship when data were viewed spatially. These differences
-   in regional behavior are attributed to differences in volatile organic
-   compound (VOC) emissions. In Maryland, biogenic VOCs were responsible
-   for similar to 28\% of CH2O formation within the boundary layer column,
-   causing CH2O to, in general, increase monotonically throughout the day.
-   In Houston, persistent anthropogenic emissions dominated the local
-   hydrocarbon environment, and no discernable diurnal trend in CH2O was
-   observed. Box model simulations suggested that ambient CH2O mixing
-   ratios have a weak diurnal trend (+/- 20\% throughout the day) due to
-   photochemical effects, and that larger diurnal trends are associated
-   with changes in hydrocarbon precursors. Finally, mathematical
-   relationships were developed from first principles and were able to
-   replicate the different behaviors seen in Maryland and Houston. While
-   studies would be necessary to validate these results and determine the
-   regional applicability of the O-3-CH2O relationship, the results
-   presented here provide compelling insight into the ability of future
-   satellite missions to aid in monitoring near-surface air quality.},
-DOI = {10.1002/2016JD025419}
-}
-
-
-@article{16BaIrxx.O3,
-Author = {Barstow, J. K. and Irwin, P. G. J.},
-Title = {{Habitable worlds with JWST: transit spectroscopy of the TRAPPIST-1
-   system?}},
-Journal = MNRAS,
-Year = {2016},
-Volume = {461},
-Number = {1},
-Pages = {L92-L96},
-Abstract = {The recent discovery of three Earth-sized, potentially habitable planets
-   around a nearby cool star, TRAPPIST-1, has provided three key targets
-   for the upcoming James Webb Space Telescope (JWST). Depending on their
-   atmospheric characteristics and precise orbit configurations, it is
-   possible that any of the three planets may be in the liquid water
-   habitable zone, meaning that they may be capable of supporting life. We
-   find that present-day Earth levels of ozone, if present, would be
-   detectable if JWST observes 60 transits for innermost planet 1b and 30
-   transits for 1c and 1d.},
-DOI = {10.1093/mnrasl/slw109}
 }
 
 
@@ -3900,6 +3892,30 @@ Abstract = {The ground and low-lying states of ozone (O(3)) have been studied by
 DOI = {10.1063/1.2960629}
 }
 
+@Article{08LiFiFr.O3,
+  author   = {Livesey, N. J. and Filipiak, M. J. and Froidevaux, L. and Read, W. G. and Lambert, A. and Santee, M. L. and Jiang, J. H. and Pumphrey, H. C. and Waters, J. W. and Cofield, R. E. and Cuddy, D. T. and Daffer, W. H. and Drouin, B. J. and Fuller, R. A. and Jarnot, R. F. and Jiang, Y. B. and Knosp, B. W. and Li, Q. B. and Perun, V. S. and Schwartz, M. J. and Snyder, W. V. and Stek, P. C. and Thurstans, R. P. and Wagner, P. A. and Avery, M. and Browell, E. V. and Cammas, J.-P. and Christensen, L. E. and Diskin, G. S. and Gao, R. -S. and Jost, H. -J. and Loewenstein, M. and Lopez, J. D. and Nedelec, P. and Osterman, G. B. and Sachse, G. W. and Webster, C. R.},
+  title    = {{Validation of Aura Microwave Limb Sounder O-3 and CO observations in the upper troposphere and lower stratosphere}},
+  journal  = JGRA,
+  year     = {2008},
+  volume   = {113},
+  number   = {D15},
+  abstract = {Global satellite observations of ozone and carbon monoxide from the
+   Microwave Limb Sounder (MLS) on the EOS Aura spacecraft are discussed
+   with emphasis on those observations in the 215-100 hPa region (the upper
+   troposphere and lower stratosphere). The precision, resolution and
+   accuracy of the data produced by the MLS ``version 2.2'' processing
+   algorithms are discussed and quantified. O-3 accuracy is estimated at
+   similar to 40 ppbv + 5\% (similar to 20 ppbv + 20\% at 215 hPa) while
+   the CO accuracy is estimated at similar to 30 ppbv + 30\% for pressures
+   of 147 hPa and less. Comparisons with expectations and other
+   observations show good agreements for the O3 product, generally
+   consistent with the systematic errors quoted above. In the case of CO, a
+   persistent factor of similar to 2 high bias is seen at 215 hPa. However,
+   the morphology is shown to be realistic, consistent with raw MLS
+   radiance data, and useful for scientific study. The MLS CO data at
+   higher altitudes are shown to be consistent with other observations.},
+}
+
 
 @article{08PeKaPe.O3,
 Author = {Perevalov, B. V. and Kassi, S. and Perevalov, V. I. and Tashkun, S. A.
@@ -4018,39 +4034,6 @@ Abstract = {Weak vibrational bands of (16)O(3) could be detected in the 5850-703
 DOI = {10.1039/b719773j}
 }
 
-
-@article{08LiFiFr.O3,
-Author = {Livesey, N. J. and Filipiak, M. J. and Froidevaux, L. and Read, W. G.
-   and Lambert, A. and Santee, M. L. and Jiang, J. H. and Pumphrey, H. C.
-   and Waters, J. W. and Cofield, R. E. and Cuddy, D. T. and Daffer, W. H.
-   and Drouin, B. J. and Fuller, R. A. and Jarnot, R. F. and Jiang, Y. B.
-   and Knosp, B. W. and Li, Q. B. and Perun, V. S. and Schwartz, M. J. and
-   Snyder, W. V. and Stek, P. C. and Thurstans, R. P. and Wagner, P. A. and
-   Avery, M. and Browell, E. V. and Cammas, J.-P. and Christensen, L. E.
-   and Diskin, G. S. and Gao, R. -S. and Jost, H. -J. and Loewenstein, M.
-   and Lopez, J. D. and Nedelec, P. and Osterman, G. B. and Sachse, G. W.
-   and Webster, C. R.},
-Title = {{Validation of Aura Microwave Limb Sounder O-3 and CO observations in the
-   upper troposphere and lower stratosphere}},
-Journal = JGRA,
-Year = {2008},
-Volume = {113},
-Number = {D15},
-Abstract = {Global satellite observations of ozone and carbon monoxide from the
-   Microwave Limb Sounder (MLS) on the EOS Aura spacecraft are discussed
-   with emphasis on those observations in the 215-100 hPa region (the upper
-   troposphere and lower stratosphere). The precision, resolution and
-   accuracy of the data produced by the MLS ``version 2.2'' processing
-   algorithms are discussed and quantified. O-3 accuracy is estimated at
-   similar to 40 ppbv + 5\% (similar to 20 ppbv + 20\% at 215 hPa) while
-   the CO accuracy is estimated at similar to 30 ppbv + 30\% for pressures
-   of 147 hPa and less. Comparisons with expectations and other
-   observations show good agreements for the O3 product, generally
-   consistent with the systematic errors quoted above. In the case of CO, a
-   persistent factor of similar to 2 high bias is seen at 215 hPa. However,
-   the morphology is shown to be realistic, consistent with raw MLS
-   radiance data, and useful for scientific study. The MLS CO data at
-   higher altitudes are shown to be consistent with other observations.}}
 
 @article{07TaStMc.O3,
 Author = {Taylor, Jeffrey R. and Strong, Kimberly and McLinden, Chris A. and
@@ -4595,6 +4578,32 @@ Abstract = {To assess the separation of dynamic and nondynamic correlations and
 DOI = {10.1063/1.2180775}
 }
 
+@Article{06LiIrWe.O3,
+  author   = {Liang, MC and Irion, FW and Weibel, JD and Miller, CE and Blake, GA and Yung, YL},
+  title    = {{Isotopic composition of stratospheric ozone}},
+  journal  = JGRA,
+  year     = {2006},
+  volume   = {111},
+  number   = {D2},
+  pages    = {D02302},
+  abstract = {We present a kinetic calculation for the isotopic composition of
+   stratospheric ozone. The calculated enrichments of O-49(3) and O-50(3)
+   are in agreement with atmospheric measurements made at midlatitudes.
+   Integrating the kinetic fractionation processes in the formation and
+   photolysis of ozone, we obtain enrichments of similar to 7.5-10.5 and
+   similar to 7.5-12.5\% (referenced to atmospheric O-2) for delta O-49(3)
+   and delta O-50(3), respectively, at altitudes between 20 and 35 km; the
+   photolysis in the Hartley band of ozone is responsible for the observed
+   altitude variation. The overall magnitude of the ozone enrichments
+   (similar to 10\%) is large compared with that commonly known in
+   atmospheric chemistry and geochemistry. The heavy oxygen atom in ozone
+   is therefore useful as a tracer of chemical species and pathways that
+   involve ozone or its derived products. For example, the mass anomalies
+   of oxygen in two greenhouse gases, CO2 and N2O, are likely the
+   consequences of the transfer of heavy oxygen atoms from ozone.},
+  doi      = {10.1029/2005JD006342},
+}
+
 
 @article{06CaKaRo.O3,
 Author = {Campargue, A. and Kassi, S. and Romanini, D. and Barbe, A. and De
@@ -4753,34 +4762,6 @@ Abstract = {Observations of ozone on Mars were made using the Goddard Space Flig
    constituent vertical distribution is an additional, significant factor.
    (c) 2005 Elsevier Inc. All rights reserved.},
 DOI = {10.1016/j.icarus.2005.12.001}
-}
-
-
-@article{06LiIrWe.O3,
-Author = {Liang, MC and Irion, FW and Weibel, JD and Miller, CE and Blake, GA and
-   Yung, YL},
-Title = {{Isotopic composition of stratospheric ozone}},
-Journal = JGRA,
-Year = {2006},
-Volume = {111},
-Number = {D2},
-pages = {D02302},
-Abstract = {We present a kinetic calculation for the isotopic composition of
-   stratospheric ozone. The calculated enrichments of O-49(3) and O-50(3)
-   are in agreement with atmospheric measurements made at midlatitudes.
-   Integrating the kinetic fractionation processes in the formation and
-   photolysis of ozone, we obtain enrichments of similar to 7.5-10.5 and
-   similar to 7.5-12.5\% (referenced to atmospheric O-2) for delta O-49(3)
-   and delta O-50(3), respectively, at altitudes between 20 and 35 km; the
-   photolysis in the Hartley band of ozone is responsible for the observed
-   altitude variation. The overall magnitude of the ozone enrichments
-   (similar to 10\%) is large compared with that commonly known in
-   atmospheric chemistry and geochemistry. The heavy oxygen atom in ozone
-   is therefore useful as a tracer of chemical species and pathways that
-   involve ozone or its derived products. For example, the mass anomalies
-   of oxygen in two greenhouse gases, CO2 and N2O, are likely the
-   consequences of the transfer of heavy oxygen atoms from ozone.},
-DOI = {10.1029/2005JD006342}
 }
 
 
@@ -5018,6 +4999,38 @@ Abstract = {The ``hot bands{''} of the Huggins band of ozone are assigned, in bo
    whose equilibrium bond lengths differ significantly. (C) 2005 American
    Institute of Physics.},
 DOI = {10.1063/1.1825380}
+}
+
+@Article{05Janssen.O3,
+  author   = {Janssen, C.},
+  title    = {{Intramolecular isotope distribution in heavy ozone ((OOO)-O-16-O-18-O-16 and (OOO)-O-16-O-16-O-18)}},
+  journal  = JGRA,
+  year     = {2005},
+  volume   = {110},
+  number   = {D8},
+  abstract = {{[}1] The ratio of asymmetric vs. symmetric molecules of heavy ozone,
+   r(50) = {[}(OOO)-O-16-O-16-O-18]/ {[}(OOO)-O-16-O-18-O-16], or similarly
+   r(49) for O-17-containing ozone, is an essential feature of the unusual
+   oxygen isotope effect in ozone formation. Whereas information on r(49)
+   is sparse and of limited accuracy, precision in laboratory measurements
+   of r(50) has recently been improved. The two most recent experiments,
+   however, disagree on whether there is a preference for the formation of
+   asymmetric over symmetric molecules or not (r(50) > 2 versus r50 = 2).
+   To throw light on this discrepancy, the temperature dependence of r(50)
+   has been derived from a reanalysis of existing measurements: r(50) is
+   found to decrease from 2.13 at 360 K to about 2.00 at 170 K. Kinetic
+   model calculations show that the discrepancy between the two
+   measurements disappears when temperature conditions for ozone formation
+   are accounted for. The reanalysis confirms that the isotope enrichment
+   in atmospheric (O2O)-O-16-O-18 predominantly but not exclusively resides
+   in the asymmetric molecule, with the preference for asymmetric molecules
+   becoming smaller at low-temperature conditions. The enrichment E-50(a)
+   of (OOO)-O-16-O-16-O-18 which likely characterizes the source strength
+   of ozone to transfer heavy oxygen (O-18) into other atmospheric
+   molecules is quantified as a function of temperature and in relation to
+   the overall enrichment of heavy ozone. This information can now be used
+   in atmospheric models that simulate isotope transfer effects.},
+  doi      = {10.1029/2004JD005479},
 }
 
 
@@ -5365,40 +5378,6 @@ DOI = {10.1007/s10874-005-7185-9}
 }
 
 
-@article{05Janssen.O3,
-Author = {Janssen, C.},
-Title = {{Intramolecular isotope distribution in heavy ozone ((OOO)-O-16-O-18-O-16
-   and (OOO)-O-16-O-16-O-18)}},
-Journal = JGRA,
-Year = {2005},
-Volume = {110},
-Number = {D8},
-Abstract = {{[}1] The ratio of asymmetric vs. symmetric molecules of heavy ozone,
-   r(50) = {[}(OOO)-O-16-O-16-O-18]/ {[}(OOO)-O-16-O-18-O-16], or similarly
-   r(49) for O-17-containing ozone, is an essential feature of the unusual
-   oxygen isotope effect in ozone formation. Whereas information on r(49)
-   is sparse and of limited accuracy, precision in laboratory measurements
-   of r(50) has recently been improved. The two most recent experiments,
-   however, disagree on whether there is a preference for the formation of
-   asymmetric over symmetric molecules or not (r(50) > 2 versus r50 = 2).
-   To throw light on this discrepancy, the temperature dependence of r(50)
-   has been derived from a reanalysis of existing measurements: r(50) is
-   found to decrease from 2.13 at 360 K to about 2.00 at 170 K. Kinetic
-   model calculations show that the discrepancy between the two
-   measurements disappears when temperature conditions for ozone formation
-   are accounted for. The reanalysis confirms that the isotope enrichment
-   in atmospheric (O2O)-O-16-O-18 predominantly but not exclusively resides
-   in the asymmetric molecule, with the preference for asymmetric molecules
-   becoming smaller at low-temperature conditions. The enrichment E-50(a)
-   of (OOO)-O-16-O-16-O-18 which likely characterizes the source strength
-   of ozone to transfer heavy oxygen (O-18) into other atmospheric
-   molecules is quantified as a function of temperature and in relation to
-   the overall enrichment of heavy ozone. This information can now be used
-   in atmospheric models that simulate isotope transfer effects.},
-DOI = {10.1029/2004JD005479}
-}
-
-
 @article{04JiTaSi.O3,
 Author = {Jimenez, R. and Taslakov, M. and Simeonov, V. and Calpini, B. and Jeanneret,
    F. and Hofstetter, D. and Beck, M. and Faist, J. and Van den Bergh, H.},
@@ -5732,6 +5711,56 @@ Abstract = {New electronic structure calculations for the transition-state regio
 DOI = {10.1063/1.1784776}
 }
 
+@Article{04CvFuGi.O3,
+  author   = {Cvitas, T. and Furger, M. and Girgzdiene, R. and Haszpra, L. and Kezele, N. and Klasinc, L. and Planinsek, A. and Pompe, M. and Prevot, A. S. H. and Scheel, H. E. and Schuepbach, E.},
+  title    = {{Spectral analysis of boundary layer ozone data from the EUROTRAC TOR network}},
+  journal  = JGRA,
+  year     = {2004},
+  volume   = {109},
+  number   = {D2},
+  abstract = {Data obtained during many years of continuous ozone monitoring at 12
+   selected EUROTRAC-TOR ( Eureka environmental project: European
+   experiment on Transport and transformation of environmentally relevant
+   trace Constituents in the troposphere over Europe, subproject
+   Tropospheric Ozone Research) network stations were analyzed by applying
+   Fourier transformation ( FT). FT averaged over the years,
+   autocorrelation functions and FT of such functions were calculated for
+   each site. As expected, strong frequency signals are found for the 1
+   year and 1 day periods. The relative intensity of the 1 day peak can be
+   correlated with the intensity of local photochemical pollution as
+   represented by a photochemical pollution index. A collective FT spectrum
+   for seven European stations was calculated. This comparison confirms the
+   existence of a common variation in ozone volume fractions with
+   quasi-periods ranging between 7 and 44 days. These frequencies are most
+   probably connected with quasi-cyclic synoptic scale meteorological
+   influences. A comparison of meteorological data from the station
+   Zugspitze showed similar periodicities.},
+  doi      = {10.1029/2003JD003727},
+}
+
+@Article{04EnUeNa.O3,
+  author   = {Enami, S. and Ueda, J. and Nakano, Y. and Hashimoto, S. and Kawasaki, M.},
+  title    = {{Temperature-dependent absorption cross sections of ozone in the Wulf-Chappuis band at 759-768 nm}},
+  journal  = JGRA,
+  year     = {2004},
+  volume   = {109},
+  number   = {D5},
+  abstract = {{[}1] Absorption cross sections of ozone in the Wulf-Chappuis band at
+   759-768 nm have been determined using cavity ring-down spectroscopy at
+   215-298 K. Precise measurements at 762.07 and 764.47 nm revealed a
+   slight temperature dependence of the absorption cross sections:
+   sigma(762.07 nm, 298 K) = (2.86 +/- 0.04) x 10(-22) cm(2) molecule(-1);
+   sigma(762.07 nm, 215 K) = (2.62 +/- 0.04) x 10(-22); sigma(764.47 nm,
+   296 K) = (2.70 +/- 0.03) x 10(-22); and sigma(764.47 nm, 214 K) = (2.44
+   +/- 0.03) x 10(-22). Results at 762.07 nm are indistinguishable within
+   the experimental uncertainties from those reported by Burkholder and
+   Talukdar {[}1994]. Results from the present work facilitate a more
+   accurate retrieval of atmospheric temperature, cloud height, and cloud
+   coverage data from satellite measurements of absorption by O-2 in the A
+   band around 761 nm.},
+  doi      = {10.1029/2003JD004097},
+}
+
 
 @article{04DeBaTy.O3,
 Author = {De Backer-Barilly, M. R. and Barbe, A. and Tyuterev, V. G.},
@@ -5856,62 +5885,6 @@ Abstract = {The absorption spectrum of ozone was recorded at low temperatures (d
    fferent results obtained for O-18(3) and O-16(3) (C) 2003 Elsevier B.V.
    All rights reserved.},
 DOI = {10.1016/S1386-1425(03)00316-0}
-}
-
-
-@article{04CvFuGi.O3,
-Author = {Cvitas, T. and Furger, M. and Girgzdiene, R. and Haszpra, L. and Kezele, N.
-   and Klasinc, L. and Planinsek, A. and Pompe, M. and Prevot, A. S. H. and Scheel,
-   H. E. and Schuepbach, E.},
-Title = {{Spectral analysis of boundary layer ozone data from the EUROTRAC TOR
-   network}},
-Journal = JGRA,
-Year = {2004},
-Volume = {109},
-Number = {D2},
-Abstract = {Data obtained during many years of continuous ozone monitoring at 12
-   selected EUROTRAC-TOR ( Eureka environmental project: European
-   experiment on Transport and transformation of environmentally relevant
-   trace Constituents in the troposphere over Europe, subproject
-   Tropospheric Ozone Research) network stations were analyzed by applying
-   Fourier transformation ( FT). FT averaged over the years,
-   autocorrelation functions and FT of such functions were calculated for
-   each site. As expected, strong frequency signals are found for the 1
-   year and 1 day periods. The relative intensity of the 1 day peak can be
-   correlated with the intensity of local photochemical pollution as
-   represented by a photochemical pollution index. A collective FT spectrum
-   for seven European stations was calculated. This comparison confirms the
-   existence of a common variation in ozone volume fractions with
-   quasi-periods ranging between 7 and 44 days. These frequencies are most
-   probably connected with quasi-cyclic synoptic scale meteorological
-   influences. A comparison of meteorological data from the station
-   Zugspitze showed similar periodicities.},
-DOI = {10.1029/2003JD003727}
-}
-
-
-@article{04EnUeNa.O3,
-Author = {Enami, S. and Ueda, J. and Nakano, Y. and Hashimoto, S. and Kawasaki, M.},
-Title = {{Temperature-dependent absorption cross sections of ozone in the
-   Wulf-Chappuis band at 759-768 nm}},
-Journal = JGRA,
-Year = {2004},
-Volume = {109},
-Number = {D5},
-Abstract = {{[}1] Absorption cross sections of ozone in the Wulf-Chappuis band at
-   759-768 nm have been determined using cavity ring-down spectroscopy at
-   215-298 K. Precise measurements at 762.07 and 764.47 nm revealed a
-   slight temperature dependence of the absorption cross sections:
-   sigma(762.07 nm, 298 K) = (2.86 +/- 0.04) x 10(-22) cm(2) molecule(-1);
-   sigma(762.07 nm, 215 K) = (2.62 +/- 0.04) x 10(-22); sigma(764.47 nm,
-   296 K) = (2.70 +/- 0.03) x 10(-22); and sigma(764.47 nm, 214 K) = (2.44
-   +/- 0.03) x 10(-22). Results at 762.07 nm are indistinguishable within
-   the experimental uncertainties from those reported by Burkholder and
-   Talukdar {[}1994]. Results from the present work facilitate a more
-   accurate retrieval of atmospheric temperature, cloud height, and cloud
-   coverage data from satellite measurements of absorption by O-2 in the A
-   band around 761 nm.},
-DOI = {10.1029/2003JD004097}
 }
 
 
@@ -6214,6 +6187,61 @@ Abstract = {The effect of spin-orbit coupling on O(P-3)+O-2((3)Sigma(g)(-))
 DOI = {10.1063/1.1616919}
 }
 
+@Article{03FlWaBi.O3,
+  author   = {Flaud, J. M. and Wagner, G. and Birk, M. and Camy-Peyret, C. and Claveau, C. and De Backer-Barilly, M. R. and Barbe, A. and Piccolo, C.},
+  title    = {{Ozone absorption around 10 mu m}},
+  journal  = JGRA,
+  year     = {2003},
+  volume   = {108},
+  number   = {D9},
+  abstract = {{[}1] A careful comparison of four sets of ozone line intensities
+   measured independently in the 10 mum region has been achieved. It is
+   demonstrated that three of the experimental sets agree to better than
+   2\% whereas the last one is consistently 4.4\% higher. This is also the
+   case for the ozone line intensities given in the HITRAN database, which
+   are about 4\% higher than the values given in the three experimental
+   sets in agreement. New and more accurate transition moment constants for
+   the nu(1) and nu(3) bands of O-16(3) were derived and used to generate
+   new line positions and intensities. These new spectroscopic parameters
+   allow one to simulate atmospheric spectra recorded by the Atmospheric
+   Trace Molecule Spectroscopy Experiment better than the existing HITRAN
+   spectroscopic parameters, showing that on a relative basis the new
+   spectral parameters are of better quality.},
+  doi      = {10.1029/2002JD002755},
+}
+
+@Article{03WaAbxx.O3,
+  author   = {Wachsmuth, U. and Abel, B.},
+  title    = {{Linewidths and line intensity measurements in the weak (3)A(2)(000)<-(X)over-tilde(1)A(1)(000) band of ozone by pulsed cavity ringdown spectroscopy}},
+  journal  = JGRA,
+  year     = {2003},
+  volume   = {108},
+  number   = {D15},
+  abstract = {Pulsed cavity ringdown spectroscopy in the near-infrared spectral range
+   was employed to measure linewidths of the (3)A(2)(000) <-- <(X)over
+   tilde>(1)A(1)(000) band of ozone in direct comparison with intracavity
+   laser absorption spectroscopy. It is demonstrated that also for a small
+   ratio, V, which is the ratio of the absorption linewidth and the laser
+   bandwidth, correct linewidths can be determined from a forward modeling
+   of the experimental line profiles, taking explicitly into account the
+   laser bandwidth and the cavity modes. The obtained linewidths have been
+   compared with those measured by intracavity laser absorption
+   spectroscopy and found to agree quantitatively within experimental
+   error. Linewidths as a function of pressure have been analyzed to obtain
+   pressure-broadening coefficients and the effective linewidth at zero
+   pressure, which is a measure for the excited state lifetimes of the
+   ozone in the excited triplet states. The observed linewidths are a
+   direct observable for the intramolecular dynamics in the low-lying
+   excited (3)A(2) triplet state of ozone. In any case, the observed
+   lifetimes for the excited (3)A(2)(000) state in the range between 20 and
+   130 picoseconds (ps) rule out metastability of this state. Beyond
+   linewidth measurements we have also refined the spectroscopic parameters
+   of this electronically excited state and determined the integrated
+   absorption of the corresponding (3)A(2)(000) <-- <(X)over
+   tilde>(1)A(1)(000) transition.},
+  doi      = {10.1029/2002JD003126},
+}
+
 
 @article{03DeBaTy.O3,
 Author = {De Backer-Barilly, M. R. and Barbe, A. and Tyuterev, V. G. and Bourgeois, M. T.},
@@ -6407,66 +6435,6 @@ Abstract = {Using the Fock space multireference coupled-cluster (FS-MRCC) analyt
    radical is compared with the other correlated approaches. It matches
    well with the experimental values.},
 DOI = {10.1135/cccc20030047}
-}
-
-
-@article{03FlWaBi.O3,
-Author = {Flaud, J. M. and Wagner, G. and Birk, M. and Camy-Peyret, C. and Claveau, C.
-   and De Backer-Barilly, M. R. and Barbe, A. and Piccolo, C.},
-Title = {{Ozone absorption around 10 mu m}},
-Journal = JGRA,
-Year = {2003},
-Volume = {108},
-Number = {D9},
-Abstract = {{[}1] A careful comparison of four sets of ozone line intensities
-   measured independently in the 10 mum region has been achieved. It is
-   demonstrated that three of the experimental sets agree to better than
-   2\% whereas the last one is consistently 4.4\% higher. This is also the
-   case for the ozone line intensities given in the HITRAN database, which
-   are about 4\% higher than the values given in the three experimental
-   sets in agreement. New and more accurate transition moment constants for
-   the nu(1) and nu(3) bands of O-16(3) were derived and used to generate
-   new line positions and intensities. These new spectroscopic parameters
-   allow one to simulate atmospheric spectra recorded by the Atmospheric
-   Trace Molecule Spectroscopy Experiment better than the existing HITRAN
-   spectroscopic parameters, showing that on a relative basis the new
-   spectral parameters are of better quality.},
-DOI = {10.1029/2002JD002755}
-}
-
-
-@article{03WaAbxx.O3,
-Author = {Wachsmuth, U. and Abel, B.},
-Title = {{Linewidths and line intensity measurements in the weak
-   (3)A(2)(000)<-(X)over-tilde(1)A(1)(000) band of ozone by pulsed cavity
-   ringdown spectroscopy}},
-Journal = JGRA,
-Year = {2003},
-Volume = {108},
-Number = {D15},
-Abstract = {Pulsed cavity ringdown spectroscopy in the near-infrared spectral range
-   was employed to measure linewidths of the (3)A(2)(000) <-- <(X)over
-   tilde>(1)A(1)(000) band of ozone in direct comparison with intracavity
-   laser absorption spectroscopy. It is demonstrated that also for a small
-   ratio, V, which is the ratio of the absorption linewidth and the laser
-   bandwidth, correct linewidths can be determined from a forward modeling
-   of the experimental line profiles, taking explicitly into account the
-   laser bandwidth and the cavity modes. The obtained linewidths have been
-   compared with those measured by intracavity laser absorption
-   spectroscopy and found to agree quantitatively within experimental
-   error. Linewidths as a function of pressure have been analyzed to obtain
-   pressure-broadening coefficients and the effective linewidth at zero
-   pressure, which is a measure for the excited state lifetimes of the
-   ozone in the excited triplet states. The observed linewidths are a
-   direct observable for the intramolecular dynamics in the low-lying
-   excited (3)A(2) triplet state of ozone. In any case, the observed
-   lifetimes for the excited (3)A(2)(000) state in the range between 20 and
-   130 picoseconds (ps) rule out metastability of this state. Beyond
-   linewidth measurements we have also refined the spectroscopic parameters
-   of this electronically excited state and determined the integrated
-   absorption of the corresponding (3)A(2)(000) <-- <(X)over
-   tilde>(1)A(1)(000) transition.},
-DOI = {10.1029/2002JD003126}
 }
 
 
@@ -6781,6 +6749,86 @@ Abstract = {We present an ab initio potential energy surface for the ground
 DOI = {10.1063/1.1473664}
 }
 
+@Article{02MaSkMa.O3,
+  author   = {Marsh, D. R. and Skinner, W. R. and Marshall, A. R. and Hays, P. B. and Ortland, D. A. and Yee, J. H.},
+  title    = {{High resolution doppler Imager observations of ozone in the mesosphere and lower thermosphere}},
+  journal  = JGRA,
+  year     = {2002},
+  volume   = {107},
+  number   = {D19},
+  abstract = {Observations made by the High Resolution Doppler Imager (HRDI)
+   onboard the Upper Atmosphere Research Satellite (UARS) of molecular
+   oxygen Atmospheric band dayglow and temperature are used to infer ozone
+   mixing ratios in the mesosphere and lower thermosphere. The retrieval
+   relies on the fact that a significant portion of the dayglow originates
+   from ozone photolysis. Observations cover up to 72 in latitude and an
+   altitude range of 65-97 km, with a vertical resolution of 2.5 km. Error
+   analysis shows that measurement errors in observed ozone volume mixing
+   ratios are typically between 0.04 and 0.1 parts per million, although
+   systematic errors may be larger. Measurements show good agreement with
+   previous observations and with other UARS instruments. A unique feature
+   of the HRDI mesospheric ozone data set is that all daylight local times
+   are sampled, which allows resolution of large diurnal variations
+   throughout the mesosphere. Dynamical signatures are clearly seen in the
+   distribution of ozone, which indicates that vertical advection of atomic
+   oxygen by the solar diurnal tide plays an important role in determining
+   ozone concentrations.},
+  doi      = {10.1029/2001JD001505},
+}
+
+@Article{02MaCoHa.O3,
+  author   = {Matsumi, Y. and Comes, F. J. and Hancock, G. and Hofzumahaus, A. and Hynes, A. J. and Kawasaki, M. and Ravishankara, A. R.},
+  title    = {{Quantum yields for production of O(D-1) in the ultraviolet photolysis of ozone: Recommendation based on evaluation of laboratory data}},
+  journal  = JGRA,
+  year     = {2002},
+  volume   = {107},
+  number   = {D3},
+  abstract = {{[}1] The quantum yield for O(D-1) production in the photolysis of ozone
+   in the ultraviolet region as a function of wavelength and temperature is
+   a key input for modeling calculations in the atmospheric chemistry. To
+   provide the modeling community with the best possible information, the
+   available data are critically evaluated, and the best possible
+   recommendations for the quantum yields are presented. Since the authors
+   of this paper are the principal investigators of the groups which have
+   provided most of the recent experimental data for the O(D-1) quantum
+   yields, the basic assumptions made by each group, the input parameters
+   used in obtaining the quantum yields, and possible sources of systematic
+   errors are well examined. The fitting expression of the O(D-1) yield as
+   a function of photolysis wavelength lambda and temperature Tis presented
+   in the ranges of 306 nm less than or equal to lambda less than or equal
+   to 328 nm and 200 K less than or equal to T less than or equal to 300 K.
+   The recommendation values of the O(D-1) quantum yield for 290 nm less
+   than or equal to lambda less than or equal to 306 nm and 328 nm less
+   than or equal to lambda less than or equal to 350 nm are also presented.
+   The formation mechanisms of O(D-1) in the photolysis of ozone which
+   result in the wavelength and temperature dependence of the O(D-1) yields
+   are interpreted.},
+}
+
+@Article{02WaBiSc.O3,
+  author   = {Wagner, G. and Birk, M. and Schreier, F. and Flaud, J. M.},
+  title    = {{Spectroscopic database for ozone in the fundamental spectral regions}},
+  journal  = JGRA,
+  year     = {2002},
+  volume   = {107},
+  number   = {D22},
+  abstract = {High-resolution Fourier transform infrared measurements of the three
+   ozone fundamentals have been performed. A total of 16 spectra have been
+   recorded, including pure as well as oxygen- and nitrogen-broadened ozone
+   at room temperature and 200 K. Focus was set on quality assurance for
+   sample preparation and on prevention of instrumental and retrieval
+   errors. Line positions, line strengths and pressure-broadened half
+   widths have been determined. A quantum mechanical analysis of line
+   positions and line strengths was performed, and improved molecular
+   constants were obtained. Individual pressure-broadening parameters and
+   temperature exponents were calculated and represented as polynomials in
+   the m quantum number for differently binned sets of subbands. Accuracies
+   of better than 2\% were achieved for both line strengths and pressure
+   broadening of many strong transitions. The new data are suited for
+   update of line-by-line spectroscopic databases.},
+  doi      = {10.1029/2001JD000818},
+}
+
 
 @article{02BaChCo.O3,
 Author = {Barbe, A. and Chichery, A. and Cours, T. and Tyuterev, V. G. and Plateaux, J. J.},
@@ -7007,91 +7055,6 @@ Abstract = {The localized molecular orbital theory and energy partitioning forma
 }
 
 
-@article{02MaSkMa.O3,
-Author = {Marsh, D. R. and Skinner, W. R. and Marshall, A. R. and Hays, P. B.
-and Ortland, D. A. and Yee, J. H.},
-Title = {{High resolution doppler Imager observations of ozone in the mesosphere
-   and lower thermosphere}},
-Journal = JGRA,
-Year = {2002},
-Volume = {107},
-Number = {D19},
-Abstract = {Observations made by the High Resolution Doppler Imager (HRDI)
-   onboard the Upper Atmosphere Research Satellite (UARS) of molecular
-   oxygen Atmospheric band dayglow and temperature are used to infer ozone
-   mixing ratios in the mesosphere and lower thermosphere. The retrieval
-   relies on the fact that a significant portion of the dayglow originates
-   from ozone photolysis. Observations cover up to 72 in latitude and an
-   altitude range of 65-97 km, with a vertical resolution of 2.5 km. Error
-   analysis shows that measurement errors in observed ozone volume mixing
-   ratios are typically between 0.04 and 0.1 parts per million, although
-   systematic errors may be larger. Measurements show good agreement with
-   previous observations and with other UARS instruments. A unique feature
-   of the HRDI mesospheric ozone data set is that all daylight local times
-   are sampled, which allows resolution of large diurnal variations
-   throughout the mesosphere. Dynamical signatures are clearly seen in the
-   distribution of ozone, which indicates that vertical advection of atomic
-   oxygen by the solar diurnal tide plays an important role in determining
-   ozone concentrations.},
-DOI = {10.1029/2001JD001505}
-}
-
-
-@article{02MaCoHa.O3,
-Author = {Matsumi, Y. and Comes, F. J. and Hancock, G. and Hofzumahaus, A. and Hynes, A. J.
-   and Kawasaki, M. and Ravishankara, A. R.},
-Title = {{Quantum yields for production of O(D-1) in the ultraviolet photolysis of
-   ozone: Recommendation based on evaluation of laboratory data}},
-Journal = JGRA,
-Year = {2002},
-Volume = {107},
-Number = {D3},
-Abstract = {{[}1] The quantum yield for O(D-1) production in the photolysis of ozone
-   in the ultraviolet region as a function of wavelength and temperature is
-   a key input for modeling calculations in the atmospheric chemistry. To
-   provide the modeling community with the best possible information, the
-   available data are critically evaluated, and the best possible
-   recommendations for the quantum yields are presented. Since the authors
-   of this paper are the principal investigators of the groups which have
-   provided most of the recent experimental data for the O(D-1) quantum
-   yields, the basic assumptions made by each group, the input parameters
-   used in obtaining the quantum yields, and possible sources of systematic
-   errors are well examined. The fitting expression of the O(D-1) yield as
-   a function of photolysis wavelength lambda and temperature Tis presented
-   in the ranges of 306 nm less than or equal to lambda less than or equal
-   to 328 nm and 200 K less than or equal to T less than or equal to 300 K.
-   The recommendation values of the O(D-1) quantum yield for 290 nm less
-   than or equal to lambda less than or equal to 306 nm and 328 nm less
-   than or equal to lambda less than or equal to 350 nm are also presented.
-   The formation mechanisms of O(D-1) in the photolysis of ozone which
-   result in the wavelength and temperature dependence of the O(D-1) yields
-   are interpreted.}}
-
-@article{02WaBiSc.O3,
-Author = {Wagner, G. and Birk, M. and Schreier, F. and Flaud, J. M.},
-Title = {{Spectroscopic database for ozone in the fundamental spectral regions}},
-Journal = JGRA,
-Year = {2002},
-Volume = {107},
-Number = {D22},
-Abstract = {High-resolution Fourier transform infrared measurements of the three
-   ozone fundamentals have been performed. A total of 16 spectra have been
-   recorded, including pure as well as oxygen- and nitrogen-broadened ozone
-   at room temperature and 200 K. Focus was set on quality assurance for
-   sample preparation and on prevention of instrumental and retrieval
-   errors. Line positions, line strengths and pressure-broadened half
-   widths have been determined. A quantum mechanical analysis of line
-   positions and line strengths was performed, and improved molecular
-   constants were obtained. Individual pressure-broadening parameters and
-   temperature exponents were calculated and represented as polynomials in
-   the m quantum number for differently binned sets of subbands. Accuracies
-   of better than 2\% were achieved for both line strengths and pressure
-   broadening of many strong transitions. The new data are suited for
-   update of line-by-line spectroscopic databases.},
-DOI = {10.1029/2001JD000818}
-}
-
-
 @article{02TuNexx.O3,
 Author = {Tu, S. J. and Nee, J. B.},
 Title = {{Absorption spectrum of ozone in the 105-200 NM wavelength region}},
@@ -7303,6 +7266,30 @@ Abstract = {Accurate ab initio potential-energy surfaces of the (3)A(2) and B-3(
    obtained. (C) 2001 American Institute of Physics.},
 year = {2001},
 DOI = {10.1063/1.1417502}
+}
+
+@Article{01SmDeBe.O3,
+  author   = {Smith, M. A. H. and Devi, V. M. and Benner, D. C. and Rinsland, C. P.},
+  title    = {{Absolute intensities of O-16(3) lines in the 9-11 mu m region}},
+  journal  = JGRA,
+  year     = {2001},
+  volume   = {106},
+  number   = {D9},
+  pages    = {9909-9921},
+  abstract = {Absolute intensities of 376 O-16(3) lines in the 9-11 mum region have
+   been determined from high-resolution infrared absorption spectra
+   recorded at room temperature using a Fourier transform spectrometer. The
+   ozone samples were contained in a glass cell having crossed
+   IR-transmitting and UV-transmitting paths, and the UV absorption at 254
+   nm was used to monitor ozone concentrations in the cell. A multispectrum
+   nonlinear least squares fitting procedure was used to determine
+   intensities for 366 lines in the nu (3) fundamental band and 10 lines in
+   the nu (3) band. The absolute accuracy of these intensity values ranges
+   from 2\% for the strongest, most well determined lines to 4 or 5\% for
+   the weakest lines measured. On average, our measured intensities are
+   approximately 1\% larger than the values on current spectroscopic
+   databases.},
+  doi      = {10.1029/2000JD900806},
 }
 
 
@@ -7663,31 +7650,6 @@ Abstract = {The structure of halogen oxides, XO (X = Cl, Br, I), stability of th
    SOC effect is also very important for the lifetime prediction of the
    halogen oxides and their anions.},
 url = {http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BPP1-0022-0017}
-}
-
-
-@article{01SmDeBe.O3,
-Author = {Smith, M. A. H. and Devi, V. M. and Benner, D. C. and Rinsland, C. P.},
-Title = {{Absolute intensities of O-16(3) lines in the 9-11 mu m region}},
-Journal = JGRA,
-Year = {2001},
-Volume = {106},
-Number = {D9},
-Pages = {9909-9921},
-Abstract = {Absolute intensities of 376 O-16(3) lines in the 9-11 mum region have
-   been determined from high-resolution infrared absorption spectra
-   recorded at room temperature using a Fourier transform spectrometer. The
-   ozone samples were contained in a glass cell having crossed
-   IR-transmitting and UV-transmitting paths, and the UV absorption at 254
-   nm was used to monitor ozone concentrations in the cell. A multispectrum
-   nonlinear least squares fitting procedure was used to determine
-   intensities for 366 lines in the nu (3) fundamental band and 10 lines in
-   the nu (3) band. The absolute accuracy of these intensity values ranges
-   from 2\% for the strongest, most well determined lines to 4 or 5\% for
-   the weakest lines measured. On average, our measured intensities are
-   approximately 1\% larger than the values on current spectroscopic
-   databases.},
-DOI = {10.1029/2000JD900806}
 }
 
 
@@ -11136,6 +11098,36 @@ Abstract = {The geometry and relative energy of the seven low-lying electronic
 DOI = {10.1063/1.470378}
 }
 
+@Article{95AnMaxx.O3,
+  author   = {Anderson, S. M. and Mauersberger, K.},
+  title    = {{Ozone absorption-spectroscopy in search of low-lying electronic states}},
+  journal  = JGRA,
+  year     = {1995},
+  volume   = {100},
+  number   = {D2},
+  pages    = {3033-3048},
+  abstract = {A spectrometer capable of detecting ozone absorption features 9 orders
+   of magnitude weaker than the Hartley band has been employed to
+   investigate the molecule's near-infrared absorption spectrum. At this
+   sensitivity a wealth of information on the low-lying electronically
+   excited states often believed to play a role in atmospheric chemistry is
+   available in the form of vibrational and rotational structure. We have
+   analyzed these spectra using a combination of digital filtering and
+   isotope substitution and find evidence for three electronically excited
+   states below 1.5 eV. The lowest of these states is metastable, bound by
+   similar to 0.1 eV and probably the (3)A(2) rather than the B-3(2) state.
+   Its adiabatic electronic energy is 1.24 +/- 0.01 eV, slightly above the
+   dissociation energy of the ground state. Two higher states, at 1.29 +/-
+   0.03 and 1.48 +/- 0.03 eV, are identified as the B-3(2) and the B-3(1),
+   respectively. Combined with other recent theoretical and experimental
+   data on the low-lying electronic states of ozone, these results imply
+   that these are, in fact, the lowest three excited states; that is, there
+   are no electronically excited states of ozone lying below the energy of
+   O(P-3) + O-2((3) Sigma(-), upsilon = 0). Some of the implications for
+   atmospheric chemistry are considered.},
+  doi      = {10.1029/94JD03003},
+}
+
 
 @article{95BaMiTy.O3,
 Author = {Barbe, A. and Mikhailenko, S. and Tyuterev, V. and Hamdouni, A. and
@@ -11497,37 +11489,6 @@ Abstract = {Absolute absorption cross-sections of ozone have been measured al fi
    users, a coherent set of data determined under high resolution. A
    comparison with previous work has been made.},
 DOI = {10.1007/BF00696758}
-}
-
-
-@article{95AnMaxx.O3,
-Author = {Anderson, S. M. and Mauersberger, K.},
-Title = {{Ozone absorption-spectroscopy in search of low-lying electronic states}},
-Journal = JGRA,
-Year = {1995},
-Volume = {100},
-Number = {D2},
-Pages = {3033-3048},
-Abstract = {A spectrometer capable of detecting ozone absorption features 9 orders
-   of magnitude weaker than the Hartley band has been employed to
-   investigate the molecule's near-infrared absorption spectrum. At this
-   sensitivity a wealth of information on the low-lying electronically
-   excited states often believed to play a role in atmospheric chemistry is
-   available in the form of vibrational and rotational structure. We have
-   analyzed these spectra using a combination of digital filtering and
-   isotope substitution and find evidence for three electronically excited
-   states below 1.5 eV. The lowest of these states is metastable, bound by
-   similar to 0.1 eV and probably the (3)A(2) rather than the B-3(2) state.
-   Its adiabatic electronic energy is 1.24 +/- 0.01 eV, slightly above the
-   dissociation energy of the ground state. Two higher states, at 1.29 +/-
-   0.03 and 1.48 +/- 0.03 eV, are identified as the B-3(2) and the B-3(1),
-   respectively. Combined with other recent theoretical and experimental
-   data on the low-lying electronic states of ozone, these results imply
-   that these are, in fact, the lowest three excited states; that is, there
-   are no electronically excited states of ozone lying below the energy of
-   O(P-3) + O-2((3) Sigma(-), upsilon = 0). Some of the implications for
-   atmospheric chemistry are considered.},
-DOI = {10.1029/94JD03003}
 }
 
 
@@ -12357,6 +12318,70 @@ Abstract = {Using the quantum chemical construction of diabatic states from
 DOI = {10.1063/1.466229}
 }
 
+@Article{93MlSoxx.O3,
+  author   = {Mlynczak, M. G. and Solomon, S.},
+  title    = {{A detailed evaluation of the heating efficiency in the middle atmosphere}},
+  journal  = JGRA,
+  year     = {1993},
+  volume   = {98},
+  number   = {D6},
+  pages    = {10517-10541},
+  abstract = {The conversion to heat of solar ultraviolet radiation absorbed by ozone
+   and molecular oxygen in the terrestrial mesosphere and lower
+   thermosphere occurs through a series of complex processes. Upon
+   photolysis of the O3 or O2, significant amounts of chemical potential
+   energy and atomic and molecular internal energy are generated. The
+   disposition of the internal energy largely determines the rate at which
+   the atmosphere is heated. In addition, the chemical energy is released
+   subsequent to exothermic chemical reactions which may occur long after
+   and far away from the location of photon deposition. Energy may be lost
+   from the atmosphere by airglow from excited photolysis products or by
+   chemiluminescent emission from product species of exothermic chemical
+   reactions. In this paper we examine the role of airglow losses in
+   reducing the efficiency of solar heating in the Hartley, Huggins, and
+   Chappuis bands of ozone and in the Herzberg, Ly alpha, Schumann-Runge
+   continuum, and Schumann-Runge bands of molecular oxygen. We also examine
+   the role of heating due to seven chemical reactions and calculate the
+   efficiencies for those reactions with significant chemiluminescent loss.
+   Parameterizations of the heating efficiency that are readily applicable
+   to numerical models are given for those processes with nonunit
+   efficiencies. Results from the calculation of heating rates for
+   individual processes indicate that the reaction of atomic hydrogen and
+   ozone is potentially the largest single source of heat in the vicinity
+   of the mesopause. However, significant improvement is still needed in
+   the knowledge of the quenching and chemical reaction rates of
+   vibrationally excited OH before the efficiency of this reaction can be
+   confidently calculated. Our calculations also indicate that even under
+   strong quenching, most of the OH is in vibrationally excited form above
+   85-90 km. Finally, the bulk heating efficiency due to the combination of
+   solar and chemical heating is calculated. The calculated bulk
+   efficiencies demonstrate that airglow and chemiluminescent emission
+   significantly reduce the amount of energy available for heat throughout
+   the mesosphere and lower thermosphere.},
+  doi      = {10.1029/93JD00315},
+}
+
+@Article{93YoEsFr.O3,
+  author   = {Yoshino, K. and Esmond, J. R. and Freeman, D. E. and Parkinson, W. H.},
+  title    = {{Measurements of absolute absorption cross-sections of ozone in the 185-nm to 254-nm wavelength region and the temperature-dependence}},
+  journal  = JGRA,
+  year     = {1993},
+  volume   = {98},
+  number   = {D3},
+  pages    = {5205-5211},
+  abstract = {Laboratory measurements of the relative absorption cross sections of
+   ozone at temperatures 195, 228 and 295 K have been made throughout the
+   185 to 254 nm wavelength region. The absolute absorption am sections at
+   the same temperatures have been measured at several discrete wavelengths
+   in the 185 to 250 nm region. The absolute cross sections of ozone have
+   been used to put the relative cross sections on a firm absolute basis
+   throughout the 185 to 255 nm region. These recalibrated cross sections
+   are slightly lower than those of L. T. Molina and M.J. Molina (Journal
+   of Geophysical Research 91, 1450, 1986), but the differences are within
+   a few percent and would not be significant in atmospheric applications.},
+  doi      = {10.1029/93JD00028},
+}
+
 
 @article{93BaBoPl.O3,
 Author = {Barbe, A. and Bouazza, S. and Plateaux, J. J. and Jacon, M.},
@@ -12517,73 +12542,6 @@ Abstract = {A search for nodal structures in the C2v and D3h isomers of ozone wa
    point on the potential energy surfaces, the multibody expansion was
    analyzed and its convergence was tested.},
 doi = {10.1016/0166-1280(93)80021-Q}
-}
-
-
-@article{93MlSoxx.O3,
-Author = {Mlynczak, M. G. and Solomon, S.},
-Title = {{A detailed evaluation of the heating efficiency in the middle atmosphere}},
-Journal = JGRA,
-Year = {1993},
-Volume = {98},
-Number = {D6},
-Pages = {10517-10541},
-Abstract = {The conversion to heat of solar ultraviolet radiation absorbed by ozone
-   and molecular oxygen in the terrestrial mesosphere and lower
-   thermosphere occurs through a series of complex processes. Upon
-   photolysis of the O3 or O2, significant amounts of chemical potential
-   energy and atomic and molecular internal energy are generated. The
-   disposition of the internal energy largely determines the rate at which
-   the atmosphere is heated. In addition, the chemical energy is released
-   subsequent to exothermic chemical reactions which may occur long after
-   and far away from the location of photon deposition. Energy may be lost
-   from the atmosphere by airglow from excited photolysis products or by
-   chemiluminescent emission from product species of exothermic chemical
-   reactions. In this paper we examine the role of airglow losses in
-   reducing the efficiency of solar heating in the Hartley, Huggins, and
-   Chappuis bands of ozone and in the Herzberg, Ly alpha, Schumann-Runge
-   continuum, and Schumann-Runge bands of molecular oxygen. We also examine
-   the role of heating due to seven chemical reactions and calculate the
-   efficiencies for those reactions with significant chemiluminescent loss.
-   Parameterizations of the heating efficiency that are readily applicable
-   to numerical models are given for those processes with nonunit
-   efficiencies. Results from the calculation of heating rates for
-   individual processes indicate that the reaction of atomic hydrogen and
-   ozone is potentially the largest single source of heat in the vicinity
-   of the mesopause. However, significant improvement is still needed in
-   the knowledge of the quenching and chemical reaction rates of
-   vibrationally excited OH before the efficiency of this reaction can be
-   confidently calculated. Our calculations also indicate that even under
-   strong quenching, most of the OH is in vibrationally excited form above
-   85-90 km. Finally, the bulk heating efficiency due to the combination of
-   solar and chemical heating is calculated. The calculated bulk
-   efficiencies demonstrate that airglow and chemiluminescent emission
-   significantly reduce the amount of energy available for heat throughout
-   the mesosphere and lower thermosphere.},
-DOI = {10.1029/93JD00315}
-}
-
-
-@article{93YoEsFr.O3,
-Author = {Yoshino, K. and Esmond, J. R. and Freeman, D. E. and Parkinson, W. H.},
-Title = {{Measurements of absolute absorption cross-sections of ozone in the
-   185-nm to 254-nm wavelength region and the temperature-dependence}},
-Journal = JGRA,
-Year = {1993},
-Volume = {98},
-Number = {D3},
-Pages = {5205-5211},
-Abstract = {Laboratory measurements of the relative absorption cross sections of
-   ozone at temperatures 195, 228 and 295 K have been made throughout the
-   185 to 254 nm wavelength region. The absolute absorption am sections at
-   the same temperatures have been measured at several discrete wavelengths
-   in the 185 to 250 nm region. The absolute cross sections of ozone have
-   been used to put the relative cross sections on a firm absolute basis
-   throughout the 185 to 255 nm region. These recalibrated cross sections
-   are slightly lower than those of L. T. Molina and M.J. Molina (Journal
-   of Geophysical Research 91, 1450, 1986), but the differences are within
-   a few percent and would not be significant in atmospheric applications.},
-DOI = {10.1029/93JD00028}
 }
 
 
@@ -12862,6 +12820,24 @@ Pages = {2149-2152},
 DOI = {10.1063/1.463102}
 }
 
+@Article{92PiPeMa.O3,
+  author   = {Pickett, H. M. and Peterson, D. B. and Margolis, J. S.},
+  title    = {{Absolute absorption of ozone in the midinfrared}},
+  journal  = JGRA,
+  year     = {1992},
+  volume   = {97},
+  number   = {D18},
+  pages    = {20787-20793},
+  abstract = {The absolute absorption of ozone in the midinfrared has been measured
+   relative to 253.7-nm ultraviolet absorption to an accuracy of 1 \% ming
+   a Bruker Fourier transform spectrometer. These new results agree with
+   previous measurements by diode laser measurements after the latter are
+   corrected for more recent infrared calculations and ultraviolet cross
+   sections. They also agree with a determination based on refractive index
+   measurements in the infrared.},
+  doi      = {10.1029/92JD02039},
+}
+
 
 @article{92BeDeDi.O3,
 Author = {Bellini, M. and Denatale, P. and Dilonardo, G. and Fusina, L. and Inguscio,
@@ -13058,25 +13034,6 @@ Abstract = {For the 40-115 km atmospheric layer, the populations of 19 vibration
    as the contributions of the constituents of the band of vibrational
    transitions.},
 DOI = {10.1016/0021-9169(92)90140-G}
-}
-
-
-@article{92PiPeMa.O3,
-Author = {Pickett, H. M. and Peterson, D. B. and Margolis, J. S.},
-Title = {{Absolute absorption of ozone in the midinfrared}},
-Journal = JGRA,
-Year = {1992},
-Volume = {97},
-Number = {D18},
-Pages = {20787-20793},
-Abstract = {The absolute absorption of ozone in the midinfrared has been measured
-   relative to 253.7-nm ultraviolet absorption to an accuracy of 1 \% ming
-   a Bruker Fourier transform spectrometer. These new results agree with
-   previous measurements by diode laser measurements after the latter are
-   corrected for more recent infrared calculations and ultraviolet cross
-   sections. They also agree with a determination based on refractive index
-   measurements in the infrared.},
-DOI = {10.1029/92JD02039}
 }
 
 
@@ -13441,6 +13398,38 @@ Abstract = {The cross section through the ground-state potential energy surface 
 DOI = {10.1063/1.460140}
 }
 
+@Article{91Mlynczak.O3,
+  author   = {Mlynczak, M. G.},
+  title    = {{Nonlocal thermodynamic-equilibrium processes in ozone: Implications for the energy budget of the mesosphere and lower thermosphere}},
+  journal  = JGRA,
+  year     = {1991},
+  volume   = {96},
+  number   = {D9},
+  pages    = {17217-17228},
+  abstract = {The conversion of chemical potential energy and infrared radiative
+   energy to kinetic energy by nonlocal thermodynamic equilibrium (non-LTE)
+   processes involving ozone is a potentially significant source of heat in
+   the terrestrial upper mesosphere and lower thermosphere. Heating rates
+   in excess of 6 K d-1 could occur near the mesopause if all potential
+   energy is converted to heat. Calculation of the heating rate requires
+   knowledge of the processes which convert chemical potential energy to
+   internal energy of ozone during the exothermic recombination reaction
+   that forms ozone. In addition, the rates at which ozone exchanges
+   internal energy with its surroundings through collisional and radiative
+   processes must be known. The lack of a detailed data base of kinetic and
+   spectroscopic information limits the ability to accurately model the
+   heating by ozone. Therefore heating rates are calculated and compared
+   using two different statistical equilibrium models previously applied in
+   the analysis of measurements of limb emission from ozone. The calculated
+   heating depends strongly on the assumed distribution and relaxation of
+   energy in the quasi-nascent ozone molecule. Finally, in the absence of a
+   detailed data base of rate coefficients it may be possible to estimate
+   the heating rate due to non-LTE processes in ozone from appropriate
+   satellite measurements of the ozone concentration and of the infrared
+   emission from ozone in the 9-12-mu-m spectral interval.},
+  doi      = {10.1029/91JD01833},
+}
+
 
 @article{91BaBoPla.O3,
 Author = {Barbe, A. and Bouazza, S. and Plateaux, J. J. and Flaud, J. M. and Camypeyret, C.},
@@ -13671,40 +13660,6 @@ DOI = {10.1039/dc9919100047}
 }
 
 
-@article{91Mlynczak.O3,
-Author = {Mlynczak, M. G.},
-Title = {{Nonlocal thermodynamic-equilibrium processes in ozone: Implications for
-   the energy budget of the mesosphere and lower thermosphere}},
-Journal = JGRA,
-Year = {1991},
-Volume = {96},
-Number = {D9},
-Pages = {17217-17228},
-Abstract = {The conversion of chemical potential energy and infrared radiative
-   energy to kinetic energy by nonlocal thermodynamic equilibrium (non-LTE)
-   processes involving ozone is a potentially significant source of heat in
-   the terrestrial upper mesosphere and lower thermosphere. Heating rates
-   in excess of 6 K d-1 could occur near the mesopause if all potential
-   energy is converted to heat. Calculation of the heating rate requires
-   knowledge of the processes which convert chemical potential energy to
-   internal energy of ozone during the exothermic recombination reaction
-   that forms ozone. In addition, the rates at which ozone exchanges
-   internal energy with its surroundings through collisional and radiative
-   processes must be known. The lack of a detailed data base of kinetic and
-   spectroscopic information limits the ability to accurately model the
-   heating by ozone. Therefore heating rates are calculated and compared
-   using two different statistical equilibrium models previously applied in
-   the analysis of measurements of limb emission from ozone. The calculated
-   heating depends strongly on the assumed distribution and relaxation of
-   energy in the quasi-nascent ozone molecule. Finally, in the absence of a
-   detailed data base of rate coefficients it may be possible to estimate
-   the heating rate due to non-LTE processes in ozone from appropriate
-   satellite measurements of the ozone concentration and of the infrared
-   emission from ozone in the 9-12-mu-m spectral interval.},
-DOI = {10.1029/91JD01833}
-}
-
-
 @article{90FlCaRi.O3,
 Author = {Flaud, J. M. and Camy-Peyret, C. and Rinsland, C. P. and Devi, V. M.
 and Smith, M. A. H. and Goldman, A.},
@@ -13851,6 +13806,50 @@ Pages = {7519-7521},
 DOI = {10.1063/1.459379}
 }
 
+@Article{90AmCaDi.O3,
+  author  = {Amoruso, A. and Cacciani, M. and Disarra, A. and Fiocco, G.},
+  title   = {{Absorption cross-sections of ozone in the 590-nm to 610-nm region at T = 230-K and T = 299-K}},
+  journal = JGRA,
+  year    = {1990},
+  volume  = {95},
+  number  = {D12},
+  pages   = {20565-20568},
+  doi     = {10.1029/JD095iD12p20565},
+}
+
+@Article{90MlDrxx.O3,
+  author  = {Mlynczak, M. G. and Drayson, S. R.},
+  title   = {{Calculation of infrared limb emission by ozone in the terrestrial middle atmosphere. 2. Emission calculations}},
+  journal = JGRA,
+  year    = {1990},
+  volume  = {95},
+  number  = {D10},
+  pages   = {16513-16521},
+  doi     = {10.1029/JD095iD10p16513},
+}
+
+@Article{90MlDrxxa.O3,
+  author  = {Mlynczak, M. G. and Drayson, S. R.},
+  title   = {{Calculation of infrared limb emission by ozone in the terrestrial middle atmosphere. 1. Source functions}},
+  journal = JGRA,
+  year    = {1990},
+  volume  = {95},
+  number  = {D10},
+  pages   = {16497-16511},
+  doi     = {10.1029/JD095iD10p16497},
+}
+
+@Article{90MoBaSc.O3,
+  author  = {Morton, J. and Barnes, J. and Schueler, B. and Mauersberger, K.},
+  title   = {{Laboratory studies of heavy ozone}},
+  journal = JGRA,
+  year    = {1990},
+  volume  = {95},
+  number  = {D1},
+  pages   = {901-907},
+  doi     = {10.1029/JD095iD01p00901},
+}
+
 
 @article{90CaFlRi.O3,
 Author = {Camy-Peyret, C. and Flaud, J. M .and Rinsland, C. P. and Smith, M. A. H.
@@ -13955,57 +13954,6 @@ Volume = {38},
 Number = {9},
 Pages = {1121-1132},
 DOI = {10.1016/0032-0633(90)90020-Q}
-}
-
-
-@article{90AmCaDi.O3,
-Author = {Amoruso, A. and Cacciani, M. and Disarra, A. and Fiocco, G.},
-Title = {{Absorption cross-sections of ozone in the 590-nm to 610-nm region at T =
-   230-K and T = 299-K}},
-Journal = JGRA,
-Year = {1990},
-Volume = {95},
-Number = {D12},
-Pages = {20565-20568},
-DOI = {10.1029/JD095iD12p20565}
-}
-
-
-@article{90MlDrxx.O3,
-Author = {Mlynczak, M. G. and Drayson, S. R.},
-Title = {{Calculation of infrared limb emission by ozone in the terrestrial middle
-   atmosphere. 2. Emission calculations}},
-Journal = JGRA,
-Year = {1990},
-Volume = {95},
-Number = {D10},
-Pages = {16513-16521},
-DOI = {10.1029/JD095iD10p16513}
-}
-
-
-@article{90MlDrxxa.O3,
-Author = {Mlynczak, M. G. and Drayson, S. R.},
-Title = {{Calculation of infrared limb emission by ozone in the terrestrial middle
-   atmosphere. 1. Source functions}},
-Journal = JGRA,
-Year = {1990},
-Volume = {95},
-Number = {D10},
-Pages = {16497-16511},
-DOI = {10.1029/JD095iD10p16497}
-}
-
-
-@article{90MoBaSc.O3,
-Author = {Morton, J. and Barnes, J. and Schueler, B. and Mauersberger, K.},
-Title = {{Laboratory studies of heavy ozone}},
-Journal = JGRA,
-Year = {1990},
-Volume = {95},
-Number = {D1},
-Pages = {901-907},
-DOI = {10.1029/JD095iD01p00901}
 }
 
 
@@ -14162,6 +14110,61 @@ Pages = {6086-6098},
 DOI = {10.1063/1.456374}
 }
 
+@Article{89AtDeDe.O3,
+  author  = {Attmannspacher, W. and Delanoe, J. and Demuer, D. and Lenoble, J. and Megie, G. and Pelon, J. and Pruvost, P. and Reiter, R.},
+  title   = {{European validation of Sage-II ozone profiles}},
+  journal = JGRA,
+  year    = {1989},
+  volume  = {94},
+  number  = {D6},
+  pages   = {8461-8466},
+  doi     = {10.1029/JD094iD06p08461},
+}
+
+@Article{89Brillet.O3,
+  author  = {Brillet, J.},
+  title   = {{A theoretical-study of ozone measurements made with ground-based microwave sensors}},
+  journal = JGRA,
+  year    = {1989},
+  volume  = {94},
+  number  = {D10},
+  pages   = {12833-12850},
+  doi     = {10.1029/JD094iD10p12833},
+}
+
+@Article{89CaDiFl.O3,
+  author  = {Cacciani, M. and Disarra, A. and Fiocco, G. and Amoruso, A.},
+  title   = {{Absolute determination of the cross-sections of ozone in the wavelength region 339-355 nm at temperatures 220-293-K}},
+  journal = JGRA,
+  year    = {1989},
+  volume  = {94},
+  number  = {D6},
+  pages   = {8485-8490},
+  doi     = {10.1029/JD094iD06p08485},
+}
+
+@Article{89GoMuMu.O3,
+  author  = {Goldman, A. and Murcray, F. J. and Murcray, D. G. and Kosters, J. J. a nd Rinsland, C. P. and Flaud, J. M. and Camypeyret, C. and Barbe, A.},
+  title   = {{Isotopic abundances of stratospheric ozone from balloon-borne high-resolution infrared solar spectra}},
+  journal = JGRA,
+  year    = {1989},
+  volume  = {94},
+  number  = {D6},
+  pages   = {8467-8473},
+  doi     = {10.1029/JD094iD06p08467},
+}
+
+@Article{89RoAiGo.O3,
+  author  = {Robbins, D. and Aimedieu, P. and Goutail, F. and Pelon, J. and Pommereau, J. P. and Iwagami, N. and Ogawa, T. and Koike, M. and Shibasaki, K. and Marche, P. and Naudet, J. P. and Rigaud, P. and Huguenin, D. and Lenoble, J. and Maddrea, G. and McCormick, M. P.},
+  title   = {{Stratospheric ozone measurements from the 1985 Map Globus No-X Campaign}},
+  journal = JGRA,
+  year    = {1989},
+  volume  = {94},
+  number  = {D8},
+  pages   = {11074-11087},
+  doi     = {10.1029/JD094iD08p11074},
+}
+
 
 @article{89FlCaNg.O3,
 Author = {Flaud, J. M. and Camy-Peyret, C. and Ngom, A. and Devi, V. M. and Rinsland, C. P.
@@ -14216,75 +14219,6 @@ DOI = {10.1103/PhysRevLett.62.1607}
 }
 
 
-@article{89AtDeDe.O3,
-Author = {Attmannspacher, W. and Delanoe, J. and Demuer, D. and Lenoble, J. and Megie,
-   G. and Pelon, J. and Pruvost, P. and Reiter, R.},
-Title = {{European validation of Sage-II ozone profiles}},
-Journal = JGRA,
-Year = {1989},
-Volume = {94},
-Number = {D6},
-Pages = {8461-8466},
-DOI = {10.1029/JD094iD06p08461}
-}
-
-
-@article{89Brillet.O3,
-Author = {Brillet, J.},
-Title = {{A theoretical-study of ozone measurements made with ground-based
-   microwave sensors}},
-Journal = JGRA,
-Year = {1989},
-Volume = {94},
-Number = {D10},
-Pages = {12833-12850},
-DOI = {10.1029/JD094iD10p12833}
-}
-
-
-@article{89CaDiFl.O3,
-Author = {Cacciani, M. and Disarra, A. and Fiocco, G. and Amoruso, A.},
-Title = {{Absolute determination of the cross-sections of ozone in the wavelength
-   region 339-355 nm at temperatures 220-293-K}},
-Journal = JGRA,
-Year = {1989},
-Volume = {94},
-Number = {D6},
-Pages = {8485-8490},
-DOI = {10.1029/JD094iD06p08485}
-}
-
-
-@article{89GoMuMu.O3,
-Author = {Goldman, A. and Murcray, F. J. and Murcray, D. G. and Kosters, J. J. a
-nd Rinsland, C. P. and Flaud, J. M. and Camypeyret, C. and Barbe, A.},
-Title = {{Isotopic abundances of stratospheric ozone from balloon-borne
-   high-resolution infrared solar spectra}},
-Journal = JGRA,
-
-Year = {1989},
-Volume = {94},
-Number = {D6},
-Pages = {8467-8473},
-DOI = {10.1029/JD094iD06p08467}
-}
-
-
-@article{89RoAiGo.O3,
-Author = {Robbins, D. and Aimedieu, P. and Goutail, F. and Pelon, J. and Pommereau, J. P.
-   and Iwagami, N. and Ogawa, T. and Koike, M. and Shibasaki, K. and Marche, P.
-   and Naudet, J. P. and Rigaud, P. and Huguenin, D. and Lenoble, J. and Maddrea,
-   G. and McCormick, M. P.},
-Title = {{Stratospheric ozone measurements from the 1985 Map Globus No-X Campaign}},
-Journal = JGRA,
-Year = {1989},
-Volume = {94},
-Number = {D8},
-Pages = {11074-11087},
-DOI = {10.1029/JD094iD08p11074}
-}
-
-
 @article{88MoAnSa.O3,
 Author = {Moscardo, F. and Andarias, R. and Sanfabian, E.},
 Title = {{Estimation of minima in 1A1 states of the ozone molecule}},
@@ -14319,6 +14253,28 @@ Volume = {89},
 Number = {1},
 Pages = {367-373},
 DOI = {10.1063/1.455478}
+}
+
+@Article{88CaPaxx.o3,
+  author  = {Carli, B. and Park, J. H.},
+  title   = {{Simultaneous measurement of minor stratospheric constituents with emission far-infrared spectroscopy}},
+  journal = JGRA,
+  year    = {1988},
+  volume  = {93},
+  number  = {D4},
+  pages   = {3851-3865},
+  doi     = {10.1029/JD093iD04p03851},
+}
+
+@Article{88TrWixx.o3,
+  author  = {Trolier, M. and Wiesenfeld, J. R.},
+  title   = {{Relative quantum yield of O(1D2) following ozone photolysis between 275 and 325 nm}},
+  journal = JGRA,
+  year    = {1988},
+  volume  = {93},
+  number  = {D6},
+  pages   = {7119-7124},
+  doi     = {10.1029/JD093iD06p07119},
 }
 
 
@@ -14399,32 +14355,6 @@ Volume = {9},
 Number = {3},
 Pages = {469-475},
 DOI = {10.1080/01431168808954868}
-}
-
-
-@article{88CaPaxx.o3,
-Author = {Carli, B. and Park, J. H.},
-Title = {{Simultaneous measurement of minor stratospheric constituents with
-   emission far-infrared spectroscopy}},
-Journal = JGRA,
-Year = {1988},
-Volume = {93},
-Number = {D4},
-Pages = {3851-3865},
-DOI = {10.1029/JD093iD04p03851}
-}
-
-
-@article{88TrWixx.o3,
-Author = {Trolier, M. and Wiesenfeld, J. R.},
-Title = {{Relative quantum yield of O(1D2) following ozone photolysis between 275
-   and 325 nm}},
-Journal = JGRA,
-Year = {1988},
-Volume = {93},
-Number = {D6},
-Pages = {7119-7124},
-DOI = {10.1029/JD093iD06p07119}
 }
 
 
@@ -14539,6 +14469,50 @@ Volume = {86},
 Number = {12},
 Pages = {6745-6756},
 DOI = {10.1063/1.452374}
+}
+
+@Article{87AbGuCa.O3,
+  author  = {Abbas, M. M. and Guo, J. and Carli, B. and Mencaraglia, F. and Carlotti, M. and Nolt, I. G.},
+  title   = {{Heavy ozone distribution in the stratosphere from far-infrared observations}},
+  journal = JGRA,
+  year    = {1987},
+  volume  = {92},
+  number  = {D11},
+  pages   = {13231-13239},
+  doi     = {10.1029/JD092iD11p13231},
+}
+
+@Article{87BaMaxx.O3,
+  author  = {Barnes, J. and Mauersberger, K.},
+  title   = {{Temperature-dependence of the ozone absorption cross-section at the 2537-nm Mercury line}},
+  journal = JGRA,
+  year    = {1987},
+  volume  = {92},
+  number  = {D12},
+  pages   = {14861-14864},
+  doi     = {10.1029/JD092iD12p14861},
+}
+
+@Article{87ClRuTh.O3,
+  author  = {Clancy, R. T. and Rusch, D. W. and Thomas, R. J. and Allen, M. and Eckman, R. S.},
+  title   = {{Model ozone photochemistry on the basis of solar mesosphere explorer mesospheric observations}},
+  journal = JGRA,
+  year    = {1987},
+  volume  = {92},
+  number  = {D3},
+  pages   = {3067-3080},
+  doi     = {10.1029/JD092iD03p03067},
+}
+
+@Article{87MaHaBa.O3,
+  author  = {Mauersberger, K. and Hanson, D. and Barnes, J. and Morton, J.},
+  title   = {{Ozone vapor-pressure and absorption cross-section measurements: Introduction of an ozone standard}},
+  journal = JGRA,
+  year    = {1987},
+  volume  = {92},
+  number  = {D7},
+  pages   = {8480-8482},
+  doi     = {10.1029/JD092iD07p08480},
 }
 
 
@@ -14660,58 +14634,6 @@ DOI = {10.1016/0004-6981(87)90107-7}
 }
 
 
-@article{87AbGuCa.O3,
-Author = {Abbas, M. M. and Guo, J. and Carli, B. and Mencaraglia, F. and Carlotti, M.
-and Nolt, I. G.},
-Title = {{Heavy ozone distribution in the stratosphere from far-infrared observations}},
-Journal = JGRA,
-Year = {1987},
-Volume = {92},
-Number = {D11},
-Pages = {13231-13239},
-DOI = {10.1029/JD092iD11p13231}
-}
-
-
-@article{87BaMaxx.O3,
-Author = {Barnes, J. and Mauersberger, K.},
-Title = {{Temperature-dependence of the ozone absorption cross-section at the
-   2537-nm Mercury line}},
-Journal = JGRA,
-Year = {1987},
-Volume = {92},
-Number = {D12},
-Pages = {14861-14864},
-DOI = {10.1029/JD092iD12p14861}
-}
-
-
-@article{87ClRuTh.O3,
-Author = {Clancy, R. T. and Rusch, D. W. and Thomas, R. J. and Allen, M. and Eckman, R. S.},
-Title = {{Model ozone photochemistry on the basis of solar mesosphere explorer
-   mesospheric observations}},
-Journal = JGRA,
-Year = {1987},
-Volume = {92},
-Number = {D3},
-Pages = {3067-3080},
-DOI = {10.1029/JD092iD03p03067}
-}
-
-
-@article{87MaHaBa.O3,
-Author = {Mauersberger, K. and Hanson, D. and Barnes, J. and Morton, J.},
-Title = {{Ozone vapor-pressure and absorption cross-section measurements: Introduction
-of an ozone standard}},
-Journal = JGRA,
-Year = {1987},
-Volume = {92},
-Number = {D7},
-Pages = {8480-8482},
-DOI = {10.1029/JD092iD07p08480}
-}
-
-
 @article{87AiMaAt.O3,
 Author = {Aimedieu, P. and Matthews, W. A. and Attmannspacher, W. and Hartmannsgruber,
    R. and Cisneros, J. and Komhyr, W. and Robbins, D. E.},
@@ -14773,6 +14695,50 @@ Volume = {84},
 Number = {11},
 Pages = {6108-6115},
 DOI = {10.1063/1.450801}
+}
+
+@Article{86Allen.O3,
+  author  = {Allen, M.},
+  title   = {{A new source of ozone in the terrestrial upper-atmosphere}},
+  journal = JGRA,
+  year    = {1986},
+  volume  = {91},
+  number  = {D2},
+  pages   = {2844-2848},
+  doi     = {10.1029/JD091iD02p02844},
+}
+
+@Article{86Joens.O3,
+  author  = {Joens, J. A.},
+  title   = {{Evidence for metastable ozone in the upper-atmosphere}},
+  journal = JGRA,
+  year    = {1986},
+  volume  = {91},
+  number  = {D13},
+  pages   = {14533-14537},
+  doi     = {10.1029/JD091iD13p14533},
+}
+
+@Article{86MoMoxx.O3,
+  author  = {Molina, L. T. and Molina, M. J.},
+  title   = {{Absolute absorption cross-sections of ozone in the 185-nm to 350-nm wavelength range}},
+  journal = JGRA,
+  year    = {1986},
+  volume  = {91},
+  number  = {D13},
+  pages   = {14501-14508},
+  doi     = {10.1029/JD091iD13p14501},
+}
+
+@Article{86SoKiKe.O3,
+  author  = {Solomon, S. and Kiehl, J. T. and Kerridge, B. J. and Remsberg, E. E. and Russell, J. M.},
+  title   = {{Evidence for nonlocal thermodynamic-equilibrium in the v3 mode of mesospheric ozone}},
+  journal = JGRA,
+  year    = {1986},
+  volume  = {91},
+  number  = {D9},
+  pages   = {9865-9876},
+  doi     = {10.1029/JD091iD09p09865},
 }
 
 
@@ -14838,57 +14804,6 @@ Volume = {82},
 Number = {4},
 Pages = {495-509},
 DOI = {10.1039/f29868200495}
-}
-
-
-@article{86Allen.O3,
-Author = {Allen, M.},
-Title = {{A new source of ozone in the terrestrial upper-atmosphere}},
-Journal = JGRA,
-Year = {1986},
-Volume = {91},
-Number = {D2},
-Pages = {2844-2848},
-DOI = {10.1029/JD091iD02p02844}
-}
-
-
-@article{86Joens.O3,
-Author = {Joens, J. A.},
-Title = {{Evidence for metastable ozone in the upper-atmosphere}},
-Journal = JGRA,
-Year = {1986},
-Volume = {91},
-Number = {D13},
-Pages = {14533-14537},
-DOI = {10.1029/JD091iD13p14533}
-}
-
-
-@article{86MoMoxx.O3,
-Author = {Molina, L. T. and Molina, M. J.},
-Title = {{Absolute absorption cross-sections of ozone in the 185-nm to 350-nm
-   wavelength range}},
-Journal = JGRA,
-Year = {1986},
-Volume = {91},
-Number = {D13},
-Pages = {14501-14508},
-DOI = {10.1029/JD091iD13p14501}
-}
-
-
-@article{86SoKiKe.O3,
-Author = {Solomon, S. and Kiehl, J. T. and Kerridge, B. J. and Remsberg, E. E.
-and Russell, J. M.},
-Title = {{Evidence for nonlocal thermodynamic-equilibrium in the v3 mode of
-   mesospheric ozone}},
-Journal = JGRA,
-Year = {1986},
-Volume = {91},
-Number = {D9},
-Pages = {9865-9876},
-DOI = {10.1029/JD091iD09p09865}
 }
 
 
@@ -15003,6 +14918,28 @@ Pages = {3843-3858},
 DOI = {10.1063/1.449095}
 }
 
+@Article{85FrAlYu.O3,
+  author  = {Froidevaux, L. and Allen, M. and Yung, Y. L.},
+  title   = {{A Critical analysis of ClO and O-3 in the midlatitude stratosphere}},
+  journal = JGRA,
+  year    = {1985},
+  volume  = {90},
+  number  = {D7},
+  pages   = {2999-3029},
+  doi     = {10.1029/JD090iD07p12999},
+}
+
+@Article{85RiDeFl.O3,
+  author  = {Rinsland, C. P. and Devi, V. M. and Flaud, J. M. and Camypeyret, C. and Smith, M. A. H. and Stokes, G. M.},
+  title   = {{Identification of O-18-isotopic lines of ozone in infrared ground-based solar absorption-spectra}},
+  journal = JGRA,
+  year    = {1985},
+  volume  = {90},
+  number  = {ND6},
+  pages   = {10719-10725},
+  doi     = {10.1029/JD090iD06p10719},
+}
+
 
 @article{85ChCoxx.O3,
 Author = {Chiu, C. and Cohen, E. A.},
@@ -15027,32 +14964,6 @@ Volume = {110},
 Number = {2},
 Pages = {186-214},
 DOI = {10.1016/0022-2852(85)90290-5}
-}
-
-
-@article{85FrAlYu.O3,
-Author = {Froidevaux, L. and Allen, M. and Yung, Y. L.},
-Title = {{A Critical analysis of ClO and O-3 in the midlatitude stratosphere}},
-Journal = JGRA,
-Year = {1985},
-Volume = {90},
-Number = {D7},
-Pages = {2999-3029},
-DOI = {10.1029/JD090iD07p12999}
-}
-
-
-@article{85RiDeFl.O3,
-Author = {Rinsland, C. P. and Devi, V. M. and Flaud, J. M. and Camypeyret, C.
-and Smith, M. A. H. and Stokes, G. M.},
-Title = {{Identification of O-18-isotopic lines of ozone in infrared ground-based
-   solar absorption-spectra}},
-Journal = JGRA,
-Year = {1985},
-Volume = {90},
-Number = {ND6},
-Pages = {10719-10725},
-DOI = {10.1029/JD090iD06p10719}
 }
 
 
@@ -15119,6 +15030,28 @@ DOI = {10.1016/0009-2614(84)85638-9},
 ResearcherID-Numbers = {Quack, Martin/H-4457-2016}
 }
 
+@Article{84AlLuYu.O3,
+  author  = {Allen, M. and Lunine, J. I. and Yung, Y. L.},
+  title   = {{The vertical-distribution of ozone in the mesosphere and lower thermosphere}},
+  journal = JGRA,
+  year    = {1984},
+  volume  = {89},
+  number  = {ND3},
+  pages   = {4841-4872},
+  doi     = {10.1029/JD089iD03p04841},
+}
+
+@Article{84FrSeDo.O3,
+  author  = {Frederick, J. E. and Serafino, G. N. and Douglass, A. R.},
+  title   = {{An analysis of the annual cycle in upper stratospheric ozone}},
+  journal = JGRA,
+  year    = {1984},
+  volume  = {89},
+  number  = {ND6},
+  pages   = {9547-9555},
+  doi     = {10.1029/JD089iD06p09547},
+}
+
 
 @article{84CaDiFu.O3,
 Author = {Carlotti, M. and Dilonardo, G. and Fusina, L. and Trombetti, A. and Bonetti,
@@ -15179,31 +15112,6 @@ Year = {1984},
 Volume = {24},
 Number = {3},
 Pages = {204-209}
-}
-
-
-@article{84AlLuYu.O3,
-Author = {Allen, M. and Lunine, J. I. and Yung, Y. L.},
-Title = {{The vertical-distribution of ozone in the mesosphere and lower
-   thermosphere}},
-Journal = JGRA,
-Year = {1984},
-Volume = {89},
-Number = {ND3},
-Pages = {4841-4872},
-DOI = {10.1029/JD089iD03p04841}
-}
-
-
-@article{84FrSeDo.O3,
-Author = {Frederick, J. E. and Serafino, G. N. and Douglass, A. R.},
-Title = {{An analysis of the annual cycle in upper stratospheric ozone}},
-Journal = JGRA,
-Year = {1984},
-Volume = {89},
-Number = {ND6},
-Pages = {9547-9555},
-DOI = {10.1029/JD089iD06p09547}
 }
 
 
@@ -16841,17 +16749,15 @@ Pages = {1953},
 DOI = {10.1063/1.1712223}
 }
 
-
-@article{67CaWeSi.O3,
-Author = {Caton, W. M. and Welch, W. J. and Silver, S.},
-Title = {{Absorption and emission in 8-millimeter region by ozone in upper
-   atmosphere}},
-Journal = JGRA,
-Year = {1967},
-Volume = {72},
-Number = {24},
-Pages = {6137-6148},
-DOI = {10.1029/JZ072i024p06137}
+@Article{67CaWeSi.O3,
+  author  = {Caton, W. M. and Welch, W. J. and Silver, S.},
+  title   = {{Absorption and emission in 8-millimeter region by ozone in upper atmosphere}},
+  journal = JGRA,
+  year    = {1967},
+  volume  = {72},
+  number  = {24},
+  pages   = {6137-6148},
+  doi     = {10.1029/JZ072i024p06137},
 }
 
 

@@ -1,109 +1,134 @@
-@article{ Spectropedia,
-title = {Spectropedia },
+% Encoding: UTF-8
+
+
+@MISC{CFOUR-www,
+  note = {CFOUR, a quantum chemical program package written by J.F. Stanton,
+	J. Gauss, M.E. Harding, P.G. Szalay with contributions from A.A.
+	Auer, R.J. Bartlett, U. Benedikt, C. Berger, D.E. Bernholdt, Y.J.
+	Bomble, L. Cheng, O. Christiansen, M. Heckert, O. Heun, C. Huber,
+	T.-C. Jagau, D. Jonsson, J. Jus\'{e}lius, K. Klein, W.J. Lauderdale,
+	D.A. Matthews, T. Metzroth, L.A. M\"{u}ck, D.P. O'Neill, D.R. Price,
+	E. Prochnow, C. Puzzarini, K. Ruud, F. Schiffmann, W. Schwalbach,
+	S. Stopkowicz, A. Tajti, J. V\'{a}zquez, F. Wang, J.D. Watts and
+	the integral packages MOLECULE (J. Alml\"{o}f and P.R. Taylor), PROPS
+	(P.R. Taylor), ABACUS (T. Helgaker, H.J. Aa. Jensen, P. J{\o}rgensen,
+	and J. Olsen), and ECP routines by A. V. Mitin and C. van W\"{u}llen.
+	For the current version, see http://www.cfour.de. },
+  key = {CFOUR}
+}
+
+
+@Misc{DIRAC18,
+      note = "{DIRAC}, a relativistic ab initio electronic structure program,
+      Release {DIRAC18} (2018),
+      written by T.~Saue, L.~Visscher, H.~J.~{\relax Aa}.~Jensen, and R.~Bast,
+      with contributions from V.~Bakken, K.~G.~Dyall, S.~Dubillard, U.~Ekstr{\"o}m,
+      E.~Eliav, T.~Enevoldsen, E.~Fa{\ss}hauer, T.~Fleig, O.~Fossgaard, A.~S.~P.~Gomes,
+      E.~D.~Hedeg{\aa}rd, T.~Helgaker, J.~Henriksson, M.~Ilia{\v{s}}, Ch.~R.~Jacob, S.~Knecht,
+      S.~Komorovsk{\'y}, O.~Kullie, J.~K.~L{\ae}rdahl, C.~V.~Larsen, Y.~S.~Lee,
+      H.~S.~Nataraj, M.~K.~Nayak, P.~Norman, G.~Olejniczak, J.~Olsen, J.~M.~H.~Olsen, Y.~C.~Park,
+      J.~K.~Pedersen, M.~Pernpointner, R.~di~Remigio, K.~Ruud, P.~Sa{\l}ek, B.~Schimmelpfennig,
+      A.~Shee, J.~Sikkema, A.~J.~Thorvaldsen, J.~Thyssen, J.~van~Stralen, S.~Villaume, O.~Visser,
+      T.~Winther, and S.~Yamamoto (available at https://doi.org/10.5281/zenodo.2253986,
+      see also http://www.diracprogram.org)"
+}
+
+
+@misc{ maxima,
+note    = {\textit{http://maxima.sourceforge.net/documentation.html}, downloaded on September 20th, 2018}
+}
+
+
+
+@misc{ mrcc,
+key = "MRCC",
+note = {{\sc MRCC}, a string-based quantum chemical program
+suite written by M. K{\'a}llay. See also M. K{\'a}llay and
+P. R. Surj{\'a}n, J. Chem. Phys., {\bf 115}, 2945 (2001),
+ as well as: www. mrcc. hu}
+}
+
+@ARTICLE{17Min,
+author = {Min, M.},
+title = {{Random sampling technique for ultra-fast computations of molecular opacities for exoplanet atmospheres}},
+journal = AA,
 year = {2017},
-url = {respecth.chem.elte.hu:8080/spectro2017D},
-urldate = {2017-11-01},
-note = {visited 01/11/2017},
-author = {Czinki, E. and Furtenbacher, T.and {Cs\'asz\'ar}, A. G.},
-}
-
-@article{HAPI,
-        title = {{HITRAN Application Programming Interface (HAPI): A comprehensive approach to working with spectroscopic data}},
-        journal = JQSRT,
-        volume = {177},
-        pages = {15 - 30},
-        year = {2016},
-	doi = {10.1016/j.jqsrt.2016.03.005},
-        author = {R. V. Kochanov and I. E. Gordon and L. S. Rothman and P. Wcis\l{}o and C. Hill and J. S. Wilzewski},
-        keywords = {HITRAN, Application Programming Interface, API, Spectra simulation, HITRANonline}
-}
-
-@article{SymPy,
- title = {SymPy: symbolic computing in Python},
- author = {Meurer, Aaron and Smith, Christopher P. and Paprocki, Mateusz and \v{C}ert\'{i}k, Ond\v{r}ej and Kirpichev, Sergey B. and Rocklin, Matthew and Kumar, AMiT and Ivanov, Sergiu and Moore, Jason K. and Singh, Sartaj and Rathnayake, Thilina and Vig, Sean and Granger, Brian E. and Muller, Richard P. and Bonazzi, Francesco and Gupta, Harsh and Vats, Shivam and Johansson, Fredrik and Pedregosa, Fabian and Curry, Matthew J. and Terrel, Andy R. and Rou\v{c}ka, \v{S}t\v{e}p\'{a}n and Saboo, Ashutosh and Fernando, Isuru and Kulal, Sumith and Cimrman, Robert and Scopatz, Anthony},
- year = 2017,
- keywords = {Python, Computer algebra system, Symbolics},
- abstract = { SymPy is an open source computer algebra system written in pure Python. It is built with a focus on extensibility and ease of use, through both interactive and programmatic applications. These characteristics have led SymPy to become a popular symbolic library for the scientific Python ecosystem. This paper presents the architecture of SymPy, a description of its features, and a discussion of select submodules. The supplementary material provide additional examples and further outline details of the architecture and features of SymPy.         },
- volume = 3,
- pages = {e103},
- journal = {PeerJ Comp. Sci.},
- doi = {10.7717/peerj-cs.103}
-}
-
-@article{ Duo,
-title = {Duo: A general program for calculating spectra of diatomic molecules },
-journal = CPC,
-volume = {202},
-pages = {262 - 275},
-year = {2016},
-doi = {10.1016/j.cpc.2015.12.021},
-author = {Sergei N. Yurchenko and Lorenzo Lodi and Jonathan Tennyson and Andrey V. Stolyarov},
-keywords = {Diatomics,Spectroscopy,One-dimensional Schr�dinger equation,Excited electronic states,Intramolecular perturbation,
-Coupled-channel radial equations,Transition probabilities,Intensities },
-abstract = {Duo is a general, user-friendly program for computing rotational, rovibrational and rovibronic spectra of diatomic molecules. Duo solves the Schr�dinger equation for the motion of the nuclei not only for the simple case of uncoupled, isolated electronic states (typical for the ground state of closed-shell diatomics) but also for the general case of an arbitrary number and type of couplings between electronic states (typical for open-shell diatomics and excited states). Possible couplings include spin�orbit, angular momenta, spin-rotational and spin�spin. Corrections due to non-adiabatic effects can be accounted for by introducing the relevant couplings using so-called Born�Oppenheimer breakdown curves. Duo requires user-specified potential energy curves and, if relevant, dipole moment, coupling and correction curves. From these it computes energy levels, line positions and line intensities. Several analytic forms plus interpolation and extrapolation options are available for representation of the curves. Duo can refine potential energy and coupling curves to best reproduce reference data such as experimental energy levels or line positions. Duo is provided as a Fortran�2003 program and has been tested under a variety of operating systems. Program summary Program title:Duo Catalogue identifier: AEZJ_v1_0 rogram summary URL:http://cpc.cs.qub.ac.uk/summaries/AEZJ_v1_0.html Program obtainable from: \{CPC\} Program Library, Queen�s University, Belfast, N. Ireland Licensing provisions: Standard \{CPC\} licence, http://cpc.cs.qub.ac.uk/licence/licence.html No. of lines in distributed program, including test data, etc.: 187443 No. of bytes in distributed program, including test data, etc.: 6968371 Distribution format: tar.gz Programming language: Fortran 2003. Computer: Any personal computer. Operating system: Linux, Windows, Mac OS. Has the code been vectorized or parallelized?: Parallelized RAM: Case dependent, typically &lt; 10 \{MB\} Classification: 4.3, 4.9, 16.2, 16.3. Nature of problem: Solving the Schr�dinger equation for the nuclear motion of a diatomic molecule with an arbitrary number and type of couplings between electronic states. Solution method: Solution of the uncoupled problem first, then basis set truncation and solution of the coupled problem. A line list can be computed if a dipole moment function is provided. The potential energy and other curves can be empirically refined by fitting to experimental energies or frequencies, when provided. Restrictions: The current version is restricted to bound states of the system. Unusual features: User supplied curves for all objects (potential energies, spin�orbit and other couplings, dipole moment etc.) as analytic functions or on a grid is a program requirement. Running time: Case dependent. The test runs provided take seconds or a few minutes on a normal PC. }
-}
-
-@article{PHOENIX,
-        Author = {Jack, D and Hauschildt, P H and Baron, E},
-        Journal = AA,
-        Pages = {1043--1049},
-        Title = {Time-dependent radiative transfer with PHOENIX},
-        Volume = {502},
-        Year = {2009}}
-
-
-@article{ DEWE,
-Author = {M\'atyus, E. and Czak\'o, G. and Sutcliffe, B. T. and Cs\'asz\'ar,
-   A. G.},
-Title = {Vibrational energy levels with arbitrary potentials using the
-   Eckart-Watson Hamiltonians and the discrete variable representation},
-Year = {2007},
-Volume = {127},
-DOI = {10.1063/1.2756518},
-Pages = {084102},
-Journal = JCP,
+volume = {607},
+number = {A9},
+pages = {A9},
+abstract = {Opacities of molecules in exoplanet atmospheres rely on increasingly
+detailed line-lists for these molecules. The line lists available today contain
+for many species up to several billions of lines. Computation of the spectral line
+profile created by pressure and temperature broadening, the Voigt profile, of all
+of these lines is becoming a computational challenge. Aims. We aim to create a
+method to compute the Voigt profile in a way that automatically focusses the
+computation time into the strongest lines, while still maintaining the continuum
+contribution of the high number of weaker lines. Methods. Here, we outline a statistical
+line sampling technique that samples the Voigt profile quickly and with high accuracy.
+The number of samples is adjusted to the strength of the line and the local spectral
+line density. This automatically provides high accuracy line shapes for strong
+lines or lines that are spectrally isolated. The line sampling technique automatically
+preserves the integrated line opacity for all lines, thereby also providing the
+continuum opacity created by the large number of weak lines at very low computational cost.
+Results. The line sampling technique is tested for accuracy when computing line
+spectra and correlated-k tables. Extremely fast computations (~3.5 × 105 lines
+per second per core on a standard current day desktop computer) with high accuracy
+(≤1% almost everywhere) are obtained. A detailed recipe on how to perform the
+computations is given.},
+keywords = {Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation
+and Methods for Astrophysics},
+doi = {10.1051/0004-6361/201731612}
 }
 
 
 
-@article{ DVR3D,
-Author = {Tennyson, J and Kostin, M A and Barletta, P and Harris, G J and Polyansky,
-   O L and Ramanlal, J and Zobov, N F},
-Title = {DVR3D: a program suite for the calculation of rotation-vibration spectra
-   of triatomic molecules},
+@ARTICLE{ HELIOS,
+   author = {{Malik}, M. and {Grosheintz}, L. and {Mendon{\c c}a}, J.~M. and
+	{Grimm}, S.~L. and {Lavie}, B. and {Kitzmann}, D. and {Tsai}, S.-M. and
+	{Burrows}, A. and {Kreidberg}, L. and {Bedell}, M. and {Bean}, J.~L. and
+	{Stevenson}, K.~B. and {Heng}, K.},
+    title = "{HELIOS: An Open-Source, GPU-Accelerated Radiative Transfer Code For Self-Consistent Exoplanetary Atmospheres}",
+ keywords = {Astrophysics - Earth and Planetary Astrophysics, Physics - Atmospheric and Oceanic Physics},
+  journal=ApJ,
+  volume={153},
+  pages={56},
+DOI={10.3847/1538-3881/153/2/56},
+  year={2017},
+  abstract={We present the open-source radiative transfer code named HELIOS , which is constructed for studying exoplanetary atmospheres. In its initial version, the model atmospheres of HELIOS are one-dimensional and plane-parallel, and the equation of radiative transfer is solved in the two-stream approximation with nonisotropic scattering. A small set of the main infrared absorbers is employed, computed with the opacity calculator HELIOS-K and combined using a correlated- k approximation. The molecular abundances originate from validated analytical formulae for equilibrium chemistry. We compare HELIOS with the work of Miller-Ricci & Fortney using a model of GJ 1214b, and perform several tests, where we find: model atmospheres with single-temperature layers struggle to converge to radiative equilibrium; k -distribution tables constructed with ##IMG## [http://ej.iop.org/images/1538-3881/153/2/56/ajaa5179ieqn1.gif] {$\gtrsim 0.01$} cm −1 resolution in the opacity function ( ##IMG## [http://ej.iop.org/images/1538-3881/153/2/56/ajaa5179ieqn2.gif] {$\lesssim {10}^{3}$} points per wavenumber bin) may result in errors ##IMG## [http://ej.iop.org/images/1538-3881/153/2/56/ajaa5179ieqn3.gif] {$\gtrsim 1$} %–10% in the synthetic spectra; and a diffusivity factor of 2 approximates well the exact radiative transfer solution in the limit of pure absorption. We construct “null-hypothesis” models (chemical equilibrium, radiative equilibrium, and solar elemental abundances) for six hot Jupiters. We find that the dayside emission spectra of HD 189733b and WASP-43b are consistent with the null hypothesis, while the latter consistently underpredicts the observed fluxes of WASP-8b, WASP-12b, WASP-14b, and WASP-33b. We demonstrate that our results are somewhat insensitive to the choice of stellar models (blackbody, Kurucz, or PHOENIX ) and metallicity, but are strongly affected by higher carbon-to-oxygen ratios. The code is publicly available as part of the Exoclimes Simulation Platform ( exoclime.net [http://exoclime.net] ).}
+}
+
+@article{ GAIN,
+Author = {Al-Refaie, Ahmed F. and Yurchenko, Sergei N. and Tennyson, Jonathan},
+Title = {GPU Accelerated INtensities MPI (GAIN-MPI): A new method of computing
+   Einstein-A coefficients},
 Journal = CPC,
-Year = {2004},
-Volume = {163},
-Pages = {85-116},
-Abstract = {The DVR3D program suite calculates energy levels, wavefunctions, and
-   where appropriate dipole transition moments, for rotating and vibrating
-   triatomic molecules. Potential energy and, where necessary, dipole
-   surfaces must be provided. Expectation values of geometrically defined
-   functions can be calculated, a feature which is particularly useful for
-   fitting potential energy surfaces. The programs use an exact (within the
-   Born-Oppenheimer approximation) Hamiltonian and offer a choice of Jacobi
-   or Radau internal coordinates and several body-fixed axes. Rotationally
-   excited states are treated using an efficient two-step algorithm. The
-   programs uses a Discrete Variable Representation (DVR) based on
-   Gauss-Jacobi and Gauss-Laguerre quadrature for all 3 internal
-   coordinates and thus yields a fully point-wise representation of the
-   wavefunctions. The vibrational step uses successive diagonalisation and
-   truncation which is implemented for a number of possible coordinate
-   orderings. The rotational, expectation value and transition dipole
-   programs exploit the savings offered by performing integrals on a DVR
-   grid. The new version has been rewritten in FORTRAN 90 to exploit the
-   dynamic array allocations and the algorithm for dipole and spectra
-   calculations have been substantially improved. New modules allow the
-   z-axis to be embedded perpendicular to the plane of the molecule and for
-   the calculation of expectation values.},
-DOI = {10.1016/j.cpc.2003.10.003},
-Keywords = {molecular spectra; infrared; microwave; variational principle;
-   expectation values; Born-Oppenheimer approximation; triatomic molecules},
-Keywords-Plus = {POTENTIAL-ENERGY SURFACE; AB-INITIO CALCULATION; VARIATIONAL
-   CALCULATIONS; TRANSITION INTENSITIES; SPECTROSCOPIC ACCURACY;
-   PARTITION-FUNCTIONS; FLOPPY MOLECULES; LINE ASSIGNMENTS; H-3(+)
-   MOLECULE; 1ST PRINCIPLES},
-Journal-ISO = {Comput. Phys. Commun.},
+Year = {2017},
+Volume = {214},
+Pages = {216-224},
+Abstract = {Calculating dipole transition intensities or the related Einstein A
+   coefficients can dominate the computer usage for large line lists of
+   transitions such as those being computed to model radiative transport
+   through hot atmospheres. An algorithm for the efficient computation of
+   line strengths is presented based on the use of the half-linestrength.
+   This is implemented on GPUs that are shown to give up to a thousandfold
+   speed-up compared to calculations on conventional computers. This
+   algorithm is implemented in the program GAIN which was developed as part
+   of the TROVE nuclear motion program, but can be adapted for use by other
+   similar programs in a straightforward fashion.
+   Program summary
+   Program title: GAIN-MPI
+   Program Files doi: http://dx.doLorg/10.17632/4x75jsphc6.1
+   Licensing provisions: MIT licence.
+   Programming language: C++ 99, CUDA C and Fortran 95.
+   Nature of problem: Computation of linestrengths using GPU hardware
+   Solution method: Split the linestrength into smaller blocks and compute
+   them in the GPU in parallel
+   Restrictions: The current version is restricted to separable
+   rovibrational basis sets
+   Unusual features: Can be extended by user supplied concrete C++ classes
+   for the MPI version (C) 2017 Elsevier B.V. All rights reserved.},
+DOI = {10.1016/j.cpc.2017.01.013},
+Keywords = {Rotation-vibration spectra; Transition probabilities; Intensities}
 }
 
 @article{ Level,
@@ -126,161 +151,6 @@ keywords = "Diatomic Einstein coefficients ",
 abstract = "Abstract This paper describes program LEVEL, which can solve the radial or one-dimensional Schrödinger equation and automatically locate either all of, or a selected number of, the bound and/or quasibound levels of any smooth single- or double-minimum potential, and calculate inertial rotation and centrifugal distortion constants and various expectation values for those levels. It can also calculate Franck–Condon factors and other off-diagonal matrix elements, either between levels of a single potential or between levels of two different potentials. The potential energy function may be defined by any one of a number of analytic functions, or by a set of input potential function values which the code will interpolate over and extrapolate beyond to span the desired range. "
 }
 
-@article{ TROVE,
-	Abstract = {We present a new computational method with associated computer program
-	TROVE (Theoretical ROVibrational Energies) to perform variational
-	calculations of rovibrational energies for general polyatomic molecules
-	of arbitrary structure in isolated electronic states. The (approximate)
-	nuclear kinetic energy operator is represented as an expansion in
-	terms of internal coordinates. The main feature of the computational
-	scheme is a numerical construction of the kinetic energy operator,
-	which is an integral part of the computation process. Thus the scheme
-	is self-contained, i.e., it requires no analytical pre-derivation
-	of the kinetic energy operator. It is also general, since it can
-	be used in connection with any internal coordinates. The method represents
-	an extension of our model for pyramidal XY3 molecules reported previously
-	{[}S.N. Yurchenko, M. Carvajal, P. Jensen, H. Lin, J.J. Zheng, W.
-	Thiel, Mol. Phys. 103 (2005) 359]. Non-rigid molecules are treated
-	in the Hougen-Bunker-Johns approach {[}J.T. Hougen, P.R. Bunker,
-	J.W.C. Johns, J. Mol. Spectrosc. 34 (1970) 136]. In this case, the
-	variational calculations employ a numerical finite basis representation
-	for the large-amplitude motion using basis functions that are generated
-	by Numerov-Cooley integration of the appropriate one-dimensional
-	Schrodinger equation. (c) 2007 Elsevier Inc. All rights reserved.},
-	Author = {Yurchenko, Sergei N. and Thiel, Walter and Jensen, Per},
-	Doi = {10.1016/j.jms.2007.07.009},
-	Journal = JMS,
-	Journal-Iso = {J. Mol. Spectrosc.},
-	Pages = {126-140},
-	Title = {Theoretical {ROV}ibrational {E}nergies ({TROVE}): {A} robust numerical approach to the calculation of rovibrational energies for polyatomic molecules},
-	Volume = {245},
-	Year = {2007}
-}
-
-@article{MOLPRO,
-	Abstract = {Molpro (available at http://www.molpro.net) is a general-purpose quantum
-	chemical program. The original focus was on high-accuracy wave function
-	calculations for small molecules, but using local approximations
-	combined with explicit correlation treatments, highly accurate coupled-cluster
-	calculations are now possible for molecules with up to approximately
-	100 atoms. Recently, multireference correlation treatments were also
-	made applicable to larger molecules. Furthermore, an efficient implementation
-	of density functional theory is available.},
-	Author = {Werner, Hans-Joachim and Knowles, Peter J. and Knizia, Gerald and Manby, Frederick R. and Sch\"utz, Martin},
-	Doi = {10.1002/wcms.82},
-	Journal = {WIREs Comput. Mol. Sci.},
-	Pages = {242--253},
-	Title = {Molpro: a general-purpose quantum chemistry program package},
-	Volume = {2},
-	Year = {2012}
-}
-
-
-@MISC{MOLPRO2015,
-   author       = "H. J. Werner and P. J. Knowles and G. Knizia and F. R. Manby and M. Sch{\"{u}}tz
-   and P. Celani and W. Gy{\H{o}}rffy and D. Kats and T. Korona and R. Lindh and A. Mitrushenkov
-   and G. Rauhut and K. R. Shamasundar and T. B. Adler and R. D. Amos
-   and A. Bernhardsson and A. Berning and D. L. Cooper and M. J. O. Deegan and A. J. Dobbyn and
-   F. Eckert and E. Goll and C. Hampel and A. Hesselmann and G. Hetzer and T. Hrenar and G. Jansen and C. K{\"{o}}ppl
-   and Y. Liu and A. W. Lloyd and R. A. Mata and A. J. May and S. J. McNicholas and W. Meyer and
-   M. E. Mura and A. Nicklass and D. P. O'Neill and P. Palmieri and D. Peng and K. Pfl{\"{u}}ger and R. Pitzer and M. Reiher and
-   T. Shiozaki and H. Stoll and A. J. Stone and R. Tarroni and T. Thorsteinsson and M. Wang",
-   title        = "MOLPRO, version 2015.1, a package of ab initio programs",
-   howpublished = "http://www.molpro.net",
-   institute    = "",
-   address      = "",
-   year         = "2015",
-}
-
-
-@article{ WAVR4,
-Author = {Kozin, IN and Law, MM and Tennyson, J and Hutson, JM},
-Title = {New vibration-rotation code for tetraatomic molecules exhibiting
-   wide-amplitude motion: WAVR4},
-Journal = CPC,
-Year = {2004},
-Volume = {163},
-Pages = {117-131},
-Abstract = {A general computational method for the accurate calculation of
-   rotationally and vibrationally excited states of tetraatomic molecules
-   is developed. The resulting program is particularly appropriate for
-   molecules executing wide-amplitude motions and isomerizations. The
-   program offers a choice of coordinate systems based on Radau, Jacobi,
-   diatom-diatom and orthogonal satellite vectors. The method includes all
-   six vibrational dimensions plus three rotational dimensions.
-   Vibration-rotation calculations with reduced dimensionality in the
-   radial degrees of freedom are easily tackled via constraints imposed on
-   the radial coordinates via the input file.},
-DOI = {10.1016/j.cpc.2004.07.005},
-Keywords = {ro-vibrational; bound states; wavefunctions; body-fixed; discrete
-   variable representatiom; finite basis representation; tetraatomic;
-   4-atom},
-Journal-ISO = {Comput. Phys. Commun.},
-}
-
-@ARTICLE{MULTIMODE.pro,
-  author = {Carter, Stuart and Sharma, Amit R. and Bowman, Joel M. and Rosmus,
-	Pavel and Tarroni, Riccardo},
-  title = {Calculations of rovibrational energies and dipole transition intensities
-	for polyatomic molecules using MULTIMODE},
-  journal = JCP,
-  year = {2009},
-  volume = {131},
-  pages = {224106},
-  doi = {http://dx.doi.org/10.1063/1.3266577}
-}
-
-@ARTICLE{ VTET,
-  author = { D. W. Schwenke},
-  title = {Variational calculations of rovibrational energy levels and transition
-	intensities for tetratomic molecules},
-  journal = JPC,
-  year = {1996},
-  volume = {100},
-  pages = {2867-2884},
-  abstract = {A description is given of an algorithm for computing rovibrational
-	energy levels for tetratomic molecules. The expressions required
-	for evaluating transition intensities are also given. The variational
-	principle is used to determine the energy levels, and the kinetic
-	energy operator is simple and evaluated exactly. The computational
-	procedure is split up into the determination of one-dimensional radial
-	basis functions, the computation of a contracted rotational-bending
-	basis, followed by a final variational step coupling all degrees
-	of freedom. An angular basis is proposed whereby the rotational-bending
-	contraction takes place in three steps. Angular matrix elements of
-	the potential are evaluated by expansion in terms of a suitable basis,
-	and the angular integrals are given in a factorized form which simplifies
-	their evaluation. The basis functions in the final variational step
-	have the full permutation symmetries of the identical particles.
-	Sample results are given for HCCH and BH3.}
-}
-
-
-@ARTICLE{ MORBID,
-  author = {Jensen, P},
-  title = {A NEW MORSE OSCILLATOR-RIGID BENDER INTERNAL DYNAMICS (MORBID) HAMILTONIAN
-	FOR TRIATOMIC-MOLECULES},
-  journal = JMS,
-  year = {1988},
-  volume = {128},
-  pages = {478-501},
-  doi = {10.1016/0022-2852(88)90164-6},
-  journal-iso = {J. Mol. Spectrosc.},
-  times-cited = {199}
-}
-
-@article{MIRS ,
-Author = {Nikitin, A. V. and Rey, M. and Champion, J. P. and Tyuterev, Vl. G.},
-Title = {{Extension of the MIRS computer package for the modeling of molecular
-   spectra: From effective to full ab initio ro-vibrational Hamiltonians in
-   irreducible tensor form}},
-Journal = JQSRT,
-Year = {{2012}},
-Volume = {{113}},
-Pages = {1034-1042},
-DOI = {{10.1016/j.jqsrt.2012.01.027}},
-}
-
 
 @article{ PGOPHER,
 title = {PGOPHER: A program for simulating rotational, vibrational and electronic spectra },
@@ -300,14 +170,95 @@ abstract = {Abstract The pgopher program is a general purpose program for simula
 }
 
 
-@Article{ MARVEL,
-author = {T. Furtenbacher AND A. G. {Cs\'asz\'ar} AND J. Tennyson},
-title = {{MARVEL: measured active rotational-vibrational energy levels}},
-journal = JMS,
-year  = {2007},
-volume  = {245},
-pages = {115-125},
+@article{ HyDRA,
+author = {Gandhi, Siddharth and Madhusudhan, Nikku},
+title = {Retrieval of Exoplanet Emission Spectra with HyDRA},
+journal = MNRAS,
+volume = {},
+number = {},
+pages = {stx2748},
+year = {2017},
+doi = {10.1093/mnras/stx2748},
+URL = { + http://dx.doi.org/10.1093/mnras/stx2748},
+eprint = {/oup/backfile/content_public/journal/mnras/pap/10.1093_mnras_stx2748/1/stx2748.pdf}
 }
+	
+
+
+
+@article{ SpectraPlot.com,
+title = {SpectraPlot.com: Integrated Spectroscopic Modeling of Atomic and Molecular Gases },
+journal = {Journal of Quantitative Spectroscopy and Radiative Transfer },
+volume = {200},
+number = {},
+pages = {249 - 257},
+year = {2017},
+note = {},
+issn = {0022-4073},
+doi = {https://doi.org/10.1016/j.jqsrt.2017.06.007},
+url = {http://www.sciencedirect.com/science/article/pii/S0022407317302996},
+author = {Christopher S. Goldenstein and Victor A. Miller and R. Mitchell Spearrin and Christopher L. Strand},
+abstract = {Abstract SpectraPlot is a web-based application for simulating spectra of atomic and molecular gases. At the time this manuscript was written, SpectraPlot consisted of four primary tools for calculating: 1) atomic and molecular absorption spectra, 2) atomic and molecular emission spectra, 3) transition linestrengths, and 4) blackbody emission spectra. These tools currently employ the NIST ASD, HITRAN2012, and HITEMP2010 databases to perform line-by-line simulations of spectra. SpectraPlot employs a modular, integrated architecture, enabling multiple simulations across multiple databases and/or thermodynamic conditions to be visualized in a single interactive plot window. The primary objective of this paper is to describe the architecture and spectroscopic models employed by SpectraPlot in order to provide its users with the knowledge required to understand the capabilities and limitations of simulations performed using SpectraPlot. Further, this manuscript discusses the accuracy of several underlying approximations used to decrease computational time, namely, the use of far-wing cutoff criteria. }
+}
+
+@article{SymPy,
+ title = {SymPy: symbolic computing in Python},
+ author = {Meurer, Aaron and Smith, Christopher P. and Paprocki, Mateusz and \v{C}ert\'{i}k, Ond\v{r}ej and Kirpichev, Sergey B. and Rocklin, Matthew and Kumar, AMiT and Ivanov, Sergiu and Moore, Jason K. and Singh, Sartaj and Rathnayake, Thilina and Vig, Sean and Granger, Brian E. and Muller, Richard P. and Bonazzi, Francesco and Gupta, Harsh and Vats, Shivam and Johansson, Fredrik and Pedregosa, Fabian and Curry, Matthew J. and Terrel, Andy R. and Rou\v{c}ka, \v{S}t\v{e}p\'{a}n and Saboo, Ashutosh and Fernando, Isuru and Kulal, Sumith and Cimrman, Robert and Scopatz, Anthony},
+ year = 2017,
+ keywords = {Python, Computer algebra system, Symbolics},
+ abstract = { SymPy is an open source computer algebra system written in pure Python. It is built with a focus on extensibility and ease of use, through both interactive and programmatic applications. These characteristics have led SymPy to become a popular symbolic library for the scientific Python ecosystem. This paper presents the architecture of SymPy, a description of its features, and a discussion of select submodules. The supplementary material provide additional examples and further outline details of the architecture and features of SymPy.         },
+ volume = 3,
+ pages = {e103},
+ journal = {PeerJ Comp. Sci.},
+ doi = {10.7717/peerj-cs.103}
+}
+
+@article{ Spectropedia,
+author = {Czinki, E. and Furtenbacher, T.and {Cs\'asz\'ar}, A. G.},
+title = {{Spectropedia}},
+year = {2017},
+url = {respecth.chem.elte.hu:8080/spectro2017D},
+urldate = {2017-11-01},
+note = {visited 01/11/2017},
+}
+
+
+@article{ ATMO,
+Author = {Drummond, B. and Tremblin, P. and Baraffe, I. and Amundsen, D. S. and
+   Mayne, N. J. and Venot, O. and Goyal, J.},
+Title = {{The effects of consistent chemical kinetics calculations on the
+   pressure-temperature profiles and emission spectra of hot Jupiters}},
+Journal = AA,
+Year = {{2016}},
+Volume = {{594}},
+Abstract = {{In this work we investigate the impact of calculating non-equilibrium
+   chemical abundances consistently with the temperature structure for the
+   atmospheres of highly-irradiated, close-in gas giant exoplanets.
+   Chemical kinetics models have been widely used in the literature to
+   investigate the chemical compositions of hot Jupiter atmospheres which
+   are expected to be driven away from chemical equilibrium via processes
+   such as vertical mixing and photochemistry. All of these models have so
+   far used pressure temperature (P-T) profiles as fixed model input. This
+   results in a decoupling of the chemistry from the radiative and thermal
+   properties of the atmosphere, despite the fact that in nature they are
+   intricately linked. We use a one-dimensional radiative-convective
+   equilibrium model, ATMO, which includes a sophisticated chemistry scheme
+   to calculate P-T profiles which are fully consistent with
+   non-equilibrium chemical abundances, including vertical mixing and
+   photochemistry. Our primary conclusion is that, in cases of strong
+   chemical disequilibrium, consistent calculations can lead to differences
+   in the P-T profile of up to 100 K compared to the P-T profile derived
+   assuming chemical equilibrium. This temperature change can, in turn,
+   have important consequences for the chemical abundances themselves as
+   well as for the simulated emission spectra. In particular, we find that
+   performing the chemical kinetics calculation consistently can reduce the
+   overall impact of non-equilibrium chemistry on the observable emission
+   spectrum of hot Jupiters. Simulated observations derived from
+   non-consistent models could thus yield the wrong interpretation. We show
+   that this behaviour is due to the non-consistent models violating the
+   energy budget balance of the atmosphere.}},
+DOI = {{10.1051/0004-6361/20162.8799}},
+pages = {A69}}
 
 @article{ PyVCI,
 Author = {Sibaev, Marat and Crittenden, Deborah L.},
@@ -379,82 +330,45 @@ Abstract = {{The PyVCI program package is a general purpose open-source code for
    Running time: Varies widely.}},
 DOI = {{10.1016/j.cpc.2016.02.026}}}
 
-
-
-@ARTICLE{ HELIOS,
-   author = {{Malik}, M. and {Grosheintz}, L. and {Mendon{\c c}a}, J.~M. and 
-	{Grimm}, S.~L. and {Lavie}, B. and {Kitzmann}, D. and {Tsai}, S.-M. and 
-	{Burrows}, A. and {Kreidberg}, L. and {Bedell}, M. and {Bean}, J.~L. and 
-	{Stevenson}, K.~B. and {Heng}, K.},
-    title = "{HELIOS: An Open-Source, GPU-Accelerated Radiative Transfer Code For Self-Consistent Exoplanetary Atmospheres}",
- keywords = {Astrophysics - Earth and Planetary Astrophysics, Physics - Atmospheric and Oceanic Physics},
-  journal=ApJ,
-  volume={153},
-  pages={56},
-DOI={10.3847/1538-3881/153/2/56},
-  year={2017},
-  abstract={We present the open-source radiative transfer code named HELIOS , which is constructed for studying exoplanetary atmospheres. In its initial version, the model atmospheres of HELIOS are one-dimensional and plane-parallel, and the equation of radiative transfer is solved in the two-stream approximation with nonisotropic scattering. A small set of the main infrared absorbers is employed, computed with the opacity calculator HELIOS-K and combined using a correlated- k approximation. The molecular abundances originate from validated analytical formulae for equilibrium chemistry. We compare HELIOS with the work of Miller-Ricci & Fortney using a model of GJ 1214b, and perform several tests, where we find: model atmospheres with single-temperature layers struggle to converge to radiative equilibrium; k -distribution tables constructed with ##IMG## [http://ej.iop.org/images/1538-3881/153/2/56/ajaa5179ieqn1.gif] {$\gtrsim 0.01$} cm −1 resolution in the opacity function ( ##IMG## [http://ej.iop.org/images/1538-3881/153/2/56/ajaa5179ieqn2.gif] {$\lesssim {10}^{3}$} points per wavenumber bin) may result in errors ##IMG## [http://ej.iop.org/images/1538-3881/153/2/56/ajaa5179ieqn3.gif] {$\gtrsim 1$} %–10% in the synthetic spectra; and a diffusivity factor of 2 approximates well the exact radiative transfer solution in the limit of pure absorption. We construct “null-hypothesis” models (chemical equilibrium, radiative equilibrium, and solar elemental abundances) for six hot Jupiters. We find that the dayside emission spectra of HD 189733b and WASP-43b are consistent with the null hypothesis, while the latter consistently underpredicts the observed fluxes of WASP-8b, WASP-12b, WASP-14b, and WASP-33b. We demonstrate that our results are somewhat insensitive to the choice of stellar models (blackbody, Kurucz, or PHOENIX ) and metallicity, but are strongly affected by higher carbon-to-oxygen ratios. The code is publicly available as part of the Exoclimes Simulation Platform ( exoclime.net [http://exoclime.net] ).}
+@article{ Duo,
+title = {Duo: A general program for calculating spectra of diatomic molecules },
+journal = CPC,
+volume = {202},
+pages = {262 - 275},
+year = {2016},
+doi = {10.1016/j.cpc.2015.12.021},
+author = {Sergei N. Yurchenko and Lorenzo Lodi and Jonathan Tennyson and Andrey V. Stolyarov},
+keywords = {Diatomics,Spectroscopy,One-dimensional Schr�dinger equation,Excited electronic states,Intramolecular perturbation,
+Coupled-channel radial equations,Transition probabilities,Intensities },
+abstract = {Duo is a general, user-friendly program for computing rotational, rovibrational and rovibronic spectra of diatomic molecules. Duo solves the Schr�dinger equation for the motion of the nuclei not only for the simple case of uncoupled, isolated electronic states (typical for the ground state of closed-shell diatomics) but also for the general case of an arbitrary number and type of couplings between electronic states (typical for open-shell diatomics and excited states). Possible couplings include spin�orbit, angular momenta, spin-rotational and spin�spin. Corrections due to non-adiabatic effects can be accounted for by introducing the relevant couplings using so-called Born�Oppenheimer breakdown curves. Duo requires user-specified potential energy curves and, if relevant, dipole moment, coupling and correction curves. From these it computes energy levels, line positions and line intensities. Several analytic forms plus interpolation and extrapolation options are available for representation of the curves. Duo can refine potential energy and coupling curves to best reproduce reference data such as experimental energy levels or line positions. Duo is provided as a Fortran�2003 program and has been tested under a variety of operating systems. Program summary Program title:Duo Catalogue identifier: AEZJ_v1_0 rogram summary URL:http://cpc.cs.qub.ac.uk/summaries/AEZJ_v1_0.html Program obtainable from: \{CPC\} Program Library, Queen�s University, Belfast, N. Ireland Licensing provisions: Standard \{CPC\} licence, http://cpc.cs.qub.ac.uk/licence/licence.html No. of lines in distributed program, including test data, etc.: 187443 No. of bytes in distributed program, including test data, etc.: 6968371 Distribution format: tar.gz Programming language: Fortran 2003. Computer: Any personal computer. Operating system: Linux, Windows, Mac OS. Has the code been vectorized or parallelized?: Parallelized RAM: Case dependent, typically &lt; 10 \{MB\} Classification: 4.3, 4.9, 16.2, 16.3. Nature of problem: Solving the Schr�dinger equation for the nuclear motion of a diatomic molecule with an arbitrary number and type of couplings between electronic states. Solution method: Solution of the uncoupled problem first, then basis set truncation and solution of the coupled problem. A line list can be computed if a dipole moment function is provided. The potential energy and other curves can be empirically refined by fitting to experimental energies or frequencies, when provided. Restrictions: The current version is restricted to bound states of the system. Unusual features: User supplied curves for all objects (potential energies, spin�orbit and other couplings, dipole moment etc.) as analytic functions or on a grid is a program requirement. Running time: Case dependent. The test runs provided take seconds or a few minutes on a normal PC. }
 }
 
-@article{ NEMESIS,
-title = {The {NEMESIS} planetary atmosphere radiative transfer and retrieval tool },
-journal = JQSRT,
-volume = {109},
-pages = {1136 - 1150},
-year = {2008},
-author = {P. G. J. Irwin and N. A. Teanby and R. {de Kok} and L. N. Fletcher and C. J. A. Howett and C. C. C. Tsang and C. F. Wilson and S. B. Calcutt and C. A. Nixon and P. D. Parrish},
-keywords = {Retrievals},
-keywords = {Radiative transfer},
-keywords = {Correlated-k },
-abstract = {With the exception of in situ atmospheric probes, the most useful way to study the atmospheres of other planets is to observe their electromagnetic spectra through remote observations, either from ground-based telescopes or from spacecraft. Atmospheric properties most consistent with these observed spectra are then derived with retrieval models. All retrieval models attempt to extract the maximum amount of atmospheric information from finite sets of data, but while the problem to be solved is fundamentally the same for any planetary atmosphere, until now all such models have been assembled ad hoc to address data from individual missions. In this paper, we describe a new general-purpose retrieval model, Non-linear Optimal Estimator for MultivariatE Spectral analySIS (NEMESIS), which was originally developed to interpret observations of Saturn and Titan from the composite infrared spectrometer on board the \{NASA\} Cassini spacecraft. {NEMESIS} has been constructed to be generally applicable to any planetary atmosphere and can be applied from the visible/near-infrared right out to microwave wavelengths, modelling both reflected sunlight and thermal emission in either scattering or non-scattering conditions. {NEMESIS} has now been successfully applied to the analysis of data from many planetary missions and also ground-based observations. }
+@article{HAPI,
+        title = {{HITRAN Application Programming Interface (HAPI): A comprehensive approach to working with spectroscopic data}},
+        journal = JQSRT,
+        volume = {177},
+        pages = {15 - 30},
+        year = {2016},
+	doi = {10.1016/j.jqsrt.2016.03.005},
+        author = {R. V. Kochanov and I. E. Gordon and L. S. Rothman and P. Wcis\l{}o and C. Hill and J. S. Wilzewski},
+        keywords = {HITRAN, Application Programming Interface, API, Spectra simulation, HITRANonline}
 }
 
-@article{ ATMO,
-Author = {Drummond, B. and Tremblin, P. and Baraffe, I. and Amundsen, D. S. and
-   Mayne, N. J. and Venot, O. and Goyal, J.},
-Title = {{The effects of consistent chemical kinetics calculations on the
-   pressure-temperature profiles and emission spectra of hot Jupiters}},
-Journal = AA,
-Year = {{2016}},
-Volume = {{594}},
-Abstract = {{In this work we investigate the impact of calculating non-equilibrium
-   chemical abundances consistently with the temperature structure for the
-   atmospheres of highly-irradiated, close-in gas giant exoplanets.
-   Chemical kinetics models have been widely used in the literature to
-   investigate the chemical compositions of hot Jupiter atmospheres which
-   are expected to be driven away from chemical equilibrium via processes
-   such as vertical mixing and photochemistry. All of these models have so
-   far used pressure temperature (P-T) profiles as fixed model input. This
-   results in a decoupling of the chemistry from the radiative and thermal
-   properties of the atmosphere, despite the fact that in nature they are
-   intricately linked. We use a one-dimensional radiative-convective
-   equilibrium model, ATMO, which includes a sophisticated chemistry scheme
-   to calculate P-T profiles which are fully consistent with
-   non-equilibrium chemical abundances, including vertical mixing and
-   photochemistry. Our primary conclusion is that, in cases of strong
-   chemical disequilibrium, consistent calculations can lead to differences
-   in the P-T profile of up to 100 K compared to the P-T profile derived
-   assuming chemical equilibrium. This temperature change can, in turn,
-   have important consequences for the chemical abundances themselves as
-   well as for the simulated emission spectra. In particular, we find that
-   performing the chemical kinetics calculation consistently can reduce the
-   overall impact of non-equilibrium chemistry on the observable emission
-   spectrum of hot Jupiters. Simulated observations derived from
-   non-consistent models could thus yield the wrong interpretation. We show
-   that this behaviour is due to the non-consistent models violating the
-   energy budget balance of the atmosphere.}},
-DOI = {{10.1051/0004-6361/20162.8799}},
-pages = {A69}}
 
-
-@ARTICLE{ SPFIT,
-   author = {{Pickett}, H.~M.},
-    title = "{The fitting and prediction of vibration-rotation spectra with spin interactions}",
-  journal = JMS,
-     year = 1991,
-   volume = 148,
-    pages = {371-377},
-      doi = {10.1016/0022-2852(91)90393-O},
+@MISC{MOLPRO2015,
+   author       = "H. J. Werner and P. J. Knowles and G. Knizia and F. R. Manby and M. Sch{\"{u}}tz
+   and P. Celani and W. Gy{\H{o}}rffy and D. Kats and T. Korona and R. Lindh and A. Mitrushenkov
+   and G. Rauhut and K. R. Shamasundar and T. B. Adler and R. D. Amos
+   and A. Bernhardsson and A. Berning and D. L. Cooper and M. J. O. Deegan and A. J. Dobbyn and
+   F. Eckert and E. Goll and C. Hampel and A. Hesselmann and G. Hetzer and T. Hrenar and G. Jansen and C. K{\"{o}}ppl
+   and Y. Liu and A. W. Lloyd and R. A. Mata and A. J. May and S. J. McNicholas and W. Meyer and
+   M. E. Mura and A. Nicklass and D. P. O'Neill and P. Palmieri and D. Peng and K. Pfl{\"{u}}ger and R. Pitzer and M. Reiher and
+   T. Shiozaki and H. Stoll and A. J. Stone and R. Tarroni and T. Thorsteinsson and M. Wang",
+   title        = "MOLPRO, version 2015.1, a package of ab initio programs",
+   howpublished = "http://www.molpro.net",
+   institute    = "",
+   address      = "",
+   year         = "2015",
 }
 
 
@@ -470,23 +384,122 @@ Deroo and Dave Crisp and Yuk L. Yung},
   year={2013},
   abstract={Exoplanet atmosphere spectroscopy enables us to improve our understanding of exoplanets just as remote sensing in our own solar system has increased our understanding of the solar system bodies. The challenge is to quantitatively determine the range of temperatures and molecular abundances allowed by the data, which is often difficult given the low information content of most exoplanet spectra that commonly leads to degeneracies in the interpretation. A variety of spectral retrieval approaches have been applied to exoplanet spectra, but no previous investigations have sought to compare these approaches. We compare three different retrieval methods: optimal estimation, differential evolution Markov chain Monte Carlo, and bootstrap Monte Carlo on a synthetic water-dominated hot Jupiter. We discuss expectations of uncertainties in abundances and temperatures given current and potential future observations. In general, we find that the three approaches agree for high spectral resolution, high signal-to-noise data expected to come from potential future spaceborne missions, but disagree for low-resolution, low signal-to-noise spectra representative of current observations. We also compare the results from a parameterized temperature profile versus a full classical Level-by-Level approach and discriminate in which situations each of these approaches is applicable. Furthermore, we discuss the implications of our models for the inferred C-to-O ratios of exoplanetary atmospheres. Specifically, we show that in the observational limit of a few photometric points, the retrieved C/O is biased toward values near solar and near one simply due to the assumption of uninformative priors.}
 }
-	
+
+@article{MIRS ,
+Author = {Nikitin, A. V. and Rey, M. and Champion, J. P. and Tyuterev, Vl. G.},
+Title = {{Extension of the MIRS computer package for the modeling of molecular
+   spectra: From effective to full ab initio ro-vibrational Hamiltonians in
+   irreducible tensor form}},
+Journal = JQSRT,
+Year = {{2012}},
+Volume = {{113}},
+Pages = {1034-1042},
+DOI = {{10.1016/j.jqsrt.2012.01.027}},
+}
+
+@article{MOLPRO,
+	Abstract = {Molpro (available at http://www.molpro.net) is a general-purpose quantum
+	chemical program. The original focus was on high-accuracy wave function
+	calculations for small molecules, but using local approximations
+	combined with explicit correlation treatments, highly accurate coupled-cluster
+	calculations are now possible for molecules with up to approximately
+	100 atoms. Recently, multireference correlation treatments were also
+	made applicable to larger molecules. Furthermore, an efficient implementation
+	of density functional theory is available.},
+	Author = {Werner, Hans-Joachim and Knowles, Peter J. and Knizia, Gerald and Manby, Frederick R. and Sch\"utz, Martin},
+	Doi = {10.1002/wcms.82},
+	Journal = {WIREs Comput. Mol. Sci.},
+	Pages = {242--253},
+	Title = {Molpro: a general-purpose quantum chemistry program package},
+	Volume = {2},
+	Year = {2012}
+}
+
+@article{PHOENIX,
+        Author = {Jack, D and Hauschildt, P H and Baron, E},
+        Journal = AA,
+        Pages = {1043--1049},
+        Title = {Time-dependent radiative transfer with PHOENIX},
+        Volume = {502},
+        Year = {2009}}
+
+@ARTICLE{MULTIMODE.pro,
+  author = {Carter, Stuart and Sharma, Amit R. and Bowman, Joel M. and Rosmus,
+	Pavel and Tarroni, Riccardo},
+  title = {Calculations of rovibrational energies and dipole transition intensities
+	for polyatomic molecules using MULTIMODE},
+  journal = JCP,
+  year = {2009},
+  volume = {131},
+  pages = {224106},
+  doi = {http://dx.doi.org/10.1063/1.3266577}
+}
+
+@article{ NEMESIS,
+title = {The {NEMESIS} planetary atmosphere radiative transfer and retrieval tool },
+journal = JQSRT,
+volume = {109},
+pages = {1136 - 1150},
+year = {2008},
+author = {P. G. J. Irwin and N. A. Teanby and R. {de Kok} and L. N. Fletcher and C. J. A. Howett and C. C. C. Tsang and C. F. Wilson and S. B. Calcutt and C. A. Nixon and P. D. Parrish},
+keywords = {Retrievals},
+keywords = {Radiative transfer},
+keywords = {Correlated-k },
+abstract = {With the exception of in situ atmospheric probes, the most useful way to study the atmospheres of other planets is to observe their electromagnetic spectra through remote observations, either from ground-based telescopes or from spacecraft. Atmospheric properties most consistent with these observed spectra are then derived with retrieval models. All retrieval models attempt to extract the maximum amount of atmospheric information from finite sets of data, but while the problem to be solved is fundamentally the same for any planetary atmosphere, until now all such models have been assembled ad hoc to address data from individual missions. In this paper, we describe a new general-purpose retrieval model, Non-linear Optimal Estimator for MultivariatE Spectral analySIS (NEMESIS), which was originally developed to interpret observations of Saturn and Titan from the composite infrared spectrometer on board the \{NASA\} Cassini spacecraft. {NEMESIS} has been constructed to be generally applicable to any planetary atmosphere and can be applied from the visible/near-infrared right out to microwave wavelengths, modelling both reflected sunlight and thermal emission in either scattering or non-scattering conditions. {NEMESIS} has now been successfully applied to the analysis of data from many planetary missions and also ground-based observations. }
+}
 
 
+@article{ DEWE,
+Author = {M\'atyus, E. and Czak\'o, G. and Sutcliffe, B. T. and Cs\'asz\'ar,
+   A. G.},
+Title = {Vibrational energy levels with arbitrary potentials using the
+   Eckart-Watson Hamiltonians and the discrete variable representation},
+Year = {2007},
+Volume = {127},
+DOI = {10.1063/1.2756518},
+Pages = {084102},
+Journal = JCP,
+}
 
-@article{ SpectraPlot.com,
-title = {SpectraPlot.com: Integrated Spectroscopic Modeling of Atomic and Molecular Gases },
-journal = {Journal of Quantitative Spectroscopy and Radiative Transfer },
-volume = {200},
-number = {},
-pages = {249 - 257},
-year = {2017},
-note = {},
-issn = {0022-4073},
-doi = {https://doi.org/10.1016/j.jqsrt.2017.06.007},
-url = {http://www.sciencedirect.com/science/article/pii/S0022407317302996},
-author = {Christopher S. Goldenstein and Victor A. Miller and R. Mitchell Spearrin and Christopher L. Strand},
-abstract = {Abstract SpectraPlot is a web-based application for simulating spectra of atomic and molecular gases. At the time this manuscript was written, SpectraPlot consisted of four primary tools for calculating: 1) atomic and molecular absorption spectra, 2) atomic and molecular emission spectra, 3) transition linestrengths, and 4) blackbody emission spectra. These tools currently employ the NIST ASD, HITRAN2012, and HITEMP2010 databases to perform line-by-line simulations of spectra. SpectraPlot employs a modular, integrated architecture, enabling multiple simulations across multiple databases and/or thermodynamic conditions to be visualized in a single interactive plot window. The primary objective of this paper is to describe the architecture and spectroscopic models employed by SpectraPlot in order to provide its users with the knowledge required to understand the capabilities and limitations of simulations performed using SpectraPlot. Further, this manuscript discusses the accuracy of several underlying approximations used to decrease computational time, namely, the use of far-wing cutoff criteria. }
+
+@Article{ MARVEL,
+author = {T. Furtenbacher AND A. G. {Cs\'asz\'ar} AND J. Tennyson},
+title = {{MARVEL: measured active rotational-vibrational energy levels}},
+journal = JMS,
+year  = {2007},
+volume  = {245},
+pages = {115-125},
+}
+
+@article{ TROVE,
+	Abstract = {We present a new computational method with associated computer program
+	TROVE (Theoretical ROVibrational Energies) to perform variational
+	calculations of rovibrational energies for general polyatomic molecules
+	of arbitrary structure in isolated electronic states. The (approximate)
+	nuclear kinetic energy operator is represented as an expansion in
+	terms of internal coordinates. The main feature of the computational
+	scheme is a numerical construction of the kinetic energy operator,
+	which is an integral part of the computation process. Thus the scheme
+	is self-contained, i.e., it requires no analytical pre-derivation
+	of the kinetic energy operator. It is also general, since it can
+	be used in connection with any internal coordinates. The method represents
+	an extension of our model for pyramidal XY3 molecules reported previously
+	{[}S.N. Yurchenko, M. Carvajal, P. Jensen, H. Lin, J.J. Zheng, W.
+	Thiel, Mol. Phys. 103 (2005) 359]. Non-rigid molecules are treated
+	in the Hougen-Bunker-Johns approach {[}J.T. Hougen, P.R. Bunker,
+	J.W.C. Johns, J. Mol. Spectrosc. 34 (1970) 136]. In this case, the
+	variational calculations employ a numerical finite basis representation
+	for the large-amplitude motion using basis functions that are generated
+	by Numerov-Cooley integration of the appropriate one-dimensional
+	Schrodinger equation. (c) 2007 Elsevier Inc. All rights reserved.},
+	Author = {Yurchenko, Sergei N. and Thiel, Walter and Jensen, Per},
+	Doi = {10.1016/j.jms.2007.07.009},
+	Journal = JMS,
+	Journal-Iso = {J. Mol. Spectrosc.},
+	Pages = {126-140},
+	Title = {Theoretical {ROV}ibrational {E}nergies ({TROVE}): {A} robust numerical approach to the calculation of rovibrational energies for polyatomic molecules},
+	Volume = {245},
+	Year = {2007}
 }
 
 
@@ -498,40 +511,84 @@ year    = {2005},
 note    = {See http://www-stone.ch.cam.ac.uk/programs/}
 }
 
-@ARTICLE{ 17Min,
-   author = {{Min}, M.},
-    title = {Random sampling technique for ultra-fast computations of molecular opacities for exoplanet atmospheres},
-  journal = AA,
- keywords = {Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
-     year = {2017},
-volume = {607},
-number = {A9},
-      doi = {10.1051/0004-6361/201731612},
+
+@article{ WAVR4,
+Author = {Kozin, IN and Law, MM and Tennyson, J and Hutson, JM},
+Title = {New vibration-rotation code for tetraatomic molecules exhibiting
+   wide-amplitude motion: WAVR4},
+Journal = CPC,
+Year = {2004},
+Volume = {163},
+Pages = {117-131},
+Abstract = {A general computational method for the accurate calculation of
+   rotationally and vibrationally excited states of tetraatomic molecules
+   is developed. The resulting program is particularly appropriate for
+   molecules executing wide-amplitude motions and isomerizations. The
+   program offers a choice of coordinate systems based on Radau, Jacobi,
+   diatom-diatom and orthogonal satellite vectors. The method includes all
+   six vibrational dimensions plus three rotational dimensions.
+   Vibration-rotation calculations with reduced dimensionality in the
+   radial degrees of freedom are easily tackled via constraints imposed on
+   the radial coordinates via the input file.},
+DOI = {10.1016/j.cpc.2004.07.005},
+Keywords = {ro-vibrational; bound states; wavefunctions; body-fixed; discrete
+   variable representatiom; finite basis representation; tetraatomic;
+   4-atom},
+Journal-ISO = {Comput. Phys. Commun.},
 }
 
 
-@article{ HyDRA,
-author = {Gandhi, Siddharth and Madhusudhan, Nikku},
-title = {Retrieval of Exoplanet Emission Spectra with HyDRA},
-journal = MNRAS,
-volume = {},
-number = {},
-pages = {stx2748},
-year = {2017},
-doi = {10.1093/mnras/stx2748},
-URL = { + http://dx.doi.org/10.1093/mnras/stx2748},
-eprint = {/oup/backfile/content_public/journal/mnras/pap/10.1093_mnras_stx2748/1/stx2748.pdf}
+
+@article{ DVR3D,
+Author = {Tennyson, J and Kostin, M A and Barletta, P and Harris, G J and Polyansky,
+   O L and Ramanlal, J and Zobov, N F},
+Title = {DVR3D: a program suite for the calculation of rotation-vibration spectra
+   of triatomic molecules},
+Journal = CPC,
+Year = {2004},
+Volume = {163},
+Pages = {85-116},
+Abstract = {The DVR3D program suite calculates energy levels, wavefunctions, and
+   where appropriate dipole transition moments, for rotating and vibrating
+   triatomic molecules. Potential energy and, where necessary, dipole
+   surfaces must be provided. Expectation values of geometrically defined
+   functions can be calculated, a feature which is particularly useful for
+   fitting potential energy surfaces. The programs use an exact (within the
+   Born-Oppenheimer approximation) Hamiltonian and offer a choice of Jacobi
+   or Radau internal coordinates and several body-fixed axes. Rotationally
+   excited states are treated using an efficient two-step algorithm. The
+   programs uses a Discrete Variable Representation (DVR) based on
+   Gauss-Jacobi and Gauss-Laguerre quadrature for all 3 internal
+   coordinates and thus yields a fully point-wise representation of the
+   wavefunctions. The vibrational step uses successive diagonalisation and
+   truncation which is implemented for a number of possible coordinate
+   orderings. The rotational, expectation value and transition dipole
+   programs exploit the savings offered by performing integrals on a DVR
+   grid. The new version has been rewritten in FORTRAN 90 to exploit the
+   dynamic array allocations and the algorithm for dipole and spectra
+   calculations have been substantially improved. New modules allow the
+   z-axis to be embedded perpendicular to the plane of the molecule and for
+   the calculation of expectation values.},
+DOI = {10.1016/j.cpc.2003.10.003},
+Keywords = {molecular spectra; infrared; microwave; variational principle;
+   expectation values; Born-Oppenheimer approximation; triatomic molecules},
+Keywords-Plus = {POTENTIAL-ENERGY SURFACE; AB-INITIO CALCULATION; VARIATIONAL
+   CALCULATIONS; TRANSITION INTENSITIES; SPECTROSCOPIC ACCURACY;
+   PARTITION-FUNCTIONS; FLOPPY MOLECULES; LINE ASSIGNMENTS; H-3(+)
+   MOLECULE; 1ST PRINCIPLES},
+Journal-ISO = {Comput. Phys. Commun.},
 }
 
 
-@ARTICLE{MCTDH,
-  author = {Beck, M H and J\"{a}ckle, A and Worth, G A and Meyer, H D},
-  title = {The multiconfiguration time-dependent Hartree (MCTDH) method: a highly
-	efficient algorithm for propagating wavepackets},
-  year = {2000},
-  volume = {324},
-  pages = {1-105},
-  abstract = {A review is given on the multiconfiguration time-dependent Hartree
+@ARTICLE{00BeJaWo,
+author = {Beck, M. H. and J\"{a}ckle, A. and Worth, G. A. and Meyer, H. D.},
+title = {{The multiconfiguration time-dependent Hartree (MCTDH) method: a highly
+	efficient algorithm for propagating wavepackets}},
+journal = {Physics Reports},
+year = {2000},
+volume = {324},
+pages = {1-105},
+abstract = {A review is given on the multiconfiguration time-dependent Hartree
 	(MCTDH) method, which is an algorithm for propagating wavepackets.
 	The formal derivation, numerical implementation, and performance
 	of the method are detailed. As demonstrated by example applications,
@@ -549,66 +606,66 @@ eprint = {/oup/backfile/content_public/journal/mnras/pap/10.1093_mnras_stx2748/1
 	for determining optimal fits of product form. An alternative to the
 	product representation, the correlation discrete variable representation
 	(CDVR) method, is also briefly discussed. },
-  doi = {10.1016/S0370-1573(99)00047-2},
-  keywords = {MCTDH; multi-dimensional wavefunction propagation; quantum molecular
+doi = {10.1016/S0370-1573(99)00047-2},
+keywords = {MCTDH; multi-dimensional wavefunction propagation; quantum molecular
 	dynamics},
-  keywords-plus = {DISCRETE VARIABLE REPRESENTATION; POTENTIAL-ENERGY SURFACES; ABSORBING
-	BOUNDARY-CONDITIONS; SELF-CONSISTENT-FIELD; COUPLING WAVE-PACKET;
-	MECHANICAL REACTIVE SCATTERING; FILTER-DIAGONALIZATION METHOD; QUANTUM
-	MOLECULAR-DYNAMICS; REACTION CROSS-SECTIONS; SINGLE-PARTICLE STATES}
+keywords-plus = {Discrete Variable Representation; Potential-Energy Surfaces; Absorbing
+	Boundary-Conditions; Self-Consistent-Field; Coupling Wave-Packet;
+	Mechanical Reactive Scattering; Filter-Diagonalization Method; Quantum
+	Molecular-Dynamics; Reaction Cross-Sections; Single-Particle States}
 }
 
 
-@misc{ maxima,
-note    = {\textit{http://maxima.sourceforge.net/documentation.html}, downloaded on September 20th, 2018}
-}
-
-@article{ GAIN,
-Author = {Al-Refaie, Ahmed F. and Yurchenko, Sergei N. and Tennyson, Jonathan},
-Title = {GPU Accelerated INtensities MPI (GAIN-MPI): A new method of computing
-   Einstein-A coefficients},
-Journal = CPC,
-Year = {2017},
-Volume = {214},
-Pages = {216-224},
-Abstract = {Calculating dipole transition intensities or the related Einstein A
-   coefficients can dominate the computer usage for large line lists of
-   transitions such as those being computed to model radiative transport
-   through hot atmospheres. An algorithm for the efficient computation of
-   line strengths is presented based on the use of the half-linestrength.
-   This is implemented on GPUs that are shown to give up to a thousandfold
-   speed-up compared to calculations on conventional computers. This
-   algorithm is implemented in the program GAIN which was developed as part
-   of the TROVE nuclear motion program, but can be adapted for use by other
-   similar programs in a straightforward fashion.
-   Program summary
-   Program title: GAIN-MPI
-   Program Files doi: http://dx.doLorg/10.17632/4x75jsphc6.1
-   Licensing provisions: MIT licence.
-   Programming language: C++ 99, CUDA C and Fortran 95.
-   Nature of problem: Computation of linestrengths using GPU hardware
-   Solution method: Split the linestrength into smaller blocks and compute
-   them in the GPU in parallel
-   Restrictions: The current version is restricted to separable
-   rovibrational basis sets
-   Unusual features: Can be extended by user supplied concrete C++ classes
-   for the MPI version (C) 2017 Elsevier B.V. All rights reserved.},
-DOI = {10.1016/j.cpc.2017.01.013},
-Keywords = {Rotation-vibration spectra; Transition probabilities; Intensities}
+@ARTICLE{ VTET,
+  author = { D. W. Schwenke},
+  title = {Variational calculations of rovibrational energy levels and transition
+	intensities for tetratomic molecules},
+  journal = JPC,
+  year = {1996},
+  volume = {100},
+  pages = {2867-2884},
+  abstract = {A description is given of an algorithm for computing rovibrational
+	energy levels for tetratomic molecules. The expressions required
+	for evaluating transition intensities are also given. The variational
+	principle is used to determine the energy levels, and the kinetic
+	energy operator is simple and evaluated exactly. The computational
+	procedure is split up into the determination of one-dimensional radial
+	basis functions, the computation of a contracted rotational-bending
+	basis, followed by a final variational step coupling all degrees
+	of freedom. An angular basis is proposed whereby the rotational-bending
+	contraction takes place in three steps. Angular matrix elements of
+	the potential are evaluated by expansion in terms of a suitable basis,
+	and the angular integrals are given in a factorized form which simplifies
+	their evaluation. The basis functions in the final variational step
+	have the full permutation symmetries of the identical particles.
+	Sample results are given for HCCH and BH3.}
 }
 
 
-@Misc{DIRAC18,
-      note = "{DIRAC}, a relativistic ab initio electronic structure program,
-      Release {DIRAC18} (2018),
-      written by T.~Saue, L.~Visscher, H.~J.~{\relax Aa}.~Jensen, and R.~Bast,
-      with contributions from V.~Bakken, K.~G.~Dyall, S.~Dubillard, U.~Ekstr{\"o}m,
-      E.~Eliav, T.~Enevoldsen, E.~Fa{\ss}hauer, T.~Fleig, O.~Fossgaard, A.~S.~P.~Gomes,
-      E.~D.~Hedeg{\aa}rd, T.~Helgaker, J.~Henriksson, M.~Ilia{\v{s}}, Ch.~R.~Jacob, S.~Knecht,
-      S.~Komorovsk{\'y}, O.~Kullie, J.~K.~L{\ae}rdahl, C.~V.~Larsen, Y.~S.~Lee,
-      H.~S.~Nataraj, M.~K.~Nayak, P.~Norman, G.~Olejniczak, J.~Olsen, J.~M.~H.~Olsen, Y.~C.~Park,
-      J.~K.~Pedersen, M.~Pernpointner, R.~di~Remigio, K.~Ruud, P.~Sa{\l}ek, B.~Schimmelpfennig,
-      A.~Shee, J.~Sikkema, A.~J.~Thorvaldsen, J.~Thyssen, J.~van~Stralen, S.~Villaume, O.~Visser,
-      T.~Winther, and S.~Yamamoto (available at https://doi.org/10.5281/zenodo.2253986,
-      see also http://www.diracprogram.org)"
+@ARTICLE{ SPFIT,
+   author = {{Pickett}, H.~M.},
+    title = "{The fitting and prediction of vibration-rotation spectra with spin interactions}",
+  journal = JMS,
+     year = 1991,
+   volume = 148,
+    pages = {371-377},
+      doi = {10.1016/0022-2852(91)90393-O},
 }
+
+
+@ARTICLE{ MORBID,
+  author = {Jensen, P},
+  title = {A NEW MORSE OSCILLATOR-RIGID BENDER INTERNAL DYNAMICS (MORBID) HAMILTONIAN
+	FOR TRIATOMIC-MOLECULES},
+  journal = JMS,
+  year = {1988},
+  volume = {128},
+  pages = {478-501},
+  doi = {10.1016/0022-2852(88)90164-6},
+  journal-iso = {J. Mol. Spectrosc.},
+  times-cited = {199}
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: saveOrderConfig:specified;year;true;journal;false;author;false;}

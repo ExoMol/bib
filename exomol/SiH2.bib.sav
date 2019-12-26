@@ -1,86 +1,5 @@
 % Encoding: UTF-8
 
-
-@article{88JaChxx.SiH2,
-Author = {Jasinski, J.M. and Chu, J. O. },
-Title = {Absolute rate constants for the reaction of silylene with hydrogen, silane, and disilane},
-Journal = JCP,
-Year = {1988},
-Volume = {88},
-Pages = {1678-1687},
-DOI = {10.1063/1.454146}
-}
-
-@article{87BeGrCh.SiH2,
-  doi = {10.1063/1.452213},
-  url = {https://doi.org/10.1063/1.452213},
-  year = {1987},
-  month = feb,
-  publisher = {{AIP} Publishing},
-  volume = {86},
-  number = {3},
-  pages = {1235--1248},
-  author = {J. Berkowitz and J. P. Greene and H. Cho and B. Ru{\v{s}}{\v{c}}i{\'{c}}},
-  title = {{Photoionization mass spectrometric studies of {SiH$n$} ($n=1-4$)}},
-  journal = JCP
-}
-
-
-@article{87JaMeSc.SiH2,
-Author = {Jasinski, J.M. and Meyerson, B. S. and Scott, B. A. },
-Title = {MECHANISTIC STUDIES OF CHEMICAL VAPOR-DEPOSITION},
-Journal = ARPC,
-Year = {1987},
-Volume = {38},
-Pages = {109-140},
-DOI = {10.1146/annurev.physchem.38.1.109}
-}
-
-@article{83HaMaTa.SiH2,
-Author = {Hata, N. and Matsuda, A. and Tanaka, K.},
-Title = {NEUTRAL RADICAL DETECTION IN SILANE GLOW-DISCHARGE PLASMA USING COHERENT
-   ANTI-STOKES RAMAN-SPECTROSCOPY},
-Journal = {JOURNAL OF NON-CRYSTALLINE SOLIDS},
-Year = {1983},
-Volume = {59-6},
-Number = {DEC},
-Pages = {667-670},
-DOI = {10.1016/0022-3093(83)90259-4}
-}
-
-@article{15BhKaBa.SiH2,
-Author = {Bharadvaja, Anand and Kaur, Savinder and Baluja, K. L.},
-Title = {{Electron-impact cross sections of SiH$_2$ using the R-matrix method at low
-   energy}},
-Journal = PRA,
-Year = {2015},
-Volume = {91},
-Number = {3},
-DOI = {10.1103/PhysRevA.91.032701}
-}
-
-@article{09vaKrBo.SiH2,
-Author = {van Dijk, J. and Kroesen, G. M. W. and Bogaerts, A.},
-Title = {{Plasma modelling and numerical simulation}},
-Journal = JPD,
-Year = {2009},
-Volume = {42},
-Number = {19},
-DOI = {10.1088/0022-3727/42/19/190301}
-}
-
-
-@article{90DoDoGa.SiH2,
-Author = {Doyle, J. R. and Doughty, D. A. and Gallagher, A.},
-Title = {{Silane Dissociation Products in Deposition Discharges}},
-Journal = JAP,
-Year = {1990},
-Volume = {68},
-Number = {9},
-Pages = {4375-4384},
-DOI = {10.1063/1.346186}
-}
-
 @article{17WuZhCh.SiH2,
 Author = {Wu, Yanan and Zhang, Chunfang and Ma, Haitao},
 Title = {{Ab initio conical intersections for the Si(D-1) + H-2 reaction system: a
@@ -187,6 +106,27 @@ of the intersystem crossing. Also, the larger triplet state lifetime obtained
 from NA-TST could be a result of the quantum sampling of rovibrational states,
 which is missing in classical trajectories traversing the crossing seam.},
 DOI = {10.1021/jp509515e}
+}
+
+@article{15BhKaBa.SiH2,
+Author = {Bharadvaja, Anand and Kaur, Savinder and Baluja, K. L.},
+Title = {{Electron-impact cross sections of SiH$_2$ using the R-matrix method at low
+   energy}},
+Journal = PRA,
+Year = {2015},
+Volume = {91},
+Number = {3},
+DOI = {10.1103/PhysRevA.91.032701}
+}
+
+@article{09vaKrBo.SiH2,
+Author = {van Dijk, J. and Kroesen, G. M. W. and Bogaerts, A.},
+Title = {{Plasma modelling and numerical simulation}},
+Journal = JPD,
+Year = {2009},
+Volume = {42},
+Number = {19},
+DOI = {10.1088/0022-3727/42/19/190301}
 }
 
 
@@ -698,21 +638,6 @@ DOI = {10.1021/jp003029y}
 }
 
 
-@article{99McChxx.SiH2,
-  doi = {10.1046/j.1365-8711.1999.02175.x},
-  url = {https://doi.org/10.1046/j.1365-8711.1999.02175.x},
-  year = {1999},
-  month = feb,
-  publisher = {Oxford University Press ({OUP})},
-  volume = {302},
-  number = {4},
-  pages = {793--800},
-  author = {D. D. S. MacKay and S. B. Charnley},
-  title = {The silicon chemistry of {IRC}+10216},
-  journal = MNRAS
-}
-
-
 @article{99HiIsxx.SiH2,
 Author = {Hirota, E. and Ishikawa, H.},
 Title = {{The vibrational spectrum and molecular constants of silicon dihydride
@@ -764,6 +689,21 @@ Abstract = {Recently developed single-root multireference Brillouin-Wigner
    problem of size-extensivity is discussed. (C) 1999 American Institute of
    Physics. {[}S0021-9606(99)30421-9].},
 DOI = {10.1063/1.478961}
+}
+
+
+@article{99McChxx.SiH2,
+  doi = {10.1046/j.1365-8711.1999.02175.x},
+  url = {https://doi.org/10.1046/j.1365-8711.1999.02175.x},
+  year = {1999},
+  month = feb,
+  publisher = {Oxford University Press ({OUP})},
+  volume = {302},
+  number = {4},
+  pages = {793--800},
+  author = {D. D. S. MacKay and S. B. Charnley},
+  title = {The silicon chemistry of {IRC}+10216},
+  journal = MNRAS
 }
 
 
@@ -1486,6 +1426,18 @@ DOI = {10.1016/0022-2852(91)90252-6}
 }
 
 
+@article{90DoDoGa.SiH2,
+Author = {Doyle, J. R. and Doughty, D. A. and Gallagher, A.},
+Title = {{Silane Dissociation Products in Deposition Discharges}},
+Journal = JAP,
+Year = {1990},
+Volume = {68},
+Number = {9},
+Pages = {4375-4384},
+DOI = {10.1063/1.346186}
+}
+
+
 @article{89YaKaHi.SiH2,
 Author = {Yamada, C. and Kanamori, H. and Hirota, E. and Nishiwaki, N. and Itabashi, N.
    and Kato, K. and Goto, T.},
@@ -1590,6 +1542,17 @@ DOI = {10.1063/1.454069}
 }
 
 
+@article{88JaChxx.SiH2,
+Author = {Jasinski, J.M. and Chu, J. O. },
+Title = {Absolute rate constants for the reaction of silylene with hydrogen, silane, and disilane},
+Journal = JCP,
+Year = {1988},
+Volume = {88},
+Pages = {1678-1687},
+DOI = {10.1063/1.454146}
+}
+
+
 @article{88SeSaxx.SiH2,
 Author = {Selmani, A. and Salahub, D. R.},
 Title = {{On the singlet triplet splitting in SiH2, GeH2, and SnH2. Local-spin-density
@@ -1635,6 +1598,17 @@ values are 1.385 and 1.124 eV). For the 3B1—1A1, energy gap in SiH2, compariso
 with available full CI results was also made. The best estimate for this quantity
 in the present work is 19.9 kcal mol−1 (expt. 21.0 ± 0.7 kcal mol−1).},
 doi = {10.1016/0166-1280(88)80159-3}
+}
+
+
+@article{87JaMeSc.SiH2,
+Author = {Jasinski, J.M. and Meyerson, B. S. and Scott, B. A. },
+Title = {MECHANISTIC STUDIES OF CHEMICAL VAPOR-DEPOSITION},
+Journal = ARPC,
+Year = {1987},
+Volume = {38},
+Pages = {109-140},
+DOI = {10.1146/annurev.physchem.38.1.109}
 }
 
 
@@ -1728,6 +1702,20 @@ help calibrate methods such as Green’s function approaches, equations of motio
 propagator methods, and cluster expansions, in which energy differences are computed
 directly.},
 DOI = {10.1063/1.452035}
+}
+
+@article{87BeGrCh.SiH2,
+  doi = {10.1063/1.452213},
+  url = {https://doi.org/10.1063/1.452213},
+  year = {1987},
+  month = feb,
+  publisher = {{AIP} Publishing},
+  volume = {86},
+  number = {3},
+  pages = {1235--1248},
+  author = {J. Berkowitz and J. P. Greene and H. Cho and B. Ru{\v{s}}{\v{c}}i{\'{c}}},
+  title = {{Photoionization mass spectrometric studies of {SiH$n$} ($n=1-4$)}},
+  journal = JCP
 }
 
 
@@ -2135,6 +2123,18 @@ the decomposing gas. The form of the time dependence of the emission is determin
 by the collisional energy pooling processes that produce highly excited SiH4 molecules
 and does not permit an assessment of the lifetime of the 1B1 state of SiH2.},
 DOI = {10.1063/1.93897}
+}
+
+@article{83HaMaTa.SiH2,
+Author = {Hata, N. and Matsuda, A. and Tanaka, K.},
+Title = {NEUTRAL RADICAL DETECTION IN SILANE GLOW-DISCHARGE PLASMA USING COHERENT
+   ANTI-STOKES RAMAN-SPECTROSCOPY},
+Journal = {JOURNAL OF NON-CRYSTALLINE SOLIDS},
+Year = {1983},
+Volume = {59-6},
+Number = {DEC},
+Pages = {667-670},
+DOI = {10.1016/0022-3093(83)90259-4}
 }
 
 

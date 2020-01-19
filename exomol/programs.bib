@@ -2,6 +2,7 @@
 
 
 
+
 @MISC{CFOUR-www,
   author = {J.F. Stanton and J. Gauss and M.E. Harding and {et al.}},
   note = {CFOUR, a quantum chemical program package written by J.F. Stanton,
@@ -258,14 +259,6 @@ note = {visited 01/11/2017},
 }
 
 
-@inproceedings{PLASMA,
-  title={Parallel reduction to condensed forms for symmetric eigenvalue problems using aggregated fine-grained and memory-aware kernels},
-  author={Haidar, Azzam and Ltaief, Hatem and Dongarra, Jack},
-  booktitle={Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis},
-  pages={8},
-  year={2011},
-  organization={ACM}
-}
 
 @article{ ATMO,
 Author = {Drummond, B. and Tremblin, P. and Baraffe, I. and Amundsen, D. S. and
@@ -416,20 +409,6 @@ abstract = {Duo is a general, user-friendly program for computing rotational, ro
 }
 
 
-@article{ELPA,
-	doi = {10.1088/0953-8984/26/21/213201},
-	url = {https://doi.org/10.1088%2F0953-8984%2F26%2F21%2F213201},
-	year = 2014,
-	month = {may},
-	publisher = {{IOP} Publishing},
-	volume = {26},
-	number = {21},
-	pages = {213201},
-	author = {A Marek and V Blum and R Johanni and V Havu and B Lang and T Auckenthaler and A Heinecke and H-J Bungartz and H Lederer},
-	title = {The {ELPA} library: scalable parallel eigenvalue solutions for electronic structure theory and computational science},
-	journal = {J. Phys. Condens. Matter},
-	abstract = {Obtaining the eigenvalues and eigenvectors of large matrices is a key problem in electronic structure theory and many other areas of computational science. The computational effort formally scales as O(N3) with the size of the investigated problem, N (e.g. the electron count in electronic structure theory), and thus often defines the system size limit that practical calculations cannot overcome. In many cases, more than just a small fraction of the possible eigenvalue/eigenvector pairs is needed, so that iterative solution strategies that focus only on a few eigenvalues become ineffective. Likewise, it is not always desirable or practical to circumvent the eigenvalue solution entirely. We here review some current developments regarding dense eigenvalue solvers and then focus on the Eigenvalue soLvers for Petascale Applications (ELPA) library, which facilitates the efficient algebraic solution of symmetric and Hermitian eigenvalue problems for dense matrices that have real-valued and complex-valued matrix entries, respectively, on parallel computer platforms. ELPA addresses standard as well as generalized eigenvalue problems, relying on the well documented matrix layout of the Scalable Linear Algebra PACKage (ScaLAPACK) library but replacing all actual parallel solution steps with subroutines of its own. For these steps, ELPA significantly outperforms the corresponding ScaLAPACK routines and proprietary libraries that implement the ScaLAPACK interface (e.g. Intel’s MKL). The most time-critical step is the reduction of the matrix to tridiagonal form and the corresponding backtransformation of the eigenvectors. ELPA offers both a one-step tridiagonalization (successive Householder transformations) and a two-step transformation that is more efficient especially towards larger matrices and larger numbers of CPU cores. ELPA is based on the MPI standard, with an early hybrid MPI-OpenMPI implementation available as well. Scalability beyond 10000 CPU cores for problem sizes arising in the field of electronic structure theory is demonstrated for current high-performance computer architectures such as Cray or Intel/Infiniband. For a matrix of dimension 260000, scalability up to 295000 CPU cores has been shown on BlueGene/P.}
-}
 
 
   	
@@ -515,6 +494,19 @@ DOI = {{10.1016/j.jqsrt.2012.01.027}},
 	volume = {627},
 	pages = {A67}
 }
+
+@ARTICLE{BLAS,
+  author = {L. S. Blackford and J. Demmel and J. Dongarra and I. Duff and S.
+	Hammarling and G. Henry and M. Heroux and L. Kaufman and A. Lumsdaine
+	and A. Petitet and R. Pozo and K. Remington and R. C. Whaley},
+  title = {An Updated Set of Basic Linear Algebra Subprograms (BLAS)},
+  journal = {ACM Transactions on Mathematical Software},
+  year = {2001},
+  volume = {28},
+  pages = {135--151}
+}
+
+
 
 @article{ NEMESIS,
 title = {The {NEMESIS} planetary atmosphere radiative transfer and retrieval tool },

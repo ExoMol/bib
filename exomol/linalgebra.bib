@@ -1,0 +1,247 @@
+     @article{PETSc,
+       author={Abhyankar, Shrirang and Brown, Jed and Constantinescu, Emil M and Ghosh, Debojyoti and Smith, Barry F and Zhang, Hong},
+       title={PETSc/TS: A Modern Scalable ODE/DAE Solver Library},
+       journal={arXiv preprint arXiv:1806.01437},
+       year={2018}
+     }
+
+  
+
+@article{ELPA,
+	doi = {10.1088/0953-8984/26/21/213201},
+	url = {https://doi.org/10.1088%2F0953-8984%2F26%2F21%2F213201},
+	year = 2014,
+	publisher = {{IOP} Publishing},
+	volume = {26},
+	number = {21},
+	pages = {213201},
+	author = {A Marek and V Blum and R Johanni and V Havu and B Lang and T Auckenthaler and A Heinecke and H-J Bungartz and H Lederer},
+	title = {The {ELPA} library: scalable parallel eigenvalue solutions for electronic structure theory and computational science},
+	journal = {J. Phys. Condens. Matter},
+	abstract = {Obtaining the eigenvalues and eigenvectors of large matrices is a key problem in electronic structure theory and many other areas of computational science. The computational effort formally scales as O(N3) with the size of the investigated problem, N (e.g. the electron count in electronic structure theory), and thus often defines the system size limit that practical calculations cannot overcome. In many cases, more than just a small fraction of the possible eigenvalue/eigenvector pairs is needed, so that iterative solution strategies that focus only on a few eigenvalues become ineffective. Likewise, it is not always desirable or practical to circumvent the eigenvalue solution entirely. We here review some current developments regarding dense eigenvalue solvers and then focus on the Eigenvalue soLvers for Petascale Applications (ELPA) library, which facilitates the efficient algebraic solution of symmetric and Hermitian eigenvalue problems for dense matrices that have real-valued and complex-valued matrix entries, respectively, on parallel computer platforms. ELPA addresses standard as well as generalized eigenvalue problems, relying on the well documented matrix layout of the Scalable Linear Algebra PACKage (ScaLAPACK) library but replacing all actual parallel solution steps with subroutines of its own. For these steps, ELPA significantly outperforms the corresponding ScaLAPACK routines and proprietary libraries that implement the ScaLAPACK interface (e.g. Intel’s MKL). The most time-critical step is the reduction of the matrix to tridiagonal form and the corresponding backtransformation of the eigenvectors. ELPA offers both a one-step tridiagonalization (successive Householder transformations) and a two-step transformation that is more efficient especially towards larger matrices and larger numbers of CPU cores. ELPA is based on the MPI standard, with an early hybrid MPI-OpenMPI implementation available as well. Scalability beyond 10000 CPU cores for problem sizes arising in the field of electronic structure theory is demonstrated for current high-performance computer architectures such as Cray or Intel/Infiniband. For a matrix of dimension 260000, scalability up to 295000 CPU cores has been shown on BlueGene/P.}
+}
+
+
+@article{13WiLaxx,
+  title={{A Framework for the MR$^{3}$ Algorithm: Theory and Implementation}},
+  author={Willems, Paul R and Lang, Bruno},
+  journal={SIAM J. on Sci. Comp.},
+  volume={35},
+  number={2},
+  pages={A740--A766},
+  year={2013},
+  publisher={SIAM}
+}
+
+
+@article{ Elemental,
+Author = {Poulson, Jack and Marker, Bryan and van de Geijn, Robert A. and Hammond,
+   Jeff R. and Romero, Nichols A.},
+Title = {{Elemental: A New Framework for Distributed Memory Dense Matrix
+   Computations}},
+Journal = {ACM T.  Math. Software},
+Year = {2013},
+Volume = {39},
+Number = {2},
+DOI = {{10.1145/2427023.2427030}}
+}
+
+
+
+@article{DAGuE,
+  title={{DAGuE: A generic distributed DAG engine for high performance computing}},
+  author={Bosilca, George and Bouteiller, Aurelien and Danalis, Anthony and Herault, Thomas and Lemarinier, Pierre and Dongarra, Jack},
+  journal={Parallel Comput.},
+  volume={38},
+  number={1-2},
+  pages={37--51},
+  year={2012},
+  publisher={Elsevier}
+}
+
+
+@book{12WiRexx,
+  title={Handbook for Automatic Computation: Volume II: Linear Algebra},
+  author={Wilkinson, John H and Reinsch, Christian},
+  volume={186},
+  year={2012},
+  publisher={Springer Science \& Business Media}
+}
+
+@article{libFLAME,
+  title={{The FLAME approach: From dense linear algebra algorithms to high-performance multi-accelerator implementations}},
+  author={Igual, Francisco D and Chan, Ernie and Quintana-Ort{\'\i}, Enrique S and Quintana-Ort{\'\i}, Gregorio and Van De Geijn, Robert A and Van Zee, Field G},
+  journal={J. Parallel  Distr. Comp.},
+  volume={72},
+  number={9},
+  pages={1134--1143},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{Eigenexa,
+  title={{Development of a high performance eigensolver on the petascale next generation supercomputer system}},
+  author={Imamura, Toshiyuki and Yamada, Susumu and Machida, Masahiko},
+  journal={Prog. Nucl. Sci. Technol.},
+  volume={2},
+  pages={643--650},
+  year={2011}
+}
+
+@Misc{NAPACK,
+      note = "http://www.netlib.org/napack/"
+}
+
+@inproceedings{11HaLtDo,
+  title={Parallel reduction to condensed forms for symmetric eigenvalue problems using aggregated fine-grained and memory-aware kernels},
+  author={Haidar, Azzam and Ltaief, Hatem and Dongarra, Jack},
+  booktitle={Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis},
+  pages={8},
+  year={2011},
+  organization={ACM}
+}
+
+
+@article{PLASMA,
+  author={Emmanuel Agullo and Jim Demmel and Jack Dongarra and Bilel Hadri and Jakub Kurzak and Julien Langou and Hatem Ltaief and Piotr Luszczek and Stanimire Tomov},
+  title={{Numerical linear algebra on emerging architectures: The PLASMA and MAGMA projects}},
+  journal={J. Phys. Conf. Ser.},
+  volume={180},
+  pages={012037},
+  year={2009},
+  abstract={{The emergence and continuing use of multi-core architectures and graphics processing units require changes in the existing software and sometimes even a redesign of the established algorithms in order to take advantage of now prevailing parallelism. Parallel Linear Algebra for Scalable Multi-core Architectures (PLASMA) and Matrix Algebra on GPU and Multics Architectures (MAGMA) are two projects that aims to achieve high performance and portability across a wide range of multi-core architectures and hybrid systems respectively. We present in this document a comparative study of PLASMA's performance against established linear algebra packages and some preliminary results of MAGMA on hybrid multi-core and GPU systems.}}
+}
+
+
+@misc{Eigen,
+  title={Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms},
+  author={Guennebaud, G and Jacob, B and others},
+  year={2010}
+}
+
+
+
+@inbook{10AgAuDo,
+  title={Faster, Cheaper, Better--a Hybridization Methodology to Develop Linear Algebra Software for},
+  author={Agullo, Emmanuel and Augonnet, C and Dongarra, J and Ltaief, H and Namyst, R and Thibault, S and Tomov, S},
+  publisher={Elsevier},
+  Editor = {Hwu, W.},
+  booktitle = {In GPU Computing Gems},
+  year={2010}
+}
+
+@article{MAGMA,
+  title={Towards dense linear algebra for hybrid GPU accelerated manycore systems},
+  author={{Tomov, Stanimire and Dongarra, Jack and Baboulin, Marc}},
+  journal={Parallel Comput.},
+  volume={36},
+  number={5-6},
+  pages={232--240},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{FEAST,
+  title={{Density-matrix-based algorithm for solving eigenvalue problems}},
+  author={Polizzi, Eric},
+  journal=PRB,
+  volume={79},
+  number={11},
+  pages={115112},
+  year={2009},
+  publisher={APS}
+}
+
+@article{11PePeBi,
+  title={{High-Performance Solvers for Large-Scale Dense Eigenproblems}},
+  author={Petschow, M and Peise, E and Bientinesi, P},
+  year={2011}
+}
+
+
+@book{97Demmel,
+  Author = {James W. Demmel},
+  Title = {{Applied Numerical Linear Algebra}},
+  Publisher = {Philadelphia, PA: Society for Industrial and Applied Mathematics (SIAM)},
+  Year = {1997},
+  ISBN = {0898713897},
+}
+
+
+
+@BOOK{ARPACK,
+  title = {ARPACK Users' Guide: Solution of Large-scale Eigenvalue Problems
+	with Implicitly Restarted Arnoldi Methods (Software, Environments
+	and Tools)},
+  publisher = {Society for Industrial \& Applied Mathematics, U.S.},
+  year = {1998},
+  author = {Lehoucq, R. B. and Sorensen, D. C. and Yang, C.},
+  note = {see {\footnotesize http://www.caam.rice.edu/software/ARPACK/}}
+}
+
+
+@book{PLAPACK,
+  title={Using PLAPACK--parallel linear algebra package},
+  author={Van de Geijn, Robert A and Alpatov, Philip},
+  year={1997},
+  publisher={MIT press}
+}
+
+
+@article{95Gu,
+  title={{A divide-and-conquer algorithm for the symmetric tridiagonal eigenproblem}},
+  author={Gu, Ming and Eisenstat, Stanley C},
+  journal={SIAM J. Matrix. Anal. A},
+  volume={16},
+  number={1},
+  pages={172--191},
+  year={1995},
+  publisher={SIAM}
+}
+
+@BOOK{ScaLAPACK,
+  title = {{ScaLAPACK} Users' Guide},
+  publisher = {Society for Industrial and Applied Mathematics},
+  year = {1997},
+  author = {Blackford, L. S. and Choi, J. and Cleary, A. and D'Azevedo, E. and
+	Demmel, J. and Dhillon, I. and Dongarra, J. and Hammarling, S. and
+	Henry, G. and Petitet, A. and Stanley, K. and Walker, D. and Whaley,
+	R. C.},
+  address = {Philadelphia, PA},
+}
+
+
+
+@article{80Cuppen,
+  title={{A divide and conquer method for the symmetric tridiagonal eigenproblem}},
+  author={Cuppen, Jan JM},
+  journal={Numer. Math.},
+  volume={36},
+  number={2},
+  pages={177--195},
+  year={1980},
+  publisher={Springer}
+}
+
+@article{62Francis,
+  title={{The QR transformation -- part 2}},
+  author={Francis, John GF},
+  journal={Comput. J.},
+  volume={4},
+  number={4},
+  pages={332--345},
+  year={1962},
+  publisher={Oxford University Press}
+}
+
+
+@article{61Francis,
+  title={{The QR transformation a unitary analogue to the LR transformation -- Part 1}},
+  author={Francis, John GF},
+  journal={Comput. J.},
+  volume={4},
+  number={3},
+  pages={265--271},
+  year={1961},
+  publisher={Oxford University Press}
+}

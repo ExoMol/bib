@@ -1,4 +1,53 @@
 % Encoding: UTF-8
+@article{17Wester,
+	series = {Satellite {Remote} {Sensing} and {Spectroscopy}: {Joint} {ACE}-{Odin} {Meeting}, {October} 2015},
+	title = {{PGOPHER}: {A} program for simulating rotational, vibrational and electronic spectra},
+	volume = {186},
+	issn = {00jqsrt22-4073},
+	doi = {10.1016/j.jqsrt.2016.04.010},
+	journal = {Journal of Quantitative Spectroscopy \& Radiative Transfer},
+	author = {Western, Colin M.},
+	year = {2017},
+	pages = {221--242},
+}
+
+@article{ 20SaPoSzCs,
+Author = {Sarka, Janos and Poirier, Bill and Szalay, Viktor and Csaszar, Attila G.},
+Title = {{On neglecting Coriolis and related couplings in first-principles
+   rovibrational spectroscopy: considerations of symmetry, accuracy, and
+   simplicity}},
+Journal = {{Sci. Rep.}},
+Year = {{2020}},
+Volume = {{10}},
+Abstract = {{The rotation-vibration (Coriolis) coupling contribution to variationally
+   computed rovibrational energy levels is investigated, employing
+   triatomic AB(2) molecules as models. In particular, calculations are
+   performed for H-2 O-16, across a range of vibrational and rotational
+   excitations, both with and without the Coriolis contribution. A variety
+   of different embedding choices are considered, together with a hierarchy
+   of increasingly severe approximations culminating in a generalized
+   version of the so-called ``centrifugal sudden{''} method. Several
+   surprising and remarkable conclusions are found, including that the
+   Eckart embedding is not the best embedding choice.}},
+DOI = {{10.1038/s41598-020-60971-x}},
+pages = {4872}}
+
+
+@article{19PaLaxx,
+title = {{RADIS: A nonequilibrium line-by-line radiative code for CO$_{2}$ and HITRAN-like database species}},
+journal = JQSRT,
+volume = {222-223},
+pages = {12-25},
+year = {2019},
+issn = {0022-4073},
+doi = {10.1016/j.jqsrt.2018.09.027},
+url = {https://www.sciencedirect.com/science/article/pii/S0022407318305867},
+author = {Erwan Pannier and Christophe O. Laux},
+keywords = {Line-by-line code, Nonequilibrium, Optical emission spectroscopy, Absorption spectroscopy},
+abstract = {An open-source nonequilibrium emission and absorption infrared line-by-line code is presented. RADIS is built around the HITRAN, HITEMP and CDSD databases for molecules in their electronic ground state. Energy levels are read from tabulated databases or calculated from Dunham expansions. Boltzmann, Treanor, and arbitrary vibrational distributions can be generated. In its present version, nonequilibrium spectra can be computed for CO2 and CO, and equilibrium spectra can be computed for all species of the HITRAN database. New species can be added without modification to the core code. Several optimization strategies are described that reduce computation times of high-temperature, high-resolution spectra with millions of lines down to less than a minute. Additionally, RADIS includes a line survey tool, a built-in look-up database to reduce convergence times when fitting experimental spectra, and a multi-slab module to simulate line-of-sight experiments. Validation cases against existing spectral codes and experimental results from various plasma sources are presented. Finally, RADIS is applied to improve the modeling of the radiation from a plasma torch and a nonequilibrium expansion-tube experiment. RADIS is distributed under LGPLv3 license [1].}
+}
+
+
 @article{19Matyus,
 author = {Edit M{\'a}tyus},
 title = {Pre-Born–Oppenheimer molecular structure theory},
@@ -158,8 +207,6 @@ number = {9},
 pages = {4368-4381},
 year = {2017},
 doi = {10.1021/acs.jctc.7b00506},
-URL = {http://dx.doi.org/10.1021/acs.jctc.7b00506},
-eprint = {http://dx.doi.org/10.1021/acs.jctc.7b00506},
  abstract = { We present a general, numerically motivated approach to the construction of symmetry-adapted basis functions for solving ro-vibrational Schrödinger equations. The approach is based on the property of the Hamiltonian operator to commute with the complete set of symmetry operators and, hence, to reflect the symmetry of the system. The symmetry-adapted ro-vibrational basis set is constructed numerically by solving a set of reduced vibrational eigenvalue problems. In order to assign the irreducible representations associated with these eigenfunctions, their symmetry properties are probed on a grid of molecular geometries with the corresponding symmetry operations. The transformation matrices are reconstructed by solving overdetermined systems of linear equations related to the transformation properties of the corresponding wave functions on the grid. Our method is implemented in the variational approach TROVE and has been successfully applied to many problems covering the most important molecular symmetry groups. Several examples are used to illustrate the procedure, which can be easily applied to different types of coordinates, basis sets, and molecular systems. }
 }
 
@@ -541,7 +588,7 @@ doi = {10.1063/1.4928433},
   author = {Yachmenev, Andrey and Yurchenko, Sergei N.},
   title = {{Automatic differentiation method for numerical construction of the
 	rotational-vibrational Hamiltonian as a power series in the curvilinear
-	internal coordinates using the Eckart frame}},
+	internal coordinates using the {Eckart} frame}},
   journal = JCP,
   year = {2015},
   volume = {143},
@@ -1789,6 +1836,8 @@ abstract = {Approaches related to graph theory are investigated which allow a be
   journal = MP
 }
 
+
+
 @article{11NaHixx,
   doi = {10.1021/cr200040s},
   year  = {2011},
@@ -1857,6 +1906,23 @@ abstract = {Approaches related to graph theory are investigated which allow a be
   title = {Scalar relativistic explicitly correlated R12 methods},
   journal = JCP,
 }
+
+@article{10ScMaxx,
+title = {{On direct product based discrete variable representations for angular coordinates and the treatment of singular terms in the kinetic energy operator}},
+journal = CP,
+volume = "374",
+number = "1",
+pages = "118 - 125",
+year = "2010",
+issn = "0301-0104",
+doi = "https://doi.org/10.1016/j.chemphys.2010.07.006",
+url = "http://www.sciencedirect.com/science/article/pii/S0301010410003186",
+author = "Gerd Schiffel and Uwe Manthe",
+keywords = "Quantum dynamics, DVR, FBR, MCTDH, Centrifugal coupling",
+abstract = "The use of curvilinear coordinates results in kinetic energy operators with singular terms. These singularities can be in the dynamically relevant region. The present work specifically considers 1/sin2θ singularities and wavefunctions showing significant amplitude close to θ=0. It investigates the use of direct product-type discrete variable representations (DVRs) to describe such situations in quantum dynamics calculations and discusses the regularization of such repulsive singularities. A new scheme, the cot-DVR, is developed which can be used to construct well converging direct product DVRs for Hamiltonians showing a 1/sin2θ singularity. The cot-DVR is based on the diagonalization of the cotθ-matrix and adds two additional basis function, sin(θ) and sin(2θ), to the standard basis of Legendre polynomials. It is particularly well suited for multi-configurational time-dependent Hartree calculations which employ one-dimensional (bottom layer) single-particle functions."
+}
+
+
 
 @ARTICLE{10MaFaSz.method,
   author = {M\'{a}tyus, Edit and Fabri, Csaba and Szidarovszky, Tamas and Czako,
@@ -2496,6 +2562,18 @@ Journal-ISO = {Mol. Phys.},
 }
 
 
+@article{ 07vaBlSc,
+	author = {van der Tak, F.F.S and Black, J.H. and Sch\"oier, F.L. and Jansen, D.J. and van Dishoeck, E.F.},
+	title = {{A computer program for fast non-LTE analysis   of interstellar line spectra -  With diagnostic plots to interpret observed line intensity ratios}},
+	DOI= {10.1051/0004-6361:20066820},
+	url= {https://doi.org/10.1051/0004-6361:20066820},
+	journal = AA,
+	year = {2007},
+	volume = {468},
+	number = {2},
+	pages = {627-635},
+}
+
 @ARTICLE{07AdKnGe.method,
   author = {Adler, Thomas B. and Knizia, Gerald and Werner, Hans-Joachim},
   title = {{A simple and efficient CCSD(T)-F12 approximation}},
@@ -2547,13 +2625,14 @@ Journal = JCP,
   title = {Vibrational energy levels with arbitrary potentials using the Eckart-Watson Hamiltonians and the discrete variable representation},
   journal = JCP,
 }
+
 @article{RENNER07,
   doi = {10.1063/1.2464094},
   year  = {2007},
   volume = {126},
   pages = {094301},
   author = {Tina Erica Odaka and Vladlen V. Melnikov and Per Jensen and Tsuneo Hirano and Bruno Lang and Peter Langer},
-  title = {Theoretical study of the double Renner effect for A $\Pi$2 {MgNC}∕{MgCN}: Higher excited rovibrational states},
+  title = {{Theoretical study of the double Renner effect for A $\Pi$2 {MgNC}$/${MgCN}: Higher excited rovibrational states}},
   journal = JCP,
 }
 
@@ -3187,6 +3266,20 @@ doi = {10.1063/1.1624591}
 }
 
 
+@article{02PePexx.method,
+title = {Perturbative Handling of the Renner–Teller Effect and Spin–Orbit Coupling in $\Pi$ Electronic States of Triatomic and Tetra-atomic Molecules},
+journal = JMS,
+volume = {212},
+number = {2},
+pages = {142 - 152},
+year = {2002},
+issn = {0022-2852},
+doi = {https://doi.org/10.1006/jmsp.2002.8533},
+url = {http://www.sciencedirect.com/science/article/pii/S0022285202985334},
+author = {Miljenko Peri\'{c} and Sigrid D. Peyerimhoff},
+}
+
+
 @ARTICLE{02Lipins.ai,
   author = {J{\'o}zef Lipi{\'n}ski},
   title = {On the consequences of the violation of the Hellmann--Feynman theorem
@@ -3395,6 +3488,21 @@ doi = {10.1063/1.1624591}
   year = {2002},
   volume = {4},
   pages = {4285-4291}
+}
+
+
+@article{02Meyer.method,
+  doi = {10.1146/annurev.physchem.53.082201.124330},
+  url = {https://doi.org/10.1146/annurev.physchem.53.082201.124330},
+  year = {2002},
+  month = oct,
+  publisher = {Annual Reviews},
+  volume = {53},
+  number = {1},
+  pages = {141--172},
+  author = {Henning Meyer},
+  title = {{THEMOLECULARHAMILTONIAN}},
+  journal = {Annual Review of Physical Chemistry}
 }
 
 
@@ -4117,6 +4225,22 @@ URL = { https://doi.org/10.1063/1.476328}
   note = {see {\footnotesize http://www.caam.rice.edu/software/ARPACK/}}
 }
 
+@article{97MaSixx.method,
+  doi = {10.1063/1.473658},
+  url = {https://doi.org/10.1063/1.473658},
+  year = {1997},
+  month = apr,
+  publisher = {{AIP} Publishing},
+  volume = {106},
+  number = {16},
+  pages = {6618--6621},
+  author = {Kristy L. Mardis and Edwin L. Sibert III},
+  title = {Derivation of rotation-vibration Hamiltonians that satisfy the Casimir condition},
+  journal = JCP
+}
+
+
+
 @ARTICLE{97GuMaMa.ai,
   author = {Guihery, Nathalie and Malrieu, Jean-Paul and Maynau, Daniel and Handrick,
 	Klaus},
@@ -4467,6 +4591,21 @@ Unique-ID = {ISI:A1995RU11000020},
 	linear to bent. (C) 1995 Academic Press, Inc.},
   journal-iso = {J. Mol. Spectrosc.},
 }
+
+@article{95CsHaxx.method,
+  doi = {10.1063/1.468524},
+  url = {https://doi.org/10.1063/1.468524},
+  year = {1995},
+  month = mar,
+  publisher = {{AIP} Publishing},
+  volume = {102},
+  number = {10},
+  pages = {3962--3967},
+  author = {Attila G. Cs{\'{a}}sz{\'{a}}r and Nicholas C. Handy},
+  title = {Exact quantum mechanical vibrational kinetic energy operator of sequentially bonded molecules in valence internal coordinates},
+  journal = JCP
+}
+
 
 @article{95RiMexx.method,
   author={U V Riss and H -D Meyer},
@@ -4967,12 +5106,36 @@ Pages = {781-787},
   journal = {Rev. Mod. Phys.}
 }
 
-@book{Beer,
+@book{92Beer,
   Author = {Reinhard Beer},
   Title = {Remote Sensing by Fourier Transform Spectrometry (Chemical Analysis: A Series of Monographs on Analytical Chemistry and Its Applications)},
   Publisher = {Wiley-Interscience},
   Year = {1992},
   ISBN = {0471553468},
+}
+
+@article{91SuTexx.method,
+author = {Sutcliffe, Brian and Tennyson, Jonathan},
+year = {1991},
+month = {02},
+pages = {183 - 196},
+title = {A general treatment of vibrationâ€rotation coordinates for triatomic molecules},
+volume = {39},
+journal = IJQC,
+doi = {10.1002/qua.560390208}
+}
+
+
+@article{91ChNaBr,
+author = { Xavier   Chapuisat  and  Andr\'{e}   Nauts  and  Jean-Phillippe   Brunet },
+title = {Exact quantum molecular Hamiltonians},
+journal = MP,
+volume = {72},
+number = {1},
+pages = {1-31},
+year  = {1991},
+publisher = {Taylor & Francis},
+doi = {10.1080/00268979100100011},
 }
 
 
@@ -5038,6 +5201,20 @@ doi = {10.1063/1.461305}
   Year = {1991},
   ISBN = {0471858927},
 }
+
+@article{90PrTexx,
+author = {Press, William H.  and Teukolsky, Saul A. },
+title = {Orthogonal Polynomials and Gaussian Quadrature with Nonclassical Weight Functions},
+journal = {Comput. Phys.},
+volume = {4},
+number = {4},
+pages = {423-426},
+year = {1990},
+doi = {10.1063/1.4822929},
+URL = {https://aip.scitation.org/doi/abs/10.1063/1.4822929},
+}
+
+
 
 @ARTICLE{90MeLeMa.ai,
   author = {{de Meras}, Alfredo Sanchez and Lepetit, Marie-Bernadette and Malrieu,
@@ -5309,6 +5486,20 @@ URL = {https://doi.org/10.1063/1.451775}
   address = {Orlando FL, USA}
 }
 
+
+@article{85NaChxx.method,
+author = { Andr\'{e}   Nauts  and  Xavier   Chapuisat },
+title = {{Momentum, quasi-momentum and hamiltonian operators in terms of arbitrary curvilinear coordinates, with special emphasis on molecular hamiltonians}},
+journal = MP,
+volume = {55},
+number = {6},
+pages = {1287-1318},
+year  = {1985},
+publisher = {Taylor & Francis},
+doi = {10.1080/00268978500102031},
+URL = { https://doi.org/10.1080/00268978500102031}
+}
+
 @article{ 85KnWe.method,
 Author = {Knowles, P J and Werner, H-J},
 Title = {AN EFFICIENT 2ND-ORDER MC SCF METHOD FOR LONG CONFIGURATION EXPANSIONS},
@@ -5472,6 +5663,21 @@ doi = {10.1063/1.443164}
 }
 
 
+@article{89CaHaxx,
+title = "On the calculation of vibration-rotation energy levels of quasi-linear molecules",
+journal = JMS,
+volume = "95",
+number = "1",
+pages = "9 - 19",
+year = "1982",
+issn = "0022-2852",
+doi = "https://doi.org/10.1016/0022-2852(82)90231-4",
+url = "http://www.sciencedirect.com/science/article/pii/0022285282902314",
+author = "S Carter and N.C Handy",
+abstract = "Recently, ab initio calculations on the electronic potential energy surface for the CH2+ radical were reported. Using these results, an analytical potential energy surface is determined, from which the barrier to linearity is calculated to be 931 cm−1 (αe = 137°). It is demonstrated how reliable J = 0 and J = 1 vibrational levels can be calculated variationally for such a quasi-linear molecule with a small barrier height. Similar calculations are carried out on a model CH2 potential (barrier height 2200 cm−1) in order to confirm the method for intermediate barrier cases. The calculation of a bending vibrational wavenumber of 964 cm−1 (experimental 957 ± 10 cm−1), suggests that the procedure has correctly converged, and also that the potential is reasonably accurate."
+}
+
+
 @article{82CaHaxx.method,
 Author = {Carter, S and Handy, N. C.},
 Title = {A variational method for the calculation of vibrational levels of any triatomic molecule},
@@ -5498,6 +5704,17 @@ volume= {21},
 pages= {9},
 publisher= {Elsevier},
 address= {Amsterdam}
+}
+
+@article{81BrKiRe,
+  title={{Contribution of vibrations to the magnetic moment of molecules of the symmetric top type}},
+  author={Braun, PA and Kiselev, AA and Rebane, TK},
+  journal={JETP},
+  volume={80},
+  number={6},
+  pages={2163--2174},
+  year={1981},
+  publisher={MEZHDUNARODNAYA KNIGA 39 DIMITROVA UL., 113095 MOSCOW, RUSSIA}
 }
 
 
@@ -5637,7 +5854,7 @@ abstract = {The Zeeman effect for diatomic molecules is calculated in a represen
 }
 
 
-@article{bmm77,
+@article{77BuMcMo,
      author  =  "P. R. Bunker and C. J. McLarnon and R. E. Moss",
      title   =  "{Application of the effective vibration-rotation {H}amiltonian to H$_2$ and D$_2$}",
      year    = "1977",
@@ -5655,6 +5872,21 @@ abstract = {The Zeeman effect for diatomic molecules is calculated in a represen
   year =         {1977}
 }
 
+@article{76BoPaPi.method,
+title = {Eigenvalue problem for the operator H = −12/d$\rho$2 + 12m2\rho2 + g/\rho2 and the correlation between the energy levels of linear and bent molecules},
+journal = CPL,
+volume = {42},
+number = {2},
+pages = {395 - 398},
+year = {1976},
+issn = {0009-2614},
+doi = {https://doi.org/10.1016/0009-2614(76)80393-4},
+url = {http://www.sciencedirect.com/science/article/pii/0009261476803934},
+author = {I. Boha\v{c}ek and D. Papou\v{s}ek and \v{S}. Pick and V. \v{S}pirko},
+}
+
+
+
 @ARTICLE{75SoMuxx.method,
   author = {K. S. Sorbie and J. N. Murrell},
   title = {Analytical Potentials for Triatomic-Molecules from Spectroscopic
@@ -5664,6 +5896,31 @@ abstract = {The Zeeman effect for diatomic molecules is calculated in a represen
   volume = {29},
   pages = {1387-1407}
 }
+
+
+@article{75BaFrxx,
+author = {Band, Yehuda B. and Freed, Karl F. },
+title = {Dissociation processes of polyatomic molecules},
+journal = JCP,
+volume = {63},
+number = {8},
+pages = {3382-3397},
+year = {1975},
+doi = {10.1063/1.431775}
+}
+
+@article{74Berryx,
+title = {Golden rule calculation of reaction product vibronic state distributions},
+journal = CPL,
+volume = {27},
+number = {1},
+pages = {73 - 77},
+year = {1974},
+issn = {0009-2614},
+doi = {https://doi.org/10.1016/0009-2614(74)80447-1},
+author = {Michael J. Berry}
+}
+
 
 @ARTICLE{74MuSoxx.method,
   author = {Murrell, J N and Sorbie, K S},
@@ -5745,7 +6002,7 @@ DOI = {10.1016/0022-2852(70)90080-9},
 
 @article{ 70Watson.method,
 author = { James K.G.   Watson },
-title = {The vibration-rotation hamiltonian of linear molecules},
+title = {{The vibration-rotation hamiltonian of linear molecules}},
 journal = MP,
 volume = {19},
 pages = {465-487},
@@ -5781,6 +6038,20 @@ volume = {15},
 pages = {479-490},
 year  = {1968},
 doi = {10.1080/00268976800101381}}
+
+@article{68MeGuxx.methods,
+author = {Meyer,R.  and G\"{u}nthard,Hs. H. },
+title = {{General Internal Motion of Molecules, Classical and Quantum‐Mechanical Hamiltonian}},
+journal = JCP,
+volume = {49},
+number = {4},
+pages = {1510-1520},
+year = {1968},
+doi = {10.1063/1.1670272},
+URL = {https://doi.org/10.1063/1.1670272},
+}
+
+
 
 @ARTICLE{66PoKa.method,
   author = {J. D. Poll and G. Karl},
@@ -5998,7 +6269,7 @@ DOI = {10.1103/PhysRev.32.812},
 @INBOOK{23Numerov.method,
   pages = {188-259},
   title = {M\'{e}thode nouvelle de la d{\'e}termination des orbites et le
-	calcul des \'{e}́ph\'{e}m\'{e}́rides en tenant compte des perturbations},
+	calcul des \'{e}ph\'{e}m\'{e}rides en tenant compte des perturbations},
   publisher = {Moscow, Gosudarsvennoe Izdatel'stvo},
   year = {1923},
   author = {Noumeroff, Boris},
@@ -6007,11 +6278,15 @@ DOI = {10.1103/PhysRev.32.812},
 }
 
 
-@inproceedings{68Radau.method,
-  title={{Sur une transformation des {\'e}quations diff{\'e}rentielles de la dynamique}},
-  author={Radau, Rodolphe},
-  booktitle={Annales scientifiques de l'{\'E}cole Normale Sup{\'e}rieure},
-  volume={5},
-  pages={311--375},
-  year={1868}
+@article{68Radau.method,
+     author = {Radau, R.},
+     title = {Sur une transformation des \'equations diff\'erentielles de la dynamique},
+     journal = {Annales scientifiques de l'\'Ecole Normale Sup\'erieure},
+     publisher = {Elsevier},
+     volume = {1e s{\'e}rie, 5},
+     year = {1868},
+     pages = {311-375},
+     doi = {10.24033/asens.48},
+     language = {fr},
+     http = {http://www.numdam.org/item/ASENS_1868_1_5__311_0}
 }

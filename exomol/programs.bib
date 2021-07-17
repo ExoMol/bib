@@ -639,6 +639,24 @@ Coupled-channel radial equations,Transition probabilities,Intensities },
 abstract = {Duo is a general, user-friendly program for computing rotational, rovibrational and rovibronic spectra of diatomic molecules. Duo solves the Schr�dinger equation for the motion of the nuclei not only for the simple case of uncoupled, isolated electronic states (typical for the ground state of closed-shell diatomics) but also for the general case of an arbitrary number and type of couplings between electronic states (typical for open-shell diatomics and excited states). Possible couplings include spin�orbit, angular momenta, spin-rotational and spin�spin. Corrections due to non-adiabatic effects can be accounted for by introducing the relevant couplings using so-called Born�Oppenheimer breakdown curves. Duo requires user-specified potential energy curves and, if relevant, dipole moment, coupling and correction curves. From these it computes energy levels, line positions and line intensities. Several analytic forms plus interpolation and extrapolation options are available for representation of the curves. Duo can refine potential energy and coupling curves to best reproduce reference data such as experimental energy levels or line positions. Duo is provided as a Fortran�2003 program and has been tested under a variety of operating systems. Program summary Program title:Duo Catalogue identifier: AEZJ_v1_0 rogram summary URL:http://cpc.cs.qub.ac.uk/summaries/AEZJ_v1_0.html Program obtainable from: \{CPC\} Program Library, Queen�s University, Belfast, N. Ireland Licensing provisions: Standard \{CPC\} licence, http://cpc.cs.qub.ac.uk/licence/licence.html No. of lines in distributed program, including test data, etc.: 187443 No. of bytes in distributed program, including test data, etc.: 6968371 Distribution format: tar.gz Programming language: Fortran 2003. Computer: Any personal computer. Operating system: Linux, Windows, Mac OS. Has the code been vectorized or parallelized?: Parallelized RAM: Case dependent, typically &lt; 10 \{MB\} Classification: 4.3, 4.9, 16.2, 16.3. Nature of problem: Solving the Schr�dinger equation for the nuclear motion of a diatomic molecule with an arbitrary number and type of couplings between electronic states. Solution method: Solution of the uncoupled problem first, then basis set truncation and solution of the coupled problem. A line list can be computed if a dipole moment function is provided. The potential energy and other curves can be empirically refined by fitting to experimental energies or frequencies, when provided. Restrictions: The current version is restricted to bound states of the system. Unusual features: User supplied curves for all objects (potential energies, spin�orbit and other couplings, dipole moment etc.) as analytic functions or on a grid is a program requirement. Running time: Case dependent. The test runs provided take seconds or a few minutes on a normal PC. }
 }
 
+@ARTICLE{ExoCross,
+       author = {{Yurchenko}, Sergei N. and {Al-Refaie}, Ahmed F. and {Tennyson},
+        Jonathan},
+        title = "{ExoCross: a general program for generating spectra from molecular line
+        lists}",
+      journal = AA,
+     keywords = {molecular data, stars: abundances, stars: atmospheres, line: profiles,
+        infrared: planetary systems, infrared: stars, Astrophysics -
+        Earth and Planetary Astrophysics, Astrophysics - Solar and
+        Stellar Astrophysics, Physics - Atmospheric and Oceanic Physics},
+         year = {2018},
+       volume = {614},
+        pages = {A131},
+          doi = {10.1051/0004-6361/201732531}
+}
+
+
+
 @article{HAPI,
         title = {{HITRAN Application Programming Interface (HAPI): A comprehensive approach to working with spectroscopic data}},
         journal = JQSRT,

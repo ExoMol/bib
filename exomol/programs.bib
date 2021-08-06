@@ -1,5 +1,22 @@
 % Encoding: UTF-8
 
+@article{Pyrat-Bay,
+    author = {Cubillos, Patricio E and Blecic, Jasmina},
+    title = "{The Pyrat Bay framework for exoplanet atmospheric modelling: a population study of Hubble/WFC3 transmission spectra}",
+    journal = MNRAS,
+    volume = {505},
+    pages = {2675-2702},
+    year = {2021},
+    month = {05},
+    abstract = "{We present the open-source python Radiative-transfer in a Bayesian framework (pyrat bay) framework for exoplanet atmospheric modelling, spectral synthesis, and Bayesian retrieval. The modular design of the code allows the users to generate atmospheric 1D parametric models of the temperature, abundances (in thermochemical equilibrium or constant-with-altitude), and altitude profiles (in hydrostatic equilibrium); sample ExoMol and HITRAN line-by-line cross-sections with custom resolving power and line-wing cutoff values; compute emission or transmission spectra considering cross-sections from molecular line transitions, collision-induced absorption, Rayleigh scattering, grey clouds, and alkali resonance lines; and perform Markov chain Monte Carlo atmospheric retrievals for a given transit or eclipse data set. We benchmarked the pyrat bay framework by reproducing line-by-line sampling of ExoMol cross-sections, producing transmission and emission spectra consistent with petitradtrans models, accurately retrieving the atmospheric properties of simulated transmission and emission observations generated with taurex models, and closely reproducing aura retrieval analyses of the space-based transmission spectrum of HD 209458 b. Finally, we present a retrieval analysis of a population of transiting exoplanets, focusing on those observed in transmission with the HST WFC3/G141 grism. We found that this instrument alone can confidently identify when a data set shows H2O-absorption features; however, it cannot distinguish whether a muted H2O feature is caused by clouds, high atmospheric metallicity, or low H2O abundance. Our results are consistent with previous retrieval analyses. The pyrat bay code is available at PyPI (pip install pyratbay) and conda. The code is heavily documented (https://pyratbay.readthedocs.io) and tested to provide maximum accessibility to the community and long-term development stability.}",
+    doi = {10.1093/mnras/stab1405},
+    url = {https://doi.org/10.1093/mnras/stab1405},
+}
+
+
+
+
+
 @article{MOLPRO2020,
 author = {Werner,Hans-Joachim  and Knowles,Peter J.  and Manby,Frederick R.  and Black,Joshua A.  and Doll,Klaus  and Heßelmann,Andreas  and Kats,Daniel  and Köhn,Andreas  and Korona,Tatiana  and Kreplin,David A.  and Ma,Qianli  and Miller,Thomas F.  and Mitrushchenkov,Alexander  and Peterson,Kirk A.  and Polyak,Iakov  and Rauhut,Guntram  and Sibaev,Marat },
 title = {The Molpro quantum chemistry package},
@@ -152,11 +169,6 @@ Abstract = {{We present a new set of solar metallicity atmosphere and evolutiona
 DOI = {{10.1051/0004-6361/201937381}},
 pages = {A38}}
 
-@article{PyratBay,
-author = {P E Cubillos and {\it et al.}},
-Title={{Yet Another Open-source Radiative-Transifer Code for Exoplanet Modeling}},
-year = {2020},
-notes ={In preparation}}
 
 @article{ BART,
 title = {{BART: Bayesian Atmospheric Radiative Transfer code}},
@@ -531,42 +543,6 @@ note = {visited 01/11/2017},
 
 
 
-@article{ ATMO,
-Author = {Drummond, B. and Tremblin, P. and Baraffe, I. and Amundsen, D. S. and
-   Mayne, N. J. and Venot, O. and Goyal, J.},
-Title = {{The effects of consistent chemical kinetics calculations on the
-   pressure-temperature profiles and emission spectra of hot Jupiters}},
-Journal = AA,
-Year = {{2016}},
-Volume = {{594}},
-Abstract = {{In this work we investigate the impact of calculating non-equilibrium
-   chemical abundances consistently with the temperature structure for the
-   atmospheres of highly-irradiated, close-in gas giant exoplanets.
-   Chemical kinetics models have been widely used in the literature to
-   investigate the chemical compositions of hot Jupiter atmospheres which
-   are expected to be driven away from chemical equilibrium via processes
-   such as vertical mixing and photochemistry. All of these models have so
-   far used pressure temperature (P-T) profiles as fixed model input. This
-   results in a decoupling of the chemistry from the radiative and thermal
-   properties of the atmosphere, despite the fact that in nature they are
-   intricately linked. We use a one-dimensional radiative-convective
-   equilibrium model, ATMO, which includes a sophisticated chemistry scheme
-   to calculate P-T profiles which are fully consistent with
-   non-equilibrium chemical abundances, including vertical mixing and
-   photochemistry. Our primary conclusion is that, in cases of strong
-   chemical disequilibrium, consistent calculations can lead to differences
-   in the P-T profile of up to 100 K compared to the P-T profile derived
-   assuming chemical equilibrium. This temperature change can, in turn,
-   have important consequences for the chemical abundances themselves as
-   well as for the simulated emission spectra. In particular, we find that
-   performing the chemical kinetics calculation consistently can reduce the
-   overall impact of non-equilibrium chemistry on the observable emission
-   spectrum of hot Jupiters. Simulated observations derived from
-   non-consistent models could thus yield the wrong interpretation. We show
-   that this behaviour is due to the non-consistent models violating the
-   energy budget balance of the atmosphere.}},
-DOI = {{10.1051/0004-6361/20162.8799}},
-pages = {A69}}
 
 @article{ PyVCI,
 Author = {Sibaev, Marat and Crittenden, Deborah L.},

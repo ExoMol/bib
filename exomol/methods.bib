@@ -20,6 +20,32 @@ Volume = {{30}},
 Pages = {{467-470}},
 }
 
+@article{21AlChWa,
+Author = {Al-Refaie, A. F. and Changeat, Q. and Waldmann, I. P. and Tinetti, G.},
+Title = {{TauREx 3: A Fast, Dynamic, and Extendable Framework for Retrievals}},
+Journal = ApJ,
+Year = {{2021}},
+Volume = {{917}},
+Abstract = {{TauREx 3 is the next generation of the TauREx exoplanet atmospheric
+   retrieval framework for Windows, Mac, and Linux. It is a complete
+   rewrite with a full Python stack that makes it easy-to-use,
+   high-performance, dynamic, and flexible. The new main TauREx program is
+   built with modularity in mind, allowing the user to augment its
+   functionalities with custom code and efficiently perform retrievals on
+   custom parameters. We achieve this result by dynamic determination of
+   fitting parameters, whereby TauREx 3 can detect new parameters for
+   retrieval from user code through a simple interface. TauREx 3 can act as
+   a library with a simple import taurex command, providing a rich set of
+   classes and functions related to atmospheric modeling. A 10x speedup in
+   forward model computations is achieved as compared to the previous
+   version with a sixfold reduction in retrieval times while maintaining
+   robust results. TauREx 3 is intended as a standalone, all-in-one package
+   for retrievals while the TauREx 3 Python library can build or augment a
+   user's custom data pipeline easily.}},
+DOI = {{10.3847/1538-4357/ac0252}},
+pages = {37}}
+
+
 @article{17Wester,
 	series = {Satellite {Remote} {Sensing} and {Spectroscopy}: {Joint} {ACE}-{Odin} {Meeting}, {October} 2015},
 	title = {{PGOPHER}: {A} program for simulating rotational, vibrational and electronic spectra},
@@ -89,23 +115,6 @@ Pages = {217-243},
 
 
 
-@ARTICLE{ExoCross,
-       author = {{Yurchenko}, Sergei N. and {Al-Refaie}, Ahmed F. and {Tennyson},
-        Jonathan},
-        title = "{ExoCross: a general program for generating spectra from molecular line
-        lists}",
-      journal = AA,
-     keywords = {molecular data, stars: abundances, stars: atmospheres, line: profiles,
-        infrared: planetary systems, infrared: stars, Astrophysics -
-        Earth and Planetary Astrophysics, Astrophysics - Solar and
-        Stellar Astrophysics, Physics - Atmospheric and Oceanic Physics},
-         year = {2018},
-        month = {Jun},
-       volume = {614},
-          eid = {A131},
-        pages = {A131},
-          doi = {10.1051/0004-6361/201732531}
-}
 
 
 @article{18ChYuJo,
@@ -2578,6 +2587,8 @@ Journal-ISO = {Mol. Phys.},
 	Pages = {155--176},
 	Title = {An active database approach to complete rotational--vibrational spectra of small molecules},
 	Volume = {3},
+        publisher = {Elsevier},
+        doi = {10.1016/s1574-1400(07)03009-5},
 	Year = {2007}
 }
 
@@ -5665,7 +5676,25 @@ author = {Per Jensen},
 abstract = {This paper is concerned with the nonrigid bender Hamiltonian developed by P.R. Bunker and co-workers. This special Hamiltonian is of use for the calculation of rotation-vibration energies of triatomic molecules; it is particularly useful for molecules with large amplitude bending vibrations. A complete and detailed derivation of the nonrigid bender Hamiltonian from the prototype Hamiltonian derived by Hougen, Bunker and Johns [J.T. Hougen P.R. Bunker and J.W.C. Johns, J. Mol. Spectr. 34 (1970) 136] is presented, and the numerical methods used to obtain the molecular energies are described. Two other model Hamiltonians, the rigid bender Hamiltonian and the semirigid bender Hamiltonian, that have also been developed from the Hougen-Bunker-Johns Hamiltonian, are discussed.}
 }
 
-@article{Mead1982,
+
+
+@article{82GuRoxx,
+title = {{On the numerical integration of the Schr\"{o}dinger equation in the finite-difference schemes}},
+journal = JCP,
+volume = {45},
+number = {3},
+pages = {374-389},
+year = {1982},
+issn = {0021-9991},
+doi = {https://doi.org/10.1016/0021-9991(82)90110-3},
+url = {https://www.sciencedirect.com/science/article/pii/0021999182901103},
+author = {R. Guardiola and J. Ros},
+abstract = {Formulae for the integration of the Schrˆdinger equation for bound states based on the scheme of central differences are generated from the Taylor expansion with the help of formal PadÈ approximants. These methods are studied in matrix form, and a limiting formulaóthe best for a given discretization-is obtained.}
+}
+
+
+
+@article{82MeTrxx,
   doi = {10.1063/1.443853},
   year  = {1982},
   volume = {77},
@@ -5828,6 +5857,19 @@ address= {Amsterdam}
 }
 
 
+
+@article{80WhScTa,
+title = {{Recommended conventions for defining transition moments and intensity factors in diatomic molecular spectra}},
+journal = JMS,
+volume = {80},
+number = {2},
+pages = {249-256},
+year = {1980},
+issn = {0022-2852},
+doi = {https://doi.org/10.1016/0022-2852(80)90137-X},
+url = {https://www.sciencedirect.com/science/article/pii/002228528090137X},
+author = {Ellis E. Whiting and Aert Schadee and Jeremy B. Tatum and Jon T. Hougen and Ralph W. Nicholls},
+}
 
 
 
@@ -6101,11 +6143,13 @@ journal = MP,
 volume = {15},
 pages = {479-490},
 year  = {1968},
-doi = {10.1080/00268976800101381}}
+doi = {10.1080/00268976800101381}
+}
+
 
 @article{68MeGuxx.methods,
 author = {Meyer,R.  and G\"{u}nthard,Hs. H. },
-title = {{General Internal Motion of Molecules, Classical and Quantum‚ÄêMechanical Hamiltonian}},
+title = {{General Internal Motion of Molecules, Classical and Quantum-Mechanical Hamiltonian}},
 journal = JCP,
 volume = {49},
 number = {4},
@@ -6114,7 +6158,6 @@ year = {1968},
 doi = {10.1063/1.1670272},
 URL = {https://doi.org/10.1063/1.1670272},
 }
-
 
 
 @ARTICLE{66PoKa.method,
@@ -6212,6 +6255,15 @@ application to anharmonic oscillators},
   doi = {10.1007/978-3-642-45917-7_2}
 }
 
+@book{57Edmond.method,
+author = {Edmonds, A. R.},
+doi = {10.1515/9781400884186},
+publisher = {Princeton University Press},
+title = {{Angular Momentum in Quantum Mechanics}},
+year = {1957}
+}
+
+
 
 @article{56Polo,
 author = {Polo,S. R. },
@@ -6264,6 +6316,17 @@ doi = {10.1063/1.1742069}
   author = {E. B. Wilson and J. C. Decius and P. C. Cross and Benson R. Sundheim},
   title = {Molecular Vibrations: The Theory of Infrared and Raman Vibrational Spectra},
   journal = {J. Electrochem. Soc.}
+}
+
+
+@article{ 51Nielsen.method,
+  title = {The Vibration-Rotation Energies of Molecules},
+  author = {Nielsen, Harald H.},
+  journal = {Rev. Mod. Phys.},
+  volume = {23},
+  pages = {90-136},
+  year = {1951},
+  doi = {10.1103/RevModPhys.23.90},
 }
 
 

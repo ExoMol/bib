@@ -1,0 +1,113 @@
+
+@article{ 13SiHoPeMc,
+Author = {Siller, Brian M. and Hodges, James N. and Perry, Adam J. and McCall,
+   Benjamin J.},
+Title = {{Indirect Rotational Spectroscopy of HCO+}},
+Journal =JPCA,
+Year = {2013},
+Volume = {117},
+Number = {39},
+Pages = {10034-10040},
+Abstract = {Spectroscopy of the nu(1) band of the astrophysically relevant ion HCO+
+   is performed with an optical parametric oscillator calibrated with an
+   optical frequency comb. The sub-MHz accuracy of this technique was
+   confirmed by performing a combination differences analysis with the
+   acquired rovibrational data and comparing the results to known ground
+   state rotational transitions. A similar combination differences analysis
+   was performed from the same data set to calculate the previously
+   unobserved rotational spectrum of the nu(1) vibrationally excited state
+   with precision sufficient for astronomical detection. Initial results of
+   cavity enhanced sub-Doppler spectroscopy are also presented and hold
+   promise for further improving the accuracy and precision in the near
+   future.},
+DOI = {10.1021/jp400570m}
+}
+
+@article{ 12CaClBuPu,
+Author = {Cazzoli, Gabriele and Cludi, Lino and Buffa, Giovanni and Puzzarini,
+   Cristina},
+Title = {PRECISE THz MEASUREMENTS OF HCO+, N2H+, AND CF+ FOR ASTROPHYSICAL
+   OBSERVATIONS},
+Journal = ApJSS,
+Year = {2012},
+Volume = {203},
+Abstract = {Ground-state rotational spectra of HCO+, N2H+, and CF+ (both C-12- and
+   C-13- containing isotopologues) have been recorded in the 1.0-1.6 THz
+   frequency range. Present measurements allowed us to improve the
+   spectroscopic parameters, which in turn enabled the prediction of
+   rotational transitions up to 2.0-2.5 THz with good accuracy. We
+   therefore consider the present results to be of great value in view of
+   the extended spectral coverage made available by the Herschel Space
+   Observatory, Stratospheric Observatory for Infrared Astronomy, and the
+   Atacama Large Millimeter Array. Furthermore, we re- investigated the
+   ground-state rotational spectrum of N2H+ in the 93-750 GHz frequency
+   range, thus addressing the open issue of the frequency of the J = 1 <- 0
+   transition as well as resolving the hyperfine structure of the J = 1 <-
+   J transitions with J = 1, 2, and 3 for the first time.},
+DOI = {10.1088/0067-0049/203/1/11},
+pages = {11},
+}
+
+@article{ 07LaWaDrPe,
+Author = {Lattanzi, Valerio and Walters, Adam and Drouin, Brian J. and Pearson,
+   John C.},
+Title = {{Rotational spectrum of the formyl cation, HCO+, to 1.2 THz}},
+Journal = ApJ,
+Year = {2007},
+Volume = {662},
+Pages = {771-778},
+Abstract = {A variety of high-quality spectroscopic studies have contributed to
+   knowledge of the formyl cation, HCO+, and its rare isotopologues, but
+   technical limitations have previously limited precise determinations of
+   the far-infrared, or terahertz spectrum. This study extends the
+   microwave, millimeter, and submillimeter spectroscopy of HCO+ into the
+   terahertz range. The resulting measurements and predictions are of
+   sufficient coverage to adequately address astrophysical questions about
+   this species using the Herschel Space Observatory or the Atacama Large
+   Millimeter Array.},
+DOI = {10.1086/517602}
+}
+
+@article{ 88HiEn,
+Author = {Hirota, E and Endo, Y},
+Title = {MICROWAVE SPECTROSCOPY OF HCO+ AND DCO+ IN EXCITED VIBRATIONAL-STATES},
+Journal = JMS,
+Year = {1988},
+Volume = {127},
+Pages = {527-534},
+DOI = {10.1016/0022-2852(88)90139-7},
+}
+
+@article{ 87BlLaCoBu,
+Author = {Blake, G A and Laughlin, K B and Cohen, R C and Busarow, K L and Saykally,
+   R J},
+Title = {LABORATORY MEASUREMENT OF THE PURE ROTATIONAL SPECTRUM OF VIBRATIONALLY
+   EXCITED HCO+ (NU-2 = 1) BY FAR-INFRARED LASER SIDE-BAND SPECTROSCOPY},
+Journal = ApJ,
+Year = {1987},
+Volume = {316},
+Pages = {L45-L48},
+DOI = {10.1086/184889},
+}
+
+@article{ 83Amano,
+Author = {Amano, T},
+Title = {THE NU-1 FUNDAMENTAL-BAND OF HCO+ BY DIFFERENCE FREQUENCY LASER
+   SPECTROSCOPY},
+Journal = JCP,
+Year = {1983},
+Volume = {79},
+Pages = {3595},
+DOI = {10.1063/1.446216},,
+}
+
+@article{83GuBePfSa,
+Author = {Gudeman, C S and Begemann, M H and Pfaff, J and Saykally, R J},
+Title = {VELOCITY-MODULATED INFRARED-LASER SPECTROSCOPY OF MOLECULAR-IONS - THE
+   NU-1 BAND OF HCO+},
+Journal = PRL,
+Year = {1983},
+Volume = {50},
+Pages = {727-731},
+DOI = {10.1103/PhysRevLett.50.727},
+}

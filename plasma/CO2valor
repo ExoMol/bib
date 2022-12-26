@@ -1,0 +1,18 @@
+@article{ 23NaBa,
+Author = {Naidis, V, G. and Babaeva, N. Yu},
+Title = {Modeling of vibrational excitation dynamics in a nanosecond CO2
+   discharge},
+Journal = JPD,
+Year = {2023},
+Volume = {56},
+Abstract = {The temporal dynamics of excitation of the asymmetric vibrational mode
+   of CO2 molecules in a nanosecond discharge is simulated. The values of
+   the electric field andthe number density of electrons versus time,
+   calculated for a known experimental dependence of the discharge current
+   on time, are used to evaluate the number densities of the first and
+   second vibrational levels of the asymmetric mode. It is shown that the
+   dynamics of the densities of these levels, calculated using generally
+   accepted values of the vibrational excitation rate constants, is in
+   reasonable agreement with experimental data.},
+DOI = {10.1088/1361-6463/ac9c10},
+pages = {015202}}

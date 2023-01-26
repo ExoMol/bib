@@ -17,6 +17,29 @@ Abstract = {The temporal dynamics of excitation of the asymmetric vibrational mo
 DOI = {10.1088/1361-6463/ac9c10},
 pages = {015202}}
 
+@article{22DvRaHi,
+Author = {Dvorak, Jan and Rankovic, Milos and Houfek, Karel and Nag, Pamir and
+   Curik, Roman and Fedor, Juraj and Cizek, Martin},
+Title = {Vibrational excitation in the e + CO2 system: Analysis of the
+   two-dimensional energy-loss spectrum},
+Journal = PRA,
+Year = {2022},
+Volume = {106},
+Abstract = {We present a detailed analysis of the two-dimensional electron
+   energy-loss spectrum of CO2, which extends our recent Letter {[}Phys.
+   Rev. Lett. 129, 013401 (2022)]. We show that our vibronic coupling model
+   {[}Phys. Rev. A 105, 062821 (2022)] captures primary features of the
+   multidimensional dynamics of the temporary molecular anion, and the
+   calculations qualitatively reproduce the spectrum. The shape of the
+   spectrum is given by two overlapping contributions that originate in
+   excitation of vibrational states within Sigma(+)(g) and Pi(u) Fermi
+   polyads. Propensity rules in terms of scattered and vibrational wave
+   functions are also discussed to clarify the selectivity of states from
+   the vibrational pseudocontinuum that is responsible for the observed
+   fine structure.},
+DOI = {10.1103/PhysRevA.106.062807},
+pages = {062807}}
+
 @article{22DvRaHo,
   title = {Vibrational excitation in the $e + {\mathrm{CO}}_{2}$ system: Analysis of the two-dimensional energy-loss spectrum},
   author = {Dvo\ifmmode \check{r}\else \v{r}\fi{}\'ak, Jan and Rankovi\ifmmode \acute{c}\else \'{c}\fi{}, Milo\ifmmode \check{s}\else \v{s}\fi{} and Houfek, Karel and Nag, Pamir and \ifmmode \check{C}\else \v{C}\fi{}ur\'{\i}k, Roman and Fedor, Juraj and \ifmmode \check{C}\else \v{C}\fi{}\'{\i}\ifmmode \check{z}\else \v{z}\fi{}ek, Martin},

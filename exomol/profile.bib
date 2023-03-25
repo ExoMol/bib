@@ -182,6 +182,22 @@ author = {Franz Schreier},
 keywords = {Complex error function, Complex probability function, Plasma dispersion function, Fadde(y)eva function}
 }
 
+
+@article{18Schreiera,
+    author = {Schreier, Franz},
+    title = "{The Voigt and complex error function: Humlíček’s rational approximation generalized}",
+    journal = MNRAS,
+    volume = {479},
+    pages = {3068-3075},
+    year = {2018},
+    doi = {10.1093/mnras/sty1680},
+}
+
+
+
+
+
+
 @article{ 18BuWaWa,
 Author = {Buerkle, Sebastian and Walter, Nicole and Wagner, Steven},
 Title = {{Laser-based measurements of pressure broadening and pressure shift
@@ -384,6 +400,17 @@ pages = {1051-1057},
 doi = {10.1016/j.jqsrt.2012.01.011},
 }
 
+
+@article{12ZaAl,
+  title={Algorithm 916: computing the Faddeyeva and Voigt functions},
+  author={Zaghloul, Mofreh R and Ali, Ahmed N},
+  journal={ACM Trans. Math. Softw.},
+  volume={38},
+  pages={1--22},
+  year={2012},
+  publisher={ACM New York, NY, USA}
+}
+
 @article{12PeSoSoSt.h2opb,
   title = {Measurements and calculations of {He}-broadening and -shifting parameters
   of the transitions of the {$\nu_1+\nu_2+\nu_3$} bands.},
@@ -464,6 +491,7 @@ keywords = {Fortran},
 keywords = {Atmospheric radiative transfer },
 abstract = {Rational functions are frequently used as efficient yet accurate numerical approximations for real and complex valued functions. For the complex error function w(x+iy), whose real part is the Voigt function K(x,y), code optimizations of rational approximations are investigated. An assessment of requirements for atmospheric radiative transfer modeling indicates a y range over many orders of magnitude and accuracy better than 10−4. Following a brief survey of complex error function algorithms in general and rational function approximations in particular the problems associated with subdivisions of the x, y plane (i.e., conditional branches in the code) are discussed and practical aspects of Fortran and Python implementations are considered. Benchmark tests of a variety of algorithms demonstrate that programming language, compiler choice, and implementation details influence computational speed and there is no unique ranking of algorithms. A new implementation, based on subdivision of the upper half-plane in only two regions, combining Weideman's rational approximation for small | x | + y &lt; 15 and Humlicek's rational approximation otherwise is shown to be efficient and accurate for all x, y. }
 }
+
 
 @article{ 11GaLaLa.H2Opb,
 Author = {Gamache, Robert R. and Laraia, Anne L. and Lamouroux, Julien},
@@ -1208,6 +1236,16 @@ doi = "10.1006/jmsp.1994.1168",
 author = "A. Levy and N. Lacome and G. Tarrago"
 }
 
+@article{94Weideman,
+author = {Weideman, J. A. C.},
+title = {Computation of the Complex Error Function},
+journal = {SIAM J. Numer. Anal.},
+volume = {31},
+pages = {1497-1518},
+year = {1994},
+doi = {10.1137/0731077},
+}
+
 
 @article{94Maxxxx.h2opb,
 author = {V.N. Markov},
@@ -1431,7 +1469,7 @@ Volume = {{74}},
 Pages = {388}}
 
 @article{79Humlic,
-Author = {Humlicek, J},
+Author = {Huml\'{i}\v{c}ek, J},
 Title = {Efficient method for evaluation of the complex probability function - {V}oigt function and its derivatives},
 Journal = JQSRT,
 Year = {{1979}},

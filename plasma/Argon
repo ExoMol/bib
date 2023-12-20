@@ -1,0 +1,11 @@
+@article{Arekkano23,
+doi = {10.1088/1361-6595/ad0ede},
+year = {2023},
+volume = {32},
+number = {12},
+pages = {125007},
+author = {Fatima Jenina Arellano and Márton Gyulai and Zoltán Donkó and Peter Hartmann and Tsanko V Tsankov and Uwe Czarnetzki and Satoshi Hamaguchi},
+title = {First-principles simulation of optical emission spectra for low-pressure argon plasmas and its experimental validation},
+journal = {Plasma Sources Science and Technology},
+abstract = {Various spectral line emissions are often used for the experimental characterization of low-temperature plasmas. For a better understanding of the relation between the plasma characteristics and optical emission spectra, first-principle numerical simulations for low-pressure radio-frequency driven capacitively-coupled plasmas (CCPs) of argon have been performed by coupling one-dimensional particle-in-cell/Monte Carlo collision (PIC/MCC) simulations with a global collisional-radiative model (CRM). The only ionization and excitation mechanisms included in the PIC/MCC simulations of this study are the electron-impact ionization and excitations of the ground-state Ar atoms, as done commonly, whereas the electron-impact ionization of metastable states and other ionization mechanisms are also included in the CRM to account for the optical emission spectra. The PIC/MCC coupled CRM provides the emission spectra, which are then compared with experimental data obtained from the corresponding Ar CCPs with a gas pressure ranging from 2 Pa to 100 Pa. The comparison has shown good agreement for pressures up to about 20 Pa but increasingly notable deviations at higher pressures. The deviation is ascribed to the missing consistency between the PIC/MCC simulations and CRM at higher pressures, where the ionization from the metastable states is more dominant than that from the ground states, indicating a significant change in the electron energy distribution function due to the electron collisions with excited Ar atoms at higher pressures.}
+}

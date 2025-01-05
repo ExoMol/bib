@@ -1,3 +1,37 @@
+@article{ GAAS,
+Author = {Callahan, Charles S. and Bresler, Sean M. and Coburn, Sean C. and Long,
+   David A. and Rieker, Gregory B.},
+Title = {{GAAS: GPU accelerated absorption simulator}},
+Journal = JQSRT,
+Year = {2025},
+Volume = {333},
+Abstract = {Interpreting measured absorption spectroscopy data can require repeated
+   simulations of the expected absorption spectrum to fit the data. In
+   cases of high temperature or broadband spectra, the computational load
+   of the spectral analysis can be expensive due to the large number of
+   individual absorption transitions that contribute to each simulation. We
+   present a Graphics Processing Unit (GPU) Accelerated Absorption
+   Simulator (GAAS) - a fast, hardware-accelerated, line-by-line absorption
+   simulation software for generating absorption spectra based on Voigt and
+   Hartmann-Tran lineshape profiles. We show that GAAS produces the same
+   output spectra as the hi gh- resolution trans mission molecular
+   absorption database (HITRAN) Application Programming Interface (HAPI) to
+   within 32-bits of numerical precision for spectra based on both Voigt
+   and Hartmann-Tran profiles. We also measure the performance increase
+   compared to HAPI and demonstrate that GAAS can reduce simulation time by
+   up to 115x for spectra containing many (several thousand or more)
+   absorption transitions. The software is provided as an open-source
+   python library which is built around an OpenCL implementation of the
+   Voigt and Hartmann-Tran lineshape functions. GAAS can be run on a
+   variety of GPU hardware including integrated GPUs on most computers and
+   high-performance external GPUs. It is installed as a standalone Python
+   library, making it accessible and easy to use for many applications.
+   GAAS will enable researchers to more efficiently analyze complex
+   spectra, especially using advanced lineshapes, to ultimately increase
+   the accuracy of complex spectroscopic measurements.},
+DOI = {10.1016/j.jqsrt.2024.109307},
+pages = {109307}}
+
 @misc{23MoNaBl,
   author = {Molli\`{e}re, Paul and Nasedkin, Evert and Blain, Doriann},
   title = {{petitRADTRANS}},

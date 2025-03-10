@@ -1,1 +1,18 @@
-
+article{ Lozano25,
+Author = {Lozano, Ana I. and Oller, Juan C. and Limao-Vieira, Paulo and Garcia,
+   Gustavo},
+Title = {Electron Attachment to Nitric Oxide {(NO)} Controversy},
+Journal = {JOURNAL OF PHYSICAL CHEMISTRY A},
+Year = {2025},
+Abstract = {We report novel total electron scattering cross sections (TCS) from
+   nitric oxide (NO) in the impact energy range from 1 to 15 eV by using a
+   magnetically confined electron transmission apparatus. The accuracy of
+   the data to within 5\% and its consistency across the energy range
+   investigated, shows significant discrepancies from previous works as to
+   the major resonance features and magnitude of the TCS. Within the shape
+   of the TCS, we have identified nine features which have been assigned to
+   electron attachment resonances, most of them reported for the first
+   time, while a comprehensive analysis of those peaking at 7.0, 7.8, and
+   8.8 eV has led to solve the controversy about dissociative electron
+   attachment (DEA) cross-section that persisted for more than 50 years.},
+DOI = {10.1021/acs.jpca.4c07675}}

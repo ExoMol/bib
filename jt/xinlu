@@ -10040,16 +10040,15 @@ doi = {},
 year ={2026}
 }
 
-@article{jt1000, 
-author = { A. Gadoum  and D. Benyoucef  and J. Tennyson},
- title = {{ Hydrogen Production from Methane via Inductively Coupled Plasma Reactor:
-  2D Simulation of Impact of Input Power}},
-journal=PS,
-volume = {},
+@article{jt1000,
+title = {{The HITRAN2024 molecular spectroscopic database}},
+journal = JQSRT,
 pages = {},
-doi = {}
+volume = {},
+year = {2026},
+doi = {1},
+author ="I. E. Gordon and {et al.}",
 }
-
 
 @article{jt1001, 
 author = {A. Znotins and A. Faure and C. H. Greene and M. Grieser and F. Grussie and L. W. Isberner and \'A. K\'alosi and
@@ -10062,8 +10061,72 @@ doi = {0.1103/wfb2-9lfw},
 year={2025},
 }
 
+@article{jt1002, 
+author = { Zdenek Ma\v{s}\'{i}n  J. Benda and M. Crhan, G. S. J. Armstrong and A. Nelson and S. Mohr and J. Tennyson},
+title = {{Effective Core Potentials for calculations of continuum spectra of molecules using the molecular R-matrix method}},
+journal=JCTC,
+volume = {},
+pages = {},
+doi = {},
+year={2026},
+}
 
-@Article{jt1005,
+@article{jt1003, 
+author = { A. Gadoum  and D. Benyoucef  and J. Tennyson},
+ title = {{ Hydrogen Production from Methane via Inductively Coupled Plasma Reactor:
+  2D Simulation of Impact of Input Power}},
+journal=PS,
+volume = {},
+pages = {},
+doi = {}
+}
+
+@Article{jt1004,
+title = {Low-energy electron scattering with equilibrium and nonequilibrium {CN} radical},
+author = {He Su  and Jonathan Tennyson and Xinlu Cheng and Hong Zhang and Qunchao Fan and Yangjun Yan},
+journal = JCP,
+volume = {},
+doi={},
+pages = {},
+year={}}
+
+@article{jt1005, 
+author = {N. {Abu el Kher} and M. Shibli and S. N. Yurchenko and J. Tennyson and N. El-Kork},
+title = {First Principles rovibronic absorption spectra of HF molecule},
+journal = JCP,
+volume = {},
+doi={},
+pages = {},
+year={}}
+
+@Article{jt1006,
+author = {Andrei Sokolov and Sergey N. Yurchenko and Jonathan Tennyson},
+title={{Competition between radiative and predissociative decay mechanisms in excited electronic states of CH radical}},
+journal = PCCP,
+volume  = {},
+pages = {},
+doi={},
+year ={2025}}
+
+@Article{jt1007,
+author = { T. Grigorev and Yuhang Dai and M. Potter and Keyu Zhang and J. Tennyson},
+title = {{ARVEL Analysis of the Measured High-resolution Spectra of CO Isotopologues}},
+journal = ApJS,
+volume  = {},
+pages = {},
+year = {},
+doi = {}}
+
+@article{jt1008, 
+author = { O. A. Smola and S. N. Yurchenko  and J. Tennyson}, 
+title = {{ ExoMol line lists -- LXVI.  Rotation-vibration line lists for the deuterated ammonia isotopologues $^{14}$NH$_2$D and $^{14}$ND$_2$H$}},
+journal=MNRAS,
+volume = {},
+pages = {},
+doi = {},
+year ={2026}} 
+
+@Article{jt1009,
 author = {S. Mahmoud and N. El-Kork and N. {Abu Elkher} and M. Almehairbi and R. {Al Abdallah} and R. Hakalla and W. Szajna and T. Furtenbacher and O. P. Yurchenko and S. N. Yurchenko and J. Tennyson},
 title = {{MARVEL analysis of the measured high-resolution rovibronic  spectra of $^{12}$C$^{16}$O}},
 journal = ApJS,
@@ -10090,16 +10153,6 @@ pages = {},
 journal = JQSRT,
 doi = {}
 }
-
-
-@Article{jtCH1,
-author = {Andrei Sokolov and Sergey N. Yurchenko and Jonathan Tennyson},
-title={{Competition between radiative and predissociative decay mechanisms in excited electronic states of CH radical}},
-journal = PCCP,
-volume  = {},
-pages = {},
-doi={},
-year ={2025}}
 
 
 @article{jtCH3,

@@ -1,3 +1,30 @@
+@article{ 26Spirko.Ar2,
+Author = {Spirko, Vladimir},
+Title = {On the Elusive Ninth Vibrational State of the Argon Dimer},
+Journal = {Natural Sci.},
+Year = {2026},
+Volume = {6},
+Number = {1},
+Month = {JAN 9},
+Abstract = {An unresolved discrepancy between high-accuracy potential energy curves
+   for the argon dimer (), which support different numbers of bound
+   vibrational states and profoundly different scattering lengths for , is
+   probed by morphing these curves to available spectral data within the
+   reduced potential energy curve approach. Although the morphed curves
+   studied closely coincide, they still afford different numbers of bound
+   vibrational states and produce disparate scattering lengths. Resolving
+   these discrepancies therefore remains a challenge. Nevertheless, solving
+   vibrational Schr \& ouml;dinger equations with suitably scaled potential
+   energy curves or reduced masses provides a closely matching relationship
+   between the binding energy () of the highest vibrational state and the
+   corresponding -wave scattering length (), thus enabling the reliable
+   determination of directly from experimental -wave scattering lengths.
+   Importantly, moreover, is extremely sensitive to reduced molecular mass
+   and can therefore serve as a fairly sensitive probe of the constancy of
+   the electron-to-proton mass ratio.},
+DOI = {10.1002/ntls.70046},
+pages = {e70046}}
+
 @article{Arekkano23,
 doi = {10.1088/1361-6595/ad0ede},
 year = {2023},

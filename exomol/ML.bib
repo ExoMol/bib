@@ -3,6 +3,42 @@
 % This file contains references for machine learning applications in astronomy and science generally.
 % References to general methods are contained within machine_learning.bib
 
+@article{26PaZhAn.ML,
+Author = {Pan, Yijun and Zhang, Tianwei and An, Ruqiao and Gao, Baoquan and Chen,
+   Huaxi and Quan, Donghui},
+Title = {A Graph-Based Method for Molecular Spectral Line Identification},
+Journal = {INTELLIGENT COMPUTING},
+Year = {2026},
+Volume = {5},
+Abstract = {To address the high computational cost associated with molecular
+   identification in spectral lines, we propose a graph-based feature
+   learning framework to determine the molecular composition of spectral
+   lines that incorporates rule-driven and node-level constraints to
+   enhance identification accuracy. The approach begins with a
+   sliding-window technique to extract localized spectral features that are
+   then represented as nodes within a heterogeneous graph. To maintain
+   semantic consistency across chemically diverse molecular species,
+   rule-based constraints are introduced. Additionally, node-level
+   constraints are employed to prevent the random walk process from
+   becoming trapped in local cycles. The random walk mechanism is further
+   refined through the integration of 2 parameters that guide node
+   selection. Specifically, we design a frequency-aware sampling strategy
+   in which transition probabilities are dynamically updated according to
+   the number of times each node is used, combined with a stochastic
+   modulation factor to enhance exploration and reduce sampling bias.
+   Furthermore, a dynamic rule selection mechanism is employed to
+   adaptively guide the random walk process in response to the evolving
+   topological structure of the graph. Finally, the effectiveness of the
+   proposed algorithm for molecular identification is validated using
+   simulated data, achieving a recall rate of 94.63\%. The method is then
+   applied to the real G327 region, where molecular spectral lines are
+   first identified and then used as inputs for XCLASS fitting to further
+   verify the performance of the proposed algorithm. Moreover, the spatial
+   map of molecular counts within spectral cubes is generated,
+   demonstrating the capability for detailed chemical structure analysis.},
+DOI = {10.34133/icomputing.0258},
+pages = {0258}}
+
 @article{25WeMa.ML,
   author = {Westermayr, Julia and Marquetand, Philipp},
   journal = {Chemical Science},

@@ -39,12 +39,33 @@
   abstract = {Deep learning frameworks have often focused on either usability or speed, but not both. PyTorch is a machine learning library that shows that these two goals are in fact compatible: it was designed from first principles to support an imperative and Pythonic programming style that supports code as a model, makes debugging easy and is consistent with other popular scientific computing libraries, while remaining efficient and supporting hardware accelerators such as GPUs. In this paper, we detail the principles that drove the implementation of PyTorch and how they are reflected in its architecture. We emphasize that every aspect of PyTorch is a regular Python program under the full control of its user. We also explain how the careful and pragmatic implementation of the key components of its runtime enables them to work together to achieve compelling performance. We demonstrate the efficiency of individual subsystems, as well as the overall speed of PyTorch on several commonly used benchmarks.}
 }
 
+@article{18McHeSa_UMAP.ML,
+  doi = {10.21105/joss.00861},
+  url = {https://doi.org/10.21105/joss.00861},
+  year = {2018},
+  publisher = {The Open Journal},
+  volume = {3},
+  number = {29},
+  pages = {861},
+  author = {McInnes, Leland and Healy, John and Saul, Nathaniel and Großberger, Lukas},
+  title = {UMAP: Uniform Manifold Approximation and Projection},
+  journal = {Journal of Open Source Software}
+}
+
 @article{17KiBa_Adam.ML,
    title={Adam: A Method for Stochastic Optimization}, 
    author={Diederik P. Kingma and Jimmy Ba},
    journal={arXiv},
    year={2017},
    doi={10.48550/arXiv.1412.6980},
+}
+
+@book{17BrFr_Trees.ML,
+  title = {Classification And Regression Trees},
+  author = {Breiman, Leo and Friedman, Jerome H and Olshen, Richard A and Stone, Charles J},
+  publisher = {Routledge},
+  month = {oct},
+  year = {2017}
 }
 
 @inproceedings{16GaGh_MCDrop.ML,
@@ -68,6 +89,32 @@
   year={2016},
   abstract={Training very deep neural networks is a challenging problem. We propose a new normalization technique called layer normalization. Like batch normalization, layer normalization performs the same operation as whitening the inputs to a layer. However, unlike batch normalization, layer normalization does not depend on mini-batch statistics. This makes it more suitable for recurrent neural networks and online learning, where batch sizes may be small or variable. Layer normalization normalizes all of the summed inputs to a neuron on a single training case, rather than across a mini-batch. The method is simple to implement and computationally efficient. We show that layer normalization can significantly accelerate the training of deep neural networks compared to other normalization methods.},
   doi={10.48550/arXiv.1607.06450}
+}
+
+﻿@Article{15LeBeHi_DL.ML,
+  author={LeCun, Yann and Bengio, Yoshua and Hinton, Geoffrey},
+  title={Deep learning},
+  journal={Nature},
+  year={2015},
+  month={May},
+  day={01},
+  volume={521},
+  number={7553},
+  pages={436-444},
+  abstract={Deep learning allows computational models that are composed of multiple processing layers to learn representations of data with multiple levels of abstraction. These methods have dramatically improved the state-of-the-art in speech recognition, visual object recognition, object detection and many other domains such as drug discovery and genomics. Deep learning discovers intricate structure in large data sets by using the backpropagation algorithm to indicate how a machine should change its internal parameters that are used to compute the representation in each layer from the representation in the previous layer. Deep convolutional nets have brought about breakthroughs in processing images, video, speech and audio, whereas recurrent nets have shone light on sequential data such as text and speech.},
+  issn={1476-4687},
+  doi={10.1038/nature14539},
+  url={https://doi.org/10.1038/nature14539}
+}
+
+@article{11PeVaGr_SKLearn.ML,
+  title={Scikit-learn: Machine learning in Python},
+  author={Pedregosa, Fabian and Varoquaux, Ga{\"e}l and Gramfort, Alexandre and Michel, Vincent and Thirion, Bertrand and Grisel, Olivier and Blondel, Mathieu and Prettenhofer, Peter and Weiss, Ron and Dubourg, Vincent and others},
+  journal={the Journal of machine Learning research},
+  volume={12},
+  pages={2825--2830},
+  year={2011},
+  publisher={JMLR. org}
 }
 
 @article{10AbWi_PCA.ML,

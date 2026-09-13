@@ -24,6 +24,54 @@
 @string{rmp = "Rev. Mod. Phys."}
 @string{rpp = "Rep. Prog. Phys."}
 
+@article{26Lei,
+Author = {Lei, Jin},
+Title = {{HPRMAT: A high-performance R-matrix solver with GPU acceleration for
+   coupled-channel problems in nuclear physics}},
+Journal = CPC,
+Year = {2026},
+Volume = {329},
+Abstract = {I present HPRMAT, a self-contained, high-performance R-matrix solver
+   framework for coupled-channel scattering calculations in nuclear
+   physics. It provides the full R-matrix propagation machinery with the
+   same user-supplied-potential interface as standard R-matrix packages,
+   and is additionally a drop-in replacement for the linear algebra
+   routines of Descouvemont's package. It employs direct linear equation
+   solving with optimized libraries instead of traditional matrix
+   inversion, achieving significant performance improvements. The package
+   provides four solver backends: (1) double-precision LU factorization,
+   (2) mixed-precision arithmetic with iterative refinement, (3) a Woodbury
+   formula approach exploiting the kinetic-coupling matrix structure, and
+   (4) GPU acceleration. Benchmark calculations demonstrate that the GPU
+   solver achieves about 15 \& times; speedup over the optimized CPU direct
+   solver, and 41 \& times; over the legacy inversion-based code, at N =
+   25600. The mixed-precision strategy is particularly effective on
+   consumer GPUs (e.g., NVIDIA RTX 3090/4090), where single-precision
+   throughput exceeds double-precision by a factor of 64:1; by performing
+   the factorization in single precision, with iterative refinement
+   available to recover full double-precision accuracy where needed, HPRMAT
+   overcomes the poor FP64 performance of consumer hardware while retaining
+   the accuracy required for cross-section calculations. This makes
+   large-scale continuum-discretized coupled-channels (CDCC) and
+   coupled-channel calculations accessible to researchers using standard
+   desktop workstations, without requiring expensive data-center GPUs. A
+   single consumer card already handles the largest problems encountered in
+   practice, and for the occasional case that exceeds one card a tested
+   multi-GPU back-end distributes the single-precision factorization across
+   several GPUs and recovers full double-precision accuracy through
+   host-side iterative refinement. CPU-only solvers provide up to about 7
+   \& times; speedup for large matrices (system-dependent) through
+   optimized libraries and algorithmic improvements. All solvers reproduce
+   the reference results well within experimental uncertainties: the
+   double-precision and CPU mixed-precision solvers agree to machine
+   precision, and the GPU single-precision solver to the 10-3 level in
+   cross sections (with optional iterative refinement available for higher
+   accuracy), validated against Descouvemont's reference code (Comput.
+   Phys. Commun. 200, 199-219 (2016)). HPRMAT provides interfaces for
+   Fortran, C, Python, and Julia.},
+DOI = {10.1016/j.cpc.2026.110379},
+pages = {110379}}
+
 @article{abh+56,
    author    = {K Alder and A Bohr and T Huss and B Mottelson and A Winther},
    title     = {Study of Nuclear Structure by Electromagnetic Excitation with Accelerated Ions},
@@ -2345,7 +2393,7 @@ Applications to C$^+$, He and Li}},
 
 
 @article{bch00,
-   author    = {B Boudaïffa and P Cloutier and D Hunting and M A Huels and L Sanche},
+   author    = {B BoudaÃ¯ffa and P Cloutier and D Hunting and M A Huels and L Sanche},
    title     = {},
    journal   = {Science},
    year      = {2000},

@@ -1,4 +1,44 @@
-﻿@article{26DeGaSi.Op, 
+@article{ QCORE,
+Author = {Tata, Ramarao},
+Title = {{QORE: An opacity-maturity framework for atmospheres from M dwarfs to
+   exoplanets}},
+Journal = {PHYSICS OPEN},
+Year = {2026},
+Volume = {28},
+Abstract = {Atmospheric retrievals of M dwarfs, brown dwarfs, and exoplanets depend
+   on molecular opacities whose quality varies widely across species, and
+   that variation is not yet routinely quantified. This work introduces
+   QORE (Quantum-validated Opacity Retrieval Engine), an opacity-maturity
+   layer that scores each opacity product on five components (provenance,
+   temperature coverage, pressure broadening, completeness, experimental
+   refinement), combines them by a geometric mean, and folds the scored
+   opacities into one forward model. The two least-mature members of a
+   six-species demonstration set are treated with quantum chemistry: for
+   the transition-metal oxides FeO and CrO, absent from standard line-list
+   databases, double-shell CASSCF/NEVPT2 supplies provisional ground-state
+   vibrational anchors (CrO harmonic frequency to 1.8\%); for dimethyl
+   sulphide and disulphide (DMS/DMDS) a VPT2 temperature-pressure grid
+   replaces the single-condition cross section in current use. The upgrades
+   raise the maturity of this six-species demonstration set from 0.25 to
+   0.58, a conclusion insensitive to the component weighting and to
+   one-tier score reassignments. These values grade the selected opacity
+   products only and are not a general quality score for QORE or for any
+   atmospheric retrieval. All production opacities are computed
+   classically; the electronic-structure workflow behind the new products
+   is separately exercised end to end on quantum-computing hardware as a
+   supporting certification, and no quantum advantage is claimed. The
+   scored opacities fit the M8.5-Y4 emission sequence, matching the
+   regime-appropriate Sonora grids in raw fit quality at the coldest
+   objects while trailing them, on raw fit and on information criteria, at
+   the warmer ones, and fit the JWST transmission spectra of K2-18 b and
+   WASP-39 b; in a controlled K2-18 b test within QORE's simplified
+   transmission branch, the temperature-and pressure-resolved opacity
+   lowers the DMS Bayes factor from lnBF = 4.08 to near zero. The score is
+   a heuristic input-quality diagnostic, not a detection statistic or an
+   uncertainty estimate, and the retrieval results are model-conditional.},
+DOI = {10.1016/j.physo.2026.100472}}
+
+@article{26DeGaSi.Op, 
 doi = {10.21105/joss.10081},  
 year = {2026}, volume = {11}, pages = {10081}, author = {de Regt, Sam and Gandhi, Siddharth and Siebenaler, Louis and González Picos, Darío}, 
 title = {{pyROX: Rapid Opacity X-sections}}, journal = {Journal of Open Source Software} }

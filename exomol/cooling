@@ -1,0 +1,10 @@
+@article{26MaChMo.cool,
+doi = {10.3847/1538-4357/ae9609},
+year = {2026},
+volume = {1008},
+pages = {254},
+author = {Mang, James and Chachan, Yayaati and Morley, Caroline V. and Batalha, Natasha E. and Wogan, Nicholas F. and Mukherjee, Sagnick and Fortney, Jonathan J. and Marley, Mark S. and Visscher, Channon and Gharib-Nezhad, Ehsan},
+title = {The Sonora Substellar Atmosphere Models. VII. Flame Skimmer: Cloud-free Atmospheric and Evolutionary Models for the Coldest Substellar Objects},
+journal = ApJ,
+abstract = {{JWST has provided unprecedented access to ultracool brown dwarfs and has pushed the boundaries of directly imaging temperate giant planets. As we continue to push toward detecting sub-Saturn and Neptune-like planets, it is crucial to develop atmospheric and evolutionary models that better capture the complexity and diversity of planetary atmospheres similar to the gas and ice giants in our solar system. We present Sonora Flame Skimmer, the next suite of cloud-free 1D atmospheric and evolutionary models in chemical equilibrium and disequilibrium probing colder temperatures (down to 50 K), smaller objects (down to log(g) = 2), and a wide range of metallicities (10x subsolar to 100x supersolar) and C/O ratios (solar to 2.5x solar). Beyond expanding the physical parameter space of previous Sonora models, we update the opacities and evolutionary model framework from Sonora Bobcat, as well as the chemical treatment of volatiles (H2O, CH4, NH3) and carbon species such as CO2 from Sonora Elf Owl. For the evolution of these substellar objects, we find that high-metallicity atmospheres lead to slower cooling compared to solar metallicity, while the strength of vertical mixing (Kzz) has a negligible impact on the evolutionary tracks. At the highest metallicity explored here (100× solar), the deuterium-burning and hydrogen-burning minimum masses fall to 5.39 and 45.03 MJ, respectively. All the models presented here, including the atmospheric structure, chemical profiles, spectra, synthetic photometry, and evolutionary models, are publicly available.}}
+}

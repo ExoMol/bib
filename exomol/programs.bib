@@ -1,3 +1,41 @@
+
+
+@article{ qsolver,
+Author = {Meshkov, Vladimir and Pashov, Asen and Stolyarov, Andrey},
+Title = {qsolver: A program for the accurate solution of coupled radial
+   Schrödinger equations for bound and resonant states},
+Journal = CPC,
+Year = {2026},
+Volume = {329},
+Abstract = {The Fortran program qsolver is designed to solve a system of coupled
+   radial Schr \& ouml;dinger equations for both bound and resonant
+   (quasi-bound) energy levels. To search for energies and widths of
+   resonant states, the program utilizes the exterior complex scaling
+   method. The potential-energy matrix V(r) and the optional
+   radial-coupling matrix B(r) are supplied by the user as either real or
+   complex functions of the radial coordinate r. For resonant-state
+   calculations qsolver can also automatically extrapolate the real-valued
+   multiplicative Vn(r) and Bmn(r) functions into the complex plane. An
+   exact analytical transformation x= f(r) maps the modified
+   coupled-channel (CC) equations from a semi-infinite r is an element of
+   {[}a, infinity) or infinite r is an element of (-infinity, +infinity)
+   interval onto a finite domain x is an element of {[}a, b], enabling
+   their numerical solution via polynomial collocation methods that exhibit
+   an exponential convergence rate. The program is able to identify
+   spurious ({''}ghost{''}) resonant states by examining their
+   eigenfunctions in a spectral basis as well as to evaluate partial
+   derivatives of both real and complex eigenvalues with respect to
+   Hamiltonian parameters, including the reduced mass \& micro;. Built
+   around a modern Fortran 2003 interface in which most arguments are
+   optional, qsolver is straightforward to use and to incorporate into the
+   user's code. The qsolver program can effectively find energies and
+   widths of the resonant states with an accuracy of up to 13-14
+   significant digits in double-precision (real{*}8) arithmetic, as
+   confirmed by numerical tests.},
+DOI = {10.1016/j.cpc.2026.110393},
+pages= {110393}}
+
+
 @article{MULTIMODE2026,
     author = {Qu, Chen and Allison, Thomas C. and Houston, Paul L. and Conte, Riccardo and Nandi, Apurba and Bowman, Joel M.},
     title = {{Computational spectroscopy using MULTIMODE and machine-learned potentials}},

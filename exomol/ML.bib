@@ -2,6 +2,35 @@
 
 % This file contains references for machine learning applications in astronomy and science generally.
 % References to general methods are contained within machine_learning.bib
+
+@article{ 26McMc.ML,
+Author = {McAlister, Rhys and McKemmish, Laura K.},
+Title = {{The Delta-ML IR Spectroscopist: Structured Delta-Learning between
+   Harmonic DFT Infrared Spectra}},
+Journal = {JOURNAL OF CHEMICAL INFORMATION AND MODELING},
+Year = {2026},
+Abstract = {Accurate theoretical infrared spectra support molecular identification
+   and high-throughput screening, but higher-level harmonic density
+   functional theory (DFT) calculations are costly at scale; we therefore
+   test whether a low-cost PBEh-3c harmonic spectrum can serve as a
+   physical prior for predicting an omega B97X-D3/def2-TZVPD target using a
+   bounded frequency-axis warp, broad-intensity adjustment, and local peak
+   refinement. On 494 held-out test molecules, Delta-ML reaches a mean
+   Spectral Information Similarity (SIS; 1 for identical spectra) of 0.7800
+   against the target, up from 0.3290 for the uncorrected PBEh-3c spectrum;
+   a direct model given the same structure and PBEh-3c spectrum reaches
+   0.5759, indicating that most of the gain comes from the structured
+   correction rather than from access to the PBEh-3c spectrum. In a
+   learning-curve experiment, 3,000 training molecules (22\% of the
+   training set) reach a mean SIS of 0.7301, 94\% of the value obtained
+   with all 13,338 molecules, with a corresponding 10th-percentile SIS of
+   0.4736 compared with 0.5473 for the full-data controlled benchmark; at
+   this training size, the estimated number of new molecules that must be
+   screened before Delta-ML recovers the cost of generating its training
+   data falls from about 19,400 to 5,100. The model reproduces a harmonic
+   computational target, not experimental or anharmonic spectra.},
+DOI = {10.1021/acs.jcim.6c02679}}
+
 @article{26ShNaBy.ML,
 Author = {Shcherbakov, A. P. and Naumenko, O. V. and Bykov, A. D.},
 Title = {Artificial Intelligence Heuristic Search Approach to Identifying Lines
